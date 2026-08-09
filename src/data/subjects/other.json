@@ -1,0 +1,44 @@
+{
+  "courses": {
+    "mit-self-driving": {
+      "title": "MIT Self-Driving Cars",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT · Fridman",
+          "url": "https://deeplearning.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq",
+          "youtubeId": "sRxaMDDMWQQ",
+          "primary": true
+        }
+      ]
+    },
+    "mit-deep-learning": {
+      "title": "MIT Deep Learning",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT · Fridman · full series",
+          "url": "https://deeplearning.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUh93A2kK6CGkYq45dDiHM88uYxvonHnE",
+          "youtubeId": "O5xeyoRL95U",
+          "primary": true
+        },
+        {
+          "label": "MIT · Fridman · select lectures",
+          "url": "https://deeplearning.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf",
+          "youtubeId": "0VH1Lim8gL8"
+        }
+      ]
+    }
+  }
+}

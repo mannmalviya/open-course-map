@@ -338,6 +338,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "other": {
+      "title": "Other",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

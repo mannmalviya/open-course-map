@@ -1,0 +1,35 @@
+{
+  "courses": {
+    "stanford-cs224w": {
+      "title": "CS224W ML with Graphs",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS224W · Leskovec · Winter 2021",
+          "url": "https://web.stanford.edu/class/cs224w/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn",
+          "date": "Winter 2021",
+          "youtubeId": "JAB_plj2rbA",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS224W · Leskovec · lecture collection",
+          "url": "https://web.stanford.edu/class/cs224w/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOP-ImU-O1rYRg2RFxomvFp",
+          "youtubeId": "JAB_plj2rbA"
+        },
+        {
+          "label": "Stanford CS224W · 2018",
+          "url": "https://web.stanford.edu/class/cs224w/",
+          "youtube": "https://www.youtube.com/playlist?list=PLQjfNCRPCjmZYPsZkjKVm6xoFqzFYWjTI",
+          "date": "2018",
+          "youtubeId": "K6anQieeurc"
+        }
+      ]
+    }
+  }
+}

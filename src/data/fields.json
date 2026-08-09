@@ -350,6 +350,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "graph-ml": {
+      "title": "Graph ML",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 80,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

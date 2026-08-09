@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "mit-8323": {
+      "title": "8.323 QFT I",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.323 · Liu",
+          "url": "https://ocw.mit.edu/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5",
+          "date": "Spring 2023",
+          "youtubeId": "xQFgk-nEihg",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

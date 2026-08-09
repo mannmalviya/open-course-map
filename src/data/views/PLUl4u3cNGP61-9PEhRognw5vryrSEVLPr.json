@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to Superposition",
+      "views": 9000000
+    },
+    {
+      "title": "Lecture 2: Experimental Facts of Life",
+      "views": 2200000
+    },
+    {
+      "title": "Lecture 3: The Wave Function",
+      "views": 1500000
+    },
+    {
+      "title": "Lecture 4: Expectations, Momentum, and Uncertainty",
+      "views": 773000
+    },
+    {
+      "title": "Lecture 5: Operators and the Schrödinger Equation",
+      "views": 774000
+    },
+    {
+      "title": "Lecture 6: Time Evolution and the Schrödinger Equation",
+      "views": 708000
+    },
+    {
+      "title": "Lecture 7: More on Energy Eigenstates",
+      "views": 304000
+    },
+    {
+      "title": "Lecture 8: Quantum Harmonic Oscillator",
+      "views": 412000
+    },
+    {
+      "title": "Lecture 9: Operator Methods for the Harmonic Oscillator",
+      "views": 224000
+    },
+    {
+      "title": "Lecture 10: Clicker Bonanza and Dirac Notation",
+      "views": 137000
+    },
+    {
+      "title": "Lecture 11: Dispersion of the Gaussian and the Finite Well",
+      "views": 140000
+    },
+    {
+      "title": "Lecture 12: The Dirac Well and Scattering off the Finite Step",
+      "views": 137000
+    },
+    {
+      "title": "Lecture 13: More on Scattering",
+      "views": 107000
+    },
+    {
+      "title": "Lecture 14: Resonance and the S-Matrix",
+      "views": 52000
+    },
+    {
+      "title": "Lecture 15: Eigenstates of the Angular Momentum Part 1",
+      "views": 127000
+    },
+    {
+      "title": "Lecture 16: Eigenstates of the Angular Momentum Part 2",
+      "views": 121000
+    },
+    {
+      "title": "Lecture 17: More on Central Potentials",
+      "views": 98000
+    },
+    {
+      "title": "Lecture 18: \"Hydrogen\" and its Discontents",
+      "views": 94000
+    },
+    {
+      "title": "Lecture 19: Identical Particles",
+      "views": 140000
+    },
+    {
+      "title": "Lecture 20: Periodic Lattices Part 1",
+      "views": 113000
+    },
+    {
+      "title": "Lecture 21: Periodic Lattices Part 2",
+      "views": 63000
+    },
+    {
+      "title": "Lecture 22: Metals, Insulators, and Semiconductors",
+      "views": 202000
+    },
+    {
+      "title": "Lecture 23: More on Spin",
+      "views": 90000
+    },
+    {
+      "title": "Lecture 24: Entanglement: QComputing, EPR, and Bell's Theorem",
+      "views": 216000
+    },
+    {
+      "title": "Experiment 2: Effective Mass",
+      "views": 47000
+    }
+  ]
+}

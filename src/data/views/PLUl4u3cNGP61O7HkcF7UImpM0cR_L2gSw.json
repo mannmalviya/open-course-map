@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Sets, Set Operations and Mathematical Induction",
+      "views": 570000
+    },
+    {
+      "title": "Lecture 2: Cantor's Theory of Cardinality (Size)",
+      "views": 136000
+    },
+    {
+      "title": "Lecture 3: Cantor's Remarkable Theorem and the Rationals' Lack of the Least Upper Bound Property",
+      "views": 78000
+    },
+    {
+      "title": "Lecture 4: The Characterization of the Real Numbers",
+      "views": 53000
+    },
+    {
+      "title": "Lecture 5: The Archimedian Property, Density of the Rationals, and Absolute Value",
+      "views": 47000
+    },
+    {
+      "title": "Lecture 6: The Uncountabality of the Real Numbers",
+      "views": 33000
+    },
+    {
+      "title": "Lecture 7: Convergent Sequences of Real Numbers",
+      "views": 40000
+    },
+    {
+      "title": "Lecture 8: The Squeeze Theorem and Operations Involving Convergent Sequences",
+      "views": 23000
+    },
+    {
+      "title": "Lecture 9: Limsup, Liminf, and the Bolzano-Weierstrass Theorem",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 10: The Completeness of the Real Numbers and Basic Properties of Infinite Series",
+      "views": 22000
+    },
+    {
+      "title": "Lecture 11: Absolute Convergence and the Comparison Test for Series",
+      "views": 16000
+    },
+    {
+      "title": "Lecture 12: The Ratio, Root, and Alternating Series Tests",
+      "views": 13000
+    },
+    {
+      "title": "Lecture 13: Limits of Functions",
+      "views": 77000
+    },
+    {
+      "title": "Lecture 14: Limits of Functions in Terms of Sequences and Continuity",
+      "views": 18000
+    },
+    {
+      "title": "Lecture 15: The Continuity of Sine and Cosine and the Many Discontinuities of Dirichlet's Function",
+      "views": 12000
+    },
+    {
+      "title": "Lecture 16: The Min/Max Theorem and Bolzano's Intermediate Value Theorem",
+      "views": 14000
+    },
+    {
+      "title": "Lecture 17: Uniform Continuity and the Definition of the Derivative",
+      "views": 15000
+    },
+    {
+      "title": "Lecture 18: Weierstrass's Example of a Continuous and Nowhere Differentiable Function",
+      "views": 18000
+    },
+    {
+      "title": "Lecture 19: Differentiation Rules, Rolle's Theorem, and the Mean Value Theorem",
+      "views": 38000
+    },
+    {
+      "title": "Lecture 20: Taylor's Theorem and the Definition of Riemann Sums",
+      "views": 14000
+    },
+    {
+      "title": "Lecture 21: The Riemann Integral of a Continuous Function",
+      "views": 17000
+    },
+    {
+      "title": "Lecture 22: Fundamental Theorem of Calculus, Integration by Parts, and Change of Variable Formula",
+      "views": 12000
+    },
+    {
+      "title": "Lecture 23: Pointwise and Uniform Convergence of Sequences of Functions",
+      "views": 17000
+    },
+    {
+      "title": "Lecture 24: Uniform Convergence, the Weierstrass M-Test, and Interchanging Limits",
+      "views": 13000
+    },
+    {
+      "title": "Lecture 25: Power Series and the Weierstrass Approximation Theorem",
+      "views": 20000
+    }
+  ]
+}

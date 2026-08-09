@@ -1,0 +1,120 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 1",
+      "views": 272000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Combinatorics I 2022 I Lecture 2",
+      "views": 70000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I What is Probability? I 2022 I Lecture 3",
+      "views": 55000
+    },
+    {
+      "title": "Stanford CS109 I Conditional Probability and Bayes I 2022 I Lecture 4",
+      "views": 44000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Independence I 2022 I Lecture 5",
+      "views": 32000
+    },
+    {
+      "title": "Stanford CS109 I Random Variables and Expectation I 2022 I Lecture 6",
+      "views": 30000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Variance Bernoulli Binomial I 2022 I Lecture 7",
+      "views": 23000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Poisson I 2022 I Lecture 8",
+      "views": 20000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Continuous Random Variables I 2022 I Lecture 9",
+      "views": 21000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Normal Distribution I 2022 I Lecture 10",
+      "views": 19000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Joint Distributions I 2022 I Lecture 11",
+      "views": 18000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Inference I 2022 I Lecture 12",
+      "views": 16000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Inference II I 2022 I Lecture 13",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Modelling I 2022 I Lecture 14",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I General Inference I 2022 I Lecture 15",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Beta I 2022 I Lecture 16",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Adding Random Variables I 2022 I Lecture 17",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS109 I Central Limit Theorem I 2022 I Lecture 18",
+      "views": 9800
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Bootstraping and P-Values  I 2022 I Lecture 19",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS109 I Algorithmic Analysis I 2022 I Lecture 20",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I M.L.E. I 2022 I Lecture 21",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I  M.A.P. I 2022 I Lecture 22",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Naive Bayes I 2022 I Lecture 23",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Logistic Regression I 2022 I Lecture 24",
+      "views": 17000
+    },
+    {
+      "title": "Stanford CS109 I Deep Learning I 2022 I Lecture 25",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS109 I Fairness I 2022 I Lecture 26",
+      "views": 6300
+    },
+    {
+      "title": "Stanford CS109 I Advanced Probability I 2022 I Lecture 27",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS109 I Future of Probability I 2022 I Lecture 28",
+      "views": 8900
+    },
+    {
+      "title": "Stanford CS109 Probability for Computer Scientists I Counting I 2022 I Lecture 29",
+      "views": 12000
+    }
+  ]
+}

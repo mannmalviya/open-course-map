@@ -1,0 +1,61 @@
+{
+  "courses": {
+    "susskind-sm": {
+      "title": "Statistical Mechanics",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford · Susskind · 2013",
+          "url": "https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring",
+          "youtube": "https://www.youtube.com/playlist?list=PLpi18tMShZSAQFNTb8Ji7EgCFP9lXbkOe",
+          "date": "Spring 2013",
+          "youtubeId": "D1RzvXDXyqA",
+          "primary": true
+        }
+      ]
+    },
+    "mit-8333": {
+      "title": "8.333 Stat Mech I",
+      "university": "MIT",
+      "pos": {
+        "x": 350,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.333 · Kardar · 2013",
+          "url": "https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg",
+          "date": "Fall 2013",
+          "youtubeId": "4RX_lpoGRBg",
+          "primary": true
+        }
+      ]
+    },
+    "mit-8334": {
+      "title": "8.334 Stat Mech II",
+      "university": "MIT",
+      "pos": {
+        "x": 660,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.334 · Kardar · 2014",
+          "url": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7",
+          "date": "Spring 2014",
+          "youtubeId": "2MaQKFHqYBw",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    { "from": "mit-8333", "to": "mit-8334" }
+  ]
+}

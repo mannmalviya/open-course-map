@@ -1,0 +1,71 @@
+{
+  "courses": {
+    "mit-1806": {
+      "title": "18.06 Linear Algebra",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.06 · Strang · 2005",
+          "url": "https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/",
+          "youtube": "https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8",
+          "date": "Spring 2005",
+          "youtubeId": "ZK3O402wf1c",
+          "primary": true
+        },
+        {
+          "label": "MIT 18.06SC · Strang · 2011",
+          "url": "https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/",
+          "youtube": "https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C",
+          "date": "Fall 2011",
+          "youtubeId": "7UJ4CFRGd-U"
+        }
+      ]
+    },
+    "stanford-engr108": {
+      "title": "ENGR108 Applied Linear Algebra",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "Stanford ENGR108 · Boyd · 2020",
+          "url": "https://web.stanford.edu/class/engr108/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9",
+          "date": "Fall 2020",
+          "youtubeId": "oR6G1MUMveE",
+          "primary": true
+        }
+      ]
+    },
+    "mit-18065": {
+      "title": "18.065 Matrix Methods",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.065 Matrix Methods · Strang · 2018",
+          "url": "https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k",
+          "date": "Spring 2018",
+          "youtubeId": "Cx5Z-OslNWE",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-1806",
+      "to": "mit-18065"
+    }
+  ]
+}

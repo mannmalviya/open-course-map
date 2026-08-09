@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "1. Electrostatics",
+      "views": 1300000
+    },
+    {
+      "title": "2. Electric Fields",
+      "views": 559000
+    },
+    {
+      "title": "3. Gauss's Law I",
+      "views": 378000
+    },
+    {
+      "title": "4. Gauss's Law and Application to Conductors and Insulators",
+      "views": 258000
+    },
+    {
+      "title": "5. The Electric Potential and Conservation of Energy",
+      "views": 197000
+    },
+    {
+      "title": "6. Capacitors",
+      "views": 206000
+    },
+    {
+      "title": "7. Resistance",
+      "views": 140000
+    },
+    {
+      "title": "8. Circuits and Magnetism I",
+      "views": 175000
+    },
+    {
+      "title": "9. Magnetism II",
+      "views": 156000
+    },
+    {
+      "title": "10. Ampere's Law",
+      "views": 130000
+    },
+    {
+      "title": "11. Lenz's and Faraday's Laws",
+      "views": 128000
+    },
+    {
+      "title": "12. LCR Circuits—DC Voltage",
+      "views": 149000
+    },
+    {
+      "title": "13. LCR Circuits—AC Voltage",
+      "views": 173000
+    },
+    {
+      "title": "14. Maxwell's Equations and Electromagnetic Waves I",
+      "views": 856000
+    },
+    {
+      "title": "15. Maxwell's Equations and Electromagnetic Waves II",
+      "views": 178000
+    },
+    {
+      "title": "16. Ray or Geometrical Optics I",
+      "views": 187000
+    },
+    {
+      "title": "17. Ray or Geometrical Optics II",
+      "views": 72000
+    },
+    {
+      "title": "18. Wave Theory of Light",
+      "views": 231000
+    },
+    {
+      "title": "19. Quantum Mechanics I: The key experiments and wave-particle duality",
+      "views": 1000000
+    },
+    {
+      "title": "20. Quantum Mechanics II",
+      "views": 250000
+    },
+    {
+      "title": "21. Quantum Mechanics III",
+      "views": 167000
+    },
+    {
+      "title": "22. Quantum mechanics IV: Measurement theory, states of definite energy",
+      "views": 116000
+    },
+    {
+      "title": "23. Quantum Mechanics V: Particle in a Box",
+      "views": 110000
+    },
+    {
+      "title": "24. Quantum Mechanics VI: Time-dependent Schrödinger Equation",
+      "views": 237000
+    },
+    {
+      "title": "25. Quantum Mechanics VII: Summary of postulates and special topics",
+      "views": 92000
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "courses": {
+    "mit-804": {
+      "title": "8.04 Quantum Physics I",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.04 · Adams · 2013",
+          "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr",
+          "date": "Spring 2013",
+          "youtubeId": "lZ3bPUKo5zc",
+          "primary": true
+        },
+        {
+          "label": "MIT 8.04 · Zwiebach · 2016",
+          "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G",
+          "date": "Spring 2016",
+          "youtubeId": "jANZxzetPaQ"
+        }
+      ]
+    },
+    "mit-805": {
+      "title": "8.05 Quantum Physics II",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.05 · Zwiebach · 2013",
+          "url": "https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx",
+          "date": "Fall 2013",
+          "youtubeId": "QI13S04w8dM",
+          "primary": true
+        }
+      ]
+    },
+    "mit-806": {
+      "title": "8.06 Quantum Physics III",
+      "university": "MIT",
+      "pos": {
+        "x": 720,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.06 · Zwiebach · 2018",
+          "url": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L",
+          "date": "Spring 2018",
+          "youtubeId": "_OZXEb8FxZQ",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    { "from": "mit-804", "to": "mit-805" },
+    { "from": "mit-805", "to": "mit-806" }
+  ]
+}

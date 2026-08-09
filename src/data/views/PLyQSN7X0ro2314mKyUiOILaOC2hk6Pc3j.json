@@ -1,0 +1,164 @@
+{
+  "lectures": [
+    {
+      "title": "8.02x - Introduction",
+      "views": 1500000
+    },
+    {
+      "title": "8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization",
+      "views": 4500000
+    },
+    {
+      "title": "8.02x - Lect 2 - Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles",
+      "views": 1300000
+    },
+    {
+      "title": "8.02x - Lect 3 - Electric Flux, Gauss' Law, Examples",
+      "views": 1200000
+    },
+    {
+      "title": "8.02x - Lect 4 - Electrostatic Potential, Electric Energy, Equipotential Surfaces",
+      "views": 1400000
+    },
+    {
+      "title": "8.02x - Lect 5 - E= - grad V, Conductors, Electrostatic Shielding (Faraday Cage)",
+      "views": 501000
+    },
+    {
+      "title": "8.02x - Lect 6 - High-voltage Breakdown, Lightning, Sparks, St-Elmo's Fire",
+      "views": 451000
+    },
+    {
+      "title": "8.02x - Lect 7 - Capacitance, Electric Field Energy",
+      "views": 399000
+    },
+    {
+      "title": "8.02x - Lect 8 - Polarization, Dielectrics, Van de Graaff Generator, Capacitors",
+      "views": 316000
+    },
+    {
+      "title": "8.02x - Lect 9 - Electric Currents, Resistivity, Conductivity, Ohm's Law",
+      "views": 379000
+    },
+    {
+      "title": "8.02x - Lect 10 - Batteries, Power, Kirchhoff's Rules, Circuits, Kelvin Water Dropper",
+      "views": 358000
+    },
+    {
+      "title": "8.02x - Lect 11 - Magnetic Fields, Lorentz Force, Torques, Electric Motors (DC)",
+      "views": 385000
+    },
+    {
+      "title": "8.02x - Lect 12 - First Exam Review",
+      "views": 178000
+    },
+    {
+      "title": "8.02x - Lect 13 - Moving charges in B-fields, Cyclotrons, Mass Spectrometers, LHC",
+      "views": 285000
+    },
+    {
+      "title": "8.02x - Lect 14 - Biot-Savart, div B = 0, High-voltage Power Lines, Leyden Jar revisited",
+      "views": 270000
+    },
+    {
+      "title": "8.02x - Lect 15 - Ampere's Law, Solenoids, Kelvin Water Dropper (revisited)",
+      "views": 263000
+    },
+    {
+      "title": "8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO",
+      "views": 4800000
+    },
+    {
+      "title": "8.02x - Lect 17 - Motional EMF, Dynamos, Eddy Currents, Magnetic Braking",
+      "views": 320000
+    },
+    {
+      "title": "8.02x - Lect 18 - Displacement Current, Synchronous Motors, Explanation Secret Top",
+      "views": 196000
+    },
+    {
+      "title": "8.02x - Lect 19 - Magnetic Levitation, Human ❤, Superconductivity, Aurora Borealis",
+      "views": 1100000
+    },
+    {
+      "title": "8.02x - Lect 20 - Inductance, RL Circuits, Magnetic Field Energy",
+      "views": 249000
+    },
+    {
+      "title": "8.02x - Lect 21 - Magnetic Materials, Dia- Para- & Ferromagnetism",
+      "views": 350000
+    },
+    {
+      "title": "8.02x - Lect 22 - Maxwell's Equations - 600 Daffodil Ceremony",
+      "views": 209000
+    },
+    {
+      "title": "8.02x - Lect 23 - Second Exam Review",
+      "views": 94000
+    },
+    {
+      "title": "8.02x - Lect 24 - Transformers, Car Coils, RC Circuits",
+      "views": 127000
+    },
+    {
+      "title": "8.02x - Lect 25 - Driven LRC Circuits, Metal Detectors",
+      "views": 127000
+    },
+    {
+      "title": "8.02x - Lect 26 Traveling Waves, Standing Waves, Musical Instruments",
+      "views": 224000
+    },
+    {
+      "title": "8.02x - Lect 27 - Destructive Resonance, Electromagnetic Waves, Speed of Light",
+      "views": 156000
+    },
+    {
+      "title": "8.02x - Lect 28 - Poynting Vector, Oscillating Charges, Polarization, Radiation Pressure",
+      "views": 145000
+    },
+    {
+      "title": "8.02x - Lect 29 - Snell's Law, Index of Refraction, Huygen's Principle, Illusion of Color",
+      "views": 161000
+    },
+    {
+      "title": "8.02x - Lect 30 - Polarizers, Malus' Law, Light Scattering, Blue Skies, Red Sunsets",
+      "views": 102000
+    },
+    {
+      "title": "8.02x - Lect 31 - Rainbows, Fog Bows, Haloes, Glories, Sun Dogs",
+      "views": 70000
+    },
+    {
+      "title": "8.02x - Lect 32 - Third Exam Review",
+      "views": 50000
+    },
+    {
+      "title": "8.02x - Lect 33 - Double-slit Interference, Interferometers",
+      "views": 94000
+    },
+    {
+      "title": "8.02x - Lect 34 - Diffraction, Gratings, Resolving Power, Angular Resolution",
+      "views": 190000
+    },
+    {
+      "title": "8.02x - Lect 35 - Doppler Effect, Big Bang, Cosmology",
+      "views": 85000
+    },
+    {
+      "title": "8.02x - Lect 36 - Farewell Special, My Early Days in Astrophysics, Huge Balloons",
+      "views": 114000
+    },
+    {
+      "title": "Kirchhoff's Loop Rule Is For The Birds",
+      "views": 203000
+    },
+    {
+      "title": "Is Kirchhoff's Loop Rule for the Birds?",
+      "views": 85000
+    },
+    {
+      "title": "Believing and Science are Very Different",
+      "views": 62000
+    }
+  ]
+}

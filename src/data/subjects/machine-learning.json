@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "cs229": {
+      "title": "CS229 Machine Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS229 · Ng · 2018",
+          "url": "https://cs229.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
+          "date": "Autumn 2018",
+          "youtubeId": "jGwO_UgTS7I",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

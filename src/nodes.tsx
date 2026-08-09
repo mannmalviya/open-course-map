@@ -1,0 +1,324 @@
+import type { Course, Ghost, Group, Rect } from './types';
+import {
+  COURSE_W, COURSE_H, GHOST_W, GHOST_H,
+  borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
+  edgesOn, ghostRect, ghostsIn, logoFor, map, primaryVersion, seedFor, thumbUrl, wrapText,
+} from './model';
+import { SketchRect, SketchText } from './sketch';
+
+interface CourseNodeProps {
+  id: string;
+  course: Course;
+  onSelect: (id: string) => void;
+}
+
+export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
+  const { x, y } = course.pos;
+  const seed = seedFor(id);
+  const primary = primaryVersion(course);
+  const thumb = thumbUrl(primary);
+  const logo = logoFor(course.university);
+  const term = courseTerm(course);
+  const extra = course.versions.length - 1;
+  const titleLines = wrapText(course.title, 24);
+  const thumbX = x + 14;
+  const thumbY = y + 12;
+  const thumbW = COURSE_W - 28;
+  const thumbH = 100;
+  // footer row tucked under the title: school logo bottom-left, term bottom-right
+  const footerBaseline = y + COURSE_H - 14;
+
+  return (
+    <g
+      className="node"
+      onPointerDown={(e) => e.stopPropagation()}
+      onClick={() => onSelect(id)}
+    >
+      <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H} seed={seed} fill="var(--node-fill)" />
+      {thumb ? (
+        <image
+          href={thumb}
+          x={thumbX} y={thumbY} width={thumbW} height={thumbH}
+          preserveAspectRatio="xMidYMid slice"
+        />
+      ) : logo ? (
+        <image
+          href={logo}
+          x={x + COURSE_W / 2 - 24} y={thumbY + thumbH / 2 - 24}
+          width={48} height={48}
+          preserveAspectRatio="xMidYMid meet"
+        />
+      ) : (
+        <SketchText
+          x={x + COURSE_W / 2}
+          y={thumbY + thumbH / 2 + 6}
+          lines={[course.university ?? 'Lectures']}
+          size={20}
+          fill="var(--muted)"
+        />
+      )}
+      <SketchRect x={thumbX} y={thumbY} w={thumbW} h={thumbH} seed={seed + 1} strokeWidth={1} />
+      <SketchText
+        x={x + COURSE_W / 2}
+        y={y + 130}
+        lines={titleLines}
+        size={15}
+      />
+      {logo ? (
+        <image
+          href={logo}
+          x={x + 14} y={y + COURSE_H - 32}
+          width={22} height={22}
+          preserveAspectRatio="xMidYMid meet"
+        >
+          <title>{course.university}</title>
+        </image>
+      ) : (
+        course.university && (
+          <SketchText
+            x={x + 14} y={footerBaseline}
+            lines={[course.university]}
+            size={11} fill="var(--muted)" anchor="start"
+          />
+        )
+      )}
+      {term && (
+        <SketchText
+          x={x + COURSE_W - 14} y={footerBaseline}
+          lines={[term]}
+          size={11} fill="var(--muted)" anchor="end"
+        />
+      )}
+      {extra > 0 && (
+        <g>
+          <SketchRect
+            x={x + COURSE_W - 34} y={y - 12} w={48} h={24}
+            seed={seed + 2} stroke="var(--accent)" fill="var(--bg)" strokeWidth={1.2}
+          />
+          <SketchText x={x + COURSE_W - 10} y={y + 5} lines={[`+${extra}`]} size={13} fill="var(--accent)" />
+        </g>
+      )}
+    </g>
+  );
+}
+
+/** Which preview style group boxes use — flip to compare. */
+const GROUP_PREVIEW = 'collage' as 'minimap' | 'collage';
+
+/** Rects that make up a group's page, keyed like edgesOn() endpoints. */
+function pageRects(groupId: string): Array<{ rect: Rect; kind: 'course' | 'group' | 'ghost' }> {
+  const out: Array<{ rect: Rect; kind: 'course' | 'group' | 'ghost' }> = [];
+  for (const id of coursesIn(groupId)) out.push({ rect: courseRect(map.courses[id]), kind: 'course' });
+  for (const id of childGroups(groupId)) {
+    const g = map.groups[id];
+    if (g.pos && g.size) out.push({ rect: { x: g.pos.x, y: g.pos.y, w: g.size.w, h: g.size.h }, kind: 'group' });
+  }
+  for (const g of ghostsIn(groupId)) out.push({ rect: ghostRect(g), kind: 'ghost' });
+  return out;
+}
+
+interface MiniMapProps {
+  groupId: string;
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+}
+
+/**
+ * Tiny preview of a group's own page: its course boxes, child groups, ghosts
+ * and prerequisite edges, scaled to fit. Drawn crisp (no rough.js) — at this
+ * scale jitter reads as noise, thin clean lines read as a pencil preview.
+ */
+function MiniMap({ groupId, x, y, w, h }: MiniMapProps) {
+  const items = pageRects(groupId);
+  if (items.length === 0) return null;
+  const rects = items.map((i) => i.rect);
+  const minX = Math.min(...rects.map((r) => r.x));
+  const minY = Math.min(...rects.map((r) => r.y));
+  const maxX = Math.max(...rects.map((r) => r.x + r.w));
+  const maxY = Math.max(...rects.map((r) => r.y + r.h));
+  // Cap the scale so a page with one or two courses doesn't blow up to fill the box
+  const s = Math.min(w / (maxX - minX), h / (maxY - minY), 0.28);
+  const ox = x + (w - (maxX - minX) * s) / 2;
+  const oy = y + (h - (maxY - minY) * s) / 2;
+  const px = (v: number) => ox + (v - minX) * s;
+  const py = (v: number) => oy + (v - minY) * s;
+
+  return (
+    <g style={{ pointerEvents: 'none' }}>
+      {edgesOn(groupId).map((e, i) => {
+        const p1 = borderPoint(e.fromRect, center(e.toRect));
+        const p2 = borderPoint(e.toRect, center(e.fromRect));
+        return (
+          <line
+            key={i}
+            x1={px(p1.x)} y1={py(p1.y)} x2={px(p2.x)} y2={py(p2.y)}
+            stroke="var(--muted)" strokeWidth={1}
+          />
+        );
+      })}
+      {items.map(({ rect, kind }, i) => (
+        <rect
+          key={i}
+          x={px(rect.x)} y={py(rect.y)} width={rect.w * s} height={rect.h * s}
+          rx={1.5}
+          fill={kind === 'ghost' ? 'none' : kind === 'group' ? 'var(--group-fill)' : 'var(--node-fill)'}
+          stroke={kind === 'ghost' ? 'var(--muted)' : 'var(--ink)'}
+          strokeWidth={1}
+          strokeDasharray={kind === 'ghost' ? '3 3' : undefined}
+        />
+      ))}
+    </g>
+  );
+}
+
+/** Up to `limit` course thumbnail urls from a group's subtree, in data order. */
+function collectThumbs(groupId: string, limit = 4): string[] {
+  const out: string[] = [];
+  const walk = (gid: string) => {
+    for (const id of coursesIn(gid)) {
+      if (out.length >= limit) return;
+      const t = thumbUrl(primaryVersion(map.courses[id]));
+      if (t) out.push(t);
+    }
+    for (const cid of childGroups(gid)) {
+      if (out.length >= limit) return;
+      walk(cid);
+    }
+  };
+  walk(groupId);
+  return out;
+}
+
+interface CollageProps {
+  thumbs: string[];
+  x: number;
+  y: number;
+  w: number;
+  h: number;
+  seed: number;
+}
+
+/** Spotify-playlist-style grid of course thumbnails, muted to sit with the sketch look. */
+function Collage({ thumbs, x, y, w, h, seed }: CollageProps) {
+  const gap = 6;
+  const cw = (w - gap) / 2;
+  const ch = (h - gap) / 2;
+  let cells: Rect[];
+  if (thumbs.length === 1) {
+    cells = [{ x, y, w, h }];
+  } else if (thumbs.length === 2) {
+    cells = [
+      { x, y, w: cw, h },
+      { x: x + cw + gap, y, w: cw, h },
+    ];
+  } else if (thumbs.length === 3) {
+    cells = [
+      { x, y, w: cw, h: ch },
+      { x: x + cw + gap, y, w: cw, h: ch },
+      { x, y: y + ch + gap, w, h: ch },
+    ];
+  } else {
+    cells = [
+      { x, y, w: cw, h: ch },
+      { x: x + cw + gap, y, w: cw, h: ch },
+      { x, y: y + ch + gap, w: cw, h: ch },
+      { x: x + cw + gap, y: y + ch + gap, w: cw, h: ch },
+    ];
+  }
+
+  return (
+    <g style={{ pointerEvents: 'none' }}>
+      {thumbs.map((t, i) => (
+        <g key={i}>
+          <image
+            className="collage-img"
+            href={t}
+            x={cells[i].x} y={cells[i].y} width={cells[i].w} height={cells[i].h}
+            preserveAspectRatio="xMidYMid slice"
+          />
+          <SketchRect
+            x={cells[i].x} y={cells[i].y} w={cells[i].w} h={cells[i].h}
+            seed={seed + 3 + i} strokeWidth={1}
+          />
+        </g>
+      ))}
+    </g>
+  );
+}
+
+interface GroupNodeProps {
+  id: string;
+  group: Group;
+  onOpen: (id: string) => void;
+}
+
+export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
+  if (!group.pos || !group.size) return null;
+  const { x, y } = group.pos;
+  const { w, h } = group.size;
+  const seed = seedFor(id);
+  const count = courseCount(id);
+  const thumbs = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
+  const hasPreview = thumbs.length > 0 || pageRects(id).length > 0;
+
+  return (
+    <g
+      className="node group-node"
+      onPointerDown={(e) => e.stopPropagation()}
+      onClick={() => onOpen(id)}
+    >
+      <SketchRect x={x} y={y} w={w} h={h} seed={seed} fill="var(--group-fill)" strokeWidth={1.8} />
+      <SketchText x={x + w / 2} y={y - 14} lines={[group.title]} size={22} />
+      {thumbs.length > 0 ? (
+        <Collage thumbs={thumbs} x={x + 14} y={y + 14} w={w - 28} h={h - 52} seed={seed} />
+      ) : hasPreview ? (
+        <MiniMap groupId={id} x={x + 14} y={y + 14} w={w - 28} h={h - 52} />
+      ) : (
+        <SketchText
+          x={x + w / 2} y={y + h / 2 + 6}
+          lines={[`${count} course${count === 1 ? '' : 's'}`]}
+          size={14} fill="var(--muted)"
+        />
+      )}
+      {hasPreview && (
+        <SketchText
+          x={x + 14} y={y + h - 12}
+          lines={[`${count} course${count === 1 ? '' : 's'}`]}
+          size={12} anchor="start" fill="var(--muted)"
+        />
+      )}
+      <SketchText x={x + w - 14} y={y + h - 12} lines={['open ↗']} size={12} anchor="end" fill="var(--accent)" />
+    </g>
+  );
+}
+
+interface GhostNodeProps {
+  ghost: Ghost;
+  onJump: (nodeId: string) => void;
+}
+
+export function GhostNode({ ghost, onJump }: GhostNodeProps) {
+  const course = map.courses[ghost.node];
+  const target = course ?? map.groups[ghost.node];
+  const homeId = course ? course.group : map.groups[ghost.node]?.parent;
+  const home = homeId ? map.groups[homeId] : undefined;
+  const { x, y } = ghost.pos;
+  const seed = seedFor(ghost.node + ghost.inGroup);
+
+  return (
+    <g
+      className="node ghost"
+      onPointerDown={(e) => e.stopPropagation()}
+      onClick={() => onJump(ghost.node)}
+    >
+      <SketchRect
+        x={x} y={y} w={GHOST_W} h={GHOST_H}
+        seed={seed} stroke="var(--muted)" dash="6 6" strokeWidth={1.2}
+      />
+      <SketchText x={x + 14} y={y + 24} lines={[`↪ ${target.title}`]} size={14} anchor="start" />
+      <SketchText x={x + 14} y={y + 43} lines={[`in ${home?.title ?? '?'}`]} size={11} anchor="start" fill="var(--muted)" />
+    </g>
+  );
+}

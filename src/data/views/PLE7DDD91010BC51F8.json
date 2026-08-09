@@ -1,0 +1,148 @@
+{
+  "lectures": [
+    {
+      "title": "An Interview with Gilbert Strang on Teaching Linear Algebra",
+      "views": 1500000
+    },
+    {
+      "title": "1. The Geometry of Linear Equations",
+      "views": 2700000
+    },
+    {
+      "title": "2. Elimination with Matrices.",
+      "views": 3200000
+    },
+    {
+      "title": "3. Multiplication and Inverse Matrices",
+      "views": 1900000
+    },
+    {
+      "title": "4. Factorization into A = LU",
+      "views": 915000
+    },
+    {
+      "title": "5. Transposes, Permutations, Spaces R^n",
+      "views": 1100000
+    },
+    {
+      "title": "6. Column Space and Nullspace",
+      "views": 1000000
+    },
+    {
+      "title": "7. Solving Ax = 0: Pivot Variables, Special Solutions",
+      "views": 848000
+    },
+    {
+      "title": "8. Solving Ax = b: Row Reduced Form R",
+      "views": 759000
+    },
+    {
+      "title": "9. Independence, Basis, and Dimension",
+      "views": 820000
+    },
+    {
+      "title": "10. The Four Fundamental Subspaces",
+      "views": 768000
+    },
+    {
+      "title": "11. Matrix Spaces; Rank 1; Small World Graphs",
+      "views": 526000
+    },
+    {
+      "title": "12. Graphs, Networks, Incidence Matrices",
+      "views": 433000
+    },
+    {
+      "title": "13. Quiz 1 Review",
+      "views": 361000
+    },
+    {
+      "title": "14. Orthogonal Vectors and Subspaces",
+      "views": 637000
+    },
+    {
+      "title": "15. Projections onto Subspaces",
+      "views": 625000
+    },
+    {
+      "title": "16. Projection Matrices and Least Squares",
+      "views": 545000
+    },
+    {
+      "title": "17. Orthogonal Matrices and Gram-Schmidt",
+      "views": 303000
+    },
+    {
+      "title": "18. Properties of Determinants",
+      "views": 478000
+    },
+    {
+      "title": "19. Determinant Formulas and Cofactors",
+      "views": 412000
+    },
+    {
+      "title": "20. Cramer's Rule, Inverse Matrix, and Volume",
+      "views": 396000
+    },
+    {
+      "title": "21. Eigenvalues and Eigenvectors",
+      "views": 800000
+    },
+    {
+      "title": "22. Diagonalization and Powers of A",
+      "views": 597000
+    },
+    {
+      "title": "23. Differential Equations and exp(At)",
+      "views": 417000
+    },
+    {
+      "title": "24. Markov Matrices; Fourier Series",
+      "views": 151000
+    },
+    {
+      "title": "24b. Quiz 2 Review",
+      "views": 54000
+    },
+    {
+      "title": "25. Symmetric Matrices and Positive Definiteness",
+      "views": 176000
+    },
+    {
+      "title": "26. Complex Matrices; Fast Fourier Transform",
+      "views": 320000
+    },
+    {
+      "title": "27. Positive Definite Matrices and Minima",
+      "views": 287000
+    },
+    {
+      "title": "28. Similar Matrices and Jordan Form",
+      "views": 157000
+    },
+    {
+      "title": "29. Singular Value Decomposition",
+      "views": 203000
+    },
+    {
+      "title": "30. Linear Transformations and Their Matrices",
+      "views": 526000
+    },
+    {
+      "title": "31. Change of Basis; Image Compression",
+      "views": 116000
+    },
+    {
+      "title": "32. Quiz 3 Review",
+      "views": 154000
+    },
+    {
+      "title": "33. Left and Right Inverses; Pseudoinverse",
+      "views": 253000
+    },
+    {
+      "title": "34. Final Course Review",
+      "views": 216000
+    }
+  ]
+}

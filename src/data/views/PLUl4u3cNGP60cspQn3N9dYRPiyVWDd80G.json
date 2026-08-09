@@ -1,0 +1,404 @@
+{
+  "lectures": [
+    {
+      "title": "Quantum mechanics as a framework. Defining linearity",
+      "views": 1400000
+    },
+    {
+      "title": "Linearity and nonlinear theories. Schrödinger's equation",
+      "views": 435000
+    },
+    {
+      "title": "Necessity of complex numbers",
+      "views": 4000000
+    },
+    {
+      "title": "Photons and the loss of determinism",
+      "views": 1200000
+    },
+    {
+      "title": "The nature of superposition. Mach-Zehnder interferometer",
+      "views": 377000
+    },
+    {
+      "title": "More on superposition. General state of a photon and spin states",
+      "views": 245000
+    },
+    {
+      "title": "Entanglement",
+      "views": 257000
+    },
+    {
+      "title": "Mach-Zehnder interferometers and beam splitters",
+      "views": 224000
+    },
+    {
+      "title": "Interferometer and interference",
+      "views": 130000
+    },
+    {
+      "title": "Elitzur-Vaidman bombs",
+      "views": 147000
+    },
+    {
+      "title": "The photoelectric effect",
+      "views": 259000
+    },
+    {
+      "title": "Units of h and Compton wavelength of particles",
+      "views": 110000
+    },
+    {
+      "title": "Compton Scattering",
+      "views": 202000
+    },
+    {
+      "title": "de Broglie’s proposal",
+      "views": 163000
+    },
+    {
+      "title": "de Broglie wavelength in different frames",
+      "views": 120000
+    },
+    {
+      "title": "Galilean transformation of ordinary waves",
+      "views": 91000
+    },
+    {
+      "title": "The frequency of a matter wave",
+      "views": 92000
+    },
+    {
+      "title": "Group velocity and stationary phase approximation",
+      "views": 109000
+    },
+    {
+      "title": "Motion of a wave-packet",
+      "views": 91000
+    },
+    {
+      "title": "The wave for a free particle",
+      "views": 108000
+    },
+    {
+      "title": "Momentum operator, energy operator, and a differential equation",
+      "views": 109000
+    },
+    {
+      "title": "Free Schrödinger equation",
+      "views": 77000
+    },
+    {
+      "title": "The general Schrödinger equation. x, p commutator",
+      "views": 72000
+    },
+    {
+      "title": "Commutators, matrices, and 3-dimensional Schrödinger equation",
+      "views": 62000
+    },
+    {
+      "title": "Interpretation of the wavefunction",
+      "views": 114000
+    },
+    {
+      "title": "Normalizable wavefunctions and the question of time evolution",
+      "views": 75000
+    },
+    {
+      "title": "Is probability conserved? Hermiticity of the Hamiltonian",
+      "views": 64000
+    },
+    {
+      "title": "Probability current and current conservation",
+      "views": 66000
+    },
+    {
+      "title": "Three dimensional current and conservation",
+      "views": 49000
+    },
+    {
+      "title": "Wavepackets and Fourier representation",
+      "views": 95000
+    },
+    {
+      "title": "Reality condition in Fourier transforms",
+      "views": 45000
+    },
+    {
+      "title": "Widths and uncertainties",
+      "views": 47000
+    },
+    {
+      "title": "Shape changes in a wave",
+      "views": 40000
+    },
+    {
+      "title": "Time evolution of a free particle wavepacket",
+      "views": 48000
+    },
+    {
+      "title": "Fourier transforms and delta functions",
+      "views": 93000
+    },
+    {
+      "title": "Parseval identity",
+      "views": 45000
+    },
+    {
+      "title": "Three-dimensional Fourier transforms",
+      "views": 37000
+    },
+    {
+      "title": "Expectation values of operators",
+      "views": 90000
+    },
+    {
+      "title": "Time dependence of expectation values",
+      "views": 37000
+    },
+    {
+      "title": "Expectation value of Hermitian operators",
+      "views": 51000
+    },
+    {
+      "title": "Eigenfunctions of a Hermitian operator",
+      "views": 53000
+    },
+    {
+      "title": "Completeness of eigenvectors and measurement postulate",
+      "views": 39000
+    },
+    {
+      "title": "Consistency condition. Particle on a circle",
+      "views": 28000
+    },
+    {
+      "title": "Defining uncertainty",
+      "views": 26000
+    },
+    {
+      "title": "Uncertainty and eigenstates",
+      "views": 30000
+    },
+    {
+      "title": "Stationary states: key equations",
+      "views": 43000
+    },
+    {
+      "title": "Expectation values on stationary states",
+      "views": 25000
+    },
+    {
+      "title": "Comments on the spectrum and continuity conditions",
+      "views": 22000
+    },
+    {
+      "title": "Solving particle on a circle",
+      "views": 41000
+    },
+    {
+      "title": "Energy eigenstates for particle on a circle",
+      "views": 36000
+    },
+    {
+      "title": "Infinite square well energy eigenstates",
+      "views": 120000
+    },
+    {
+      "title": "Nodes and symmetries of the infinite square well eigenstates",
+      "views": 35000
+    },
+    {
+      "title": "Finite square well. Setting up the problem",
+      "views": 124000
+    },
+    {
+      "title": "Finite square well energy eigenstates",
+      "views": 47000
+    },
+    {
+      "title": "Nondegeneracy of bound states in 1D. Real solutions",
+      "views": 31000
+    },
+    {
+      "title": "Potentials that satisfy V(-x) = V(x)",
+      "views": 22000
+    },
+    {
+      "title": "Qualitative insights: Local de Broglie wavelength",
+      "views": 20000
+    },
+    {
+      "title": "Correspondence principle: amplitude as a function of position",
+      "views": 20000
+    },
+    {
+      "title": "Local picture of the wavefunction",
+      "views": 28000
+    },
+    {
+      "title": "Energy eigenstates on a generic symmetric potential. Shooting method",
+      "views": 21000
+    },
+    {
+      "title": "Delta function potential I: Preliminaries",
+      "views": 56000
+    },
+    {
+      "title": "Delta function potential I: Solving for the bound state",
+      "views": 42000
+    },
+    {
+      "title": "Node Theorem",
+      "views": 28000
+    },
+    {
+      "title": "Harmonic oscillator: Differential equation",
+      "views": 89000
+    },
+    {
+      "title": "Behavior of the differential equation",
+      "views": 28000
+    },
+    {
+      "title": "Recursion relation for the solution",
+      "views": 29000
+    },
+    {
+      "title": "Quantization of the energy",
+      "views": 30000
+    },
+    {
+      "title": "Algebraic solution of the harmonic oscillator",
+      "views": 40000
+    },
+    {
+      "title": "Ground state wavefunction",
+      "views": 29000
+    },
+    {
+      "title": "Number operator and commutators",
+      "views": 36000
+    },
+    {
+      "title": "Excited states of the harmonic oscillator",
+      "views": 23000
+    },
+    {
+      "title": "Creation and annihilation operators acting on energy eigenstates",
+      "views": 38000
+    },
+    {
+      "title": "Scattering states and the step potential",
+      "views": 48000
+    },
+    {
+      "title": "Step potential probability current",
+      "views": 32000
+    },
+    {
+      "title": "Reflection and transmission coefficients",
+      "views": 43000
+    },
+    {
+      "title": "Energy below the barrier and phase shift",
+      "views": 20000
+    },
+    {
+      "title": "Wavepackets",
+      "views": 21000
+    },
+    {
+      "title": "Wavepackets with energy below the barrier",
+      "views": 12000
+    },
+    {
+      "title": "Particle on the forbidden region",
+      "views": 16000
+    },
+    {
+      "title": "Waves on the finite square well",
+      "views": 28000
+    },
+    {
+      "title": "Resonant transmission",
+      "views": 18000
+    },
+    {
+      "title": "Ramsauer-Townsend phenomenology",
+      "views": 17000
+    },
+    {
+      "title": "Scattering in 1D. Incoming and outgoing waves",
+      "views": 25000
+    },
+    {
+      "title": "Scattered wave and phase shift",
+      "views": 24000
+    },
+    {
+      "title": "Incident packet and delay for reflection",
+      "views": 15000
+    },
+    {
+      "title": "Phase shift for a potential well",
+      "views": 13000
+    },
+    {
+      "title": "Excursion of the phase shift",
+      "views": 11000
+    },
+    {
+      "title": "Levinson's theorem, part 1",
+      "views": 15000
+    },
+    {
+      "title": "Levinson's theorem, part 2",
+      "views": 9800
+    },
+    {
+      "title": "Time delay and resonances",
+      "views": 14000
+    },
+    {
+      "title": "Effects of resonance on phase shifts, wave amplitude and time delay",
+      "views": 13000
+    },
+    {
+      "title": "Modelling a resonance",
+      "views": 13000
+    },
+    {
+      "title": "Half-width and time delay",
+      "views": 8500
+    },
+    {
+      "title": "Resonances in the complex k plane",
+      "views": 9300
+    },
+    {
+      "title": "Translation operator. Central potentials",
+      "views": 30000
+    },
+    {
+      "title": "Angular momentum operators and their algebra",
+      "views": 80000
+    },
+    {
+      "title": "Commuting observables for angular momentum",
+      "views": 38000
+    },
+    {
+      "title": "Simultaneous eigenstates and quantization of angular momentum",
+      "views": 35000
+    },
+    {
+      "title": "Associated Legendre functions and spherical harmonics",
+      "views": 99000
+    },
+    {
+      "title": "Orthonormality of spherical harmonics",
+      "views": 35000
+    }
+  ]
+}

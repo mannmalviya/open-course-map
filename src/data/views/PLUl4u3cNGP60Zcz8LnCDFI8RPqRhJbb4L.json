@@ -1,0 +1,404 @@
+{
+  "lectures": [
+    {
+      "title": "L1.1 General problem.  Non-degenerate perturbation theory",
+      "views": 321000
+    },
+    {
+      "title": "L1.2 Setting up the perturbative equations",
+      "views": 67000
+    },
+    {
+      "title": "L1.3 Calculating the energy corrections",
+      "views": 44000
+    },
+    {
+      "title": "L1.4 First order correction to the state. Second order correction to energy",
+      "views": 49000
+    },
+    {
+      "title": "L2.1 Remarks and validity of the perturbation series",
+      "views": 37000
+    },
+    {
+      "title": "L2.2 Anharmonic Oscillator via a quartic perturbation",
+      "views": 44000
+    },
+    {
+      "title": "L2.3 Degenerate Perturbation theory: Example and setup",
+      "views": 65000
+    },
+    {
+      "title": "L2.4 Degenerate Perturbation Theory: Leading energy corrections",
+      "views": 26000
+    },
+    {
+      "title": "L3.1 Remarks on a 'good basis'",
+      "views": 24000
+    },
+    {
+      "title": "L3.2 Degeneracy resolved to first order; state and energy corrections",
+      "views": 23000
+    },
+    {
+      "title": "L3.3 Degeneracy resolved to second order",
+      "views": 16000
+    },
+    {
+      "title": "L3.4 Degeneracy resolved to second order (continued)",
+      "views": 10000
+    },
+    {
+      "title": "L4.1 Scales and zeroth-order spectrum",
+      "views": 17000
+    },
+    {
+      "title": "L4.2 The uncoupled and coupled basis states for the spectrum",
+      "views": 18000
+    },
+    {
+      "title": "L4.3 The Pauli equation for the electron in an electromagnetic field",
+      "views": 32000
+    },
+    {
+      "title": "L4.4 Dirac equation for the electron and hydrogen Hamiltonian",
+      "views": 234000
+    },
+    {
+      "title": "L5.1 Evaluating the Darwin correction",
+      "views": 31000
+    },
+    {
+      "title": "L5.2 Interpretation of the Darwin correction from nonlocality",
+      "views": 19000
+    },
+    {
+      "title": "L5.3 The relativistic correction",
+      "views": 25000
+    },
+    {
+      "title": "L5.4 Spin-orbit correction",
+      "views": 28000
+    },
+    {
+      "title": "L5.5 Assembling the fine-structure corrections",
+      "views": 15000
+    },
+    {
+      "title": "L6.1 Zeeman effect and fine structure",
+      "views": 122000
+    },
+    {
+      "title": "L6.2 Weak-field Zeeman effect; general structure",
+      "views": 30000
+    },
+    {
+      "title": "L6.3 Weak-field Zeeman effect; the projection lemma",
+      "views": 19000
+    },
+    {
+      "title": "L6.4 Strong-field Zeeman",
+      "views": 15000
+    },
+    {
+      "title": "L6.5 Semiclassical approximation and local de Broglie wavelength",
+      "views": 22000
+    },
+    {
+      "title": "L7.1 The WKB approximation scheme",
+      "views": 49000
+    },
+    {
+      "title": "L7.2 Approximate WKB solutions",
+      "views": 19000
+    },
+    {
+      "title": "L7.3 Validity of the WKB approximation",
+      "views": 16000
+    },
+    {
+      "title": "L7.4 Connection formula stated and example",
+      "views": 15000
+    },
+    {
+      "title": "L8.1 Airy functions as integrals in the complex plane",
+      "views": 20000
+    },
+    {
+      "title": "L8.2 Asymptotic expansions of Airy functions",
+      "views": 14000
+    },
+    {
+      "title": "L8.3 Deriving the connection formulae",
+      "views": 11000
+    },
+    {
+      "title": "L8.4 Deriving the connection formulae (continued) logical arrows",
+      "views": 7600
+    },
+    {
+      "title": "L9.1 The interaction picture and time evolution",
+      "views": 41000
+    },
+    {
+      "title": "L9.2 The interaction picture equation in an orthonormal basis",
+      "views": 19000
+    },
+    {
+      "title": "L9.3 Example:  Instantaneous transitions in a two-level system",
+      "views": 18000
+    },
+    {
+      "title": "L9.4 Setting up perturbation theory",
+      "views": 14000
+    },
+    {
+      "title": "L10.1 Box regularization: density of states for the continuum",
+      "views": 23000
+    },
+    {
+      "title": "L10.2 Transitions with a constant perturbation",
+      "views": 18000
+    },
+    {
+      "title": "L10.3 Integrating over the continuum to find Fermi's Golden Rule",
+      "views": 25000
+    },
+    {
+      "title": "L10.4 Autoionization transitions",
+      "views": 10000
+    },
+    {
+      "title": "L11.1 Harmonic transitions between discrete states",
+      "views": 12000
+    },
+    {
+      "title": "L11.2 Transition rates for stimulated emission and absorption processes",
+      "views": 14000
+    },
+    {
+      "title": "L11.3 Ionization of hydrogen:  conditions of validity, initial and final states",
+      "views": 11000
+    },
+    {
+      "title": "L11.4 Ionization of hydrogen: matrix element for transition",
+      "views": 9600
+    },
+    {
+      "title": "L12.1 Ionization rate for hydrogen:  final result",
+      "views": 7700
+    },
+    {
+      "title": "L12.2 Light and atoms with two levels, qualitative analysis",
+      "views": 15000
+    },
+    {
+      "title": "L12.3 Einstein's argument: the need for spontaneous emission",
+      "views": 17000
+    },
+    {
+      "title": "L12.4 Einstein's argument: B and A coefficients",
+      "views": 13000
+    },
+    {
+      "title": "L12.5 Atom-light interactions:  dipole operator",
+      "views": 24000
+    },
+    {
+      "title": "L13.1 Transition rates induced by thermal radiation",
+      "views": 11000
+    },
+    {
+      "title": "L13.2 Transition rates induced by thermal radiation (continued)",
+      "views": 6600
+    },
+    {
+      "title": "L13.3 Einstein's B and A coefficients determined.  Lifetimes and selection rules",
+      "views": 13000
+    },
+    {
+      "title": "L13.4 Charged particles in EM fields: potentials and gauge invariance",
+      "views": 39000
+    },
+    {
+      "title": "L13.5 Charged particles in EM fields: Schrodinger equation",
+      "views": 19000
+    },
+    {
+      "title": "L14.1 Gauge invariance of the Schrödinger Equation",
+      "views": 31000
+    },
+    {
+      "title": "L14.2 Quantization of the magnetic field on a torus",
+      "views": 18000
+    },
+    {
+      "title": "L14.3 Particle in a constant magnetic field:  Landau levels",
+      "views": 41000
+    },
+    {
+      "title": "L14.4 Landau levels (continued). Finite sample",
+      "views": 17000
+    },
+    {
+      "title": "L15.1 Classical analog: oscillator with slowly varying frequency",
+      "views": 13000
+    },
+    {
+      "title": "L15.2 Classical adiabatic invariant",
+      "views": 14000
+    },
+    {
+      "title": "L15.3 Phase space and intuition for quantum adiabatic invariants",
+      "views": 15000
+    },
+    {
+      "title": "L15.4 Instantaneous energy eigenstates and Schrodinger equation",
+      "views": 11000
+    },
+    {
+      "title": "L16.1 Quantum adiabatic theorem stated",
+      "views": 26000
+    },
+    {
+      "title": "L16.2 Analysis with an orthonormal basis of instantaneous energy eigenstates",
+      "views": 9400
+    },
+    {
+      "title": "L16.3 Error in the adiabatic approximation",
+      "views": 9600
+    },
+    {
+      "title": "L16.4 Landau-Zener transitions",
+      "views": 16000
+    },
+    {
+      "title": "L16.5 Landau-Zener transitions (continued)",
+      "views": 12000
+    },
+    {
+      "title": "L17.1 Configuration space for Hamiltonians",
+      "views": 23000
+    },
+    {
+      "title": "L17.2 Berry's phase and Berry's connection",
+      "views": 43000
+    },
+    {
+      "title": "L17.3 Properties of Berry's phase",
+      "views": 16000
+    },
+    {
+      "title": "L17.4 Molecules and energy scales",
+      "views": 9800
+    },
+    {
+      "title": "L18.1 Born-Oppenheimer approximation: Hamiltonian and electronic states",
+      "views": 40000
+    },
+    {
+      "title": "L18.2 Effective nuclear Hamiltonian. Electronic Berry connection",
+      "views": 10000
+    },
+    {
+      "title": "L18.3 Example: The hydrogen molecule ion",
+      "views": 17000
+    },
+    {
+      "title": "L19.1 Elastic scattering defined and assumptions",
+      "views": 39000
+    },
+    {
+      "title": "L19.2 Energy eigenstates: incident and outgoing waves. Scattering amplitude",
+      "views": 23000
+    },
+    {
+      "title": "L19.3 Differential and total cross section",
+      "views": 60000
+    },
+    {
+      "title": "L19.4 Differential as a sum of partial waves",
+      "views": 23000
+    },
+    {
+      "title": "L20.1 Review of scattering concepts developed so far",
+      "views": 16000
+    },
+    {
+      "title": "L20.2 The one-dimensional analogy for phase shifts",
+      "views": 14000
+    },
+    {
+      "title": "L20.3 Scattering amplitude in terms of phase shifts",
+      "views": 17000
+    },
+    {
+      "title": "L20.4 Cross section in terms of partial cross sections. Optical theorem",
+      "views": 14000
+    },
+    {
+      "title": "L20.5 Identification of phase shifts. Example: hard sphere",
+      "views": 13000
+    },
+    {
+      "title": "L21.1 General computation of the phase shifts",
+      "views": 11000
+    },
+    {
+      "title": "L21.2 Phase shifts and impact parameter",
+      "views": 10000
+    },
+    {
+      "title": "L21.3 Integral equation for scattering and Green's function",
+      "views": 47000
+    },
+    {
+      "title": "L22.1 Setting up the Born Series",
+      "views": 18000
+    },
+    {
+      "title": "L22.2 First Born Approximation.  Calculation of the scattering amplitude",
+      "views": 34000
+    },
+    {
+      "title": "L22.3 Diagrammatic representation of the Born series.  Scattering amplitude for spherically symm...",
+      "views": 11000
+    },
+    {
+      "title": "L22.4 Identical particles and exchange degeneracy",
+      "views": 32000
+    },
+    {
+      "title": "L23.1 Permutation operators and projectors for two particles",
+      "views": 12000
+    },
+    {
+      "title": "L23.2 Permutation operators acting on operators",
+      "views": 7200
+    },
+    {
+      "title": "L23.3 Permutation operators on N particles and transpositions",
+      "views": 8700
+    },
+    {
+      "title": "L23.4 Symmetric and Antisymmetric states of N particles",
+      "views": 12000
+    },
+    {
+      "title": "L24.1 Symmetrizer and antisymmetrizer for N particles",
+      "views": 8400
+    },
+    {
+      "title": "L24.2 Symmetrizer and antisymmetrizer for N particles (continued)",
+      "views": 7400
+    },
+    {
+      "title": "L24.3 The symmetrization postulate",
+      "views": 7800
+    },
+    {
+      "title": "L24.4 The symmetrization postulate (continued)",
+      "views": 10000
+    }
+  ]
+}

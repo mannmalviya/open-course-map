@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "1. Probability Models and Axioms",
+      "views": 1400000
+    },
+    {
+      "title": "2. Conditioning and Bayes' Rule",
+      "views": 444000
+    },
+    {
+      "title": "3. Independence",
+      "views": 238000
+    },
+    {
+      "title": "4. Counting",
+      "views": 261000
+    },
+    {
+      "title": "5. Discrete Random Variables I",
+      "views": 318000
+    },
+    {
+      "title": "6. Discrete Random Variables II",
+      "views": 194000
+    },
+    {
+      "title": "7. Discrete Random Variables III",
+      "views": 148000
+    },
+    {
+      "title": "8. Continuous Random Variables",
+      "views": 183000
+    },
+    {
+      "title": "9. Multiple Continuous Random Variables",
+      "views": 125000
+    },
+    {
+      "title": "10. Continuous Bayes' Rule; Derived Distributions",
+      "views": 117000
+    },
+    {
+      "title": "11. Derived Distributions (ctd.); Covariance",
+      "views": 88000
+    },
+    {
+      "title": "12. Iterated Expectations",
+      "views": 79000
+    },
+    {
+      "title": "13. Bernoulli Process",
+      "views": 121000
+    },
+    {
+      "title": "14. Poisson Process I",
+      "views": 165000
+    },
+    {
+      "title": "15. Poisson Process II",
+      "views": 78000
+    },
+    {
+      "title": "16. Markov Chains I",
+      "views": 402000
+    },
+    {
+      "title": "17. Markov Chains II",
+      "views": 126000
+    },
+    {
+      "title": "18. Markov Chains III",
+      "views": 93000
+    },
+    {
+      "title": "19. Weak Law of Large Numbers",
+      "views": 90000
+    },
+    {
+      "title": "20. Central Limit Theorem",
+      "views": 94000
+    },
+    {
+      "title": "21. Bayesian Statistical Inference I",
+      "views": 191000
+    },
+    {
+      "title": "22. Bayesian Statistical Inference II",
+      "views": 66000
+    },
+    {
+      "title": "23. Classical Statistical Inference I",
+      "views": 85000
+    },
+    {
+      "title": "24. Classical Inference II",
+      "views": 39000
+    },
+    {
+      "title": "25. Classical Inference III",
+      "views": 52000
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "1. Wave Mechanics",
+      "views": 390000
+    },
+    {
+      "title": "2. Wave Mechanics (continued)",
+      "views": 73000
+    },
+    {
+      "title": "3. Wave Mechanics (continued) and Stern-Gerlach Experiment",
+      "views": 141000
+    },
+    {
+      "title": "4. Spin One-half, Bras, Kets, and Operators",
+      "views": 178000
+    },
+    {
+      "title": "5. Linear Algebra: Vector Spaces and Operators",
+      "views": 135000
+    },
+    {
+      "title": "6. Linear Algebra: Vector Spaces and Operators (continued)",
+      "views": 56000
+    },
+    {
+      "title": "7. Linear Algebra: Vector Spaces and Operators (continued)",
+      "views": 39000
+    },
+    {
+      "title": "8. Linear Algebra: Vector Spaces and Operators (continued)",
+      "views": 42000
+    },
+    {
+      "title": "9. Dirac's Bra and Ket Notation",
+      "views": 167000
+    },
+    {
+      "title": "10. Uncertainty Principle and Compatible Observables",
+      "views": 56000
+    },
+    {
+      "title": "11. Uncertainty Principle and Compatible Observables (continued)",
+      "views": 34000
+    },
+    {
+      "title": "12. Quantum Dynamics",
+      "views": 71000
+    },
+    {
+      "title": "13. Quantum Dynamics (continued) | Heisenberg Picture",
+      "views": 59000
+    },
+    {
+      "title": "14.  Quantum Dynamics (continued)",
+      "views": 44000
+    },
+    {
+      "title": "15.  Quantum Dynamics (continued)",
+      "views": 32000
+    },
+    {
+      "title": "16.  Quantum Dynamics (continued) and Two State Systems",
+      "views": 41000
+    },
+    {
+      "title": "17. Two State Systems (continued)",
+      "views": 37000
+    },
+    {
+      "title": "18. Two State Systems (continued), Multiparticle States and Tensor Products",
+      "views": 36000
+    },
+    {
+      "title": "19. Multiparticle States and Tensor Products (continued)",
+      "views": 36000
+    },
+    {
+      "title": "20. Multiparticle States and Tensor Products (continued) and Angular Momentum",
+      "views": 33000
+    },
+    {
+      "title": "21. Angular Momentum (continued)",
+      "views": 41000
+    },
+    {
+      "title": "22. Angular Momentum (continued)",
+      "views": 25000
+    },
+    {
+      "title": "23. Angular Momentum (continued)",
+      "views": 24000
+    },
+    {
+      "title": "24. Addition of Angular Momentum",
+      "views": 77000
+    },
+    {
+      "title": "25. Addition of Angular Momentum (continued)",
+      "views": 30000
+    },
+    {
+      "title": "26. Addition of Angular Momentum (continued)",
+      "views": 26000
+    }
+  ]
+}

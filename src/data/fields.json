@@ -1,0 +1,243 @@
+{
+  "groups": {
+    "root": {
+      "title": "All Subjects"
+    },
+    "math": {
+      "title": "Math",
+      "parent": "root",
+      "pos": {
+        "x": 80,
+        "y": 100
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "physics": {
+      "title": "Physics",
+      "parent": "root",
+      "pos": {
+        "x": 480,
+        "y": 100
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "cs": {
+      "title": "Computer Science",
+      "parent": "root",
+      "pos": {
+        "x": 280,
+        "y": 400
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "real-analysis": {
+      "title": "Real Analysis",
+      "parent": "math",
+      "pos": {
+        "x": 80,
+        "y": 140
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "linear-algebra": {
+      "title": "Linear Algebra",
+      "parent": "math",
+      "pos": {
+        "x": 440,
+        "y": 140
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "prob-stats": {
+      "title": "Prob & Statistics",
+      "parent": "math",
+      "pos": {
+        "x": 260,
+        "y": 420
+      },
+      "size": {
+        "w": 260,
+        "h": 160
+      }
+    },
+    "intro-physics": {
+      "title": "Introductory Physics",
+      "parent": "physics",
+      "pos": {
+        "x": 80,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "quantum-mechanics": {
+      "title": "Quantum Mechanics",
+      "parent": "physics",
+      "pos": {
+        "x": 430,
+        "y": 140
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "relativity": {
+      "title": "Relativity",
+      "parent": "physics",
+      "pos": {
+        "x": 430,
+        "y": 440
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "stat-mech": {
+      "title": "Statistical Mechanics",
+      "parent": "physics",
+      "pos": {
+        "x": 780,
+        "y": 440
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "qft": {
+      "title": "Quantum Field Theory",
+      "parent": "physics",
+      "pos": {
+        "x": 780,
+        "y": 140
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "machine-learning": {
+      "title": "Machine Learning",
+      "parent": "cs",
+      "pos": {
+        "x": 360,
+        "y": 180
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "vision-dl": {
+      "title": "Deep Learning for Vision",
+      "parent": "cs",
+      "pos": {
+        "x": 720,
+        "y": 60
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "nlp-dl": {
+      "title": "NLP with Deep Learning",
+      "parent": "cs",
+      "pos": {
+        "x": 720,
+        "y": 320
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    }
+  },
+  "edges": [
+    {
+      "from": "linear-algebra",
+      "to": "quantum-mechanics"
+    },
+    {
+      "from": "linear-algebra",
+      "to": "machine-learning"
+    },
+    {
+      "from": "mit-6041",
+      "to": "machine-learning"
+    },
+    {
+      "from": "intro-physics",
+      "to": "quantum-mechanics"
+    },
+    {
+      "from": "intro-physics",
+      "to": "relativity"
+    },
+    {
+      "from": "quantum-mechanics",
+      "to": "qft"
+    },
+    {
+      "from": "relativity",
+      "to": "qft"
+    },
+    {
+      "from": "quantum-mechanics",
+      "to": "stat-mech"
+    },
+    {
+      "from": "machine-learning",
+      "to": "vision-dl"
+    },
+    {
+      "from": "machine-learning",
+      "to": "nlp-dl"
+    }
+  ],
+  "ghosts": [
+    {
+      "node": "linear-algebra",
+      "inGroup": "physics",
+      "pos": {
+        "x": 110,
+        "y": 120
+      }
+    },
+    {
+      "node": "linear-algebra",
+      "inGroup": "cs",
+      "pos": {
+        "x": 80,
+        "y": 100
+      }
+    },
+    {
+      "node": "mit-6041",
+      "inGroup": "cs",
+      "pos": {
+        "x": 80,
+        "y": 320
+      }
+    }
+  ]
+}

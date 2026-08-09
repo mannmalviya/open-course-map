@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to Real Numbers",
+      "views": 260000
+    },
+    {
+      "title": "Lecture 2: Introduction to Real Numbers (cont.)",
+      "views": 33000
+    },
+    {
+      "title": "Lecture 3: How to Write a Proof; Archimedean Property",
+      "views": 19000
+    },
+    {
+      "title": "Lecture 4: Sequences; Convergence",
+      "views": 13000
+    },
+    {
+      "title": "Lecture 5: Monotone Convergence Theorem",
+      "views": 8000
+    },
+    {
+      "title": "Lecture 6: Cauchy Convergence Theorem",
+      "views": 6300
+    },
+    {
+      "title": "Lecture 7: Bolzano–Weierstrass Theorem; Cauchy Sequences; Series",
+      "views": 6000
+    },
+    {
+      "title": "Lecture 8: Convergence Tests for Series; Power Series",
+      "views": 4200
+    },
+    {
+      "title": "Lecture 9: Limsup and Liminf; Power Series; Continuous Functions; Exponential Function",
+      "views": 4100
+    },
+    {
+      "title": "Lecture 10: Continuous Functions; Exponential Function (cont.)",
+      "views": 4500
+    },
+    {
+      "title": "Lecture 11: Extreme and Intermediate Value Theorem; Metric Spaces",
+      "views": 6300
+    },
+    {
+      "title": "Review for 18.100B Real Analysis Midterm",
+      "views": 2500
+    },
+    {
+      "title": "Lecture 12: Convergence in Metric Spaces; Operations on Sets",
+      "views": 2600
+    },
+    {
+      "title": "Lecture 13: Open and Closed Sets; Coverings; Compactness",
+      "views": 3000
+    },
+    {
+      "title": "Lecture 14: Sequential Compactness; Bolzano–Weierstrass Theorem in a Metric Space",
+      "views": 2300
+    },
+    {
+      "title": "Lecture 15: Derivatives; Laws for Differentiation",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 16: Rolle’s Theorem; Mean Theorem; L’Hôpital’s Rule; Taylor Expansion",
+      "views": 2900
+    },
+    {
+      "title": "Lecture 17: Taylor Polynomials; Remainder Term; Riemann Integrals",
+      "views": 2500
+    },
+    {
+      "title": "Lecture 18: Integrable Functions",
+      "views": 3600
+    },
+    {
+      "title": "Lecture 19: Fundamental Theorem of Calculus",
+      "views": 2600
+    },
+    {
+      "title": "Lecture 20: Pointwise Convergence; Uniform Convergence",
+      "views": 2200
+    },
+    {
+      "title": "Lecture 21: Integrals and Derivatives under Uniform Convergence",
+      "views": 2100
+    },
+    {
+      "title": "Lecture 22: Differentiating and Integrating Power Series; Ordinary Differential Equations (ODEs)",
+      "views": 2200
+    },
+    {
+      "title": "Lecture 23: Existence & Uniqueness for ODEs: Picard–Lindelöf Theorem",
+      "views": 5000
+    },
+    {
+      "title": "Review for the 18.100B Real Analysis Final Exam",
+      "views": 6600
+    }
+  ]
+}

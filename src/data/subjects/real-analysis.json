@@ -1,0 +1,40 @@
+{
+  "courses": {
+    "mit-18100a": {
+      "title": "18.100A Real Analysis",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.100A · Dr. Casey Rodriguez · 2020",
+          "url": "https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw",
+          "date": "Fall 2020",
+          "youtubeId": "LY7YmuDbuW0",
+          "primary": true
+        }
+      ]
+    },
+    "mit-18100b": {
+      "title": "18.100B Real Analysis",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.100B · Tobias Holck Colding · 2025",
+          "url": "https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG",
+          "date": "Spring 2025",
+          "youtubeId": "BWvjy0a1Ffg",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "courses": {
+    "mit-820": {
+      "title": "8.20 Special Relativity",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 190
+      },
+      "versions": [
+        {
+          "label": "MIT 8.20 · Klute · 2021",
+          "url": "https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8",
+          "date": "IAP 2021",
+          "youtubeId": "uMc-j5aQTH8",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-gr": {
+      "title": "General Relativity",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 60
+      },
+      "versions": [
+        {
+          "label": "Stanford · Susskind · General Relativity · 2012",
+          "url": "https://theoreticalminimum.com/courses/general-relativity/2012/fall",
+          "youtube": "https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib",
+          "date": "Fall 2012",
+          "youtubeId": "SwhOffh0kEE",
+          "primary": true
+        }
+      ]
+    },
+    "mit-8962": {
+      "title": "8.962 General Relativity",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 320
+      },
+      "versions": [
+        {
+          "label": "MIT 8.962 · Hughes · 2020",
+          "url": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP629n_3fX7HmKKgin_rqGzbx",
+          "date": "Spring 2020",
+          "youtubeId": "iRVfaR3N5K4",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    { "from": "mit-820", "to": "susskind-gr" },
+    { "from": "mit-820", "to": "mit-8962" }
+  ]
+}

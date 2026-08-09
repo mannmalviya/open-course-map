@@ -1,0 +1,164 @@
+{
+  "lectures": [
+    {
+      "title": "8.01x - Introduction",
+      "views": 1700000
+    },
+    {
+      "title": "8.01x - Lect 1 - Powers of 10, Units, Dimensions, Uncertainties, Scaling Arguments",
+      "views": 1700000
+    },
+    {
+      "title": "8.01x - Lect 2 - 1D Kinematics - Speed, Velocity, Acceleration",
+      "views": 1200000
+    },
+    {
+      "title": "8.01x - Lect 3 - Vectors - Dot Products - Cross Products - 3D Kinematics",
+      "views": 1400000
+    },
+    {
+      "title": "8.01x - Lect 4 - 3D Kinematics, Free Falling Reference Frames",
+      "views": 538000
+    },
+    {
+      "title": "8.01x - Lect 5 - Circular Motion, Centripetal Forces, Perceived Gravity",
+      "views": 1100000
+    },
+    {
+      "title": "8.01x - Lect 6 - Newton's Laws",
+      "views": 1400000
+    },
+    {
+      "title": "8.01x - Lect 7 - Weight, Weightlessness in  Free Fall,  Weight in Orbit",
+      "views": 501000
+    },
+    {
+      "title": "8.01x - Lect 8 - Friction",
+      "views": 405000
+    },
+    {
+      "title": "8.01x - Lect 9 - First Exam Review",
+      "views": 199000
+    },
+    {
+      "title": "8.01x - Lect 10 - Hooke's Law, Springs, Pendulums, Simple Harmonic Motion",
+      "views": 2000000
+    },
+    {
+      "title": "8.01x - Lect 11 - Work, Kinetic & Potential Energy, Gravitation, Conservative Forces",
+      "views": 678000
+    },
+    {
+      "title": "8.01x - Lect 12 - Air Drag, Resistive Forces, Conservative Forces, Terminal Velocity",
+      "views": 229000
+    },
+    {
+      "title": "8.01x - Lect 13 - Potential Energy, Derive Simple Harmonic Motion using Energy",
+      "views": 200000
+    },
+    {
+      "title": "8.01x - Lect 14 - Escape Velocities, Circular Orbits, Bound and Unbound  Orbits, Power",
+      "views": 168000
+    },
+    {
+      "title": "8.01x - Lect 15 - Momentum, Conservation of Momentum, Center of Mass",
+      "views": 346000
+    },
+    {
+      "title": "8.01x - Lect 16 -  Elastic & Inelastic Collisions, Center of Mass Frame of Reference",
+      "views": 225000
+    },
+    {
+      "title": "8.01x - Lect 17 - Impulse, Rockets",
+      "views": 196000
+    },
+    {
+      "title": "8.01x - Lect 18 - 2nd Exam Review",
+      "views": 76000
+    },
+    {
+      "title": "8.01x - Lect 19 - Rotating Objects, Moment of Inertia, Rotational KE, Neutron Stars",
+      "views": 549000
+    },
+    {
+      "title": "8.01x - Lect 20 - Angular Momentum, Torques, Conservation of Angular Momentum",
+      "views": 321000
+    },
+    {
+      "title": "8.01x - Lect 21 - Torques, Oscillating Bodies, Physical Pendulums",
+      "views": 191000
+    },
+    {
+      "title": "8.01x - Lect 22 - Kepler's Laws, Elliptical Orbits, Satellites, Orbital Changes",
+      "views": 139000
+    },
+    {
+      "title": "8.01x - Lect 23 - Doppler Effect, Binary Stars, Neutron Stars & Black Holes",
+      "views": 137000
+    },
+    {
+      "title": "8.01x - Lect 24 - Rolling Motion, Gyroscopes, VERY NON-INTUITIVE",
+      "views": 5400000
+    },
+    {
+      "title": "8.01x - Lect 25 - Static Equilibrium, Stability, Rope Warker",
+      "views": 162000
+    },
+    {
+      "title": "8.01x - Lect 26 - Elasticity, Young's Modulus",
+      "views": 118000
+    },
+    {
+      "title": "8.01x - Lect 27 - Fluid Mechanics, Hydrostatics, Pascal's Principle, Atmosph. Pressure",
+      "views": 408000
+    },
+    {
+      "title": "8.01x - Lect 28 - Hydrostatics, Archimedes' Principle, Bernoulli's Equation",
+      "views": 299000
+    },
+    {
+      "title": "8.01x - Lect 29 - Third Exam Review",
+      "views": 57000
+    },
+    {
+      "title": "8.01x - Lect 30 - Simple Harmonic Motion, Energy Considerations, Torsional Pendulum",
+      "views": 108000
+    },
+    {
+      "title": "8.01x - Lect 31 - Forced Oscillations, Normal Modes, Resonances, Musical Instruments",
+      "views": 88000
+    },
+    {
+      "title": "8.01x - Lect 32 - Heat, Thermal Expansion",
+      "views": 136000
+    },
+    {
+      "title": "8.01x - Lect 33 - Kinetic Gas Theory, Ideal Gas Law, Phase Transitions",
+      "views": 159000
+    },
+    {
+      "title": "8.01x - Lect 34 - The Wonderful Quantum World, Breakdown of Classical Mechanics",
+      "views": 199000
+    },
+    {
+      "title": "8.01x - Lect 35 - Farewell Special, My Early Days in Astrophysics, Huge Balloons",
+      "views": 73000
+    },
+    {
+      "title": "When a physics teacher knows his stuff !!",
+      "views": 59000000
+    },
+    {
+      "title": "KBTFÇG | Prof. Walter Lewin - Heisenberg Belirsizlik İlkesi",
+      "views": 73000
+    },
+    {
+      "title": "Fizik ders 28 ***Hidrostatik, Archimedes Prensibi ve Akışkanlar Dinamiği,kaldırmak kuvveti ****",
+      "views": 43000
+    },
+    {
+      "title": "Lagrangian and Hamiltonian Mechanics in Under 20 Minutes: Physics Mini Lesson",
+      "views": 1500000
+    }
+  ]
+}

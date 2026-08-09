@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "1. Thermodynamics Part 1",
+      "views": 1000000
+    },
+    {
+      "title": "2. Thermodynamics Part 2",
+      "views": 163000
+    },
+    {
+      "title": "3. Thermodynamics Part 3",
+      "views": 94000
+    },
+    {
+      "title": "4. Thermodynamics Part 4",
+      "views": 63000
+    },
+    {
+      "title": "5. Probability Part 1",
+      "views": 76000
+    },
+    {
+      "title": "6. Probability Part 2",
+      "views": 45000
+    },
+    {
+      "title": "7. Kinetic Theory of Gases Part 1",
+      "views": 82000
+    },
+    {
+      "title": "8. Kinetic Theory of Gases Part 2",
+      "views": 39000
+    },
+    {
+      "title": "9. Kinetic Theory of Gases Part 3",
+      "views": 32000
+    },
+    {
+      "title": "10. Kinetic Theory of Gases Part 4",
+      "views": 23000
+    },
+    {
+      "title": "11. Kinetic Theory of Gases Part 5",
+      "views": 19000
+    },
+    {
+      "title": "12. Classical Statistical Mechanics Part 1",
+      "views": 62000
+    },
+    {
+      "title": "13. Classical Statistical Mechanics Part 2",
+      "views": 30000
+    },
+    {
+      "title": "14. Classical Statistical Mechanics Part 3",
+      "views": 37000
+    },
+    {
+      "title": "15. Interacting Particles Part 1",
+      "views": 30000
+    },
+    {
+      "title": "16. Interacting Particles Part 2",
+      "views": 19000
+    },
+    {
+      "title": "17. Interacting Particles Part 3",
+      "views": 13000
+    },
+    {
+      "title": "18. Interacting Particles Part 4",
+      "views": 12000
+    },
+    {
+      "title": "19. Interacting Particles Part 5",
+      "views": 36000
+    },
+    {
+      "title": "20. Quantum Statistical Mechanics Part 1",
+      "views": 43000
+    },
+    {
+      "title": "21. Quantum Statistical Mechanics Part 2",
+      "views": 28000
+    },
+    {
+      "title": "22. Ideal Quantum Gases Part 1",
+      "views": 22000
+    },
+    {
+      "title": "23. Ideal Quantum Gases Part 2",
+      "views": 16000
+    },
+    {
+      "title": "24. Ideal Quantum Gases Part 3",
+      "views": 12000
+    },
+    {
+      "title": "25. Ideal Quantum Gases Part 4",
+      "views": 10000
+    },
+    {
+      "title": "26. Ideal Quantum Gases Part 5",
+      "views": 10000
+    }
+  ]
+}

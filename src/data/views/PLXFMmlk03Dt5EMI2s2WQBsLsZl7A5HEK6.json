@@ -1,0 +1,384 @@
+{
+  "lectures": [
+    {
+      "title": "TWO MOTIVATING APPLICATIONS: Internet Routing",
+      "views": 24000
+    },
+    {
+      "title": "TWO MOTIVATING APPLICATIONS: Sequence Alignment",
+      "views": 3900
+    },
+    {
+      "title": "INTRODUCTION TO GREEDY ALGORITHMS: Greedy Algorithms",
+      "views": 15000
+    },
+    {
+      "title": "INTRODUCTION TO GREEDY ALGORITHMS: Optimal Caching",
+      "views": 5000
+    },
+    {
+      "title": "A SCHEDULING APPLICATION: Problem Definition",
+      "views": 6600
+    },
+    {
+      "title": "A SCHEDULING APPLICATION: Greedy Algorithm",
+      "views": 6200
+    },
+    {
+      "title": "A SCHEDULING APPLICATION: Correctness Proof - Part I",
+      "views": 5400
+    },
+    {
+      "title": "A SCHEDULING APPLICATION: Correctness Proof - Part II",
+      "views": 3900
+    },
+    {
+      "title": "A SCHEDULING APPLICATION: Handling Ties",
+      "views": 3300
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: MST Problem Definition",
+      "views": 6600
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Prims MST Algorithm",
+      "views": 5100
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Correctness Proof 1",
+      "views": 4300
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Correctness Proof 2",
+      "views": 3100
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Proof of Cut Property",
+      "views": 2400
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Fast Implementation 1",
+      "views": 3800
+    },
+    {
+      "title": "PRIM'S MINIMUM SPANNING TREE ALGORITHM: Fast Implementation 2",
+      "views": 2900
+    },
+    {
+      "title": "KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM: Kruskals MST Algorithm",
+      "views": 4100
+    },
+    {
+      "title": "KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM: Correctness of Kruskals Algorithm",
+      "views": 2900
+    },
+    {
+      "title": "KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM: Implementing Kruskals Algorithm via Union Find",
+      "views": 3400
+    },
+    {
+      "title": "KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM: Implementing Kruskals Algorithm via Union Find 2",
+      "views": 3000
+    },
+    {
+      "title": "KRUSKAL'S MINIMUM SPANNING TREE ALGORITHM: MSTs State of the Art and Open Questions",
+      "views": 1800
+    },
+    {
+      "title": "CLUSTERING: Application to Clustering",
+      "views": 2900
+    },
+    {
+      "title": "CLUSTERING: Correctness of Clustering Algorithm",
+      "views": 1800
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Lazy Unions",
+      "views": 2600
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Union by Rank",
+      "views": 1500
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Analysis of Union by Rank",
+      "views": 1300
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Path Compression",
+      "views": 1300
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Path Compression The Hopcroft Ullman Analysis 1",
+      "views": 1200
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Path Compression The Hopcroft Ullman Analysis 2",
+      "views": 1000
+    },
+    {
+      "title": "ADVANCED UNION-FIND: The Ackermann Function",
+      "views": 1100
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Tarjans Analysis 1",
+      "views": 1000
+    },
+    {
+      "title": "ADVANCED UNION-FIND: Tarjans Analysis 2",
+      "views": 756
+    },
+    {
+      "title": "HUFFMAN CODES: Introduction and Motivation",
+      "views": 3700
+    },
+    {
+      "title": "HUFFMAN CODES: Problem Definition",
+      "views": 2800
+    },
+    {
+      "title": "HUFFMAN CODES: A Greedy Algorithm",
+      "views": 3400
+    },
+    {
+      "title": "HUFFMAN CODES: A More Complex Example",
+      "views": 2500
+    },
+    {
+      "title": "HUFFMAN CODES: Correctness Proof 1",
+      "views": 2500
+    },
+    {
+      "title": "HUFFMAN CODES: Correctness Proof 2",
+      "views": 2000
+    },
+    {
+      "title": "INTRODUCTION TO DYNAMIC PROGRAMMING: Introduction - Weighted Independent Sets in Path Graphs",
+      "views": 10000
+    },
+    {
+      "title": "INTRODUCTION TO DYNAMIC PROGRAMMING: WIS in Path Graphs - Optimal Substructure",
+      "views": 7300
+    },
+    {
+      "title": "INTRODUCTION TO DYNAMIC PROGRAMMING: WIS in Path Graphs - A Linear Time Algorithm",
+      "views": 5800
+    },
+    {
+      "title": "INTRODUCTION TO DYNAMIC PROGRAMMING: WIS in Path Graphs - A Reconstruction Algorithm",
+      "views": 4200
+    },
+    {
+      "title": "INTRODUCTION TO DYNAMIC PROGRAMMING: Principles of Dynamic Programming",
+      "views": 5900
+    },
+    {
+      "title": "THE KNAPSACK PROBLEM: The Knapsack Problem",
+      "views": 6500
+    },
+    {
+      "title": "THE KNAPSACK PROBLEM: A Dynamic Programming Algorithm",
+      "views": 5100
+    },
+    {
+      "title": "THE KNAPSACK PROBLEM: Example",
+      "views": 4400
+    },
+    {
+      "title": "SEQUENCE ALIGNMENT: Optimal Substructure",
+      "views": 4800
+    },
+    {
+      "title": "SEQUENCE ALIGNMENT: A Dynamic Programming Algorithm",
+      "views": 3500
+    },
+    {
+      "title": "OPTIMAL BINARY SEARCH TREES: Problem Definition",
+      "views": 3100
+    },
+    {
+      "title": "OPTIMAL BINARY SEARCH TREES: Optimal Substructure",
+      "views": 1800
+    },
+    {
+      "title": "OPTIMAL BINARY SEARCH TREES: Proof of Optimal Substructure",
+      "views": 1700
+    },
+    {
+      "title": "OPTIMAL BINARY SEARCH TREES: A Dynamic Programming Algorithm 1",
+      "views": 1900
+    },
+    {
+      "title": "OPTIMAL BINARY SEARCH TREES: A Dynamic Programming Algorithm 2",
+      "views": 1700
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: Single-Source Shortest Paths, Revisited",
+      "views": 3700
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: Optimal Substructure",
+      "views": 3400
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: The Basic Algorithm 1",
+      "views": 2900
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: The Basic Algorithm 2",
+      "views": 2500
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: Detecting Negative Cycles",
+      "views": 2200
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: A Space Optimization",
+      "views": 1500
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: Internet Routing 1",
+      "views": 1100
+    },
+    {
+      "title": "THE BELLMAN-FORD ALGORITHM: Internet Routing 2",
+      "views": 913
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: Problem Definition",
+      "views": 2400
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: Optimal Substructure",
+      "views": 2200
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: The Floyd Warshall Algorithm",
+      "views": 2400
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: A Reweighting Technique",
+      "views": 2400
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: Johnson's Algorithm 1",
+      "views": 1600
+    },
+    {
+      "title": "ALL-PAIRS SHORTEST PATHS: Johnson's Algorithm 2",
+      "views": 1300
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: Polynomial Time Solvable Problems",
+      "views": 3000
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: Reductions and Completeness",
+      "views": 2000
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: Definition and Interpretation of NP Completeness 1",
+      "views": 1700
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: Definition and Interpretation of NP Completeness 2",
+      "views": 1400
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: The P vs NP Question",
+      "views": 1300
+    },
+    {
+      "title": "NP-COMPLETE PROBLEMS: Algorithmic Approaches to NP-Complete Problems",
+      "views": 1500
+    },
+    {
+      "title": "FASTER EXACT ALGORITHMS FOR NP-COMPLETE PROBLEMS: The Vertex Cover Problem",
+      "views": 1400
+    },
+    {
+      "title": "FASTER EXACT ALGORITHMS FOR NP-COMPLETE PROBLEMS: Smarter Search for Vertex Cover 1",
+      "views": 1200
+    },
+    {
+      "title": "FASTER EXACT ALGORITHMS FOR NP-COMPLETE PROBLEMS: Smarter Search for Vertex Cover 2",
+      "views": 1000
+    },
+    {
+      "title": "FASTER EXACT ALGORITHMS FOR NP-COMPLETE PROBLEMS: The Traveling Salesman Problem",
+      "views": 1200
+    },
+    {
+      "title": "FASTER EXACT ALGORITHMS FOR NP-COMPLETE PROBLEMS: A Dynamic Programming Algorithm for TSP",
+      "views": 1100
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: A Greedy Knapsack Heuristic",
+      "views": 1400
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: Analysis of a Greedy Knapsack Heuristic 1",
+      "views": 1000
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: Analysis of a Greedy Knapsack Heuristic 2",
+      "views": 1000
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: A Dynamic Programming Heuristic for Knapsack",
+      "views": 933
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: Knapsack via Dynamic Programming Revisited",
+      "views": 773
+    },
+    {
+      "title": "APPROXIMATION ALGORITHMS FOR NP-COMPLETE PROBLEMS: Analysis of Dynamic Programming Heuristic",
+      "views": 823
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: The Maximum Cut Problem 1",
+      "views": 1100
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: The Maximum Cut Problem 2",
+      "views": 779
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: Principles of Local Search 1",
+      "views": 705
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: Principles of Local Search 2",
+      "views": 603
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: The 2-SAT Problem",
+      "views": 826
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: Random Walks on a Line",
+      "views": 780
+    },
+    {
+      "title": "LOCAL SEARCH ALGORITHMS: Analysis of Papadimitriou's Algorithm",
+      "views": 1000
+    },
+    {
+      "title": "THE WIDER WORLD OF ALGORITHMS: Stable Matching",
+      "views": 1000
+    },
+    {
+      "title": "THE WIDER WORLD OF ALGORITHMS: Matchings, Flows, and Braess' Paradox",
+      "views": 873
+    },
+    {
+      "title": "THE WIDER WORLD OF ALGORITHMS: Linear Programming and Beyond",
+      "views": 1000
+    },
+    {
+      "title": "THE WIDER WORLD OF ALGORITHMS: Epilogue",
+      "views": 1500
+    }
+  ]
+}

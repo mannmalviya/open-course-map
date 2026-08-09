@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "1. Introduction, Finite Automata, Regular Expressions",
+      "views": 575000
+    },
+    {
+      "title": "2. Nondeterminism, Closure Properties, Conversion of Regular Expressions to FA",
+      "views": 155000
+    },
+    {
+      "title": "3. Regular Pumping Lemma, Conversion of FA to Regular Expressions",
+      "views": 124000
+    },
+    {
+      "title": "4. Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion",
+      "views": 122000
+    },
+    {
+      "title": "5. CF Pumping Lemma, Turing Machines",
+      "views": 94000
+    },
+    {
+      "title": "6. TM Variants, Church-Turing Thesis",
+      "views": 74000
+    },
+    {
+      "title": "7. Decision Problems for Automata and Grammars",
+      "views": 58000
+    },
+    {
+      "title": "8. Undecidability",
+      "views": 64000
+    },
+    {
+      "title": "9. Reducibility",
+      "views": 68000
+    },
+    {
+      "title": "10. Computation History Method",
+      "views": 27000
+    },
+    {
+      "title": "11. Recursion Theorem and Logic",
+      "views": 26000
+    },
+    {
+      "title": "12. Time Complexity",
+      "views": 47000
+    },
+    {
+      "title": "14. P and NP, SAT, Poly-Time Reducibility",
+      "views": 43000
+    },
+    {
+      "title": "15. NP-Completeness",
+      "views": 38000
+    },
+    {
+      "title": "16. Cook-Levin Theorem",
+      "views": 31000
+    },
+    {
+      "title": "17. Space Complexity, PSPACE, Savitch's Theorem",
+      "views": 23000
+    },
+    {
+      "title": "18. PSPACE-Completeness",
+      "views": 14000
+    },
+    {
+      "title": "19. Games, Generalized Geography",
+      "views": 12000
+    },
+    {
+      "title": "20. L and NL, NL = coNL",
+      "views": 15000
+    },
+    {
+      "title": "21. Hierarchy Theorems",
+      "views": 12000
+    },
+    {
+      "title": "22. Provably Intractable Problems, Oracles",
+      "views": 8300
+    },
+    {
+      "title": "23. Probabilistic Computation, BPP",
+      "views": 11000
+    },
+    {
+      "title": "24. Probabilistic Computation (cont.)",
+      "views": 8500
+    },
+    {
+      "title": "25. Interactive Proof Systems, IP",
+      "views": 10000
+    },
+    {
+      "title": "26. coNP is a subset of IP",
+      "views": 7300
+    }
+  ]
+}

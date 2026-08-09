@@ -1,0 +1,156 @@
+{
+  "lectures": [
+    {
+      "title": "1. What is Computation?",
+      "views": 2200000
+    },
+    {
+      "title": "Shell vs. Editor",
+      "views": 297000
+    },
+    {
+      "title": "Python vs. Math",
+      "views": 268000
+    },
+    {
+      "title": "Bindings",
+      "views": 185000
+    },
+    {
+      "title": "2. Branching and Iteration",
+      "views": 646000
+    },
+    {
+      "title": "Strings",
+      "views": 102000
+    },
+    {
+      "title": "Comparisons",
+      "views": 84000
+    },
+    {
+      "title": "Branching",
+      "views": 79000
+    },
+    {
+      "title": "While Loops",
+      "views": 96000
+    },
+    {
+      "title": "For Loops",
+      "views": 97000
+    },
+    {
+      "title": "3. String Manipulation, Guess and Check, Approximations, Bisection",
+      "views": 418000
+    },
+    {
+      "title": "String Manipulations",
+      "views": 68000
+    },
+    {
+      "title": "For Loops With Strings",
+      "views": 68000
+    },
+    {
+      "title": "4. Decomposition, Abstraction, and Functions",
+      "views": 258000
+    },
+    {
+      "title": "Function Calls",
+      "views": 64000
+    },
+    {
+      "title": "Functions as Arguments",
+      "views": 60000
+    },
+    {
+      "title": "5. Tuples, Lists, Aliasing, Mutability, and Cloning",
+      "views": 251000
+    },
+    {
+      "title": "Tuples",
+      "views": 62000
+    },
+    {
+      "title": "Simple Lists",
+      "views": 34000
+    },
+    {
+      "title": "List Operations",
+      "views": 32000
+    },
+    {
+      "title": "List Aliasing/Mutation",
+      "views": 34000
+    },
+    {
+      "title": "6. Recursion and Dictionaries",
+      "views": 409000
+    },
+    {
+      "title": "7. Testing, Debugging, Exceptions, and Assertions",
+      "views": 197000
+    },
+    {
+      "title": "Black Box and Glass Box Testing",
+      "views": 41000
+    },
+    {
+      "title": "Errors",
+      "views": 24000
+    },
+    {
+      "title": "Exceptions",
+      "views": 26000
+    },
+    {
+      "title": "8. Object Oriented Programming",
+      "views": 695000
+    },
+    {
+      "title": "Class Definition",
+      "views": 42000
+    },
+    {
+      "title": "Class Instance",
+      "views": 41000
+    },
+    {
+      "title": "Methods",
+      "views": 26000
+    },
+    {
+      "title": "Method Call",
+      "views": 27000
+    },
+    {
+      "title": "Special Methods",
+      "views": 28000
+    },
+    {
+      "title": "9. Python Classes and Inheritance",
+      "views": 222000
+    },
+    {
+      "title": "Getters and Setters",
+      "views": 40000
+    },
+    {
+      "title": "Subclass",
+      "views": 28000
+    },
+    {
+      "title": "10. Understanding Program Efficiency, Part 1",
+      "views": 254000
+    },
+    {
+      "title": "11. Understanding Program Efficiency, Part 2",
+      "views": 125000
+    },
+    {
+      "title": "12. Searching and Sorting",
+      "views": 194000
+    }
+  ]
+}

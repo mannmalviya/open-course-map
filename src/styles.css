@@ -94,13 +94,15 @@ body {
   pointer-events: none;
 }
 
-.group-node {
+.group-node,
+.course-node {
   transform-box: fill-box;
   transform-origin: center;
   transition: transform 0.2s ease;
 }
 
-.group-node:hover {
+.group-node:hover,
+.course-node:hover {
   transform: scale(1.02);
 }
 
@@ -219,6 +221,47 @@ body {
 
 .theme-toggle button:hover {
   background: var(--hover-bg);
+}
+
+/* Settings popover, anchored under the top-right island */
+.settings-pop {
+  top: 64px;
+  right: 16px;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 6px;
+  padding: 12px 16px;
+  min-width: 170px;
+}
+
+.settings-title {
+  font-family: var(--hand-font);
+  font-size: 17px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--island-border);
+}
+
+.settings-section {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-top: 2px;
+}
+
+.settings-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  padding: 2px 0;
+  cursor: pointer;
+}
+
+.settings-row input {
+  accent-color: var(--accent);
+  cursor: pointer;
 }
 
 .hint {
@@ -515,14 +558,30 @@ body {
   overflow: hidden;
 }
 
+.offering {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease,
+    transform 0.2s ease, box-shadow 0.2s ease;
+}
+
 .offering:hover {
   border-color: var(--accent);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
+}
+
+.offering-thumb img {
+  transition: transform 0.25s ease;
+}
+
+.offering:hover .offering-thumb img {
+  transform: scale(1.03);
 }
 
 .offering-thumb {
   display: block;
   aspect-ratio: 16 / 9;
   background: var(--hover-bg);
+  overflow: hidden;
 }
 
 .offering-thumb img {
@@ -607,9 +666,15 @@ body {
   text-align: left;
 }
 
+.course-link {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease,
+    transform 0.2s ease;
+}
+
 .course-link:hover {
   background: var(--hover-bg);
   border-color: var(--accent);
+  transform: translateY(-2px);
 }
 
 .course-link-title {

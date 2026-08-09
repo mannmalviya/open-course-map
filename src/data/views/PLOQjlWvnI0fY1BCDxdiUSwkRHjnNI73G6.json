@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "CSE101, Fall 22: Linked lists",
+      "views": 2200
+    },
+    {
+      "title": "CSE101 Fall 22, Lec 3, Part 1: Reversing a linked list",
+      "views": 504
+    },
+    {
+      "title": "CSE101 Fall 22, Lec 3, Part 2: An introduction to stacks and parentheses checking",
+      "views": 465
+    },
+    {
+      "title": "CSE101 Fall 22, Lec 3, Part 3: An introduction to simulating recursion through stacks",
+      "views": 707
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 4: Stacks and recursion",
+      "views": 680
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 5: Starting asymptotic analysis of algorithms, big-Oh notation",
+      "views": 450
+    },
+    {
+      "title": "CSE101, Fall 22: Lec 6, asymptotic running time analysis of quadratic time sorting algorithms",
+      "views": 260
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 7, Part 1: Analysis of binary search",
+      "views": 216
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 7, Part 2: An introduction to priority queues and binary heaps",
+      "views": 236
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 8: Binary heaps",
+      "views": 387
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 9: Binary Search Trees",
+      "views": 308
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 10, Part 1: Tree traversals",
+      "views": 172
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 10, Part 2: Self balancing trees and rotations",
+      "views": 198
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 11: AVL trees",
+      "views": 344
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 12, part 1: Range search in balanced BSTs",
+      "views": 259
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 12, Part 2: Hash tables",
+      "views": 136
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 13: Mergesort and Quicksort",
+      "views": 116
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 16, Part 1: Introduction to graphs",
+      "views": 238
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 16, Part 2: Introduction to Breadth First Search (BFS)",
+      "views": 170
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 17, Part 1: Breadth First Search",
+      "views": 182
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 17, Part 2: Introduction to Single Source Shortest Paths",
+      "views": 163
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 18: Single Source Shortest Path, Bellman-Ford and Dijkstra's algorithms",
+      "views": 263
+    },
+    {
+      "title": "CSE101, Fall 22, Lec 19: Depth First Search (DFS)",
+      "views": 422
+    }
+  ]
+}

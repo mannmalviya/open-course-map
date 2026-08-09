@@ -1,0 +1,192 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Algorithmic Thinking, Peak Finding",
+      "views": 5900000
+    },
+    {
+      "title": "Lecture 2: Models of Computation, Document Distance",
+      "views": 933000
+    },
+    {
+      "title": "Lecture 3: Insertion Sort, Merge Sort",
+      "views": 883000
+    },
+    {
+      "title": "Lecture 4: Heaps and Heap Sort",
+      "views": 906000
+    },
+    {
+      "title": "Lecture 5: Binary Search Trees, BST Sort",
+      "views": 637000
+    },
+    {
+      "title": "Lecture 6: AVL Trees, AVL Sort",
+      "views": 701000
+    },
+    {
+      "title": "Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting",
+      "views": 424000
+    },
+    {
+      "title": "Lecture 8: Hashing with Chaining",
+      "views": 622000
+    },
+    {
+      "title": "Lecture 9: Table Doubling, Karp-Rabin",
+      "views": 246000
+    },
+    {
+      "title": "Lecture 10: Open Addressing, Cryptographic Hashing",
+      "views": 170000
+    },
+    {
+      "title": "Lecture 11: Integer Arithmetic, Karatsuba Multiplication",
+      "views": 158000
+    },
+    {
+      "title": "Lecture 12: Square Roots, Newton's Method",
+      "views": 103000
+    },
+    {
+      "title": "Lecture 13: Breadth-First Search (BFS)",
+      "views": 733000
+    },
+    {
+      "title": "Lecture 14: Depth-First Search (DFS), Topological Sort",
+      "views": 477000
+    },
+    {
+      "title": "Lecture 15: Single-Source Shortest Paths Problem",
+      "views": 260000
+    },
+    {
+      "title": "Lecture 16: Dijkstra",
+      "views": 326000
+    },
+    {
+      "title": "Lecture 17: Bellman-Ford",
+      "views": 204000
+    },
+    {
+      "title": "Lecture 18: Speeding up Dijkstra",
+      "views": 109000
+    },
+    {
+      "title": "Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths",
+      "views": 2800000
+    },
+    {
+      "title": "Lecture 20: Dynamic Programming II: Text Justification, Blackjack",
+      "views": 558000
+    },
+    {
+      "title": "Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack",
+      "views": 374000
+    },
+    {
+      "title": "Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros.",
+      "views": 181000
+    },
+    {
+      "title": "Lecture 23: Computational Complexity",
+      "views": 541000
+    },
+    {
+      "title": "Lecture 24: Topics in Algorithms Research",
+      "views": 81000
+    },
+    {
+      "title": "Recitation 1: Asymptotic Complexity, Peak Finding",
+      "views": 190000
+    },
+    {
+      "title": "Recitation 2: Python Cost Model, Document Distance",
+      "views": 70000
+    },
+    {
+      "title": "Recitation 3: Document Distance, Insertion and Merge Sort",
+      "views": 46000
+    },
+    {
+      "title": "Recitation 5: Recursion Trees, Binary Search Trees",
+      "views": 115000
+    },
+    {
+      "title": "Recitation 6: AVL Trees",
+      "views": 85000
+    },
+    {
+      "title": "Recitation 7: Comparison Sort, Counting and Radix Sort",
+      "views": 47000
+    },
+    {
+      "title": "Recitation 8: Simulation Algorithms",
+      "views": 29000
+    },
+    {
+      "title": "Recitation 9: Rolling Hashes, Amortized Analysis",
+      "views": 37000
+    },
+    {
+      "title": "Recitation 9b: DNA Sequence Matching",
+      "views": 26000
+    },
+    {
+      "title": "Recitation 10: Quiz 1 Review",
+      "views": 21000
+    },
+    {
+      "title": "Recitation 11: Principles of Algorithm Design",
+      "views": 75000
+    },
+    {
+      "title": "Recitation 12: Karatsuba Multiplication, Newton's Method",
+      "views": 27000
+    },
+    {
+      "title": "Recitation 13: Breadth-First Search (BFS)",
+      "views": 39000
+    },
+    {
+      "title": "Recitation 14: Depth-First Search (DFS)",
+      "views": 33000
+    },
+    {
+      "title": "R15. Shortest Paths",
+      "views": 29000
+    },
+    {
+      "title": "Recitation 16: Rubik's Cube, StarCraft Zero",
+      "views": 34000
+    },
+    {
+      "title": "Recitation 18: Quiz 2 Review",
+      "views": 16000
+    },
+    {
+      "title": "Recitation 19: Dynamic Programming: Crazy Eights, Shortest Path",
+      "views": 43000
+    },
+    {
+      "title": "Recitation 20: Dynamic Programming: Blackjack",
+      "views": 36000
+    },
+    {
+      "title": "Recitation 22: Dynamic Programming: Dance Dance Revolution",
+      "views": 28000
+    },
+    {
+      "title": "Recitation 21: Dynamic Programming: Knapsack Problem",
+      "views": 208000
+    },
+    {
+      "title": "Recitation 23: Computational Complexity",
+      "views": 46000
+    },
+    {
+      "title": "Recitation 24: Final Exam Review",
+      "views": 43000
+    }
+  ]
+}

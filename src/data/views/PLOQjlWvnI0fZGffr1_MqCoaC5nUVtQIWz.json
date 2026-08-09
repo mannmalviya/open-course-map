@@ -1,0 +1,68 @@
+{
+  "lectures": [
+    {
+      "title": "CSE101, Lec 2: Linked lists",
+      "views": 2200
+    },
+    {
+      "title": "CSE101: Lec 4, stacks",
+      "views": 708
+    },
+    {
+      "title": "CSE101: Lec 5, more on recursion, asymptotic analysis",
+      "views": 448
+    },
+    {
+      "title": "CSE101, Lec 6: More discussion of asymptotic analysis, selection sort and insertion sort",
+      "views": 218
+    },
+    {
+      "title": "CSE101, Lec 7: Analysis of binary search",
+      "views": 246
+    },
+    {
+      "title": "CSE101, Lec 9: Binary Search Trees",
+      "views": 243
+    },
+    {
+      "title": "CSE101, Lec 10: Tree traversals and self-balancing trees",
+      "views": 202
+    },
+    {
+      "title": "CSE101, Lec 11: AVL trees",
+      "views": 281
+    },
+    {
+      "title": "CSE101, Lec 12: Hash tables",
+      "views": 232
+    },
+    {
+      "title": "CSE101, Lec 13: Mergesort and the O(nlog n) run time analysis, and quicksort",
+      "views": 170
+    },
+    {
+      "title": "CSE101, Lec 14: Solving basic algorithms questions with runtime analysis",
+      "views": 301
+    },
+    {
+      "title": "CSE101, Lec 15: Solving algorithms questions, Part II",
+      "views": 284
+    },
+    {
+      "title": "CSE101, Lec 16: Graphs and BFS",
+      "views": 408
+    },
+    {
+      "title": "CSE101, Lec 17: Loop invariants and the BFS invariant",
+      "views": 726
+    },
+    {
+      "title": "CSE101, Lec 18: Single-Source Shortest Paths",
+      "views": 465
+    },
+    {
+      "title": "CSE101, Lec 7: Binary Heaps",
+      "views": 399
+    }
+  ]
+}

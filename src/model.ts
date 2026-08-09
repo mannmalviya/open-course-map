@@ -61,6 +61,7 @@ const LOGOS: Record<string, string> = {
   Harvard: '/logos/harvard.svg',
   Stanford: '/logos/stanford.svg',
   Yale: '/logos/yale.svg',
+  'UC Santa Cruz': '/logos/uc-santa-cruz.svg',
 };
 
 export function logoFor(university?: string): string | undefined {
@@ -76,15 +77,63 @@ export function formatViews(n: number): string {
 // Node dimensions (course nodes are fixed-size; groups carry their own size)
 export const COURSE_W = 220;
 export const COURSE_H = 168;
+export const COURSE_H_COMPACT = 60;
 export const GHOST_W = 200;
 export const GHOST_H = 56;
 
+/** Compact mode: course cards collapse to title-only boxes — synced from App state. */
+let compactCourses = false;
+
+export function setCompactCourses(v: boolean) {
+  compactCourses = v;
+}
+
+export function isCompact(): boolean {
+  return compactCourses;
+}
+
 export function courseRect(c: Course): Rect {
-  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: COURSE_H };
+  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: compactCourses ? COURSE_H_COMPACT : COURSE_H };
 }
 
 export function ghostRect(g: Ghost): Rect {
   return { x: g.pos.x, y: g.pos.y, w: GHOST_W, h: GHOST_H };
+}
+
+/** Schools hidden by the settings filter — synced from App state before each render. */
+let hiddenSchools: ReadonlySet<string> = new Set();
+
+export function setHiddenSchools(schools: ReadonlySet<string>) {
+  hiddenSchools = schools;
+}
+
+/** Every university that appears in the data, alphabetical. */
+export function allSchools(): string[] {
+  const schools = new Set<string>();
+  for (const c of Object.values(map.courses)) if (c.university) schools.add(c.university);
+  return [...schools].sort();
+}
+
+function courseVisible(c: Course): boolean {
+  return !c.university || !hiddenSchools.has(c.university);
+}
+
+/** Recursive course count ignoring the school filter. */
+export function totalCourseCount(groupId: string): number {
+  return (
+    Object.values(map.courses).filter((c) => c.group === groupId).length +
+    Object.keys(map.groups)
+      .filter((id) => map.groups[id].parent === groupId)
+      .reduce((sum, id) => sum + totalCourseCount(id), 0)
+  );
+}
+
+/**
+ * A group vanishes only when the filter is what emptied it — groups that never
+ * had courses (empty scaffolding) stay visible regardless of the filter.
+ */
+function groupFilteredOut(groupId: string): boolean {
+  return hiddenSchools.size > 0 && courseCount(groupId) === 0 && totalCourseCount(groupId) > 0;
 }
 
 /** Chain of group ids from root down to the given group. */
@@ -99,17 +148,24 @@ export function groupChain(groupId: string): string[] {
 }
 
 export function childGroups(groupId: string): string[] {
-  return Object.keys(map.groups).filter((id) => map.groups[id].parent === groupId);
+  return Object.keys(map.groups).filter(
+    (id) => map.groups[id].parent === groupId && !groupFilteredOut(id)
+  );
 }
 
 export function coursesIn(groupId: string): string[] {
-  return Object.keys(map.courses).filter((id) => map.courses[id].group === groupId);
+  return Object.keys(map.courses).filter(
+    (id) => map.courses[id].group === groupId && courseVisible(map.courses[id])
+  );
 }
 
 export function ghostsIn(groupId: string): Ghost[] {
-  return map.ghosts.filter(
-    (g) => g.inGroup === groupId && (map.courses[g.node] || map.groups[g.node])
-  );
+  return map.ghosts.filter((g) => {
+    if (g.inGroup !== groupId) return false;
+    const course = map.courses[g.node];
+    if (course) return courseVisible(course);
+    return map.groups[g.node] !== undefined && !groupFilteredOut(g.node);
+  });
 }
 
 /** Recursive count of courses inside a group (for the badge on group boxes). */

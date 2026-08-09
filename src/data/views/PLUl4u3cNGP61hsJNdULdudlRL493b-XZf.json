@@ -1,0 +1,92 @@
+{
+  "lectures": [
+    {
+      "title": "1. Persistent Data Structures",
+      "views": 391000
+    },
+    {
+      "title": "2. Retroactive Data Structures",
+      "views": 37000
+    },
+    {
+      "title": "3. Geometric Structures I",
+      "views": 35000
+    },
+    {
+      "title": "4. Geometric Structures II",
+      "views": 15000
+    },
+    {
+      "title": "5. Dynamic Optimality I",
+      "views": 19000
+    },
+    {
+      "title": "6. Dynamic Optimality II",
+      "views": 10000
+    },
+    {
+      "title": "7. Memory Hierarchy Models",
+      "views": 24000
+    },
+    {
+      "title": "8. Cache-Oblivious Structures I",
+      "views": 15000
+    },
+    {
+      "title": "9. Cache-Oblivious Structures II",
+      "views": 7700
+    },
+    {
+      "title": "10. Dictionaries",
+      "views": 18000
+    },
+    {
+      "title": "11. Integer Models",
+      "views": 10000
+    },
+    {
+      "title": "12. Fusion Trees",
+      "views": 17000
+    },
+    {
+      "title": "13. Integer Lower Bounds",
+      "views": 5600
+    },
+    {
+      "title": "14. Sorting in Linear Time",
+      "views": 17000
+    },
+    {
+      "title": "15. Static Trees",
+      "views": 25000
+    },
+    {
+      "title": "16. Strings",
+      "views": 132000
+    },
+    {
+      "title": "17. Succinct Structures I",
+      "views": 16000
+    },
+    {
+      "title": "18. Succinct Structures II",
+      "views": 6500
+    },
+    {
+      "title": "19. Dynamic Graphs I",
+      "views": 27000
+    },
+    {
+      "title": "20. Dynamic Graphs II",
+      "views": 13000
+    },
+    {
+      "title": "21. Dynamic Connectivity Lower Bound",
+      "views": 8200
+    },
+    {
+      "title": "22. History of Memory Models",
+      "views": 11000
+    }
+  ]
+}

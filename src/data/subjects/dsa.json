@@ -1,0 +1,167 @@
+{
+  "courses": {
+    "mit-6006": {
+      "title": "6.006 Intro to Algorithms",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.006 · Demaine, Ku, Solomon · 2020",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY",
+          "date": "Spring 2020",
+          "youtubeId": "ZA-tUyM_y7s",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.006 · Demaine, Devadas · 2011",
+          "url": "https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb",
+          "date": "Fall 2011",
+          "youtubeId": "HtSuA80QTyo"
+        },
+        {
+          "label": "MIT 6.046J/18.410J (SMA 5503) · Leiserson, Demaine · 2005",
+          "url": "https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/",
+          "youtube": "https://www.youtube.com/playlist?list=PL8B24C31197EC371C",
+          "date": "Fall 2005",
+          "youtubeId": "JPyuH4qXLZ0"
+        }
+      ]
+    },
+    "mit-6046": {
+      "title": "6.046 Design & Analysis of Algorithms",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 60
+      },
+      "versions": [
+        {
+          "label": "MIT 6.046J · Demaine, Devadas, Lynch · 2015",
+          "url": "https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp",
+          "date": "Spring 2015",
+          "youtubeId": "2P-yW7LQr08",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6851": {
+      "title": "6.851 Advanced Data Structures",
+      "university": "MIT",
+      "pos": {
+        "x": 720,
+        "y": 60
+      },
+      "versions": [
+        {
+          "label": "MIT 6.851 · Demaine · 2012",
+          "url": "https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf",
+          "date": "Spring 2012",
+          "youtubeId": "T0yzrZL1py0",
+          "primary": true
+        }
+      ]
+    },
+    "harvard-cs224": {
+      "title": "CS224 Advanced Algorithms",
+      "university": "Harvard",
+      "pos": {
+        "x": 720,
+        "y": 300
+      },
+      "versions": [
+        {
+          "label": "Harvard CS224 · Nelson · 2014",
+          "url": "https://people.eecs.berkeley.edu/~minilek/cs224/fall14/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf",
+          "date": "Fall 2014",
+          "youtubeId": "0JUN9aDxVmI",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-alg1": {
+      "title": "Algorithms 1",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "Stanford · Roughgarden · Algorithms 1",
+          "url": "http://www.timroughgarden.org/videos.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V",
+          "date": "2012",
+          "youtubeId": "yRM3sc57q0c",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-alg2": {
+      "title": "Algorithms 2",
+      "university": "Stanford",
+      "pos": {
+        "x": 400,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "Stanford · Roughgarden · Algorithms 2",
+          "url": "http://www.timroughgarden.org/videos.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6",
+          "date": "2012",
+          "youtubeId": "R-ElS5wfcm4",
+          "primary": true
+        }
+      ]
+    },
+    "ucsc-cse101": {
+      "title": "CSE101 Intro to DSA",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 80,
+        "y": 600
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE101 · Seshadhri · 2022",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fY1BCDxdiUSwkRHjnNI73G6",
+          "date": "Fall 2022",
+          "youtubeId": "nULNEYpGM7c",
+          "primary": true
+        },
+        {
+          "label": "UCSC CSE101 · Seshadhri · 2020",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fZGffr1_MqCoaC5nUVtQIWz",
+          "date": "Fall 2020",
+          "youtubeId": "fQZFlwEPrNQ"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-6006",
+      "to": "mit-6046"
+    },
+    {
+      "from": "mit-6046",
+      "to": "mit-6851"
+    },
+    {
+      "from": "mit-6046",
+      "to": "harvard-cs224"
+    },
+    {
+      "from": "stanford-alg1",
+      "to": "stanford-alg2"
+    }
+  ]
+}

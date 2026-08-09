@@ -27,18 +27,6 @@
         "h": 190
       }
     },
-    "cs": {
-      "title": "Computer Science",
-      "parent": "root",
-      "pos": {
-        "x": 280,
-        "y": 400
-      },
-      "size": {
-        "w": 300,
-        "h": 190
-      }
-    },
     "real-analysis": {
       "title": "Real Analysis",
       "parent": "math",
@@ -104,7 +92,7 @@
       "parent": "physics",
       "pos": {
         "x": 430,
-        "y": 440
+        "y": 520
       },
       "size": {
         "w": 250,
@@ -116,7 +104,7 @@
       "parent": "physics",
       "pos": {
         "x": 780,
-        "y": 440
+        "y": 100
       },
       "size": {
         "w": 250,
@@ -128,43 +116,115 @@
       "parent": "physics",
       "pos": {
         "x": 780,
-        "y": 140
+        "y": 330
       },
       "size": {
         "w": 250,
         "h": 160
       }
     },
-    "machine-learning": {
-      "title": "Machine Learning",
+    "cs": {
+      "title": "Computer Science",
+      "parent": "root",
+      "pos": {
+        "x": 280,
+        "y": 400
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "foundations": {
+      "title": "Foundations",
       "parent": "cs",
       "pos": {
-        "x": 360,
-        "y": 180
+        "x": 80,
+        "y": 80
       },
       "size": {
         "w": 250,
         "h": 160
       }
     },
-    "vision-dl": {
-      "title": "Deep Learning for Vision",
+    "algorithms": {
+      "title": "Algorithms & Theory",
       "parent": "cs",
       "pos": {
-        "x": 720,
-        "y": 60
+        "x": 430,
+        "y": 80
       },
       "size": {
         "w": 250,
         "h": 160
       }
     },
-    "nlp-dl": {
-      "title": "NLP with Deep Learning",
+    "systems": {
+      "title": "Systems",
       "parent": "cs",
       "pos": {
-        "x": 720,
-        "y": 320
+        "x": 430,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "ai": {
+      "title": "AI / ML",
+      "parent": "cs",
+      "pos": {
+        "x": 80,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "intro-python": {
+      "title": "Intro Python",
+      "parent": "foundations",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "discrete-math": {
+      "title": "Discrete Math",
+      "parent": "foundations",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "dsa": {
+      "title": "Data Structures & Algorithms",
+      "parent": "algorithms",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "theory-of-computation": {
+      "title": "Theory of Computation",
+      "parent": "algorithms",
+      "pos": {
+        "x": 430,
+        "y": 80
       },
       "size": {
         "w": 250,
@@ -176,14 +236,6 @@
     {
       "from": "linear-algebra",
       "to": "quantum-mechanics"
-    },
-    {
-      "from": "linear-algebra",
-      "to": "machine-learning"
-    },
-    {
-      "from": "mit-6041",
-      "to": "machine-learning"
     },
     {
       "from": "intro-physics",
@@ -204,14 +256,6 @@
     {
       "from": "quantum-mechanics",
       "to": "stat-mech"
-    },
-    {
-      "from": "machine-learning",
-      "to": "vision-dl"
-    },
-    {
-      "from": "machine-learning",
-      "to": "nlp-dl"
     }
   ],
   "ghosts": [
@@ -221,22 +265,6 @@
       "pos": {
         "x": 110,
         "y": 120
-      }
-    },
-    {
-      "node": "linear-algebra",
-      "inGroup": "cs",
-      "pos": {
-        "x": 80,
-        "y": 100
-      }
-    },
-    {
-      "node": "mit-6041",
-      "inGroup": "cs",
-      "pos": {
-        "x": 80,
-        "y": 320
       }
     }
   ]

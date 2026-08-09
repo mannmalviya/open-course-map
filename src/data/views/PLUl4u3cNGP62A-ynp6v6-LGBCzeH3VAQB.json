@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to CS and Programming Using Python",
+      "views": 2100000
+    },
+    {
+      "title": "Lecture 2: Strings, Input/Output, and Branching",
+      "views": 357000
+    },
+    {
+      "title": "Lecture 3: Iteration",
+      "views": 174000
+    },
+    {
+      "title": "Lecture 4: Loops over Strings, Guess-and-Check, and Binary",
+      "views": 152000
+    },
+    {
+      "title": "Lecture 5: Floats and Approximation Methods",
+      "views": 91000
+    },
+    {
+      "title": "Lecture 6: Bisection Search",
+      "views": 79000
+    },
+    {
+      "title": "Lecture 7: Decomposition, Abstraction, and Functions",
+      "views": 66000
+    },
+    {
+      "title": "Lecture 8: Functions as Objects",
+      "views": 75000
+    },
+    {
+      "title": "Lecture 9: Lambda Functions, Tuples, and Lists",
+      "views": 57000
+    },
+    {
+      "title": "Lecture 10: Lists and Mutability",
+      "views": 51000
+    },
+    {
+      "title": "Lecture 11: Aliasing and Cloning",
+      "views": 40000
+    },
+    {
+      "title": "Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging",
+      "views": 46000
+    },
+    {
+      "title": "Lecture 13: Exceptions and Assertions",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 14: Dictionaries",
+      "views": 54000
+    },
+    {
+      "title": "Lecture 15: Recursion",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 16: Recursion on Non-numerics",
+      "views": 40000
+    },
+    {
+      "title": "Lecture 17: Python Classes",
+      "views": 48000
+    },
+    {
+      "title": "Lecture 18: More Python Class Methods",
+      "views": 39000
+    },
+    {
+      "title": "Lecture 19: Inheritance",
+      "views": 36000
+    },
+    {
+      "title": "Lecture 20: Fitness Tracker Object-Oriented Programming Example",
+      "views": 39000
+    },
+    {
+      "title": "Lecture 21: Timing Programs and Counting Operations",
+      "views": 25000
+    },
+    {
+      "title": "Lecture 22: Big Oh and Theta",
+      "views": 31000
+    },
+    {
+      "title": "Lecture 23: Complexity Classes Examples",
+      "views": 27000
+    },
+    {
+      "title": "Lecture 24: Sorting Algorithms",
+      "views": 28000
+    },
+    {
+      "title": "Lecture 25: Plotting",
+      "views": 30000
+    },
+    {
+      "title": "Lecture 26: List Access, Hashing, Simulations, and Wrap-Up",
+      "views": 35000
+    }
+  ]
+}

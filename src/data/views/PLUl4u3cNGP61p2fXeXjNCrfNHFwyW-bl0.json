@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Pigeonhole Principle",
+      "views": 50000
+    },
+    {
+      "title": "Lecture 2: Independence and Conditioning",
+      "views": 5900
+    },
+    {
+      "title": "Lecture 3: Inclusion-Exclusion",
+      "views": 5200
+    },
+    {
+      "title": "Lecture 4: Counting",
+      "views": 4400
+    },
+    {
+      "title": "Lecture 5: More Counting and Generating Functions",
+      "views": 8400
+    },
+    {
+      "title": "Lecture 6: More on Generating Functions",
+      "views": 1800
+    },
+    {
+      "title": "Lecture 7: Generating Functions for Catalan Numbers",
+      "views": 4000
+    },
+    {
+      "title": "Lecture 8: Tail Bounds",
+      "views": 1600
+    },
+    {
+      "title": "Lecture 9: Chernoff Bounds",
+      "views": 1700
+    },
+    {
+      "title": "Lecture 10: Modular Arithmetic",
+      "views": 4300
+    },
+    {
+      "title": "Lecture 11: Basic Group Theory",
+      "views": 6900
+    },
+    {
+      "title": "Lecture 12: Introduction to Linear Programming",
+      "views": 6600
+    },
+    {
+      "title": "Lecture 13: Duality in Linear Programming",
+      "views": 2800
+    },
+    {
+      "title": "Lecture 14: Zero-Sum Games",
+      "views": 2800
+    },
+    {
+      "title": "Lecture 15: Max-Flow Min-Cut Theorem",
+      "views": 1600
+    },
+    {
+      "title": "Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem",
+      "views": 6600
+    },
+    {
+      "title": "Lecture 17: Huffman Coding",
+      "views": 3500
+    },
+    {
+      "title": "Lecture 18: Transmitting Information Reliably over a Noisy Channel & Shannon’s Noisy Coding Theorem",
+      "views": 1400
+    },
+    {
+      "title": "Lecture 19: Error-Correcting Codes—Hamming Codes",
+      "views": 1500
+    },
+    {
+      "title": "Lecture 20: Reed-Solomon Codes",
+      "views": 2900
+    }
+  ]
+}

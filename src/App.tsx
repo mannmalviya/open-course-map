@@ -1,7 +1,10 @@
 import { useEffect, useState } from 'react';
 import { Canvas } from './Canvas';
 import { CoursePage } from './CoursePage';
-import { groupChain, map, parseHash, routeHash, type Route } from './model';
+import {
+  allSchools, groupChain, map, parseHash, routeHash, setCompactCourses, setHiddenSchools,
+  type Route,
+} from './model';
 
 type Theme = 'light' | 'dark';
 
@@ -11,9 +14,47 @@ function initialTheme(): Theme {
   return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
 }
 
+/** Schools that start hidden the first time they appear; users can re-enable them in Settings. */
+const DEFAULT_HIDDEN = ['UC Santa Cruz'];
+
+/** Stored as the *hidden* set so schools added to the data later default to visible. */
+function initialHidden(): ReadonlySet<string> {
+  try {
+    const saved: unknown = JSON.parse(localStorage.getItem('ocm-hidden-schools') ?? '[]');
+    const known = new Set(allSchools());
+    const hidden = new Set(
+      Array.isArray(saved)
+        ? saved.filter((s): s is string => typeof s === 'string' && known.has(s))
+        : []
+    );
+    // Seed default-hidden schools exactly once, so re-enabling them later sticks
+    const seededRaw: unknown = JSON.parse(localStorage.getItem('ocm-seeded-hidden') ?? '[]');
+    const seeded = Array.isArray(seededRaw)
+      ? seededRaw.filter((s): s is string => typeof s === 'string')
+      : [];
+    for (const s of DEFAULT_HIDDEN) {
+      if (known.has(s) && !seeded.includes(s)) {
+        hidden.add(s);
+        seeded.push(s);
+      }
+    }
+    localStorage.setItem('ocm-seeded-hidden', JSON.stringify(seeded));
+    return hidden;
+  } catch {
+    return new Set(DEFAULT_HIDDEN);
+  }
+}
+
 export default function App() {
   const [route, setRoute] = useState<Route>(parseHash);
   const [theme, setTheme] = useState<Theme>(initialTheme);
+  const [hidden, setHidden] = useState<ReadonlySet<string>>(initialHidden);
+  const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
+  const [settingsOpen, setSettingsOpen] = useState(false);
+
+  // Sync the model's filter before children render so the whole map reflects it
+  setHiddenSchools(hidden);
+  setCompactCourses(compact);
 
   useEffect(() => {
     const onHash = () => setRoute(parseHash());
@@ -27,12 +68,41 @@ export default function App() {
   }, [theme]);
 
   useEffect(() => {
+    localStorage.setItem('ocm-hidden-schools', JSON.stringify([...hidden]));
+  }, [hidden]);
+
+  useEffect(() => {
+    localStorage.setItem('ocm-compact', compact ? '1' : '0');
+  }, [compact]);
+
+  useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape' && route.courseId) navigate(route.groupId);
+      if (e.key !== 'Escape') return;
+      if (settingsOpen) setSettingsOpen(false);
+      else if (route.courseId) navigate(route.groupId);
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
   });
+
+  useEffect(() => {
+    if (!settingsOpen) return;
+    const onDown = (e: PointerEvent) => {
+      const el = e.target as Element;
+      if (!el.closest?.('.settings-pop, .settings-button')) setSettingsOpen(false);
+    };
+    window.addEventListener('pointerdown', onDown);
+    return () => window.removeEventListener('pointerdown', onDown);
+  }, [settingsOpen]);
+
+  const toggleSchool = (school: string) => {
+    setHidden((prev) => {
+      const next = new Set(prev);
+      if (next.has(school)) next.delete(school);
+      else next.add(school);
+      return next;
+    });
+  };
 
   const navigate = (groupId: string, courseId?: string) => {
     window.location.hash = routeHash(groupId, courseId);
@@ -82,6 +152,21 @@ export default function App() {
 
       <div className="island theme-toggle">
         <button
+          className="settings-button"
+          onClick={() => setSettingsOpen((o) => !o)}
+          title="Settings"
+          aria-label="Settings"
+          aria-expanded={settingsOpen}
+        >
+          <svg
+            viewBox="0 0 24 24" width="20" height="20"
+            fill="none" stroke="currentColor" strokeWidth="1.8"
+            strokeLinecap="round" strokeLinejoin="round"
+          >
+            <path d="M4 5h16l-6.2 7.4v4.9l-3.6 1.9v-6.8L4 5z" />
+          </svg>
+        </button>
+        <button
           onClick={() => setTheme(theme === 'dark' ? 'light' : 'dark')}
           title="Toggle theme"
           aria-label="Toggle theme"
@@ -114,6 +199,32 @@ export default function App() {
           </svg>
         </button>
       </div>
+
+      {settingsOpen && (
+        <div className="island settings-pop">
+          <div className="settings-title">Settings</div>
+          <div className="settings-section">Schools</div>
+          {allSchools().map((school) => (
+            <label key={school} className="settings-row">
+              <input
+                type="checkbox"
+                checked={!hidden.has(school)}
+                onChange={() => toggleSchool(school)}
+              />
+              {school}
+            </label>
+          ))}
+          <div className="settings-section">Display</div>
+          <label className="settings-row">
+            <input
+              type="checkbox"
+              checked={compact}
+              onChange={() => setCompact((c) => !c)}
+            />
+            Collapse thumbnails
+          </label>
+        </div>
+      )}
 
       {!route.courseId && (
         <div className="island hint">scroll to pan · ctrl+scroll to zoom · click a subject to see its courses</div>

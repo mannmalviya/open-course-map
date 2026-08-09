@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "mit-18404": {
+      "title": "18.404 Theory of Computation",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.404J · Sipser · 2020",
+          "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY",
+          "date": "Fall 2020",
+          "youtubeId": "9syvZr-9xwk",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

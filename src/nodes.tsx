@@ -1,8 +1,9 @@
 import type { Course, Ghost, Group, Rect } from './types';
 import {
-  COURSE_W, COURSE_H, GHOST_W, GHOST_H,
+  COURSE_W, COURSE_H, COURSE_H_COMPACT, GHOST_W, GHOST_H,
   borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
-  edgesOn, ghostRect, ghostsIn, logoFor, map, primaryVersion, seedFor, thumbUrl, wrapText,
+  edgesOn, ghostRect, ghostsIn, isCompact, logoFor, map, primaryVersion, seedFor,
+  thumbUrl, wrapText,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -15,22 +16,42 @@ interface CourseNodeProps {
 export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
   const { x, y } = course.pos;
   const seed = seedFor(id);
+
+  if (isCompact()) {
+    const titleLines = wrapText(course.title, 24);
+    // First baseline placed so the text block sits vertically centered
+    const baseY = y + COURSE_H_COMPACT / 2 + 5 - ((titleLines.length - 1) * 15 * 1.25) / 2;
+    return (
+      <g
+        className="node course-node"
+        onPointerDown={(e) => e.stopPropagation()}
+        onClick={() => onSelect(id)}
+      >
+        <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H_COMPACT} seed={seed} fill="var(--node-fill)" />
+        <SketchText x={x + COURSE_W / 2} y={baseY} lines={titleLines} size={15} />
+      </g>
+    );
+  }
+
   const primary = primaryVersion(course);
   const thumb = thumbUrl(primary);
   const logo = logoFor(course.university);
   const term = courseTerm(course);
   const extra = course.versions.length - 1;
-  const titleLines = wrapText(course.title, 24);
+  const titleLines = wrapText(course.title, 26);
+  // Two-line titles trade thumbnail height for title room so they clear the footer
+  const twoLines = titleLines.length > 1;
   const thumbX = x + 14;
   const thumbY = y + 12;
   const thumbW = COURSE_W - 28;
-  const thumbH = 100;
+  const thumbH = twoLines ? 88 : 100;
+  const titleY = y + (twoLines ? 116 : 130);
   // footer row tucked under the title: school logo bottom-left, term bottom-right
   const footerBaseline = y + COURSE_H - 14;
 
   return (
     <g
-      className="node"
+      className="node course-node"
       onPointerDown={(e) => e.stopPropagation()}
       onClick={() => onSelect(id)}
     >
@@ -60,7 +81,7 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
       <SketchRect x={thumbX} y={thumbY} w={thumbW} h={thumbH} seed={seed + 1} strokeWidth={1} />
       <SketchText
         x={x + COURSE_W / 2}
-        y={y + 130}
+        y={titleY}
         lines={titleLines}
         size={15}
       />

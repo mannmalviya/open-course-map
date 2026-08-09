@@ -1,0 +1,140 @@
+{
+  "lectures": [
+    {
+      "title": "1. Course Overview, Interval Scheduling",
+      "views": 689000
+    },
+    {
+      "title": "2. Divide & Conquer: Convex Hull, Median Finding",
+      "views": 227000
+    },
+    {
+      "title": "R1. Matrix Multiplication and the Master Theorem",
+      "views": 82000
+    },
+    {
+      "title": "3. Divide & Conquer: FFT",
+      "views": 368000
+    },
+    {
+      "title": "R2. 2-3 Trees and B-Trees",
+      "views": 244000
+    },
+    {
+      "title": "4. Divide & Conquer: van Emde Boas Trees",
+      "views": 86000
+    },
+    {
+      "title": "5. Amortization: Amortized Analysis",
+      "views": 144000
+    },
+    {
+      "title": "6. Randomization: Matrix Multiply, Quicksort",
+      "views": 69000
+    },
+    {
+      "title": "R4. Randomized Select and Randomized Quicksort",
+      "views": 47000
+    },
+    {
+      "title": "7. Randomization: Skip Lists",
+      "views": 97000
+    },
+    {
+      "title": "8. Randomization: Universal & Perfect Hashing",
+      "views": 98000
+    },
+    {
+      "title": "R5. Dynamic Programming",
+      "views": 118000
+    },
+    {
+      "title": "9. Augmentation: Range Trees",
+      "views": 67000
+    },
+    {
+      "title": "10. Dynamic Programming: Advanced DP",
+      "views": 124000
+    },
+    {
+      "title": "11. Dynamic Programming: All-Pairs Shortest Paths",
+      "views": 116000
+    },
+    {
+      "title": "12. Greedy Algorithms: Minimum Spanning Tree",
+      "views": 253000
+    },
+    {
+      "title": "R6. Greedy Algorithms",
+      "views": 91000
+    },
+    {
+      "title": "13. Incremental Improvement: Max Flow, Min Cut",
+      "views": 172000
+    },
+    {
+      "title": "14. Incremental Improvement: Matching",
+      "views": 59000
+    },
+    {
+      "title": "R7. Network Flow and Matching",
+      "views": 40000
+    },
+    {
+      "title": "15. Linear Programming: LP, reductions, Simplex",
+      "views": 233000
+    },
+    {
+      "title": "16. Complexity: P, NP, NP-completeness, Reductions",
+      "views": 493000
+    },
+    {
+      "title": "R8. NP-Complete Problems",
+      "views": 141000
+    },
+    {
+      "title": "17. Complexity: Approximation Algorithms",
+      "views": 93000
+    },
+    {
+      "title": "18. Complexity: Fixed-Parameter Algorithms",
+      "views": 38000
+    },
+    {
+      "title": "R9. Approximation Algorithms: Traveling Salesman Problem",
+      "views": 143000
+    },
+    {
+      "title": "19. Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees",
+      "views": 32000
+    },
+    {
+      "title": "20. Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees",
+      "views": 60000
+    },
+    {
+      "title": "R10. Distributed Algorithms",
+      "views": 35000
+    },
+    {
+      "title": "21. Cryptography: Hash Functions",
+      "views": 195000
+    },
+    {
+      "title": "22. Cryptography: Encryption",
+      "views": 62000
+    },
+    {
+      "title": "R11. Cryptography: More Primitives",
+      "views": 10000
+    },
+    {
+      "title": "23. Cache-Oblivious Algorithms: Medians & Matrices",
+      "views": 23000
+    },
+    {
+      "title": "24. Cache-Oblivious Algorithms: Searching & Sorting",
+      "views": 21000
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import {
   borderPoint, center, childGroups, coursesIn, edgesOn, ghostsIn,
-  courseRect, ghostRect, map, seedFor,
+  courseRect, ghostRect, map, seedFor, totalCourseCount,
 } from './model';
 import type { Rect } from './types';
 import { CourseNode, GhostNode, GroupNode } from './nodes';
@@ -134,7 +134,18 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
         {courses.map((id) => (
           <CourseNode key={id} id={id} course={map.courses[id]} onSelect={onSelectCourse} />
         ))}
-        {empty && <SketchText x={0} y={0} lines={['Nothing here yet — add courses to map.json']} size={18} fill="var(--muted)" />}
+        {empty && (
+          <SketchText
+            x={0} y={0}
+            lines={[
+              totalCourseCount(groupId) > 0
+                ? 'Everything here is hidden by your school filter'
+                : 'Nothing here yet — add a file in src/data/subjects/',
+            ]}
+            size={18}
+            fill="var(--muted)"
+          />
+        )}
       </g>
     </svg>
   );

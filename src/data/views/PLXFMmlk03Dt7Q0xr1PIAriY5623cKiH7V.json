@@ -1,0 +1,304 @@
+{
+  "lectures": [
+    {
+      "title": "1   1   Why Study Algorithms   4 min",
+      "views": 312000
+    },
+    {
+      "title": "1   2   Integer Multiplication 9 min",
+      "views": 119000
+    },
+    {
+      "title": "1   3   Karatsuba Multiplication 13 min",
+      "views": 244000
+    },
+    {
+      "title": "1   4   About the Course 17 min",
+      "views": 54000
+    },
+    {
+      "title": "1   5   Merge Sort  Motivation and Example 9 min",
+      "views": 71000
+    },
+    {
+      "title": "1   6   Merge Sort  Pseudocode 13 min",
+      "views": 63000
+    },
+    {
+      "title": "1   7   Merge Sort  Analysis 9 min",
+      "views": 55000
+    },
+    {
+      "title": "1   8   Guiding Principles for Analysis of Algorithms 15 min",
+      "views": 37000
+    },
+    {
+      "title": "2   1   The Gist 14 min",
+      "views": 72000
+    },
+    {
+      "title": "2   2   Big Oh Notation 4 min",
+      "views": 38000
+    },
+    {
+      "title": "2   3   Basic Examples 7 min",
+      "views": 29000
+    },
+    {
+      "title": "2   4   Big Omega and Theta 7 min",
+      "views": 35000
+    },
+    {
+      "title": "2   5   Additional Examples Review   Optional 8 min",
+      "views": 20000
+    },
+    {
+      "title": "3   1   On log n Algorithm for Counting Inversions I 13 min",
+      "views": 59000
+    },
+    {
+      "title": "3   2   On log n Algorithm for Counting Inversions II 17 min",
+      "views": 36000
+    },
+    {
+      "title": "3   3   Strassen 's Subcubic Matrix Multiplication Algorithm 22 min",
+      "views": 35000
+    },
+    {
+      "title": "3   4   On log n Algorithm for Closest Pair I Advanced   Optional 32 min",
+      "views": 35000
+    },
+    {
+      "title": "3   5   On log n Algorithm for Closest Pair II Advanced   Optional 19 min",
+      "views": 14000
+    },
+    {
+      "title": "4   1   Motivation 8 min",
+      "views": 20000
+    },
+    {
+      "title": "4   2   Formal Statement 10 min",
+      "views": 17000
+    },
+    {
+      "title": "4   3   Examples 13 min",
+      "views": 17000
+    },
+    {
+      "title": "4   4   Proof I 10 min",
+      "views": 13000
+    },
+    {
+      "title": "4   5   Interpretation of the 3 Cases 11 min",
+      "views": 11000
+    },
+    {
+      "title": "4   6   Proof II 16 min",
+      "views": 9900
+    },
+    {
+      "title": "5   1   Quicksort  Overview 12 min",
+      "views": 21000
+    },
+    {
+      "title": "5   2   Partitioning Around a Pivot 25 min",
+      "views": 18000
+    },
+    {
+      "title": "5   3   Correctness of Quicksort Review   Optional 11 min",
+      "views": 13000
+    },
+    {
+      "title": "5   4   Choosing a Good Pivot 22min",
+      "views": 18000
+    },
+    {
+      "title": "6   1   Analysis I  A Decomposition Principle  Advanced   Optional 22 min",
+      "views": 14000
+    },
+    {
+      "title": "6   2   Analysis II  The Key Insight Advanced   Optional 12min",
+      "views": 6400
+    },
+    {
+      "title": "6   3   Analysis III  Final Calculations Advanced   Optional 9min",
+      "views": 5600
+    },
+    {
+      "title": "7   1   Part I Review   Optional 25 min",
+      "views": 14000
+    },
+    {
+      "title": "7   2   Part II Review   Optional 17 min",
+      "views": 5700
+    },
+    {
+      "title": "8   1   Randomized Selection   Algorithm 22 min",
+      "views": 36000
+    },
+    {
+      "title": "8   2   Randomized Selection    Analysis 21 min",
+      "views": 12000
+    },
+    {
+      "title": "8   3   Deterministic Selection   Algorithm Advanced   Optional 17 min",
+      "views": 16000
+    },
+    {
+      "title": "8   4   Deterministic Selection   Analysis I Advanced   Optional 22 min",
+      "views": 7300
+    },
+    {
+      "title": "8   5   Deterministic Selection   Analysis II Advanced   Optional 13 min",
+      "views": 5100
+    },
+    {
+      "title": "8   6   Omegan log n Lower Bound for Comparison Based Sorting Advanced   Optional 13 min",
+      "views": 7200
+    },
+    {
+      "title": "9   1   Graphs and Minimum Cuts 16 min",
+      "views": 41000
+    },
+    {
+      "title": "9   2   Graph Representations 14 min",
+      "views": 20000
+    },
+    {
+      "title": "9   3   Random Contraction Algorithm 9 min",
+      "views": 19000
+    },
+    {
+      "title": "9   4   Analysis of Contraction Algorithm 30 min",
+      "views": 13000
+    },
+    {
+      "title": "9   5   Counting Minimum Cuts 7 min",
+      "views": 9800
+    },
+    {
+      "title": "10   1   Graph Search   Overview 23 min",
+      "views": 17000
+    },
+    {
+      "title": "10   2   Breadth First Search BFS  The Basics 14 min",
+      "views": 15000
+    },
+    {
+      "title": "10   3   BFS and Shortest Paths 8 min",
+      "views": 13000
+    },
+    {
+      "title": "10   4   BFS and Undirected Connectivity 13 min",
+      "views": 10000
+    },
+    {
+      "title": "10   5   Depth First Search DFS  The Basics 7 min",
+      "views": 11000
+    },
+    {
+      "title": "10   6   Topological Sort 22 min",
+      "views": 30000
+    },
+    {
+      "title": "10   7   Computing Strong Components  The Algorithm 29 min",
+      "views": 16000
+    },
+    {
+      "title": "10   8   Computing Strong Components  The Analysis 26 min",
+      "views": 8200
+    },
+    {
+      "title": "10   9   Structure of the Web Optional 19 min",
+      "views": 8900
+    },
+    {
+      "title": "11   1   Dijkstra 's Shortest Path Algorithm 21 min",
+      "views": 18000
+    },
+    {
+      "title": "11   2   Dijkstra 's Algorithm  Examples 13 min",
+      "views": 9400
+    },
+    {
+      "title": "11   3   Correctness of Dijkstra 's Algorithm Advanced   Optional 19 min",
+      "views": 9600
+    },
+    {
+      "title": "11   4   Dijkstra 's Algorithm  Implementation and Running Time 26 min",
+      "views": 14000
+    },
+    {
+      "title": "12   1   Data Structures  Overview 5 min",
+      "views": 10000
+    },
+    {
+      "title": "12   2   Heaps  Operations and Applications 18 min",
+      "views": 12000
+    },
+    {
+      "title": "12   3   Heaps  Implementation Details Advanced   Optional 21 min",
+      "views": 8000
+    },
+    {
+      "title": "13   1   Balanced Search Trees  Operations and Applications 11 min",
+      "views": 8600
+    },
+    {
+      "title": "13   2   Binary Search Tree Basics, Part I 13 min",
+      "views": 7900
+    },
+    {
+      "title": "13   3   Binary Search Tree Basics, Part II 30 min",
+      "views": 9600
+    },
+    {
+      "title": "13   4   Red Black Trees 21 min",
+      "views": 9300
+    },
+    {
+      "title": "13   5   Rotations Advanced   Optional 8 min",
+      "views": 4300
+    },
+    {
+      "title": "13   6   Insertion in a Red Black Tree Advanced 15 min",
+      "views": 4200
+    },
+    {
+      "title": "14   1   Hash Tables  Operations and Applications 19 min",
+      "views": 14000
+    },
+    {
+      "title": "14   2   Hash Tables  Implementation Details, Part I 19 min",
+      "views": 10000
+    },
+    {
+      "title": "14   3   Hash Tables  Implementation Details, Part II 22 min",
+      "views": 7300
+    },
+    {
+      "title": "15   1   Pathological Data Sets and Universal Hashing Motivation 22 min",
+      "views": 7200
+    },
+    {
+      "title": "15   2   Universal Hashing  Definition and Example Advanced   Optional 26 min",
+      "views": 13000
+    },
+    {
+      "title": "15   3   Universal Hashing  Analysis of Chaining Advanced   Optional 19 min",
+      "views": 4600
+    },
+    {
+      "title": "15   4   Hash Table Performance with Open Addressing Advanced   Optional 16 min",
+      "views": 4000
+    },
+    {
+      "title": "16   1   Bloom Filters  The Basics 16 min",
+      "views": 18000
+    },
+    {
+      "title": "16   2   Bloom Filters  Heuristic Analysis 13 min",
+      "views": 8600
+    }
+  ]
+}

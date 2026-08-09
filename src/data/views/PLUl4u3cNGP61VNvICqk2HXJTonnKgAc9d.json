@@ -1,0 +1,100 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Predicates, Sets, and Proofs",
+      "views": 283000
+    },
+    {
+      "title": "Lecture 2: Contradiction and Induction",
+      "views": 49000
+    },
+    {
+      "title": "Lecture 3: Casework and Strong Induction",
+      "views": 30000
+    },
+    {
+      "title": "Lecture 4: State Machines",
+      "views": 35000
+    },
+    {
+      "title": "Lecture 5: Sums",
+      "views": 14000
+    },
+    {
+      "title": "Lecture 6: Asymptotics",
+      "views": 11000
+    },
+    {
+      "title": "Lecture 7: Recurrences",
+      "views": 9300
+    },
+    {
+      "title": "Lecture 8: Divisibility",
+      "views": 8800
+    },
+    {
+      "title": "Lecture 9: Modular Arithmetic",
+      "views": 11000
+    },
+    {
+      "title": "Lecture 10: Cryptography",
+      "views": 11000
+    },
+    {
+      "title": "Lecture 11: Graphs and Coloring",
+      "views": 11000
+    },
+    {
+      "title": "Lecture 12: Matching",
+      "views": 5700
+    },
+    {
+      "title": "Lecture 13: Connectivity and Trees",
+      "views": 6000
+    },
+    {
+      "title": "Lecture 14: Digraphs and DAGs",
+      "views": 4600
+    },
+    {
+      "title": "Lecture 15: Relations and Counting",
+      "views": 5700
+    },
+    {
+      "title": "Lecture 16: Counting Techniques",
+      "views": 5900
+    },
+    {
+      "title": "Lecture 17: More Counting Techniques",
+      "views": 4100
+    },
+    {
+      "title": "Lecture 18: Probability",
+      "views": 6800
+    },
+    {
+      "title": "Lecture 19: Conditional Probability",
+      "views": 4000
+    },
+    {
+      "title": "Lecture 20: Independence",
+      "views": 3300
+    },
+    {
+      "title": "Lecture 21: Random Variables",
+      "views": 4200
+    },
+    {
+      "title": "Lecture 22: Expectation",
+      "views": 3700
+    },
+    {
+      "title": "Lecture 23: Expectation and Variance",
+      "views": 4500
+    },
+    {
+      "title": "Lecture 24: Large Deviations: Chebyshev and Chernov Bound, Wrap Up",
+      "views": 6100
+    }
+  ]
+}

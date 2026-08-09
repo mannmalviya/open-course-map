@@ -1,0 +1,54 @@
+{
+  "courses": {
+    "mit-math-for-cs": {
+      "title": "Math for Computer Science",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.1200J · Abel, Chapman · 2024",
+          "url": "https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d",
+          "date": "Spring 2024",
+          "youtubeId": "sbpCTjmw85g",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.042J · Meyer · 2015",
+          "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ",
+          "date": "Spring 2015",
+          "youtubeId": "wIq4CssPoO0"
+        },
+        {
+          "label": "MIT 6.042J · Leighton · 2010",
+          "url": "https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/",
+          "youtube": "https://www.youtube.com/playlist?list=PLB7540DEDD482705B",
+          "date": "Fall 2010",
+          "youtubeId": "L3LMbpZIKhQ"
+        }
+      ]
+    },
+    "mit-18200": {
+      "title": "18.200 Discrete Applied Math",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.200 · Moitra, Shor · 2024",
+          "url": "https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61p2fXeXjNCrfNHFwyW-bl0",
+          "date": "Spring 2024",
+          "youtubeId": "Z1zgrgstVAw",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "lectures": [
+    {
+      "title": "1. Algorithms and Computation",
+      "views": 1900000
+    },
+    {
+      "title": "2. Data Structures and Dynamic Arrays",
+      "views": 693000
+    },
+    {
+      "title": "Introduction to Algorithms - Problem Session 1: Asymptotic Behavior of Functions and Double-ended...",
+      "views": 331000
+    },
+    {
+      "title": "3. Sets and Sorting",
+      "views": 224000
+    },
+    {
+      "title": "4. Hashing",
+      "views": 407000
+    },
+    {
+      "title": "Problem Session 2 (MIT 6.006 Introduction to Algorithms, Spring 2020)",
+      "views": 80000
+    },
+    {
+      "title": "5. Linear Sorting",
+      "views": 91000
+    },
+    {
+      "title": "Problem Session 3",
+      "views": 48000
+    },
+    {
+      "title": "6. Binary Trees, Part 1",
+      "views": 214000
+    },
+    {
+      "title": "7. Binary Trees, Part 2: AVL",
+      "views": 97000
+    },
+    {
+      "title": "Problem Session 4",
+      "views": 33000
+    },
+    {
+      "title": "8. Binary Heaps",
+      "views": 75000
+    },
+    {
+      "title": "9. Breadth-First Search",
+      "views": 74000
+    },
+    {
+      "title": "Quiz 1 review",
+      "views": 25000
+    },
+    {
+      "title": "10. Depth-First Search",
+      "views": 49000
+    },
+    {
+      "title": "11. Weighted Shortest Paths",
+      "views": 39000
+    },
+    {
+      "title": "Problem Session 5",
+      "views": 19000
+    },
+    {
+      "title": "12. Bellman-Ford",
+      "views": 35000
+    },
+    {
+      "title": "13. Dijkstra",
+      "views": 41000
+    },
+    {
+      "title": "Problem Session 7",
+      "views": 8300
+    },
+    {
+      "title": "14. APSP and Johnson",
+      "views": 22000
+    },
+    {
+      "title": "Quiz 2 Review",
+      "views": 9300
+    },
+    {
+      "title": "15. Dynamic Programming, Part 1: SRTBOT, Fib, DAGs, Bowling",
+      "views": 146000
+    },
+    {
+      "title": "16. Dynamic Programming, Part 2: LCS, LIS, Coins",
+      "views": 78000
+    },
+    {
+      "title": "Problem Session 8",
+      "views": 11000
+    },
+    {
+      "title": "17. Dynamic Programming, Part 3: APSP, Parens, Piano",
+      "views": 36000
+    },
+    {
+      "title": "18. Dynamic Programming, Part 4: Rods, Subset Sum, Pseudopolynomial",
+      "views": 36000
+    },
+    {
+      "title": "19. Complexity",
+      "views": 38000
+    },
+    {
+      "title": "Problem Session 9",
+      "views": 6700
+    },
+    {
+      "title": "Quiz 3 Review",
+      "views": 10000
+    },
+    {
+      "title": "20. Course Review",
+      "views": 20000
+    },
+    {
+      "title": "21. Algorithms—Next Steps",
+      "views": 49000
+    }
+  ]
+}

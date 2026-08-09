@@ -374,6 +374,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "llms": {
+      "title": "LLMs",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 780,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

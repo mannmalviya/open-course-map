@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "MIT · Fridman",
+          "label": "MIT \u00b7 Fridman",
           "url": "https://deeplearning.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeY0lkVCIVafdGFOTi45amq",
           "youtubeId": "sRxaMDDMWQQ",
@@ -26,17 +26,35 @@
       },
       "versions": [
         {
-          "label": "MIT · Fridman · full series",
+          "label": "MIT \u00b7 Fridman \u00b7 full series",
           "url": "https://deeplearning.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLUh93A2kK6CGkYq45dDiHM88uYxvonHnE",
           "youtubeId": "O5xeyoRL95U",
           "primary": true
         },
         {
-          "label": "MIT · Fridman · select lectures",
+          "label": "MIT \u00b7 Fridman \u00b7 select lectures",
           "url": "https://deeplearning.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf",
           "youtubeId": "0VH1Lim8gL8"
+        }
+      ]
+    },
+    "mit-65940": {
+      "title": "6.5940 EfficientML.ai",
+      "university": "MIT",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.5940 \u00b7 Han \u00b7 Fall 2023",
+          "url": "https://efficientml.ai",
+          "youtube": "https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB",
+          "date": "Fall 2023",
+          "youtubeId": "rCFvPEQTxKI",
+          "primary": true
         }
       ]
     }

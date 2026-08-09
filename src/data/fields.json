@@ -424,6 +424,10 @@
     {
       "from": "dl",
       "to": "rl"
+    },
+    {
+      "from": "dl",
+      "to": "ai-advanced"
     }
   ],
   "ghosts": [

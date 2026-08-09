@@ -446,6 +446,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "computer-architecture": {
+      "title": "Computer Architecture",
+      "parent": "hardware",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

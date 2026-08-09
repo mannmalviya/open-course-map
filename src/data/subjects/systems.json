@@ -9,11 +9,29 @@
       },
       "versions": [
         {
-          "label": "MIT 6.824 · Morris · Spring 2020",
+          "label": "MIT 6.824 \u00b7 Morris \u00b7 Spring 2020",
           "url": "https://pdos.csail.mit.edu/6.824/",
           "youtube": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
           "date": "Spring 2020",
           "youtubeId": "cQP8WApzIQQ",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-cs149": {
+      "title": "CS149 Parallel Computing",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS149 \u00b7 Fatahalian, Olukotun \u00b7 2023",
+          "url": "https://cs149.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp",
+          "date": "Fall 2023",
+          "youtubeId": "V1tINV2-9p4",
           "primary": true
         }
       ]

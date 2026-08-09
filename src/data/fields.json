@@ -386,6 +386,66 @@
         "w": 250,
         "h": 160
       }
+    },
+    "calculus": {
+      "title": "Calculus & ODEs",
+      "parent": "math",
+      "pos": {
+        "x": -280,
+        "y": 140
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "hardware": {
+      "title": "Hardware & Architecture",
+      "parent": "cs",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "operating-systems": {
+      "title": "Operating Systems",
+      "parent": "systems",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "databases": {
+      "title": "Databases",
+      "parent": "systems",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "compilers": {
+      "title": "Compilers",
+      "parent": "systems",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [
@@ -464,6 +524,18 @@
     {
       "from": "dl",
       "to": "ai-advanced"
+    },
+    {
+      "from": "calculus",
+      "to": "real-analysis"
+    },
+    {
+      "from": "calculus",
+      "to": "intro-physics"
+    },
+    {
+      "from": "linear-algebra",
+      "to": "intro-physics"
     }
   ],
   "ghosts": [
@@ -471,7 +543,7 @@
       "node": "linear-algebra",
       "inGroup": "physics",
       "pos": {
-        "x": 110,
+        "x": -200,
         "y": 120
       }
     },
@@ -545,6 +617,14 @@
       "pos": {
         "x": 80,
         "y": 620
+      }
+    },
+    {
+      "node": "calculus",
+      "inGroup": "physics",
+      "pos": {
+        "x": -200,
+        "y": 365
       }
     }
   ]

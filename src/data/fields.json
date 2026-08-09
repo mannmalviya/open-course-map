@@ -304,7 +304,7 @@
       }
     },
     "ai-advanced": {
-      "title": "Advanced Topics",
+      "title": "Special Topics",
       "parent": "ai",
       "pos": {
         "x": 780,

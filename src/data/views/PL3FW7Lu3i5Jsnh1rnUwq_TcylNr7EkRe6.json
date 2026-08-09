@@ -1,0 +1,80 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1 | Natural Language Processing with Deep Learning",
+      "views": 815000
+    },
+    {
+      "title": "Lecture 2 | Word Vector Representations: word2vec",
+      "views": 535000
+    },
+    {
+      "title": "Lecture 3 | GloVe: Global Vectors for Word Representation",
+      "views": 230000
+    },
+    {
+      "title": "Lecture 4: Word Window Classification and Neural Networks",
+      "views": 112000
+    },
+    {
+      "title": "Lecture 5: Backpropagation and Project Advice",
+      "views": 85000
+    },
+    {
+      "title": "Lecture 6: Dependency Parsing",
+      "views": 114000
+    },
+    {
+      "title": "Lecture 7: Introduction to TensorFlow",
+      "views": 232000
+    },
+    {
+      "title": "Lecture 8: Recurrent Neural Networks and Language Models",
+      "views": 132000
+    },
+    {
+      "title": "Lecture 9: Machine Translation and Advanced Recurrent LSTMs and GRUs",
+      "views": 93000
+    },
+    {
+      "title": "Review Session: Midterm Review",
+      "views": 20000
+    },
+    {
+      "title": "Lecture 10: Neural Machine Translation and Models with Attention",
+      "views": 94000
+    },
+    {
+      "title": "Lecture 11: Gated Recurrent Units and Further Topics in NMT",
+      "views": 36000
+    },
+    {
+      "title": "Lecture 12: End-to-End Models for Speech Processing",
+      "views": 73000
+    },
+    {
+      "title": "Lecture 13: Convolutional Neural Networks",
+      "views": 37000
+    },
+    {
+      "title": "Lecture 14: Tree Recursive Neural Networks and Constituency Parsing",
+      "views": 30000
+    },
+    {
+      "title": "Lecture 15: Coreference Resolution",
+      "views": 30000
+    },
+    {
+      "title": "Lecture 16: Dynamic Neural Networks for Question Answering",
+      "views": 48000
+    },
+    {
+      "title": "Lecture 17: Issues in NLP and Possible Architectures for NLP",
+      "views": 19000
+    },
+    {
+      "title": "Lecture 18: Tackling the Limits of Deep Learning for NLP",
+      "views": 23000
+    }
+  ]
+}

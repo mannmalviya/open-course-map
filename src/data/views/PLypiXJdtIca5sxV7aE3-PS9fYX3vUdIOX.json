@@ -1,0 +1,92 @@
+{
+  "lectures": [
+    {
+      "title": "Deep Learning in Life Sciences - Lecture 01 - Course Intro, AI, ML (Spring 2021)",
+      "views": 44000
+    },
+    {
+      "title": "Machine Learning Foundations - Deep Learning in Life Sciences Lecture 02 (Spring 2021)",
+      "views": 15000
+    },
+    {
+      "title": "CNNs Convolutional Neural Networks - Deep Learning in Life Sciences - Lecture 03 (Spring 2021)",
+      "views": 11000
+    },
+    {
+      "title": "Recurrent Neural Networks RNNs, Graph Neural Networks GNNs, Long Short Term Memory LSTMs",
+      "views": 7900
+    },
+    {
+      "title": "Interpretable Deep Learning - Deep Learning in Life Sciences - Lecture 05 (Spring 2021)",
+      "views": 9100
+    },
+    {
+      "title": "Generative Models, Adversarial Networks GANs, Variational Autoencoders VAEs, Representation Learning",
+      "views": 5800
+    },
+    {
+      "title": "Regulatory Genomics - Deep Learning in Life Sciences - Lecture 07 (Spring 2021)",
+      "views": 10000
+    },
+    {
+      "title": "Deep Learning for Regulatory Genomics - Regulator binding, Transcription Factors TFs",
+      "views": 7300
+    },
+    {
+      "title": "Gene Expression Prediction - Lecture 09 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 9500
+    },
+    {
+      "title": "Single Cell Genomics - Lecture 10 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 13000
+    },
+    {
+      "title": "Dimensionality Reduction - Lecture 11 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 4000
+    },
+    {
+      "title": "Disease Circuitry Dissection GWAS - Lecture 12 - Deep Learning in Life Science (Spring 2021)",
+      "views": 4300
+    },
+    {
+      "title": "GWAS mechanism - Lecture 13 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 3800
+    },
+    {
+      "title": "Systems Genetics - Lecture 14 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 3100
+    },
+    {
+      "title": "Graph Neural Networks - Lecture 15 -  Learning in Life Sciences (Spring 2021)",
+      "views": 8300
+    },
+    {
+      "title": "AI for Drug Design - Lecture 16 - Deep Learning in the Life Sciences (Spring 2021)",
+      "views": 68000
+    },
+    {
+      "title": "Deep Learning for Protein Folding - Lecture 17 - MIT Deep Learning in Life Sciences (Spring 2021)",
+      "views": 13000
+    },
+    {
+      "title": "Machine Learning for Pathology - Lecture 19 - MIT Deep Learning in the Life Sciences (Spring 2021)",
+      "views": 5500
+    },
+    {
+      "title": "Deep Learning for Cell Imaging Segmentation - Lecture 20 - MIT ML in Life Sciences (Spring 2021)",
+      "views": 9300
+    },
+    {
+      "title": "Deep Learning Image Registration and Analysis - Lecture 21 - MIT ML in Life Sciences (Spring 2021)",
+      "views": 15000
+    },
+    {
+      "title": "Electronic health records - Lecture 22 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 3100
+    },
+    {
+      "title": "Deep Learning and Neuroscience - Lecture 23 - Deep Learning in Life Sciences (Spring 2021)",
+      "views": 4000
+    }
+  ]
+}

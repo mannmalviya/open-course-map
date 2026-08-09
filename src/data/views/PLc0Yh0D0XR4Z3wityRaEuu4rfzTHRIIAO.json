@@ -1,0 +1,52 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1 – Course Introduction (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 93000
+    },
+    {
+      "title": "Lecture 1.2 – Introduction to AI Research (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 13000
+    },
+    {
+      "title": "Lecture 2 – Data, Structure, Information (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 9500
+    },
+    {
+      "title": "Lecture 2.1 – Practical AI Tools (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 5000
+    },
+    {
+      "title": "Lecture 3 – Common Model Architectures (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 4200
+    },
+    {
+      "title": "Lecture 4 – Multimodal Alignment (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 3700
+    },
+    {
+      "title": "Lecture 5 – Multimodal Fusion (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 4100
+    },
+    {
+      "title": "Lecture 6 – Cross-modal Learning (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 1900
+    },
+    {
+      "title": "Lecture 7 – Large Foundation Models (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 1600
+    },
+    {
+      "title": "Lecture 8 – Large Multimodal Models (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 10 – Reinforcement Learning & Interaction (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 1800
+    },
+    {
+      "title": "Lecture 11 – Human-AI Interaction (MIT How to AI Almost Anything, Spring 2025)",
+      "views": 3000
+    }
+  ]
+}

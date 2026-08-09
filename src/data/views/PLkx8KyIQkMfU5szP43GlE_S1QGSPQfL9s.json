@@ -1,0 +1,100 @@
+{
+  "lectures": [
+    {
+      "title": "6.8210 Spring 2024 Lecture 1: Robot dynamics and model-based control",
+      "views": 42000
+    },
+    {
+      "title": "Spring 2023 6.8210 Lecture 2: Nonlinear Dynamics",
+      "views": 16000
+    },
+    {
+      "title": "Lecture 3 | MIT 6.832 (Underactuated Robotics), Spring 2020 | Dynamic Programming I",
+      "views": 18000
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 4: Dynamic Programming II",
+      "views": 6600
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 5: Acrobots, Cart-poles, and Quadrotors I",
+      "views": 5400
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 6: Dynamic Programming III",
+      "views": 4200
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 7: Lyapunov Analysis I",
+      "views": 4100
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 8: Computing Lyapunov Functions I",
+      "views": 3100
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 9: Computing Lyapunov Functions II",
+      "views": 2200
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 10: Trajectory Optimization I",
+      "views": 6700
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 11: Trajectory Optimization II",
+      "views": 2700
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 12: Trajectory Stabilization",
+      "views": 2300
+    },
+    {
+      "title": "Lecture 15: MIT 6.832 Underactuated Robotics (Spring 2022) | \"Simple Models of Walking\"",
+      "views": 4400
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 14: Hybrid Trajectory Optimization",
+      "views": 1900
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 15: Planning + Control Through Contact",
+      "views": 1900
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 16: Humanoid Robots",
+      "views": 4500
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 17: Mixed-discrete (combinatorial) and continuous optimization",
+      "views": 1600
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 18: Sampling-based (kinodynamic) motion planning",
+      "views": 1900
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 19: Stochastic dynamics",
+      "views": 2700
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 20: Stochastic Control",
+      "views": 1700
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 21: Robust Control & Policy Search",
+      "views": 1400
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 22: Output feedback",
+      "views": 1000
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 23: Feedback motion planning",
+      "views": 1500
+    },
+    {
+      "title": "6.8210 Spring 2024 Lecture 24: Imitation learning / Foundation models / Course wrap-up",
+      "views": 4400
+    }
+  ]
+}

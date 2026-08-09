@@ -1,0 +1,76 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 1: Introduction",
+      "views": 668000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 2: Image Classification with Linear Classifiers",
+      "views": 107000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 3: Regularization and Optimization",
+      "views": 73000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 4: Neural Networks and Backpropagation",
+      "views": 56000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 5: Image Classification with CNNs",
+      "views": 47000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 6: CNN Architectures",
+      "views": 44000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 7: Recurrent Neural Networks",
+      "views": 37000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 8: Attention and Transformers",
+      "views": 62000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 9: Object Detection, Image Segmentation, Visualizing",
+      "views": 32000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 10: Video Understanding",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 11: Large Scale Distributed Training",
+      "views": 51000
+    },
+    {
+      "title": "Stanford CS231N | Spring 2025 | Lecture 12: Self-Supervised Learning",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 13: Generative Models 1",
+      "views": 25000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 14: Generative Models 2",
+      "views": 19000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 15: 3D Vision",
+      "views": 19000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 16: Vision and Language",
+      "views": 20000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 17: Robot Learning",
+      "views": 18000
+    },
+    {
+      "title": "Stanford CS231N Deep Learning for Computer Vision | Spring 2025 | Lecture 18: Human-Centered AI",
+      "views": 16000
+    }
+  ]
+}

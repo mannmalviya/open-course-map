@@ -1,0 +1,28 @@
+{
+  "lectures": [
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 01 - Flow and Diffusion Models (2026)",
+      "views": 46000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 02: Flow Matching (2026)",
+      "views": 15000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 03A - Score Functions (2026)",
+      "views": 6800
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 03B - Classifier-free Guidance (2026)",
+      "views": 5400
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 04 - Latent Spaces, Neural networks (2026)",
+      "views": 6600
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 05 - Discrete Diffusion Models (2026)",
+      "views": 4800
+    }
+  ]
+}

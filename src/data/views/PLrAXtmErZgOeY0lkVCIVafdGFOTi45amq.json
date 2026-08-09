@@ -1,0 +1,44 @@
+{
+  "lectures": [
+    {
+      "title": "Self-Driving Cars: State of the Art (2019)",
+      "views": 291000
+    },
+    {
+      "title": "Drago Anguelov (Waymo) - MIT Self-Driving Cars",
+      "views": 168000
+    },
+    {
+      "title": "MIT Self-Driving Cars (2018)",
+      "views": 74000
+    },
+    {
+      "title": "Sacha Arnoud, Director of Engineering, Waymo - MIT Self-Driving Cars",
+      "views": 108000
+    },
+    {
+      "title": "Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars",
+      "views": 32000
+    },
+    {
+      "title": "Sterling Anderson, Co-Founder, Aurora - MIT Self-Driving Cars",
+      "views": 36000
+    },
+    {
+      "title": "Sertac Karaman (MIT) on Motion Planning in a Complex World - MIT Self-Driving Cars",
+      "views": 43000
+    },
+    {
+      "title": "Chris Gerdes (Stanford) on Technology, Policy and Vehicle Safety - MIT Self-Driving Cars",
+      "views": 13000
+    },
+    {
+      "title": "Oliver Cameron (CEO, Voyage) - MIT Self-Driving Cars",
+      "views": 26000
+    },
+    {
+      "title": "Karl Iagnemma & Oscar Beijbom (Aptiv Autonomous Mobility) - MIT Self-Driving Cars",
+      "views": 26000
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lectures": [
+    {
+      "title": "MIT 6.S192 - Lecture 1: Computational Aesthetics, Design, Art | Learning by Generating",
+      "views": 19000
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 2: A Socratic debate, Alyosha Efros and Phillip Isola",
+      "views": 4900
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 3: \"Efficient GANs\" by Jun-Yan Zhu",
+      "views": 2300
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 4: “The Art of Deception - Encountering Perception ...” by Shiry Ginosar",
+      "views": 1600
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 5: \"Painting with the Neurons of a GAN\" by David Bau",
+      "views": 1600
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 6: \"Explorations in AI for Creativity\" by Devi Parikh",
+      "views": 1500
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 7: \"The Shape of Art History in the Eyes of the Machine \" by Ahmed Elgemal",
+      "views": 1300
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 8: \"How Machine Learning Can Benefit Human Creators\" by Rebecca Fiebrink",
+      "views": 909
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 9: \"Neural Abstractions\" by Tom White",
+      "views": 956
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 10: \"Magenta: Empowering creative agency with machine learning\" by Jesse Engel",
+      "views": 1800
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 11: \"Artificial Biodiversity\", Sofia Crespo and Feileacan McCormick",
+      "views": 1400
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 12: \"AI+Creativity, an Art Nerd's Perspective\" by Jason Bailey",
+      "views": 1300
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 13: \"Surfaces, Objects, Procedures ...\" by Jiajun Wu",
+      "views": 936
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 14: \"Towards Creating Endlessly Creative Open-Ended ...\" by Jeff Clune",
+      "views": 1100
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 15: \"Creative-Networks\" by Joel Simon",
+      "views": 1300
+    },
+    {
+      "title": "MIT 6.S192 - Lec. 16: \"Human Visual Perception of Art ...\" Aaron Hertzmann (see comments for part I)",
+      "views": 738
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 17: \"Using A.I. in the service of graphic design\" by Zoya Bylinskii",
+      "views": 1000
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 19: Easy 3D content creation with consistent neural fields, Ajay Jain",
+      "views": 1200
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 20: Generative art using diffusion, Prafulla Dhariwal",
+      "views": 11000
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 21: Between Art, Mind, & Machines, Sarah Schwettmann",
+      "views": 1600
+    },
+    {
+      "title": "MIT 6.S192 - Lecture 22: Diffusion Probabilistic Models, Jascha Sohl-Dickstein",
+      "views": 70000
+    },
+    {
+      "title": "GenRep: Generative Models as a Data Source for Multiview Representation Learning in ICLR2022",
+      "views": 2400
+    }
+  ]
+}

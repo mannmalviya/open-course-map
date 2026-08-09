@@ -1,0 +1,64 @@
+{
+  "lectures": [
+    {
+      "title": "CS231n Winter 2016: Lecture1: Introduction and Historical Context",
+      "views": 453000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 2: Data-driven approach, kNN, Linear Classification 1",
+      "views": 199000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 3: Linear Classification 2, Optimization",
+      "views": 154000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1",
+      "views": 329000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 5: Neural Networks Part 2",
+      "views": 199000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 6: Neural Networks Part 3 / Intro to ConvNets",
+      "views": 110000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 7: Convolutional Neural Networks",
+      "views": 181000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 8: Localization and Detection",
+      "views": 95000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 9: Visualization, Deep Dream, Neural Style, Adversarial Examples",
+      "views": 67000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM",
+      "views": 129000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 11: ConvNets in practice",
+      "views": 50000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 12: Deep Learning libraries",
+      "views": 48000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning",
+      "views": 42000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers",
+      "views": 72000
+    },
+    {
+      "title": "CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean",
+      "views": 39000
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "lectures": [
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 01 - Generative AI with SDEs (2025)",
+      "views": 118000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 02 - Constructing a Training Target",
+      "views": 42000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 03 - Training Flow/Diffusion Models (2025)",
+      "views": 23000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 04 - Building an Image Generator (2025)",
+      "views": 17000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 05 - Diffusion for Robotics (2025)",
+      "views": 12000
+    },
+    {
+      "title": "MIT 6.S184: Flow Matching and Diffusion Models - Lecture 06 - Diffusion for Proteins (2025)",
+      "views": 8800
+    }
+  ]
+}

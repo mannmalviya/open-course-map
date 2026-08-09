@@ -1,0 +1,48 @@
+{
+  "lectures": [
+    {
+      "title": "1: Introduction to Neural Networks and Deep Learning; Training Deep NNs",
+      "views": 343000
+    },
+    {
+      "title": "2: Training Deep NNs (cont.); Introduction to Keras/Tensorflow; Application to Tabular Data",
+      "views": 81000
+    },
+    {
+      "title": "3: Deep Learning for Computer Vision – Building Convolutional Neural Networks from Scratch",
+      "views": 53000
+    },
+    {
+      "title": "4: Deep Learning for Computer Vision – Transfer Learning and Fine-Tuning; Intro to HuggingFace",
+      "views": 32000
+    },
+    {
+      "title": "5: Deep Learning for Natural Language – The Basics",
+      "views": 27000
+    },
+    {
+      "title": "6: Deep Learning for Natural Language – Embeddings",
+      "views": 21000
+    },
+    {
+      "title": "7: Deep Learning for Natural Language – Transformers",
+      "views": 20000
+    },
+    {
+      "title": "8: Deep Learning for Natural Language – Transformers, Self-Supervised Learning",
+      "views": 15000
+    },
+    {
+      "title": "9: Generative AI – Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)",
+      "views": 18000
+    },
+    {
+      "title": "10: Generative AI – Adapting LLMs with Parameter-Efficient Fine-Tuning",
+      "views": 12000
+    },
+    {
+      "title": "11: Generative AI – Text-to-Image Models",
+      "views": 15000
+    }
+  ]
+}

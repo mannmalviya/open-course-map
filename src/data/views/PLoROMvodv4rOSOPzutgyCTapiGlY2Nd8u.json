@@ -1,0 +1,64 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 1 - Introduction - Emma Brunskill",
+      "views": 748000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 2 - Given a Model of the World",
+      "views": 233000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 3 -  Model-Free Policy Evaluation",
+      "views": 126000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 4 - Model Free Control",
+      "views": 85000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 5 - Value Function Approximation",
+      "views": 72000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 6 - CNNs and Deep Q Learning",
+      "views": 60000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 7 - Imitation Learning",
+      "views": 55000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 8 - Policy Gradient I",
+      "views": 50000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 9 - Policy Gradient II",
+      "views": 33000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 10 - Policy Gradient III & Review",
+      "views": 28000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 11 - Fast Reinforcement Learning",
+      "views": 27000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 12 - Fast Reinforcement Learning II",
+      "views": 25000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 13 - Fast Reinforcement Learning III",
+      "views": 26000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 15 - Batch Reinforcement Learning",
+      "views": 25000
+    },
+    {
+      "title": "Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 16 - Monte Carlo Tree Search",
+      "views": 50000
+    }
+  ]
+}

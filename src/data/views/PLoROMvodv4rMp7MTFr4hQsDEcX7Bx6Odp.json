@@ -1,0 +1,80 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 1 - Why Parallelism? Why Efficiency?",
+      "views": 118000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 2 - A Modern Multi-Core Processor",
+      "views": 42000
+    },
+    {
+      "title": "Stanford CS149 I 2023 I Lecture 3 - Multi-core Arch Part II + ISPC Programming Abstractions",
+      "views": 27000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 4 - Parallel Programming Basics",
+      "views": 25000
+    },
+    {
+      "title": "Stanford CS149 I 2023 I Lecture 5 - Performance Optimization I: Work Distribution and Scheduling",
+      "views": 15000
+    },
+    {
+      "title": "Stanford CS149 I Lecture 6 - Performance Optimization II: Locality, Communication, and Contention",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 7 - GPU architecture and CUDA Programming",
+      "views": 42000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 8 - Data-Parallel Thinking",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS149 I 2023 I Lecture 9 - Distributed Data-Parallel Computing Using Spark",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 10 - Efficiently Evaluating DNNs on GPUs",
+      "views": 8800
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 11 - Cache Coherence",
+      "views": 8100
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 12 - Memory Consistency",
+      "views": 6500
+    },
+    {
+      "title": "Stanford CS149 I 2023 I Lecture 13 - Fine-Grained Synchronization and Lock-Free Programming",
+      "views": 6000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 14 - Midterm Review",
+      "views": 4100
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 15 - Domain Specific Programming Languages",
+      "views": 5500
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 16 - Transactional Memory 1",
+      "views": 5000
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 17 - Transactional Memory 2",
+      "views": 4800
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 18 - Hardware Specialization",
+      "views": 5400
+    },
+    {
+      "title": "Stanford CS149 I Parallel Computing I 2023 I Lecture 19 - Accessing Memory + Course Wrap Up",
+      "views": 6200
+    }
+  ]
+}

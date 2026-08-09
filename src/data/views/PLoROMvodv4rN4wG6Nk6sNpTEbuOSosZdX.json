@@ -1,0 +1,68 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Introduction to Reinforcement Learning I 2024 I Lecture 1",
+      "views": 170000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Tabular MDP Planning I 2024 I Lecture 2",
+      "views": 59000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Policy Evaluation I 2024 I Lecture 3",
+      "views": 28000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Q learning and Function Approximation I 2024 I Lecture 4",
+      "views": 21000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Policy Search 1 I 2024 I Lecture 5",
+      "views": 15000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Policy Search 2 I 2024 I Lecture 6",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Policy Search 3 I 2024 I Lecture 7",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Offline RL 1 I 2024 I Lecture 8",
+      "views": 9200
+    },
+    {
+      "title": "Stanford CS234 I Guest Lecture on DPO: Rafael Rafailov, Archit Sharma, Eric Mitchell I Lecture 9",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Offline RL 3 I 2024 I Lecture 10",
+      "views": 7100
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Exploration 1 I 2024 I Lecture 11",
+      "views": 7500
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Exploration 2 I 2024 I Lecture 12",
+      "views": 5800
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Exploration 3 I 2024 I Lecture 13",
+      "views": 5100
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Multi-Agent Game Playing I 2024 I Lecture 14",
+      "views": 8200
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Emma Brunskill & Dan Webber I 2024 I Lecture 15",
+      "views": 7500
+    },
+    {
+      "title": "Stanford CS234 Reinforcement Learning I Value Alignment I 2024 I Lecture 16",
+      "views": 10000
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - What is multi-task learning? I 2022 I Lecture 1",
+      "views": 91000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Multi-Task Learning Basics I 2022 I Lecture 2",
+      "views": 30000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Transfer Learning, Meta Learning l 2022 I Lecture 3",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Black Box Meta Learning l 2022 I Lecture 4",
+      "views": 14000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Optimization-Based Meta-Learning l 2022 I Lecture 5",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Non-Parametric Few-Shot Learning l 2022 I Lecture 6",
+      "views": 9700
+    },
+    {
+      "title": "Stanford CS330 I Unsupervised Pre-Training:Contrastive Learning l 2022 I Lecture 7",
+      "views": 31000
+    },
+    {
+      "title": "Stanford CS330 I Unsupervised Pre-training for Few-shot Learning l 2022 I Lecture 8",
+      "views": 16000
+    },
+    {
+      "title": "Stanford CS330 I Advanced Meta-Learning TopicsTask Construction l 2022 I Lecture 9",
+      "views": 8200
+    },
+    {
+      "title": "Stanford CS330 I Advanced Meta-Learning 2: Large-Scale Meta-Optimization l 2022 I Lecture 10",
+      "views": 6600
+    },
+    {
+      "title": "Stanford CS330 I Variational Inference and Generative Models l 2022 I Lecture 11",
+      "views": 34000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Bayesian Meta-Learning l 2022 I Lecture 12",
+      "views": 8700
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Domain Adaptation l 2022 I Lecture 13",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Domain Generalization l 2022 I Lecture 14",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Lifelong Learning I 2022 I Lecture 15",
+      "views": 8300
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Frontiers and Open Challenges I 2022 I Lecture 16",
+      "views": 4800
+    },
+    {
+      "title": "Stanford CS330 Deep Multi-Task & Meta Learning - Percy Liang Guest Lecture I 2022 I Lecture 17",
+      "views": 10000
+    }
+  ]
+}

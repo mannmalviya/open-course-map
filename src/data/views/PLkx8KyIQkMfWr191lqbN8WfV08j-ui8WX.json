@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "6.4210 Fall 2023 Lecture 1: Intro",
+      "views": 19000
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 2: Let's get you a robot!",
+      "views": 10000
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 3: Basic Pick and Place (Pt. 1)",
+      "views": 8000
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 4: Basic Pick and Place (Pt. 2)",
+      "views": 4900
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 5: Basic Pick and Place (Pt. 3)",
+      "views": 3800
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 9: Manipulation in Clutter- Grasp Selection",
+      "views": 2500
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 6: Geometric Perception (Pt. 1)",
+      "views": 3400
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 7: Geometric Perception (Pt. 2)",
+      "views": 2200
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 8: Manipulation in Clutter- Contact Simulation",
+      "views": 2300
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 10: Manipulation in Clutter- Programming Tasks",
+      "views": 1900
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 11: Motion Planning- Optimization Based",
+      "views": 3900
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 12: Motion Planning- Sampling Based and Global Optimization",
+      "views": 2500
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 13: Mobile Manipulation",
+      "views": 2400
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 14: Force Control",
+      "views": 2000
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 15: Manipulator Control",
+      "views": 1600
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 16: Deep Perception",
+      "views": 1700
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 17: Deep Perception Pt. 2",
+      "views": 1400
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 18: Visuomotor Policies (via Behavior Cloning)",
+      "views": 3800
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 19: Reinforcement Learning Pt. 1",
+      "views": 2500
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 20: Reinforcement Learning Pt. 2",
+      "views": 1500
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 21: Multibody Parameter Estimation",
+      "views": 1300
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 22: Foundational Models for Decision Making",
+      "views": 2500
+    },
+    {
+      "title": "6.4210 Fall 2023 Lecture 23: Soft Manipulation and Tactile Sensing",
+      "views": 1700
+    }
+  ]
+}

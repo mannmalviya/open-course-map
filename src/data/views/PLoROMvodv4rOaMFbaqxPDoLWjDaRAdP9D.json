@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 1 - Intro and Word Vectors",
+      "views": 236000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 2 - Word Vectors and Language Models",
+      "views": 85000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 3 - Backpropagation, Neural Network",
+      "views": 37000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 4 - Dependency Parsing",
+      "views": 29000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 5 - Recurrent Neural Networks",
+      "views": 29000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 6 - Sequence to Sequence Models",
+      "views": 26000
+    },
+    {
+      "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects and LLM Intro",
+      "views": 26000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers",
+      "views": 133000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining",
+      "views": 76000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 11 - Natural Language Generation",
+      "views": 54000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma",
+      "views": 27000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking by Yann Dubois",
+      "views": 22000
+    },
+    {
+      "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS224N: NLP w/ DL| Spring 2024 | Lecture 13 - Brain-Computer Interfaces, Chaofei Fan",
+      "views": 8200
+    },
+    {
+      "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 14 - Reasoning and Agents by Shikhar Murty",
+      "views": 23000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 15 - After DPO by Nathan Lambert",
+      "views": 14000
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 16 - ConvNets and TreeRNNs",
+      "views": 8600
+    },
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 18 - NLP, Linguistics, Philosophy",
+      "views": 8900
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela",
+      "views": 46000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lec. 19 - Model Interpretability & Editing, Been Kim",
+      "views": 33000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Python Tutorial, Manasi Sharma",
+      "views": 31000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul",
+      "views": 39000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel",
+      "views": 70000
+    }
+  ]
+}

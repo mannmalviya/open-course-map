@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors",
+      "views": 803000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers",
+      "views": 209000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks",
+      "views": 119000
+    },
+    {
+      "title": "Stanford CS224N - NLP w/ DL | Winter 2021 | Lecture 4 - Syntactic Structure and Dependency Parsing",
+      "views": 103000
+    },
+    {
+      "title": "Stanford CS224N -  NLP w/ DL | Winter 2021 | Lecture 5 - Recurrent Neural networks (RNNs)",
+      "views": 99000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs",
+      "views": 101000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention",
+      "views": 99000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers",
+      "views": 133000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 9 - Pretraining",
+      "views": 76000
+    },
+    {
+      "title": "Stanford CS224N | 2023 | Lecture 10 - Prompting, Reinforcement Learning from Human Feedback",
+      "views": 82000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 11 - Natural Language Generation",
+      "views": 54000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Question Answering",
+      "views": 61000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution",
+      "views": 35000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 14 - Insights between NLP and Linguistics",
+      "views": 19000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models",
+      "views": 34000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 15 - Code Generation",
+      "views": 18000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation",
+      "views": 27000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning",
+      "views": 27000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Python Tutorial, Manasi Sharma",
+      "views": 31000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | PyTorch Tutorial,  Drew Kaul",
+      "views": 39000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Hugging Face Tutorial, Eric Frankel",
+      "views": 70000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 16 - Multimodal Deep Learning, Douwe Kiela",
+      "views": 46000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lec. 19 - Model Interpretability & Editing, Been Kim",
+      "views": 33000
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 1: Overview, Tokenization",
+      "views": 148000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 2: PyTorch (einops)",
+      "views": 41000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 3: Architectures",
+      "views": 45000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 4: Attention Alternatives",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 5: GPUs, TPUs",
+      "views": 22000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 6: Kernels, Triton, XLA",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 7: Parallelism",
+      "views": 9200
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 8: Parallelism",
+      "views": 9600
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 9: Scaling Laws",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 10: Inference",
+      "views": 9600
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 11:  Scaling Laws",
+      "views": 6500
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 12: Evaluation",
+      "views": 5100
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 13: Data (Sources, Datasets)",
+      "views": 6000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 14: Data",
+      "views": 5400
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 15: Mid/Post-Training",
+      "views": 20000
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 16: Post-Training - RLVR",
+      "views": 9100
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 17: Alignment - Multimodality",
+      "views": 6100
+    },
+    {
+      "title": "Stanford CS336 Language Modeling from Scratch | Spring 2026 | Guest Lecture: Dan Fu",
+      "views": 14000
+    }
+  ]
+}

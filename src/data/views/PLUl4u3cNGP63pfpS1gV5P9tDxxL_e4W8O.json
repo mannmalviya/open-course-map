@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to Machine Vision",
+      "views": 120000
+    },
+    {
+      "title": "Lecture 2: Image Formation, Perspective Projection, Time Derivative, Motion Field",
+      "views": 20000
+    },
+    {
+      "title": "Lecture 3: Time to Contact, Focus of Expansion, Direct Motion Vision Methods, Noise Gain",
+      "views": 8000
+    },
+    {
+      "title": "Lecture 4: Fixed Optical Flow, Optical Mouse, Constant Brightness Assumption, Closed Form Solution",
+      "views": 5700
+    },
+    {
+      "title": "Lecture 5: TCC and FOR MontiVision Demos, Vanishing Point, Use of VPs in Camera Calibration",
+      "views": 4600
+    },
+    {
+      "title": "Lecture 6: Photometric Stereo, Noise Gain, Error Amplification, Eigenvalues and Eigenvectors Review",
+      "views": 4000
+    },
+    {
+      "title": "Lecture 7: Gradient Space, Reflectance Map, Image Irradiance Equation, Gnomonic Projection",
+      "views": 5500
+    },
+    {
+      "title": "Lecture 8: Shading, Special Cases, Lunar Surface, Scanning Electron Microscope, Green's Theorem",
+      "views": 3300
+    },
+    {
+      "title": "Lecture 9: Shape from Shading, General Case - From First Order Nonlinear PDE to Five ODEs",
+      "views": 9400
+    },
+    {
+      "title": "Lecture 10: Characteristic Strip Expansion, Shape from Shading, Iterative Solutions",
+      "views": 3700
+    },
+    {
+      "title": "Lecture 11: Edge Detection, Subpixel Position, CORDIC, Line Detection (US 6,408,109)",
+      "views": 4500
+    },
+    {
+      "title": "Lecture 12: Blob Analysis, Binary Image Processing, Green's Theorem, Derivative and Integral",
+      "views": 3400
+    },
+    {
+      "title": "Lecture 13: Object Detection, Recognition and Pose Determination, PatQuick (US 7,016,539)",
+      "views": 14000
+    },
+    {
+      "title": "Lecture 14: Inspection in PatQuick, Hough Transform, Homography, Position Determination, Multi-Scale",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 15: Alignment, PatMax, Distance Field, Filtering and Sub-Sampling (US 7,065,262)",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 16: Fast Convolution, Low Pass Filter Approximations, Integral Images (US 6,457,032)",
+      "views": 3100
+    },
+    {
+      "title": "Lecture 17: Photogrammetry, Orientation, Axes of Inertia, Symmetry, Orientation",
+      "views": 2900
+    },
+    {
+      "title": "Lecture 18: Rotation and How to Represent It, Unit Quaternions, the Space of Rotations",
+      "views": 14000
+    },
+    {
+      "title": "Lecture 19: Absolute Orientation in Closed Form, Outliers and Robustness, RANSAC",
+      "views": 3100
+    },
+    {
+      "title": "Lecture 20: Space of Rotations, Regular Tessellations, Critical Surfaces, Binocular Stereo",
+      "views": 20000
+    },
+    {
+      "title": "Lecture 21: Relative Orientation, Binocular Stereo, Structure, Quadrics, Calibration, Reprojection",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 22: Exterior Orientation, Recovering Position & Orientation, Bundle Adjustment, Object Shape",
+      "views": 4300
+    },
+    {
+      "title": "Lecture 23: Gaussian Image, Solids of Revolution, Direction Histograms, Regular Polyhedra",
+      "views": 4500
+    }
+  ]
+}

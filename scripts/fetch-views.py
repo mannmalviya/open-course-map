@@ -58,6 +58,19 @@ def fetch_playlist(pid):
                     if title is not None and views is not None:
                         seen.add(vid)
                         lectures.append({"title": title, "views": views})
+            # Older playlist markup: playlistVideoRenderer instead of lockupViewModel
+            pr = o.get("playlistVideoRenderer")
+            if pr and re.fullmatch(r"[A-Za-z0-9_-]{11}", pr.get("videoId", "")):
+                vid = pr["videoId"]
+                if vid not in seen:
+                    runs = pr.get("title", {}).get("runs", [])
+                    title = runs[0].get("text") if runs else None
+                    views = None
+                    for part in re.findall(r'"text":\s*"([^"]*? views)"', json.dumps(pr.get("videoInfo", {}))):
+                        views = parse_views(part)
+                    if title is not None and views is not None:
+                        seen.add(vid)
+                        lectures.append({"title": title, "views": views})
             for v in o.values():
                 walk(v)
         elif isinstance(o, list):

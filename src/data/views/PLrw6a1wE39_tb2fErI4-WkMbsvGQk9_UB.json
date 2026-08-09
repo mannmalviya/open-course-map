@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction",
+      "views": 844000
+    },
+    {
+      "title": "Lecture 2: RPC and Threads",
+      "views": 268000
+    },
+    {
+      "title": "Lecture 3: GFS",
+      "views": 184000
+    },
+    {
+      "title": "Lecture 4: Primary-Backup Replication",
+      "views": 93000
+    },
+    {
+      "title": "Lecture 5: Go, Threads, and Raft",
+      "views": 76000
+    },
+    {
+      "title": "Lecture 6: Fault Tolerance: Raft (1)",
+      "views": 89000
+    },
+    {
+      "title": "Lecture 7: Fault Tolerance: Raft (2)",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 8: Zookeeper",
+      "views": 78000
+    },
+    {
+      "title": "Lecture 9: More Replication, CRAQ",
+      "views": 36000
+    },
+    {
+      "title": "Lecture 10: Cloud Replicated DB, Aurora",
+      "views": 41000
+    },
+    {
+      "title": "Lecture 11: Cache Consistency: Frangipani",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 12: Distributed Transactions",
+      "views": 57000
+    },
+    {
+      "title": "Lecture 13: Spanner",
+      "views": 38000
+    },
+    {
+      "title": "Lecture 14: Optimistic Concurrency Control",
+      "views": 23000
+    },
+    {
+      "title": "Lecture 15: Big Data: Spark",
+      "views": 29000
+    },
+    {
+      "title": "Lecture 16: Cache Consistency: Memcached at Facebook",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 17: COPS, Causal Consistency",
+      "views": 18000
+    },
+    {
+      "title": "Lecture 18: Fork Consistency, Certificate Transparency",
+      "views": 16000
+    },
+    {
+      "title": "Lecture 19: Bitcoin",
+      "views": 23000
+    },
+    {
+      "title": "Lecture 20: Blockstack",
+      "views": 21000
+    }
+  ]
+}

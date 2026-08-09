@@ -1,0 +1,184 @@
+{
+  "lectures": [
+    {
+      "title": "EfficientML.ai Lecture 1 - Introduction (MIT 6.5940, Fall 2023)",
+      "views": 91000
+    },
+    {
+      "title": "EfficientML.ai Lecture 1 - Introduction (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 20000
+    },
+    {
+      "title": "EfficientML.ai Lecture 2 - Basics of Neural Networks (MIT 6.5940, Fall 2023)",
+      "views": 21000
+    },
+    {
+      "title": "EfficientML.ai Lecture 2 - Basics of Neural Networks (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 11000
+    },
+    {
+      "title": "EfficientML.ai Lecture 3 - Pruning and Sparsity (Part I) (MIT 6.5940, Fall 2023)",
+      "views": 20000
+    },
+    {
+      "title": "EfficientML.ai Lecture 3 - Pruning and Sparsity (Part I) (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 9100
+    },
+    {
+      "title": "EfficientML.ai Lecture 4 - Pruning and Sparsity (Part II) (MIT 6.5940, Fall 2023)",
+      "views": 12000
+    },
+    {
+      "title": "EfficientML.ai Lecture 4 - Pruning and Sparsity (Part II) (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 5100
+    },
+    {
+      "title": "EfficientML.ai Lecture 5 - Quantization (Part I) (MIT 6.5940, Fall 2023)",
+      "views": 18000
+    },
+    {
+      "title": "EfficientML.ai Lecture 5 - Quantization (Part I) (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 7800
+    },
+    {
+      "title": "EfficientML.ai Lecture 6 - Quantization (Part II) (MIT 6.5940, Fall 2023)",
+      "views": 11000
+    },
+    {
+      "title": "EfficientML.ai Lecture 6 - Quantization (Part II) (MIT 6.5940, Fall 2023, Zoom recording)",
+      "views": 4900
+    },
+    {
+      "title": "EfficientML.ai Lecture 7 - Neural Architecture Search (Part I) (MIT 6.5940, Fall 2023)",
+      "views": 8300
+    },
+    {
+      "title": "EfficientML.ai Lecture 7 - Neural Architecture Search (Part I) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 3400
+    },
+    {
+      "title": "EfficientML.ai Lecture 8 - Neural Architecture Search (Part II) (MIT 6.5940, Fall 2023)",
+      "views": 4300
+    },
+    {
+      "title": "EfficientML.ai Lecture 8 - Neural Architecture Search (Part II) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2100
+    },
+    {
+      "title": "EfficientML.ai Lecture 9 - Knowledge Distillation (MIT 6.5940, Fall 2023)",
+      "views": 13000
+    },
+    {
+      "title": "EfficientML.ai Lecture 9 - Knowledge Distillation (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 3900
+    },
+    {
+      "title": "EfficientML.ai Lecture 10 - MCUNet: TinyML on Microcontrollers (MIT 6.5940, Fall 2023)",
+      "views": 4700
+    },
+    {
+      "title": "EfficientML.ai Lecture 10 - MCUNet: TinyML on Microcontrollers (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2100
+    },
+    {
+      "title": "EfficientML.ai Lecture 11 - TinyEngine and Parallel Processing (MIT 6.5940, Fall 2023)",
+      "views": 3600
+    },
+    {
+      "title": "EfficientML.ai Lecture 11 - TinyEngine and Parallel Processing (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 1800
+    },
+    {
+      "title": "EfficientML.ai Lecture 12 - Transformer and LLM (Part I) (MIT 6.5940, Fall 2023)",
+      "views": 11000
+    },
+    {
+      "title": "EfficientML.ai Lecture 12 - Transformer and LLM (Part I) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 4800
+    },
+    {
+      "title": "EfficientML.ai Lecture 13 - Transformer and LLM (Part II) (MIT 6.5940, Fall 2023)",
+      "views": 7100
+    },
+    {
+      "title": "EfficientML.ai Lecture 13 - Transformer and LLM (Part II) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 3100
+    },
+    {
+      "title": "EfficientML.ai Lecture 14 - Vision Transformer (MIT 6.5940, Fall 2023)",
+      "views": 9500
+    },
+    {
+      "title": "EfficientML.ai Lecture 14 - Vision Transformer (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2700
+    },
+    {
+      "title": "EfficientML.ai Lecture 15 - GAN, Video, and Point Cloud (MIT 6.5940, Fall 2023)",
+      "views": 2500
+    },
+    {
+      "title": "EfficientML.ai Lecture 15 - GAN, Video, and Point Cloud (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 1300
+    },
+    {
+      "title": "EfficientML.ai Lecture 16 - Diffusion Model (MIT 6.5940, Fall 2023)",
+      "views": 9400
+    },
+    {
+      "title": "EfficientML.ai Lecture 16 - Diffusion Model (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2500
+    },
+    {
+      "title": "EfficientML.ai Lecture 17: Distributed Training (Part I) (MIT 6.5940, Fall 2023)",
+      "views": 4300
+    },
+    {
+      "title": "EfficientML.ai Lecture 17: Distributed Training (Part I) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2600
+    },
+    {
+      "title": "EfficientML.ai Lecture 18: Distributed Training (Part II) (MIT 6.5940, Fall 2023)",
+      "views": 2300
+    },
+    {
+      "title": "EfficientML.ai Lecture 18: Distributed Training (Part II) (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 1500
+    },
+    {
+      "title": "EfficientML.ai Lecture 19: On-Device Training and Transfer Learning (MIT 6.5940, Fall 2023)",
+      "views": 2300
+    },
+    {
+      "title": "EfficientML.ai Lecture 19: On-Device Training and Transfer Learning (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 1600
+    },
+    {
+      "title": "EfficientML.ai Lecture 20: Efficient Fine-tuning and Prompt Engineering (MIT 6.5940, Fall 2023)",
+      "views": 3100
+    },
+    {
+      "title": "EfficientML.ai Lecture 20: Efficient Fine-tuning and Prompt Engineering (MIT 6.5940,Fall 2023,Zoom)",
+      "views": 1900
+    },
+    {
+      "title": "EfficientML.ai Lecture 21: Basics of Quantum Computing (MIT 6.5940, Fall 2023)",
+      "views": 2800
+    },
+    {
+      "title": "EfficientML.ai Lecture 21: Basics of Quantum Computing (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 2200
+    },
+    {
+      "title": "EfficientML.ai Lecture 22: Quantum Machine Learning (MIT 6.5940, Fall 2023)",
+      "views": 1700
+    },
+    {
+      "title": "EfficientML.ai Lecture 22: Quantum Machine Learning (MIT 6.5940, Fall 2023, Zoom)",
+      "views": 1800
+    },
+    {
+      "title": "EfficientML.ai Lecture 23: Noise Robust Quantum ML (MIT 6.5940, Fall 2023)",
+      "views": 1700
+    }
+  ]
+}

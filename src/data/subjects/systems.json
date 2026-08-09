@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "mit-6824": {
+      "title": "6.824 Distributed Systems",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.824 · Morris · Spring 2020",
+          "url": "https://pdos.csail.mit.edu/6.824/",
+          "youtube": "https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB",
+          "date": "Spring 2020",
+          "youtubeId": "cQP8WApzIQQ",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

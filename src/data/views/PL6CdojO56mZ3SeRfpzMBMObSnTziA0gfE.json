@@ -1,0 +1,52 @@
+{
+  "lectures": [
+    {
+      "title": "CS162 Lecture 14 (3/12/2020): Caching and TLBs (finished), Demand Paging",
+      "views": 13000
+    },
+    {
+      "title": "CS162 Lecture 15 (3/17/2020): Demand Paging",
+      "views": 2400
+    },
+    {
+      "title": "CS162 Lecture 7 (2/13/2020): Semaphores, Monitors, and Readers/Writers",
+      "views": 5800
+    },
+    {
+      "title": "CS162 Lecture 16 (3/19/2020): Demand Paging (finished), General I/O",
+      "views": 2100
+    },
+    {
+      "title": "CS162 Lecture 17 (3/31/2020): Performance, Storage Devices",
+      "views": 2000
+    },
+    {
+      "title": "CS162 Lecture 18 (4/2/2020): Queueing Theory, Disk Scheduling & File Systems",
+      "views": 2100
+    },
+    {
+      "title": "CS162 Lecture 19 (4/7/2020): File Systems (Con't), MMAP, Buffer Cache",
+      "views": 2500
+    },
+    {
+      "title": "CS162 Lecture 20 (4/14/2020): Filesystems (Con't), Reliability, Transactions",
+      "views": 1900
+    },
+    {
+      "title": "CS162 Lecture 21 (4/16/2020): Transactions (Con't), End-to-End Argument, Distributed Decision Making",
+      "views": 1600
+    },
+    {
+      "title": "CS162 Lecture 22 (4/21/2020): Distributed Decision Making (Finished), TCP/IP Networking",
+      "views": 1600
+    },
+    {
+      "title": "CS162 Lecture 23 (4/23/2020): Networking (Con't), Distributed File Systems, Key-Value Stores",
+      "views": 1600
+    },
+    {
+      "title": "CS162 Lecture 24 (4/28/2020): Distributed File Systems (Finished), Key-Value Stores, and Chord",
+      "views": 1900
+    }
+  ]
+}

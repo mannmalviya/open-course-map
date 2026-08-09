@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "berkeley-cs162": {
+      "title": "CS162 Operating Systems",
+      "university": "UC Berkeley",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Berkeley CS162 · Spring 2020",
+          "url": "https://cs162.org/",
+          "youtube": "https://www.youtube.com/playlist?list=PL6CdojO56mZ3SeRfpzMBMObSnTziA0gfE",
+          "date": "Spring 2020",
+          "youtubeId": "dTl9QkH4j8o",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

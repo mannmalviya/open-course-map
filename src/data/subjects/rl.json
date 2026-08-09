@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS234 · Brunskill · Spring 2024",
+          "label": "Stanford CS234 \u00b7 Brunskill \u00b7 Spring 2024",
           "url": "https://web.stanford.edu/class/cs234/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX",
           "date": "Spring 2024",
@@ -17,7 +17,7 @@
           "primary": true
         },
         {
-          "label": "Stanford CS234 · Winter 2019",
+          "label": "Stanford CS234 \u00b7 Winter 2019",
           "url": "https://web.stanford.edu/class/cs234/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
           "date": "Winter 2019",
@@ -34,7 +34,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS224R · Finn",
+          "label": "Stanford CS224R \u00b7 Finn",
           "url": "https://cs224r.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL",
           "youtubeId": "EvHRQhMX7_w",
@@ -42,5 +42,11 @@
         }
       ]
     }
-  }
+  },
+  "edges": [
+    {
+      "from": "stanford-cs234",
+      "to": "stanford-cs224r"
+    }
+  ]
 }

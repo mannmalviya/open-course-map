@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS236 · Ermon · 2023",
+          "label": "Stanford CS236 \u00b7 Ermon \u00b7 2023",
           "url": "https://deepgenerativemodels.github.io/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
           "date": "Fall 2023",
@@ -27,7 +27,7 @@
       },
       "versions": [
         {
-          "label": "MIT 6.S184 · 2026",
+          "label": "MIT 6.S184 \u00b7 2026",
           "url": "https://diffusion.csail.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PL57nT7tSGAAXwjhDYcxEycx5W7YoSrZyt",
           "date": "2026",
@@ -35,11 +35,70 @@
           "primary": true
         },
         {
-          "label": "MIT 6.S184 · 2025",
+          "label": "MIT 6.S184 \u00b7 2025",
           "url": "https://diffusion.csail.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH",
           "date": "2025",
           "youtubeId": "GCoP2w-Cqtg"
+        }
+      ]
+    },
+    "stanford-cs336": {
+      "title": "CS336 Language Modeling from Scratch",
+      "university": "Stanford",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS336 \u00b7 Spring 2026",
+          "url": "https://stanford-cs336.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV",
+          "date": "Spring 2026",
+          "youtubeId": "JuoVZkPBiKk",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS336 \u00b7 Spring 2025",
+          "url": "https://stanford-cs336.github.io/spring2025/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_",
+          "date": "Spring 2025",
+          "youtubeId": "SQ3fZ1sAqXI"
+        }
+      ]
+    },
+    "stanford-cme295": {
+      "title": "CME295 Transformers and LLMs",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Stanford CME295 \u00b7 Amidi \u00b7 Autumn 2025",
+          "url": "https://cme295.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy",
+          "date": "Autumn 2025",
+          "youtubeId": "Ub3GoFaUcds",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-llm-collection": {
+      "title": "LLM Lectures Collection",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Stanford Online \u00b7 select LLM lectures",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rObv1FMizXqumgVVdzX4_05",
+          "youtubeId": "oyLUvz9nR6E",
+          "primary": true
         }
       ]
     }

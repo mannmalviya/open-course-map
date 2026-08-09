@@ -362,6 +362,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "robotics": {
+      "title": "Robotics",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 430,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

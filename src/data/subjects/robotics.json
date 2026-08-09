@@ -1,0 +1,53 @@
+{
+  "courses": {
+    "mit-64210": {
+      "title": "6.4210 Robotic Manipulation",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.4210 · Tedrake · Fall 2023",
+          "url": "https://manipulation.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfWr191lqbN8WfV08j-ui8WX",
+          "date": "Fall 2023",
+          "youtubeId": "v04rn86Dehg",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.4210 · Tedrake · Fall 2022",
+          "url": "https://manipulation.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69",
+          "date": "Fall 2022",
+          "youtubeId": "QlrRb7X4JvA"
+        }
+      ]
+    },
+    "mit-68210": {
+      "title": "6.8210 Underactuated Robotics",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.8210 · Tedrake · Spring 2024",
+          "url": "https://underactuated.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLkx8KyIQkMfU5szP43GlE_S1QGSPQfL9s",
+          "date": "Spring 2024",
+          "youtubeId": "uyyBT-MHhLE",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-64210",
+      "to": "mit-68210"
+    }
+  ]
+}

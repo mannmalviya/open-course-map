@@ -1,0 +1,148 @@
+{
+  "lectures": [
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 1: Introduction and Basics (Spring 2022)",
+      "views": 39000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 2: Tradeoffs, Metrics, Mysteries in Comp Arch (Spring 2022)",
+      "views": 12000
+    },
+    {
+      "title": "Digital Design & Computer Arch. - Lecture 3: Mysteries in Comp Arch., FPGAs, Labs (Spring 2022)",
+      "views": 9100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 4: Combinational Logic I (Spring 2022)",
+      "views": 8500
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 5: Combinational Logic II (Spring 2022)",
+      "views": 7100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 6: Sequential Logic Design (Spring 2022)",
+      "views": 6900
+    },
+    {
+      "title": "Digital Design & Computer Arch - Lecture 7: Hardware Description Languages and Verilog (Spring 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 8: Timing and Verification (Spring 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 9: Von Neumann Model & ISAs (Spring 2022)",
+      "views": 8400
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 10: Instruction Set Architectures II (Spring 2022)",
+      "views": 6100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 10b: Assembly Programming (Spring 2022)",
+      "views": 3800
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 11: Microarchitecture Fundamentals (Spring 2022)",
+      "views": 5800
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 12: Microarchitecture Fundamentals II (Spring 2022)",
+      "views": 4900
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 13: Pipelining (Spring 2022)",
+      "views": 4900
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 14: Pipelined Processor Design (Spring 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 15: Precise Exceptions (Spring 2022)",
+      "views": 5300
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 16: Out-of-Order Execution (Spring 2022)",
+      "views": 5300
+    },
+    {
+      "title": "Digital Design & Comp. Arch. - Lecture 16b: Load-Store Handling in Out-of-Order Execution (S'22)",
+      "views": 3100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 17: Superscalar & Branch Prediction I (Spring 2022)",
+      "views": 5700
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 18: Branch Prediction II (Spring 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Digital Design & Computer Arch. - Lecture 19: VLIW and Systolic Array Architectures (Spring 2022)",
+      "views": 5100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 19c: Decoupled Access-Execute Arch. (Spring 2022)",
+      "views": 2100
+    },
+    {
+      "title": "Digital Design & Computer Arch. - Lecture 20: SIMD Processing (Vector and Array Processors) (S 2022)",
+      "views": 3000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 21: Graphics Processing Units (Spring 2022)",
+      "views": 3300
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 22: Memory Organization & Technology (Spring 2022)",
+      "views": 6000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 23: Memory Hierarchy and Caches (Spring 2022)",
+      "views": 5900
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 24: Advanced Caches (Spring 2022)",
+      "views": 3900
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 24a: Multi-Core Caches (Spring 2022)",
+      "views": 2300
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 25: Prefetching (Spring 2022)",
+      "views": 4400
+    },
+    {
+      "title": "Digital Design & Comp. Arch. - Lecture 26: Virtual Memory (Spring 2022)",
+      "views": 5000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 26a: Virtual Memory II (Spring 2022)",
+      "views": 2300
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 27: Epilogue (Spring 2022)",
+      "views": 1800
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving I (Spring 2022)",
+      "views": 3400
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving II (ETH Zürich, Spring 2022)",
+      "views": 3500
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving III (Spring 2022)",
+      "views": 4000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving IV (Spring 2022)",
+      "views": 3100
+    }
+  ]
+}

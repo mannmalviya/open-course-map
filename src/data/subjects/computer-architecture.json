@@ -1,0 +1,166 @@
+{
+  "courses": {
+    "eth-ddca": {
+      "title": "Digital Design & Computer Architecture",
+      "university": "ETH Z\u00fcrich",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2026",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-yo9kK-BKrq11ykNKkVEpd",
+          "date": "Spring 2026",
+          "youtubeId": "M2rdcGH53k4",
+          "primary": true
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2025",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3",
+          "date": "Spring 2025",
+          "youtubeId": "ubhxKNlOlRg"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2024",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-NVn779PBtYziKiW-zdW5i",
+          "date": "Spring 2024",
+          "youtubeId": "0U2OMvvsyl8"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2023",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf",
+          "date": "Spring 2023",
+          "youtubeId": "VcKjvwD930o"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2022",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi97Ya5DEUpMpO2bbAoaG7c6",
+          "date": "Spring 2022",
+          "youtubeId": "cpXdE3HwvK0"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2021",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_uej3aY39YB5pfW4SJ7LlN",
+          "date": "Spring 2021",
+          "youtubeId": "LbC0EZY8yw4"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2020",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2",
+          "date": "Spring 2020",
+          "youtubeId": "AJBmIaUneB0"
+        },
+        {
+          "label": "ETH \u00b7 Design of Digital Circuits \u00b7 Spring 2019",
+          "url": "https://safari.ethz.ch/digitaltechnik/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9",
+          "date": "Spring 2019",
+          "youtubeId": "nA4T8sCPWtg"
+        }
+      ]
+    },
+    "eth-comparch": {
+      "title": "Computer Architecture",
+      "university": "ETH Z\u00fcrich",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Fall 2025",
+          "url": "https://safari.ethz.ch/architecture/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8tTLVb-9CUHcfKXLWESjOD",
+          "date": "Fall 2025",
+          "youtubeId": "7I-JOd51ctA",
+          "primary": true
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Fall 2024",
+          "url": "https://safari.ethz.ch/architecture/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-LfDdGgWyLcTSqzm6a26wD",
+          "date": "Fall 2024",
+          "youtubeId": "ziMRjDlLEwo"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Fall 2023",
+          "url": "https://safari.ethz.ch/architecture/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9UFWwfRtSjpKX_IRF0lPSe",
+          "date": "Fall 2023",
+          "youtubeId": "6CNeDUk3fJA"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Fall 2022",
+          "url": "https://safari.ethz.ch/architecture/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-cAls3cyauNzM7-74Eq31O",
+          "date": "Fall 2022",
+          "youtubeId": "BIpPTqHK-Lc"
+        },
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Fall 2021",
+          "url": "https://safari.ethz.ch/architecture/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-Mnk1PxjEIG32HAGILkTOF",
+          "date": "Fall 2021",
+          "youtubeId": "4yfkM_5EFgo"
+        }
+      ]
+    },
+    "eth-foca": {
+      "title": "Fundamentals of Computer Architecture",
+      "university": "ETH Z\u00fcrich",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "ETH \u00b7 Mutlu \u00b7 Spring 2025",
+          "url": "https://safari.ethz.ch/foca/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_ZMtqz1r-GHm-zzuE1QfIg",
+          "date": "Spring 2025",
+          "youtubeId": "uKgMFj1eQQc",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6004": {
+      "title": "6.004 Computation Structures",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.004 \u00b7 Fall 2018",
+          "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+          "youtube": "https://www.youtube.com/playlist?list=PLDSlqjcPpoL64CJdF0Qee5oWqGS6we_Yu",
+          "date": "Fall 2018",
+          "youtubeId": "7P-LGEJS3A8",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.004 \u00b7 Spring 2017 (OCW)",
+          "url": "https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2",
+          "date": "Spring 2017",
+          "youtubeId": "R0tFDXBZvKI"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "eth-ddca",
+      "to": "eth-comparch"
+    }
+  ]
+}

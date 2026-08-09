@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Fundamentals of Computer Architecture: Lecture 1: Modern Microprocessor Design (Spring 2025)",
+      "views": 19000
+    },
+    {
+      "title": "Fundamentals of Comp. Arch.: L2: Pipelined and Out-of-Order Microprocessor Design (Spring 2025)",
+      "views": 5100
+    },
+    {
+      "title": "Fundamentals of Computer Architecture: L3: Out-of-Order Microprocessor Design II & Branch Prediction",
+      "views": 3100
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 4: Branch Prediction II & Prefetching (Spring 2025)",
+      "views": 3200
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 5: Prefetching II (Spring 2025)",
+      "views": 1700
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 6: Dataflow, Superscalar, VLIW (Spring 2025)",
+      "views": 2200
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 7: SIMD Architectures (Spring 2025)",
+      "views": 2200
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 8: GPU Architectures (Spring 2025)",
+      "views": 2400
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 9: Systolic Arrays and Simulation (Spring 2025)",
+      "views": 2100
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 9c: Decoupled Access-Execute (Spring 2025)",
+      "views": 812
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 10: Virtual Memory (Spring 2025)",
+      "views": 1500
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 11: Memory-Centric Computing (Spring 2025)",
+      "views": 1100
+    },
+    {
+      "title": "Fundamentals of Computer Architecture -- Lecture 12: Memory Robustness (Spring 2025)",
+      "views": 902
+    },
+    {
+      "title": "Fundamentals of Comp. Architecture -- Lecture 13: Flash Memory and Solid-State Drives (Spring 2025)",
+      "views": 786
+    },
+    {
+      "title": "Fundamentals of Comp. Architecture -- Lecture 14: Interconnects (Spring 2025)",
+      "views": 2000
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. - L15: Parallelism, Heterogeneity & Bottleneck Acceleration (Spr 2025)",
+      "views": 886
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. - L16: Multiprocessors, Memory Ordering & Cache Coherence (Spr. 2025)",
+      "views": 1100
+    },
+    {
+      "title": "Fundamentals of Comp. Architecture - Lecture 17: On-Chip Networks (Spring 2025)",
+      "views": 1300
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. -- Lecture 18: Emerging Memory Technologies (Spring 2025)",
+      "views": 536
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. -- Lecture 20: Enabling Memory-Centric Computing (Spring 2025)",
+      "views": 774
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. -- Lecture 21: Cutting-Edge Research on Memory Robustness (Spring 2025)",
+      "views": 578
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. -- Lecture 22: Speculation (Spring 2025)",
+      "views": 862
+    },
+    {
+      "title": "Fundamentals of Comp. Arch. -- Lecture 19: Genome Analysis (Spring 2025)",
+      "views": 618
+    }
+  ]
+}

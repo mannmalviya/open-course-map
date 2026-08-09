@@ -1,0 +1,156 @@
+{
+  "lectures": [
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 1: Introduction and Basics (Spring 2023)",
+      "views": 102000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 2: Tradeoffs, Metrics & Combinational Logic I (Spring 2023)",
+      "views": 30000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 3: Combinational Logic II (Spring 2023)",
+      "views": 26000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 4: Sequential Logic Design (Spring 2023)",
+      "views": 19000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Labs: Introduction to the Labs and FPGAs (Spring 2023)",
+      "views": 9400
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 5: Sequential Logic Design II & Hardware Description Languages",
+      "views": 14000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 6: Timing and Verification (Spring 2023)",
+      "views": 12000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 6c: Verification & Testing (Spring 2023)",
+      "views": 7100
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 7: Von Neumann Model & Instruction Set Architectures (Spr 2023)",
+      "views": 18000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 8: Instruction Set Architectures II (Spring 2023)",
+      "views": 13000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 9: ISA and Microarchitecture (Tradeoffs) (Spring 2023)",
+      "views": 10000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 9b: Assembly Programming (Spring 2023)",
+      "views": 5700
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 10: Microarchitecture Fundamentals and Design (Spring 2023)",
+      "views": 13000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 11: Multi-Cycle Microarchitecture Design (Spring 2023)",
+      "views": 11000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lecture 12: Pipelining (Spring 2023)",
+      "views": 13000
+    },
+    {
+      "title": "Digital Design & Comp Arch - Lec. 13: Pipelined Processor Design: Data & Control Dependence Handling",
+      "views": 9600
+    },
+    {
+      "title": "Digital Design and Comp Arch - Lecture 14: Precise Exceptions & Register Renaming (Spring 2023)",
+      "views": 11000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 15: Out-of-Order Execution (Spring 2023)",
+      "views": 19000
+    },
+    {
+      "title": "Digital Design & Comp. Arch - Lecture 15b: Load-Store Handling in Out-of-Order Execution (Spring'23)",
+      "views": 7100
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 16: Superscalar Execution & Branch Prediction (Spring 2023)",
+      "views": 11000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 17: Advanced Branch Prediction (Spring 2023)",
+      "views": 12000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 18: VLIW and Systolic Array Architectures (Spring 2023)",
+      "views": 7600
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 19: SIMD Architectures (Vector and Array Processors) (S23)",
+      "views": 13000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Lecture 18c: Decoupled Access-Execute (Spring 2023)",
+      "views": 3000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 20: GPU Architectures (Graphics Processing Units) (S23)",
+      "views": 15000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 21: Memory Organization & Technology (Spring 2023)",
+      "views": 9900
+    },
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 22: Memory Hierarchy and Caches (Spring 2023)",
+      "views": 13000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 23: Cache Design and Management (Spring 2023)",
+      "views": 9200
+    },
+    {
+      "title": "Digital Design and Computer Architecture - Lecture 24: Prefetching (Spring 2023)",
+      "views": 7000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 25: Advanced Prefetching & Virtual Memory (Spring 2023)",
+      "views": 6200
+    },
+    {
+      "title": "Digital Design & Computer Arch - Lecture 26: Virtual Memory & Future Computing Arch. (Spring 2023)",
+      "views": 4800
+    },
+    {
+      "title": "Digital Design & Computer Arch. - Lecture 26c: Virtual Memory: Issues and Examples (Spring 2023)",
+      "views": 3300
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving I (Spring 2023)",
+      "views": 5100
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving II (Spring 2023)",
+      "views": 3700
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving III (Spring 2023)",
+      "views": 3400
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Problem Solving IV (Spring 2023)",
+      "views": 3200
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Lecture 31: Problem Solving V (Spring 2023)",
+      "views": 3000
+    },
+    {
+      "title": "Digital Design & Computer Architecture - Preparing for the Final Exam (Spring 2023)",
+      "views": 2200
+    }
+  ]
+}

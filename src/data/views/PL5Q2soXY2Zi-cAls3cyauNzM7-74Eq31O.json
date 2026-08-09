@@ -1,0 +1,136 @@
+{
+  "lectures": [
+    {
+      "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2022)",
+      "views": 23000
+    },
+    {
+      "title": "Computer Architecture - Lecture 2: Memory Systems: Trends, Challenges, Opportunities (Fall 2022)",
+      "views": 5600
+    },
+    {
+      "title": "Computer Architecture - Lecture 3: Processing using Memory (Fall 2022)",
+      "views": 4100
+    },
+    {
+      "title": "Computer Architecture - Lecture 4: Processing near Memory (Fall 2022)",
+      "views": 2500
+    },
+    {
+      "title": "Computer Architecture - Lecture 5: Intelligent Genomic Analyses (Fall 2022)",
+      "views": 4100
+    },
+    {
+      "title": "Comp. Arch. - Lecture 6: RowHammer: Memory Security & Reliability Problems and Solutions (Fall 2022)",
+      "views": 1800
+    },
+    {
+      "title": "Computer Architecture - Lecture 7: RowHammer, Data Retention, Memory Refresh (Fall 2022)",
+      "views": 4200
+    },
+    {
+      "title": "Computer Architecture - Lecture 8: Data Retention, Memory Refresh and Memory Latency (Fall 2022)",
+      "views": 2000
+    },
+    {
+      "title": "Computer Architecture - Lecture 9: Memory Latency & Memory Controllers (Fall 2022)",
+      "views": 2500
+    },
+    {
+      "title": "Computer Architecture - Lecture 10: Real Processing in Memory Systems: UPMEM Case Study (Fall 2022)",
+      "views": 1300
+    },
+    {
+      "title": "Computer Architecture - Lecture 11: Memory Controllers & Simulation (Fall 2022)",
+      "views": 8600
+    },
+    {
+      "title": "Computer Architecture - Lecture 12: Simulation & Emerging Memory Technologies (Fall 2022)",
+      "views": 2200
+    },
+    {
+      "title": "Computer Architecture - Lecture 13: Emerging Memory Tech. and Memory Scheduling (Fall 2022)",
+      "views": 3900
+    },
+    {
+      "title": "Computer Architecture - Lecture 14: Cutting-Edge Research in Computer Architecture (Fall 2022)",
+      "views": 2600
+    },
+    {
+      "title": "Computer Architecture - Lecture 15:  Memory Contention: Performance, QoS, Complexity (Fall 2022)",
+      "views": 2500
+    },
+    {
+      "title": "Computer Architecture - Lecture 16: Prefetching (Fall 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Computer Architecture - Lecture 17: Multiprocessors & Memory Ordering (Fall 2022)",
+      "views": 3000
+    },
+    {
+      "title": "Computer Architecture - Lecture 18: Cutting-Edge Research in Computer Architecture (Fall 2022)",
+      "views": 3100
+    },
+    {
+      "title": "Computer Architecture - Lecture 19: Cache Coherence (Fall 2022)",
+      "views": 10000
+    },
+    {
+      "title": "Computer Architecture - Lecture 20: Interconnects (Fall 2022)",
+      "views": 7100
+    },
+    {
+      "title": "Computer Architecture - Lecture 21: On-Chip Networks & Efficient Router Design (Fall 2022)",
+      "views": 7800
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 1 (Fall 2022)",
+      "views": 725
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 2 (Fall 2022)",
+      "views": 451
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 3 (Fall 2022)",
+      "views": 385
+    },
+    {
+      "title": "Computer Architecture - Lecture 22: Parallelism, Heterogeneity & Bottleneck Acceleration (Fall 2022)",
+      "views": 2100
+    },
+    {
+      "title": "Computer Architecture - Lecture 23: Cutting-Edge Research in Computer Architecture (Fall 2022)",
+      "views": 712
+    },
+    {
+      "title": "Computer Architecture - Lecture 24: Cutting-Edge Research in Computer Architecture (Fall 2022)",
+      "views": 936
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 4 (Fall 2022)",
+      "views": 682
+    },
+    {
+      "title": "Computer Architecture - Lecture 25: SIMD Processors and GPUs (Fall 2022)",
+      "views": 10000
+    },
+    {
+      "title": "Computer Architecture - Lecture 26: GPU Programming (Fall 2022)",
+      "views": 6700
+    },
+    {
+      "title": "Computer Architecture - Lecture 27: Flash Memory and Solid-State Drives (Fall 2022)",
+      "views": 1000
+    },
+    {
+      "title": "Computer Architecture - Lecture 28: VLIW & Systolic Array Architectures (Fall 2022)",
+      "views": 4000
+    },
+    {
+      "title": "Computer Architecture - Lecture 29: Virtual Memory (Fall 2022)",
+      "views": 3700
+    }
+  ]
+}

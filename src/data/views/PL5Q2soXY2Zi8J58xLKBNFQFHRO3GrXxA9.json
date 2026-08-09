@@ -1,0 +1,144 @@
+{
+  "lectures": [
+    {
+      "title": "Design of Digital Circuits - Lecture 1: Introduction and Basics (ETH Zürich, Spring 2019)",
+      "views": 71000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 2: Mysteries in Comp Arch (ETH Zürich, Spring 2019)",
+      "views": 16000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 3: Introduction to the Labs and FPGAs (ETH Zürich, Spring 2019)",
+      "views": 13000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 4: Combinational Logic I (ETH Zürich, Spring 2019)",
+      "views": 13000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 5: Combinational Logic II (ETH Zürich, Spring 2019)",
+      "views": 13000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 6: Sequential Logic Design (ETH Zürich, Spring 2019)",
+      "views": 8500
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 7.1: Sequential Logic Design II (ETH Zürich, Spring 2019)",
+      "views": 4000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 7.2: Hardware Description and Verilog (ETH Zürich, Spring 2019)",
+      "views": 5300
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 8: Timing and Verification (ETH Zürich, Spring 2019)",
+      "views": 5500
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 9: Von Neumann Model, ISA, LC-3, MIPS (ETH Zürich, Spring 2019)",
+      "views": 5100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 10a: Instruction Set Architecture (ETH Zürich, Spring 2019)",
+      "views": 3100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 10b: Assembly Programming (ETH Zürich, Spring 2019)",
+      "views": 2400
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 11: Microarchitecture (ETH Zürich, Spring 2019)",
+      "views": 5100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 12: Microarchitecture II (ETH Zürich, Spring 2019)",
+      "views": 2700
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 13: Pipelining (ETH Zürich, Spring 2019)",
+      "views": 3200
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 14: Pipelining Issues (ETH Zürich, Spring 2019)",
+      "views": 3100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 15a: Reorder Buffer (ETH Zürich, Spring 2019)",
+      "views": 8400
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 15b: Out-of-Order Execution (ETH Zürich, Spring 2019)",
+      "views": 4400
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 16: OoO, DataFlow, Loads/Stores (ETH Zürich, Spring 2019)",
+      "views": 3000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 17a: Superscalar Execution (ETH Zürich, Spring 2019)",
+      "views": 2400
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 17b: Branch Prediction (ETH Zürich, Spring 2019)",
+      "views": 2100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 18: Branch Prediction II (ETH Zürich, Spring 2019)",
+      "views": 2400
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 19a: VLIW (ETH Zürich, Spring 2019)",
+      "views": 2000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 19b: Systolic Arrays and Beyond (ETH Zürich, Spring 2019)",
+      "views": 9700
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 20: SIMD Processors (ETH Zürich, Spring 2019)",
+      "views": 2300
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 21: Graphics Processing Units (ETH Zürich, Spring 2019)",
+      "views": 2200
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 22a: Memory Organization & Technology (ETH Zürich, Spring 2019)",
+      "views": 2100
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 22b: Memory Hierarchy and Caches (ETH Zürich, Spring 2019)",
+      "views": 2000
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 23: More Caches (ETH Zürich, Spring 2019)",
+      "views": 2200
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 24a: Multiprocessor Caches (ETH Zürich, Spring 2019)",
+      "views": 1800
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 24b: Virtual Memory (ETH Zürich, Spring 2019)",
+      "views": 1700
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 25: Virtual Memory II (ETH Zürich, Spring 2019)",
+      "views": 1700
+    },
+    {
+      "title": "Design of Digital Circuits - Lecture 26: Epilogue (ETH Zürich, Spring 2019)",
+      "views": 1300
+    },
+    {
+      "title": "Design of Digital Circuits - Discussion Session I (ETH Zürich, Spring 2019)",
+      "views": 1200
+    },
+    {
+      "title": "Design of Digital Circuits - Extra Discussion Session (ETH Zürich, Spring 2019)",
+      "views": 1800
+    }
+  ]
+}

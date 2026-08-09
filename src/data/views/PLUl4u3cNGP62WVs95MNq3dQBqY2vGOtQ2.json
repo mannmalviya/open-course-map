@@ -1,0 +1,404 @@
+{
+  "lectures": [
+    {
+      "title": "1.2.1 What is Information?",
+      "views": 96000
+    },
+    {
+      "title": "1.2.2 Quantifying Information",
+      "views": 27000
+    },
+    {
+      "title": "1.2.3 Entropy",
+      "views": 19000
+    },
+    {
+      "title": "1.2.4 Encoding",
+      "views": 14000
+    },
+    {
+      "title": "1.2.5 Fixed-length Encodings",
+      "views": 18000
+    },
+    {
+      "title": "1.2.6 Signed Integers: 2's complement",
+      "views": 21000
+    },
+    {
+      "title": "1.2.7 Variable-length Encoding",
+      "views": 28000
+    },
+    {
+      "title": "1.2.8 Huffman's Algorithm",
+      "views": 11000
+    },
+    {
+      "title": "1.2.9 Huffman Code",
+      "views": 8500
+    },
+    {
+      "title": "1.2.10 Error Detection and Correction",
+      "views": 9100
+    },
+    {
+      "title": "1.2.11 Error Correction",
+      "views": 6300
+    },
+    {
+      "title": "1.2.12 Worked Examples: Quantifying Information",
+      "views": 5600
+    },
+    {
+      "title": "1.2.12 Worked Examples: Two's Complement Representation",
+      "views": 71000
+    },
+    {
+      "title": "1.2.12 Worked Examples: Two's Complement Addition",
+      "views": 109000
+    },
+    {
+      "title": "1.2.12 Worked Examples: Huffman Encoding",
+      "views": 16000
+    },
+    {
+      "title": "1.2.12 Worked Examples: Error Correction",
+      "views": 4300
+    },
+    {
+      "title": "2.2.1 Concrete Encoding of Information",
+      "views": 8400
+    },
+    {
+      "title": "2.2.2 Analog Signaling",
+      "views": 6800
+    },
+    {
+      "title": "2.2.3 Using Voltages Digitally",
+      "views": 5700
+    },
+    {
+      "title": "2.2.4 Combinational Devices",
+      "views": 6400
+    },
+    {
+      "title": "2.2.5 Dealing with Noise",
+      "views": 5700
+    },
+    {
+      "title": "2.2.6 Voltage Transfer Characteristic",
+      "views": 12000
+    },
+    {
+      "title": "2.2.7 VTC Example",
+      "views": 5600
+    },
+    {
+      "title": "2.2.8 Worked Examples: The Static Discipline",
+      "views": 5900
+    },
+    {
+      "title": "3.2.1 MOSFET: Physical View",
+      "views": 11000
+    },
+    {
+      "title": "3.2.2 MOSFET: Electrical View",
+      "views": 8200
+    },
+    {
+      "title": "3.2.3 CMOS Recipe",
+      "views": 6400
+    },
+    {
+      "title": "3.2.4 Beyond Inverters",
+      "views": 4700
+    },
+    {
+      "title": "3.2.5 CMOS Gates",
+      "views": 6300
+    },
+    {
+      "title": "3.2.6 CMOS Timing",
+      "views": 6300
+    },
+    {
+      "title": "3.2.7 Lenient Gates",
+      "views": 4100
+    },
+    {
+      "title": "3.2.8 Worked Examples: CMOS Functions",
+      "views": 3300
+    },
+    {
+      "title": "3.2.8 Worked Examples: CMOS Logic Gates",
+      "views": 61000
+    },
+    {
+      "title": "4.2.1 Sum of Products",
+      "views": 17000
+    },
+    {
+      "title": "4.2.2 Useful Logic Gates",
+      "views": 7200
+    },
+    {
+      "title": "4.2.3 Inverting Logic",
+      "views": 5400
+    },
+    {
+      "title": "4.2.4 Logic Simplification",
+      "views": 5700
+    },
+    {
+      "title": "4.2.5 Karnaugh Maps",
+      "views": 8200
+    },
+    {
+      "title": "4.2.6 Multiplexers",
+      "views": 9800
+    },
+    {
+      "title": "4.2.7 Read-only Memories",
+      "views": 6100
+    },
+    {
+      "title": "4.2.8 Worked Examples: Truth Tables",
+      "views": 8600
+    },
+    {
+      "title": "4.2.8 Worked Examples: Gates and Boolean Logic",
+      "views": 11000
+    },
+    {
+      "title": "4.2.8 Worked Examples: Combinational Logic Timing",
+      "views": 11000
+    },
+    {
+      "title": "4.2.8 Worked Examples: Karnaugh Maps",
+      "views": 4500
+    },
+    {
+      "title": "5.2.1 Digital State",
+      "views": 7200
+    },
+    {
+      "title": "5.2.2 D Latch",
+      "views": 7700
+    },
+    {
+      "title": "5.2.3 D Register",
+      "views": 5100
+    },
+    {
+      "title": "5.2.4 D Register Timing",
+      "views": 5300
+    },
+    {
+      "title": "5.2.5 Sequential Circuit Timing",
+      "views": 10000
+    },
+    {
+      "title": "5.2.6 Timing Example",
+      "views": 3500
+    },
+    {
+      "title": "5.2.7 Worked Example 1",
+      "views": 2500
+    },
+    {
+      "title": "5.2.8 Worked Example 2",
+      "views": 2100
+    },
+    {
+      "title": "6.2.1 Finite State Machines",
+      "views": 11000
+    },
+    {
+      "title": "6.2.2 State Transition Diagrams",
+      "views": 25000
+    },
+    {
+      "title": "6.2.3 FSM States",
+      "views": 4600
+    },
+    {
+      "title": "6.2.4 Roboant Example",
+      "views": 4100
+    },
+    {
+      "title": "6.2.5 Equivalent States; Implementation",
+      "views": 4500
+    },
+    {
+      "title": "6.2.6 Synchronization and Metastability",
+      "views": 13000
+    },
+    {
+      "title": "6.2.7 Worked Examples: FSM States and Transitions",
+      "views": 7600
+    },
+    {
+      "title": "6.2.7 Worked Examples: FSM Implementation",
+      "views": 6600
+    },
+    {
+      "title": "7.2.1 Latency and Throughput",
+      "views": 22000
+    },
+    {
+      "title": "7.2.2 Pipelined Circuits",
+      "views": 8200
+    },
+    {
+      "title": "7.2.3 Pipelining Methodology",
+      "views": 8800
+    },
+    {
+      "title": "7.2.4 Circuit Interleaving",
+      "views": 4000
+    },
+    {
+      "title": "7.2.5 Self-timed Circuits",
+      "views": 6100
+    },
+    {
+      "title": "7.2.6 Control Structures",
+      "views": 2100
+    },
+    {
+      "title": "7.2.7 Worked Examples: Pipelining",
+      "views": 2500
+    },
+    {
+      "title": "7.2.7 Worked Examples: Pipelining 2",
+      "views": 2200
+    },
+    {
+      "title": "8.2.1 Power Dissipation",
+      "views": 4000
+    },
+    {
+      "title": "8.2.2 Carry-select Adders",
+      "views": 22000
+    },
+    {
+      "title": "8.2.3 Carry-lookahead Adders",
+      "views": 19000
+    },
+    {
+      "title": "8.2.4 Binary Multiplication",
+      "views": 30000
+    },
+    {
+      "title": "8.2.5 Multiplier Tradeoffs",
+      "views": 3800
+    },
+    {
+      "title": "8.2.6 Part 1 Wrap-up",
+      "views": 1900
+    },
+    {
+      "title": "9.2.1 Datapaths and FSMs",
+      "views": 14000
+    },
+    {
+      "title": "9.2.2 Programmable Datapaths",
+      "views": 5000
+    },
+    {
+      "title": "9.2.3 The von Neumann Model",
+      "views": 95000
+    },
+    {
+      "title": "9.2.4 Storage",
+      "views": 6600
+    },
+    {
+      "title": "9.2.5 ALU Instructions",
+      "views": 7000
+    },
+    {
+      "title": "9.2.6 Constant Operands",
+      "views": 3000
+    },
+    {
+      "title": "9.2.7 Memory Access",
+      "views": 3300
+    },
+    {
+      "title": "9.2.8 Branches",
+      "views": 2600
+    },
+    {
+      "title": "9.2.9 Jumps",
+      "views": 2200
+    },
+    {
+      "title": "9.2.10 Worked Examples: Programmable Architectures",
+      "views": 2100
+    },
+    {
+      "title": "10.2.1 Intro to Assembly Language",
+      "views": 12000
+    },
+    {
+      "title": "10.2.2 Symbols and Labels",
+      "views": 3600
+    },
+    {
+      "title": "10.2.3 Instruction Macros",
+      "views": 2600
+    },
+    {
+      "title": "10.2.4 Assembly Wrap-up",
+      "views": 1900
+    },
+    {
+      "title": "10.2.5 Models of Computation",
+      "views": 8900
+    },
+    {
+      "title": "10.2.6 Computability, Universality",
+      "views": 2100
+    },
+    {
+      "title": "10.2.7 Uncomputable Functions",
+      "views": 3400
+    },
+    {
+      "title": "10.2.8 Worked Examples: Beta Assembly",
+      "views": 2400
+    },
+    {
+      "title": "11.2.1 Iterpretation and Compilation",
+      "views": 9300
+    },
+    {
+      "title": "11.2.2 Compiling Expressions",
+      "views": 3500
+    },
+    {
+      "title": "11.2.3 Compiling Statements",
+      "views": 2200
+    },
+    {
+      "title": "11.2.4 Compiler Frontend",
+      "views": 7700
+    },
+    {
+      "title": "11.2.5 Optimization and Code Generation",
+      "views": 9000
+    },
+    {
+      "title": "11.2.6 Worked Examples",
+      "views": 2100
+    },
+    {
+      "title": "12.2.1 Procedures",
+      "views": 2900
+    },
+    {
+      "title": "12.2.2 Activation Records and Stacks",
+      "views": 18000
+    }
+  ]
+}

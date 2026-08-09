@@ -1,0 +1,112 @@
+{
+  "lectures": [
+    {
+      "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2021)",
+      "views": 48000
+    },
+    {
+      "title": "Computer Architecture - Lecture 2: Trends, Tradeoffs and Design Fundamentals (Fall 2021)",
+      "views": 10000
+    },
+    {
+      "title": "Computer Architecture - Lecture 3: Memory Systems: Trends, Challenges, Opportunities (Fall 2021)",
+      "views": 7900
+    },
+    {
+      "title": "Comp. Arch.- Lecture 4: Major Issues in Memory: Energy, Perf., Reliability, Security, Predictability",
+      "views": 4500
+    },
+    {
+      "title": "Computer Architecture - Lecture 5: RowHammer & Secure and Reliable Memory (Fall 2021)",
+      "views": 3500
+    },
+    {
+      "title": "Computer Architecture - Lecture 6: Processing using Memory (Fall 2021)",
+      "views": 4100
+    },
+    {
+      "title": "Computer Architecture - Lecture 7: Processing using Memory II (Fall 2021)",
+      "views": 2500
+    },
+    {
+      "title": "Computer Architecture - Lecture 8: Processing near Memory (Fall 2021)",
+      "views": 2800
+    },
+    {
+      "title": "Computer Architecture - Lecture 9: Real PIM Systems: UPMEM Case Study (Fall 2021)",
+      "views": 1600
+    },
+    {
+      "title": "Computer Architecture - Lecture 10: Intelligent Genome Analysis (Fall 2021)",
+      "views": 1600
+    },
+    {
+      "title": "Computer Architecture - Lecture 11: Low-Latency Memory (Fall 2021)",
+      "views": 2600
+    },
+    {
+      "title": "Computer Arch. - Lecture 12: Memory Controllers: Performance, Energy, Quality of Service (Fall 2021)",
+      "views": 4700
+    },
+    {
+      "title": "Computer Architecture - Lecture 13: Memory Controllers: Performance & Service Quality (Fall 2021)",
+      "views": 2500
+    },
+    {
+      "title": "Computer Architecture - Lecture 14: Emerging Memory Technologies (Fall 2021)",
+      "views": 2000
+    },
+    {
+      "title": "Computer Architecture - Lecture 15: Cutting-edge Research in Computer Architecture I (Fall 2021)",
+      "views": 2200
+    },
+    {
+      "title": "Computer Architecture - Lecture 16: Cutting-edge Research in Computer Architecture II (Fall 2021)",
+      "views": 2300
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 1 (Fall 2021)",
+      "views": 669
+    },
+    {
+      "title": "Computer Architecture - Lecture 17: Parallelism & Heterogeneity (Fall 2021)",
+      "views": 2600
+    },
+    {
+      "title": "Computer Architecture - Lecture 18: Parallelism & Heterogeneity II (Fall 2021)",
+      "views": 2800
+    },
+    {
+      "title": "Computer Architecture - Lecture 19: Multiprocessors & Memory Ordering (Fall 2021)",
+      "views": 4400
+    },
+    {
+      "title": "Computer Architecture - Lecture 20: Cache Coherence (Fall 2021)",
+      "views": 6500
+    },
+    {
+      "title": "Computer Architecture - Discussion Session 2 (Fall 2021)",
+      "views": 1400
+    },
+    {
+      "title": "Computer Architecture -Discussion Session 3 (Fall 2021)",
+      "views": 706
+    },
+    {
+      "title": "Computer Architecture - Lecture 21: Interconnects (Fall 2021)",
+      "views": 7500
+    },
+    {
+      "title": "Computer Architecture - Lecture 22: On-Chip Networks & Efficient Router Design (Fall 2021)",
+      "views": 5200
+    },
+    {
+      "title": "Computer Architecture - Lecture 23: SIMD Processors and GPUs (Fall 2021)",
+      "views": 5700
+    },
+    {
+      "title": "Computer Architecture - Lecture 24: Cutting-edge Research in Computer Architecture III (Fall 2021)",
+      "views": 2300
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "lectures": [
+    {
+      "title": "Lec 1: Dot product | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 1900000
+    },
+    {
+      "title": "Lec 2: Determinants; cross product | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 594000
+    },
+    {
+      "title": "Lec 3: Matrices; inverse matrices | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 437000
+    },
+    {
+      "title": "Lec 4: Square systems; equations of planes | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 344000
+    },
+    {
+      "title": "Lec 5: Parametric equations for lines and curves | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 331000
+    },
+    {
+      "title": "Lec 6: Velocity, acceleration; Kepler's second law | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 266000
+    },
+    {
+      "title": "Lec 7: Review | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 223000
+    },
+    {
+      "title": "Lec 8: Level curves; partial derivatives; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
+      "views": 342000
+    },
+    {
+      "title": "Lec 9: Max-min problems; least squares | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 286000
+    },
+    {
+      "title": "Lec 10: Second derivative test; boundaries & infinity | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 239000
+    },
+    {
+      "title": "Lec 11: Differentials; chain rule | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 237000
+    },
+    {
+      "title": "Lec 12: Gradient; directional derivative; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
+      "views": 276000
+    },
+    {
+      "title": "Lec 13: Lagrange multipliers | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 298000
+    },
+    {
+      "title": "Lec 14: Non-independent variables | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 157000
+    },
+    {
+      "title": "Lec 15: Partial differential equations; review | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 175000
+    },
+    {
+      "title": "Lec 16: Double integrals | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 283000
+    },
+    {
+      "title": "Lec 17: Double integrals in polar coords; applications | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 226000
+    },
+    {
+      "title": "Lec 18: Change of variables | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 227000
+    },
+    {
+      "title": "Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 227000
+    },
+    {
+      "title": "Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 178000
+    },
+    {
+      "title": "Lec 21: Gradient fields and potential functions | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 152000
+    },
+    {
+      "title": "Lec 22: Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 181000
+    },
+    {
+      "title": "Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 130000
+    },
+    {
+      "title": "Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 107000
+    },
+    {
+      "title": "Lec 25: Triple integrals in rectangular & cylindrical | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 204000
+    },
+    {
+      "title": "Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 174000
+    },
+    {
+      "title": "Lec 27: Vector fields in 3D; surface integrals & flux | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 183000
+    },
+    {
+      "title": "Lec 28: Divergence theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 140000
+    },
+    {
+      "title": "Lec 29: Divergence theorem (cont.): applications & proof | MIT 18.02 Multivariable Calculus, Fall 07",
+      "views": 113000
+    },
+    {
+      "title": "Lec 30: Line integrals in space, curl, exactness... | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 105000
+    },
+    {
+      "title": "Lec 31: Stokes' theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 130000
+    },
+    {
+      "title": "Lec 32: Stokes' theorem (cont.); review | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 98000
+    },
+    {
+      "title": "Lec 33: Topological considerations; Maxwell's equations | MIT 18.02 Multivariable Calculus, Fall 07",
+      "views": 97000
+    },
+    {
+      "title": "Lec 34: Final review | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 86000
+    },
+    {
+      "title": "Lec 35: Final review (cont.) | MIT 18.02 Multivariable Calculus, Fall 2007",
+      "views": 98000
+    }
+  ]
+}

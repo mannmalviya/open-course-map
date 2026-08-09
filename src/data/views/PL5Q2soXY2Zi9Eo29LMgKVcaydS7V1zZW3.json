@@ -1,0 +1,152 @@
+{
+  "lectures": [
+    {
+      "title": "Digital Design and Computer Architecture - L1: Intro: Fundamentals, Transistors, Gates (Spring 2025)",
+      "views": 78000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L2: Combinational Logic (Spring 2025)",
+      "views": 27000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L3: Sequential Logic (Spring 2025)",
+      "views": 18000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L4: Sequential Logic II, Labs, Verilog (Spring 2025)",
+      "views": 6200
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L4: Sequential Logic II, Labs, Verilog (Spring 2025)",
+      "views": 12000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - Recorded Lecture 4: Sequential Logic II, Labs, Verilog",
+      "views": 9800
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L5: HDL, Verilog II, Timing & Verification",
+      "views": 10000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L6: Timing & Verification II (Spring 2025)",
+      "views": 8800
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L7: Von Neumann Model & Instruction Set Architectures (Spring 2025)",
+      "views": 14000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L8: Instruction Set Architectures II (Spring 2025)",
+      "views": 10000
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L9:  ISA and Microarchitecture (Spring 2025)",
+      "views": 7900
+    },
+    {
+      "title": "Digital Design and Computer Architecture - L9c:  Assembly Programming (Spring 2025)",
+      "views": 4800
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L10: Microarchitecture Fundamentals and Design II (Spring 2025)",
+      "views": 9400
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L11: Multi-Cycle and Pipelined Processor Design (Spring 2025)",
+      "views": 8700
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L12: Pipelined Processor Design II (Spring 2025)",
+      "views": 8200
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L13: Precise Exceptions (Spring 2025)",
+      "views": 8500
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L14: Out-of-Order Execution (Spring 2025)",
+      "views": 11000
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L15: Dataflow, Superscalar Execution & Branch Prediction (S25)",
+      "views": 5700
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L15c: Load-Store Handling in Out-of-Order Execution (Spring 2025)",
+      "views": 3100
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L16: Advanced Branch Prediction (Spring 2025)",
+      "views": 5800
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L17: VLIW and Systolic Array Architectures (Spring 2025)",
+      "views": 4400
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L18: SIMD Architectures (Spring 2025)",
+      "views": 4200
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L18b: Decoupled Access-Execute (Spring 2025)",
+      "views": 1800
+    },
+    {
+      "title": "Digital Design and Computer Arch. - L19: GPU Architectures (Spring 2025)",
+      "views": 9900
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L20: GPU Arch. II & Memory Overview and Technology (Spring 2025)",
+      "views": 5600
+    },
+    {
+      "title": "Digital Design and Comp. Arch. L21:Memory Organization, Technology, Hierarchy & Caches (Spring 2025)",
+      "views": 5200
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L22: Caches (Spring 2025)",
+      "views": 5800
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L23: Caches II and Prefetching (Spring 2025)",
+      "views": 3600
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L23b: Multi-Core Issues in Caching (Spring 2025)",
+      "views": 2500
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L24: Virtual Memory (Spring 2025)",
+      "views": 3500
+    },
+    {
+      "title": "Digital Design & Comp. Arch: L25: Prefetching II, Processing-in-Memory, Parting Thoughts (Spr 2025)",
+      "views": 3300
+    },
+    {
+      "title": "Digital Design & Comp. Arch: L26: Problem Solving I (Spring 2025)",
+      "views": 3300
+    },
+    {
+      "title": "Digital Design & Comp. Arch: L27: Problem Solving II (Spring 2025)",
+      "views": 2100
+    },
+    {
+      "title": "Digital Design & Comp. Arch: L28: Problem Solving III (Spring 2025)",
+      "views": 2000
+    },
+    {
+      "title": "Digital Design & Comp. Arch: L29: Problem Solving IV (Spring 2025)",
+      "views": 1700
+    },
+    {
+      "title": "Digital Design & Comp. Arch. - L30: Problem Solving V (Spring 2025)",
+      "views": 1600
+    },
+    {
+      "title": "Digital Design and Comp. Arch. - L31: Problem Solving VI (Spring 2025)",
+      "views": 2200
+    }
+  ]
+}

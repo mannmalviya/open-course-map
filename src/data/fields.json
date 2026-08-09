@@ -272,7 +272,7 @@
       "parent": "ai",
       "pos": {
         "x": 430,
-        "y": 80
+        "y": 200
       },
       "size": {
         "w": 250,
@@ -283,7 +283,7 @@
       "title": "Reinforcement Learning",
       "parent": "ai",
       "pos": {
-        "x": 430,
+        "x": 780,
         "y": 340
       },
       "size": {

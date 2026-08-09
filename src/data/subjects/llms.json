@@ -101,6 +101,38 @@
           "primary": true
         }
       ]
+    },
+    "stanford-cs330": {
+      "title": "CS330 Multi-Task & Meta Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Stanford CS330 \u00b7 Finn \u00b7 Autumn 2022",
+          "url": "https://cs330.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI",
+          "date": "Autumn 2022",
+          "youtubeId": "bkVCAk9Nsss",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS330 \u00b7 Finn \u00b7 Autumn 2021",
+          "url": "https://cs330.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36",
+          "date": "Autumn 2021",
+          "youtubeId": "dYmJd_fJLW0"
+        },
+        {
+          "label": "Stanford CS330 \u00b7 Finn \u00b7 Autumn 2019",
+          "url": "https://cs330.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5",
+          "date": "Autumn 2019",
+          "youtubeId": "0rZtSwNOTQo"
+        }
+      ]
     }
   }
 }

@@ -57,6 +57,24 @@
           "primary": true
         }
       ]
+    },
+    "mit-how2ai": {
+      "title": "How to AI (Almost) Anything",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT \u00b7 Liang \u00b7 Spring 2025",
+          "youtube": "https://www.youtube.com/playlist?list=PLc0Yh0D0XR4Z3wityRaEuu4rfzTHRIIAO",
+          "date": "Spring 2025",
+          "youtubeId": "0MYt0u3CW5I",
+          "primary": true,
+          "url": "https://mit-mi.github.io/how2ai-course/spring2025/"
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,47 @@
+{
+  "courses": {
+    "stanford-cs236": {
+      "title": "CS236 Deep Generative Models",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS236 · Ermon · 2023",
+          "url": "https://deepgenerativemodels.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8",
+          "date": "Fall 2023",
+          "youtubeId": "XZ0PMRWXBEU",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6s184": {
+      "title": "6.S184 Flow Matching & Diffusion",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.S184 · 2026",
+          "url": "https://diffusion.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PL57nT7tSGAAXwjhDYcxEycx5W7YoSrZyt",
+          "date": "2026",
+          "youtubeId": "9eJQQVrUUoI",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.S184 · 2025",
+          "url": "https://diffusion.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PL57nT7tSGAAUDnli1LhTOoCxlEPGS19vH",
+          "date": "2025",
+          "youtubeId": "GCoP2w-Cqtg"
+        }
+      ]
+    }
+  }
+}

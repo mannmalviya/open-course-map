@@ -1,0 +1,124 @@
+{
+  "courses": {
+    "stanford-cs230": {
+      "title": "CS230 Deep Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS230 \u00b7 2025",
+          "url": "https://cs230.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X",
+          "date": "Autumn 2025",
+          "youtubeId": "_NLHFoVNlbg",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS230 \u00b7 Ng, Katanforoosh \u00b7 2018",
+          "url": "https://cs230.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb",
+          "date": "Autumn 2018",
+          "youtubeId": "PySo_6S4ZAg"
+        }
+      ]
+    },
+    "mit-6s191": {
+      "title": "6.S191 Intro to Deep Learning",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.S191 \u00b7 Amini, Soleimany",
+          "url": "https://introtodeeplearning.com/",
+          "youtube": "https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
+          "date": "2018\u20132025",
+          "youtubeId": "II4giR4vOOo",
+          "primary": true
+        }
+      ]
+    },
+    "mit-67960": {
+      "title": "6.7960 Deep Learning",
+      "university": "MIT",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.7960 \u00b7 Fall 2024",
+          "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8",
+          "date": "Fall 2024",
+          "youtubeId": "6FkRvTtUc-o",
+          "primary": true
+        }
+      ]
+    },
+    "mit-15773": {
+      "title": "15.773 Hands-On Deep Learning",
+      "university": "MIT",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 15.773 \u00b7 Spring 2024",
+          "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp",
+          "date": "Spring 2024",
+          "youtubeId": "kyQ0CRkYhy4",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6s192": {
+      "title": "6.S192 DL for Art & Creativity",
+      "university": "MIT",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.S192 \u00b7 Jahanian",
+          "url": "https://ali-design.github.io/deepcreativity/",
+          "youtube": "https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH",
+          "youtubeId": "MABLFo7IV3I",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6874": {
+      "title": "6.874 DL in Life Sciences",
+      "university": "MIT",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.874 \u00b7 Kellis \u00b7 Spring 2021",
+          "url": "https://mit6874.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX",
+          "date": "Spring 2021",
+          "youtubeId": "0jWOZoTsYzI",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-6s191",
+      "to": "mit-67960"
+    }
+  ]
+}

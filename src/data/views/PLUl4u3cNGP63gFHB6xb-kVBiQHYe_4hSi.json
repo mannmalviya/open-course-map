@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "title": "1. Introduction and Scope",
+      "views": 2000000
+    },
+    {
+      "title": "2. Reasoning: Goal Trees and Problem Solving",
+      "views": 543000
+    },
+    {
+      "title": "3. Reasoning: Goal Trees and Rule-Based Expert Systems",
+      "views": 340000
+    },
+    {
+      "title": "4. Search: Depth-First, Hill Climbing, Beam",
+      "views": 361000
+    },
+    {
+      "title": "5. Search: Optimal, Branch and Bound, A*",
+      "views": 277000
+    },
+    {
+      "title": "6. Search: Games, Minimax, and Alpha-Beta",
+      "views": 496000
+    },
+    {
+      "title": "7. Constraints: Interpreting Line Drawings",
+      "views": 145000
+    },
+    {
+      "title": "8. Constraints: Search, Domain Reduction",
+      "views": 37000
+    },
+    {
+      "title": "9. Constraints: Visual Object Recognition",
+      "views": 146000
+    },
+    {
+      "title": "10. Introduction to Learning, Nearest Neighbors",
+      "views": 280000
+    },
+    {
+      "title": "11. Learning: Identification Trees, Disorder",
+      "views": 129000
+    },
+    {
+      "title": "12a: Neural Nets",
+      "views": 567000
+    },
+    {
+      "title": "12b: Deep Neural Nets",
+      "views": 195000
+    },
+    {
+      "title": "13. Learning: Genetic Algorithms",
+      "views": 548000
+    },
+    {
+      "title": "14. Learning: Sparse Spaces, Phonology",
+      "views": 84000
+    },
+    {
+      "title": "15. Learning: Near Misses, Felicity Conditions",
+      "views": 74000
+    },
+    {
+      "title": "16. Learning: Support Vector Machines",
+      "views": 2100000
+    },
+    {
+      "title": "17. Learning: Boosting",
+      "views": 336000
+    },
+    {
+      "title": "18. Representations: Classes, Trajectories, Transitions",
+      "views": 61000
+    },
+    {
+      "title": "19. Architectures: GPS, SOAR, Subsumption, Society of Mind",
+      "views": 64000
+    },
+    {
+      "title": "21. Probabilistic Inference I",
+      "views": 99000
+    },
+    {
+      "title": "22. Probabilistic Inference II",
+      "views": 58000
+    },
+    {
+      "title": "23. Model Merging, Cross-Modal Coupling, Course Summary",
+      "views": 44000
+    },
+    {
+      "title": "Mega-R1. Rule-Based Systems",
+      "views": 52000
+    },
+    {
+      "title": "Mega-R2. Basic Search, Optimal Search",
+      "views": 22000
+    },
+    {
+      "title": "Mega-R3. Games, Minimax, Alpha-Beta",
+      "views": 90000
+    },
+    {
+      "title": "Mega-R4. Neural Nets",
+      "views": 30000
+    },
+    {
+      "title": "Mega-R5. Support Vector Machines",
+      "views": 62000
+    },
+    {
+      "title": "Mega-R6. Boosting",
+      "views": 23000
+    },
+    {
+      "title": "Mega-R7. Near Misses, Arch Learning",
+      "views": 22000
+    }
+  ]
+}

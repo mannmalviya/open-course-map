@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "mit-6034": {
+      "title": "6.034 Artificial Intelligence",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.034 · Winston · 2010",
+          "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
+          "date": "Fall 2010",
+          "youtubeId": "TjZBTDzGeGg",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

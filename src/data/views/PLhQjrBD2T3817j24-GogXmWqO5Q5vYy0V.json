@@ -1,0 +1,48 @@
+{
+  "lectures": [
+    {
+      "title": "CS50P - Introduction",
+      "views": 2200000
+    },
+    {
+      "title": "CS50P - Lecture 0 - Functions, Variables",
+      "views": 2700000
+    },
+    {
+      "title": "CS50P - Lecture 1 - Conditionals",
+      "views": 907000
+    },
+    {
+      "title": "CS50P - Lecture 2 - Loops",
+      "views": 889000
+    },
+    {
+      "title": "CS50P - Lecture 3 - Exceptions",
+      "views": 540000
+    },
+    {
+      "title": "CS50P - Lecture 4 - Libraries",
+      "views": 545000
+    },
+    {
+      "title": "CS50P - Lecture 5 - Unit Tests",
+      "views": 426000
+    },
+    {
+      "title": "CS50P - Lecture 6 - File I/O",
+      "views": 525000
+    },
+    {
+      "title": "CS50P - Lecture 7 - Regular Expressions",
+      "views": 452000
+    },
+    {
+      "title": "CS50P - Lecture 8 - Object-Oriented Programming",
+      "views": 863000
+    },
+    {
+      "title": "CS50P - Lecture 9 - Et Cetera",
+      "views": 358000
+    }
+  ]
+}

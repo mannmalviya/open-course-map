@@ -144,6 +144,46 @@
           "youtubeId": "fQZFlwEPrNQ"
         }
       ]
+    },
+    "ucsc-cse201": {
+      "title": "CSE201 Graduate Algorithms",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 400,
+        "y": 600
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE201 · Seshadhri · 2025",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fa_v3NPMQAFtqMF5wiJ4oyt",
+          "date": "Winter 2025",
+          "youtubeId": "5pwKQ-u7f28",
+          "primary": true
+        },
+        {
+          "label": "UCSC CSE201 · Seshadhri · 2022",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fYmOmrAAN-g1d4nFB2uz6tU",
+          "date": "Winter 2022",
+          "youtubeId": "r6eHgE2nDNw"
+        }
+      ]
+    },
+    "ucsc-cse202": {
+      "title": "CSE202 Combinatorial Algorithms",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 720,
+        "y": 600
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE202 · Seshadhri · 2021",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fbn9zAJfvJoQF1nc50KQR9g",
+          "date": "Spring 2021",
+          "youtubeId": "DpanmE7Nzy8",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [
@@ -162,6 +202,8 @@
     {
       "from": "stanford-alg1",
       "to": "stanford-alg2"
-    }
+    },
+    { "from": "ucsc-cse101", "to": "ucsc-cse201" },
+    { "from": "ucsc-cse201", "to": "ucsc-cse202" }
   ]
 }

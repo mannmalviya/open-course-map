@@ -3,7 +3,7 @@ import { Canvas } from './Canvas';
 import { CoursePage } from './CoursePage';
 import {
   allSchools, groupChain, map, parseHash, routeHash, setCompactCourses, setHiddenSchools,
-  type Route,
+  setHidePrereqs, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
@@ -50,11 +50,13 @@ export default function App() {
   const [theme, setTheme] = useState<Theme>(initialTheme);
   const [hidden, setHidden] = useState<ReadonlySet<string>>(initialHidden);
   const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
+  const [noPrereqs, setNoPrereqs] = useState(() => localStorage.getItem('ocm-hide-prereqs') === '1');
   const [settingsOpen, setSettingsOpen] = useState(false);
 
   // Sync the model's filter before children render so the whole map reflects it
   setHiddenSchools(hidden);
   setCompactCourses(compact);
+  setHidePrereqs(noPrereqs);
 
   useEffect(() => {
     const onHash = () => setRoute(parseHash());
@@ -74,6 +76,10 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem('ocm-compact', compact ? '1' : '0');
   }, [compact]);
+
+  useEffect(() => {
+    localStorage.setItem('ocm-hide-prereqs', noPrereqs ? '1' : '0');
+  }, [noPrereqs]);
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -222,6 +228,14 @@ export default function App() {
               onChange={() => setCompact((c) => !c)}
             />
             Collapse thumbnails
+          </label>
+          <label className="settings-row">
+            <input
+              type="checkbox"
+              checked={noPrereqs}
+              onChange={() => setNoPrereqs((v) => !v)}
+            />
+            Hide prerequisites
           </label>
         </div>
       )}

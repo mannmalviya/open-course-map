@@ -1,0 +1,22 @@
+{
+  "courses": {
+    "stanford-ee364a": {
+      "title": "EE364A Convex Optimization I",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford EE364A · Boyd · 2023",
+          "url": "https://web.stanford.edu/class/ee364a/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h",
+          "date": "2023",
+          "youtubeId": "kV1ru-Inzl4",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

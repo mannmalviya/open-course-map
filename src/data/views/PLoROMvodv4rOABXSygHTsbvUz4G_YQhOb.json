@@ -1,0 +1,44 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng",
+      "views": 811000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition",
+      "views": 218000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 3 - Full-Cycle Deep Learning Projects",
+      "views": 104000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 4 - Adversarial Attacks / GANs",
+      "views": 88000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 5 - AI + Healthcare",
+      "views": 49000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 6 - Deep Learning Project Strategy",
+      "views": 41000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 7 - Interpretability of Neural Network",
+      "views": 52000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers",
+      "views": 280000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning",
+      "views": 51000
+    },
+    {
+      "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 10 - Chatbots / Closing Remarks",
+      "views": 36000
+    }
+  ]
+}

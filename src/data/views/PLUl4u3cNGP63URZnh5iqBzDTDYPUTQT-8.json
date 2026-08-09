@@ -1,0 +1,100 @@
+{
+  "lectures": [
+    {
+      "title": "Lec 01. Introduction to Deep Learning",
+      "views": 463000
+    },
+    {
+      "title": "Lec 02. How to Train a Neural Net",
+      "views": 49000
+    },
+    {
+      "title": "Lec 03. Approximation Theory",
+      "views": 16000
+    },
+    {
+      "title": "Lec 04. Architectures: Grids",
+      "views": 12000
+    },
+    {
+      "title": "Lec 05. Architectures: Graphs",
+      "views": 11000
+    },
+    {
+      "title": "Lec 06. Generalization Theory",
+      "views": 7000
+    },
+    {
+      "title": "Lec 07. Scaling Rules for Optimization",
+      "views": 4700
+    },
+    {
+      "title": "Lec 08. Architectures: Transformers",
+      "views": 9700
+    },
+    {
+      "title": "Lec 09. Hacker's Guide to Deep Learning",
+      "views": 12000
+    },
+    {
+      "title": "Lec 10. Architectures: Memory",
+      "views": 4700
+    },
+    {
+      "title": "Lec 11. Representation Learning: Reconstruction-Based",
+      "views": 6100
+    },
+    {
+      "title": "Lec 12. Representation Learning: Similarity-Based",
+      "views": 4800
+    },
+    {
+      "title": "Lec 13. Representation Learning: Theory",
+      "views": 3700
+    },
+    {
+      "title": "Lec 14. Generative Models: Basics",
+      "views": 5000
+    },
+    {
+      "title": "Lec 15. Generative Models: Representation Learning Meets Generative Modeling",
+      "views": 3900
+    },
+    {
+      "title": "Lec 16. Generative Models: Conditional Models",
+      "views": 3000
+    },
+    {
+      "title": "Lec 17. Generalization: Out-of-Distribution (OOD)",
+      "views": 3200
+    },
+    {
+      "title": "Lec 18. Transfer Learning: Models",
+      "views": 3900
+    },
+    {
+      "title": "Lec 19. Transfer Learning: Data",
+      "views": 2300
+    },
+    {
+      "title": "Lec 20. Scaling Laws",
+      "views": 3400
+    },
+    {
+      "title": "Lec 21. Language Models",
+      "views": 3700
+    },
+    {
+      "title": "Lec 23. Metrized Deep Learning",
+      "views": 2000
+    },
+    {
+      "title": "Lec 24. Inference Methods for Deep Learning",
+      "views": 4000
+    },
+    {
+      "title": "PyTorch Tutorial",
+      "views": 39000
+    }
+  ]
+}

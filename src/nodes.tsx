@@ -1,9 +1,9 @@
 import type { Course, Ghost, Group, Rect } from './types';
 import {
-  COURSE_W, COURSE_H, COURSE_H_COMPACT, GHOST_W, GHOST_H,
+  COURSE_W, COURSE_H, COURSE_H_COMPACT, GHOST_W,
   borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
-  edgesOn, ghostRect, ghostsIn, isCompact, logoFor, map, primaryVersion, seedFor,
-  thumbUrl, wrapText,
+  edgesOn, ghostRect, ghostsIn, ghostTitleLines, isCompact, logoFor, map, primaryVersion,
+  seedFor, thumbUrl, wrapText,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -322,10 +322,10 @@ interface GhostNodeProps {
 
 export function GhostNode({ ghost, onJump }: GhostNodeProps) {
   const course = map.courses[ghost.node];
-  const target = course ?? map.groups[ghost.node];
   const homeId = course ? course.group : map.groups[ghost.node]?.parent;
   const home = homeId ? map.groups[homeId] : undefined;
   const { x, y } = ghost.pos;
+  const { h } = ghostRect(ghost);
   const seed = seedFor(ghost.node + ghost.inGroup);
 
   return (
@@ -335,11 +335,19 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
       onClick={() => onJump(ghost.node)}
     >
       <SketchRect
-        x={x} y={y} w={GHOST_W} h={GHOST_H}
-        seed={seed} stroke="var(--muted)" dash="6 6" strokeWidth={1.2}
+        x={x} y={y} w={GHOST_W} h={h}
+        seed={seed} stroke="var(--ghost-ink, var(--muted))" dash="6 6" strokeWidth={1.2}
       />
-      <SketchText x={x + 14} y={y + 24} lines={[`↪ ${target.title}`]} size={14} anchor="start" />
-      <SketchText x={x + 14} y={y + 43} lines={[`in ${home?.title ?? '?'}`]} size={11} anchor="start" fill="var(--muted)" />
+      <SketchText
+        x={x + 14} y={y + 24}
+        lines={ghostTitleLines(ghost)} size={14} anchor="start"
+        fill="var(--ghost-ink, var(--ink))"
+      />
+      <SketchText
+        x={x + 14} y={y + h - 13}
+        lines={[`in ${home?.title ?? '?'}`]} size={11} anchor="start"
+        fill="var(--ghost-ink, var(--muted))"
+      />
     </g>
   );
 }

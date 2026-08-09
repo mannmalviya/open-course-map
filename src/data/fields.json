@@ -230,6 +230,114 @@
         "w": 250,
         "h": 160
       }
+    },
+    "intro-cs": {
+      "title": "Intro to Computer Science",
+      "parent": "foundations",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "optimization": {
+      "title": "Optimization",
+      "parent": "math",
+      "pos": {
+        "x": 620,
+        "y": 420
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "ml": {
+      "title": "Machine Learning",
+      "parent": "ai",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "dl": {
+      "title": "Deep Learning",
+      "parent": "ai",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "rl": {
+      "title": "Reinforcement Learning",
+      "parent": "ai",
+      "pos": {
+        "x": 430,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "nlp": {
+      "title": "NLP",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "ai-advanced": {
+      "title": "Advanced Topics",
+      "parent": "ai",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "artificial-intelligence": {
+      "title": "AI",
+      "parent": "ai",
+      "pos": {
+        "x": 80,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "computer-vision": {
+      "title": "Computer Vision",
+      "parent": "ai-advanced",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [
@@ -256,6 +364,50 @@
     {
       "from": "quantum-mechanics",
       "to": "stat-mech"
+    },
+    {
+      "from": "stanford-cs109",
+      "to": "stanford-cs229"
+    },
+    {
+      "from": "stanford-engr108",
+      "to": "stanford-cs229"
+    },
+    {
+      "from": "stanford-ee364a",
+      "to": "stanford-cs229"
+    },
+    {
+      "from": "stanford-cs229",
+      "to": "stanford-cs230"
+    },
+    {
+      "from": "mit-6036",
+      "to": "mit-6s191"
+    },
+    {
+      "from": "ml",
+      "to": "dl"
+    },
+    {
+      "from": "artificial-intelligence",
+      "to": "dl"
+    },
+    {
+      "from": "prob-stats",
+      "to": "ml"
+    },
+    {
+      "from": "linear-algebra",
+      "to": "ml"
+    },
+    {
+      "from": "mit-6041",
+      "to": "mit-6036"
+    },
+    {
+      "from": "mit-1806",
+      "to": "mit-6036"
     }
   ],
   "ghosts": [
@@ -265,6 +417,78 @@
       "pos": {
         "x": 110,
         "y": 120
+      }
+    },
+    {
+      "node": "stanford-cs109",
+      "inGroup": "ml",
+      "pos": {
+        "x": 80,
+        "y": 60
+      }
+    },
+    {
+      "node": "stanford-engr108",
+      "inGroup": "ml",
+      "pos": {
+        "x": 80,
+        "y": 200
+      }
+    },
+    {
+      "node": "stanford-ee364a",
+      "inGroup": "ml",
+      "pos": {
+        "x": 80,
+        "y": 340
+      }
+    },
+    {
+      "node": "stanford-cs229",
+      "inGroup": "dl",
+      "pos": {
+        "x": 80,
+        "y": 165
+      }
+    },
+    {
+      "node": "mit-6036",
+      "inGroup": "dl",
+      "pos": {
+        "x": 80,
+        "y": 465
+      }
+    },
+    {
+      "node": "prob-stats",
+      "inGroup": "ai",
+      "pos": {
+        "x": -280,
+        "y": 40
+      }
+    },
+    {
+      "node": "linear-algebra",
+      "inGroup": "ai",
+      "pos": {
+        "x": -280,
+        "y": 180
+      }
+    },
+    {
+      "node": "mit-6041",
+      "inGroup": "ml",
+      "pos": {
+        "x": 80,
+        "y": 480
+      }
+    },
+    {
+      "node": "mit-1806",
+      "inGroup": "ml",
+      "pos": {
+        "x": 80,
+        "y": 620
       }
     }
   ]

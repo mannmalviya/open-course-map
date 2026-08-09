@@ -1,0 +1,41 @@
+{
+  "courses": {
+    "harvard-cs50x": {
+      "title": "CS50x Intro to Computer Science",
+      "university": "Harvard",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Harvard CS50x · Malan · 2025",
+          "url": "https://cs50.harvard.edu/x/",
+          "youtube": "https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R",
+          "date": "2025",
+          "youtubeId": "h6lqxDwUmJQ",
+          "primary": true
+        },
+        {
+          "label": "Harvard CS50x · Malan · 2024",
+          "url": "https://cs50.harvard.edu/x/",
+          "youtube": "https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4",
+          "date": "2024",
+          "youtubeId": "3LPJfIKxwWc"
+        },
+        {
+          "label": "freeCodeCamp · CS50 full course · 2026",
+          "youtube": "https://www.youtube.com/watch?v=gmuTjeQUbTM",
+          "date": "2026",
+          "youtubeId": "gmuTjeQUbTM"
+        },
+        {
+          "label": "freeCodeCamp · CS50 full course · 2023",
+          "youtube": "https://www.youtube.com/watch?v=8mAITcNt710",
+          "date": "2023",
+          "youtubeId": "8mAITcNt710"
+        }
+      ]
+    }
+  }
+}

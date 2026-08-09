@@ -1,0 +1,46 @@
+{
+  "courses": {
+    "stanford-cs234": {
+      "title": "CS234 Reinforcement Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS234 · Brunskill · Spring 2024",
+          "url": "https://web.stanford.edu/class/cs234/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX",
+          "date": "Spring 2024",
+          "youtubeId": "WsvFL-LjA6U",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS234 · Winter 2019",
+          "url": "https://web.stanford.edu/class/cs234/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
+          "date": "Winter 2019",
+          "youtubeId": "FgzM3zpZ55o"
+        }
+      ]
+    },
+    "stanford-cs224r": {
+      "title": "CS224R Deep Reinforcement Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS224R · Finn",
+          "url": "https://cs224r.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL",
+          "youtubeId": "EvHRQhMX7_w",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

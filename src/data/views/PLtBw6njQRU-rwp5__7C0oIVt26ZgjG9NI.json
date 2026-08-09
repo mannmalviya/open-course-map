@@ -1,0 +1,364 @@
+{
+  "lectures": [
+    {
+      "title": "MIT Introduction to Deep Learning | 6.S191",
+      "views": 234000
+    },
+    {
+      "title": "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention",
+      "views": 68000
+    },
+    {
+      "title": "MIT 6.S191: Convolutional Neural Networks",
+      "views": 45000
+    },
+    {
+      "title": "MIT 6.S191: Deep Generative Modeling",
+      "views": 25000
+    },
+    {
+      "title": "MIT 6.S191: Reinforcement Learning",
+      "views": 17000
+    },
+    {
+      "title": "MIT 6.S191: Language Models and New Frontiers",
+      "views": 15000
+    },
+    {
+      "title": "MIT 6.S191: The Three Laws of AI",
+      "views": 9700
+    },
+    {
+      "title": "MIT 6.S191: AI for Science",
+      "views": 26000
+    },
+    {
+      "title": "MIT 6.S191: Secrets of Massively Parallel Training",
+      "views": 10000
+    },
+    {
+      "title": "MIT Introduction to Deep Learning (2025) | 6.S191",
+      "views": 1000000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Recurrent Neural Networks, Transformers, and Attention",
+      "views": 299000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Convolutional Neural Networks",
+      "views": 220000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Deep Generative Modeling",
+      "views": 120000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Reinforcement Learning",
+      "views": 122000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Language Models and New Frontiers",
+      "views": 62000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Large Language Models (Google)",
+      "views": 83000
+    },
+    {
+      "title": "MIT 6.S191 (2025): Large Language Models (Liquid AI)",
+      "views": 60000
+    },
+    {
+      "title": "MIT 6.S191 (2025): A Hipocratic Oath, for *your* AI (Comet ML)",
+      "views": 17000
+    },
+    {
+      "title": "MIT 6.S191 (2025): AI for Biology (Microsoft)",
+      "views": 38000
+    },
+    {
+      "title": "MIT Introduction to Deep Learning (2024) | 6.S191",
+      "views": 1000000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Recurrent Neural Networks, Transformers, and Attention",
+      "views": 306000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Convolutional Neural Networks",
+      "views": 162000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Deep Generative Modeling",
+      "views": 103000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Reinforcement Learning",
+      "views": 127000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Language Models and New Frontiers",
+      "views": 56000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Google - Generative AI for Media",
+      "views": 48000
+    },
+    {
+      "title": "MIT 6.S191 (2024): Building AI Models in the Wild",
+      "views": 36000
+    },
+    {
+      "title": "MIT Introduction to Deep Learning (2023) | 6.S191",
+      "views": 2000000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention",
+      "views": 697000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Convolutional Neural Networks",
+      "views": 276000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Deep Generative Modeling",
+      "views": 322000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Robust and Trustworthy Deep Learning",
+      "views": 97000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Reinforcement Learning",
+      "views": 151000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Deep Learning New Frontiers",
+      "views": 91000
+    },
+    {
+      "title": "MIT 6.S191 (2023): Text-to-Image Generation",
+      "views": 53000
+    },
+    {
+      "title": "MIT 6.S191 (2023): The Modern Era of Statistics",
+      "views": 88000
+    },
+    {
+      "title": "MIT 6.S191 (2023): The Future of Robot Learning",
+      "views": 54000
+    },
+    {
+      "title": "MIT Introduction to Deep Learning (2022) | 6.S191",
+      "views": 632000
+    },
+    {
+      "title": "MIT 6.S191 (2022): Recurrent Neural Networks and Transformers",
+      "views": 259000
+    },
+    {
+      "title": "MIT 6.S191 (2022): Convolutional Neural Networks",
+      "views": 124000
+    },
+    {
+      "title": "MIT 6.S191 (2022): Deep Generative Modeling",
+      "views": 83000
+    },
+    {
+      "title": "MIT 6.S191 (2022): Reinforcement Learning",
+      "views": 91000
+    },
+    {
+      "title": "MIT 6.S191 (2022): Deep Learning New Frontiers",
+      "views": 39000
+    },
+    {
+      "title": "MIT 6.S191: LiDAR for Autonomous Driving",
+      "views": 35000
+    },
+    {
+      "title": "MIT 6.S191: Automatic Speech Recognition",
+      "views": 36000
+    },
+    {
+      "title": "MIT 6.S191: AI for Science",
+      "views": 40000
+    },
+    {
+      "title": "MIT 6.S191: Uncertainty in Deep Learning",
+      "views": 37000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Introduction to Deep Learning",
+      "views": 566000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Recurrent Neural Networks",
+      "views": 301000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Convolutional Neural Networks",
+      "views": 164000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Deep Generative Modeling",
+      "views": 109000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Reinforcement Learning",
+      "views": 105000
+    },
+    {
+      "title": "MIT 6.S191 (2021): Deep Learning New Frontiers",
+      "views": 64000
+    },
+    {
+      "title": "MIT 6.S191: Evidential Deep Learning and Uncertainty",
+      "views": 66000
+    },
+    {
+      "title": "MIT 6.S191: AI Bias and Fairness",
+      "views": 55000
+    },
+    {
+      "title": "MIT 6.S191: Deep CPCFG for Information Extraction",
+      "views": 22000
+    },
+    {
+      "title": "MIT 6.S191: Taming Dataset Bias via Domain Adaptation",
+      "views": 25000
+    },
+    {
+      "title": "MIT 6.S191: Towards AI for 3D Content Creation",
+      "views": 22000
+    },
+    {
+      "title": "MIT 6.S191: AI in Healthcare",
+      "views": 35000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Introduction to Deep Learning",
+      "views": 1200000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Recurrent Neural Networks",
+      "views": 400000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Convolutional Neural Networks",
+      "views": 318000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Deep Generative Modeling",
+      "views": 179000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Reinforcement Learning",
+      "views": 110000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Deep Learning New Frontiers",
+      "views": 120000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Neurosymbolic AI",
+      "views": 93000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Generalizable Autonomy for Robot Manipulation",
+      "views": 37000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Neural Rendering",
+      "views": 35000
+    },
+    {
+      "title": "MIT 6.S191 (2020): Machine Learning for Scent",
+      "views": 43000
+    },
+    {
+      "title": "Barack Obama: Intro to Deep Learning | MIT 6.S191",
+      "views": 620000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Introduction to Deep Learning",
+      "views": 234000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Recurrent Neural Networks",
+      "views": 123000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Convolutional Neural Networks",
+      "views": 149000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Deep Generative Modeling",
+      "views": 63000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Deep Reinforcement Learning",
+      "views": 106000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Deep Learning Limitations and New Frontiers",
+      "views": 35000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Visualization for Machine Learning (Google Brain)",
+      "views": 67000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Biologically Inspired Neural Networks (IBM)",
+      "views": 35000
+    },
+    {
+      "title": "MIT 6.S191 (2019): Image Domain Transfer (NVIDIA)",
+      "views": 22000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Introduction to Deep Learning",
+      "views": 530000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Sequence Modeling with Neural Networks",
+      "views": 88000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Convolutional Neural Networks",
+      "views": 65000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Deep Generative Modeling",
+      "views": 32000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Deep Reinforcement Learning",
+      "views": 28000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Deep Learning Limitations and New Frontiers",
+      "views": 20000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Issues in Image Classification",
+      "views": 17000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Faster ML Development with TensorFlow",
+      "views": 25000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Deep Learning - A Personal Perspective",
+      "views": 19000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Beyond Deep Learning: Learning+Reasoning",
+      "views": 30000
+    },
+    {
+      "title": "MIT 6.S191 (2018): Computer Vision Meets Social Networks",
+      "views": 33000
+    }
+  ]
+}

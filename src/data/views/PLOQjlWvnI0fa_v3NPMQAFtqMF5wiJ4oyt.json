@@ -1,0 +1,80 @@
+{
+  "lectures": [
+    {
+      "title": "CSE201, Winter 2025, Lec 5: DAGs, topological sort, and DFS",
+      "views": 234
+    },
+    {
+      "title": "CSE201, WInter 2025, Lec 4: Depth First Search",
+      "views": 105
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 3: The BFS loop invariant",
+      "views": 93
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 2: The BFS Theorem",
+      "views": 76
+    },
+    {
+      "title": "CSE 201, Winter 2025: Lec 1, graph traversals",
+      "views": 269
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec6: Dynamic programming, the knapsack problem",
+      "views": 172
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec6, Part 2: Longest Common Subsequence",
+      "views": 120
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 8: Optimal BSTs",
+      "views": 42
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 9: The optimal parentheses for Matrix Multiplication, and DAG optimization",
+      "views": 110
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec11: Huffman coding",
+      "views": 87
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 7: Longest Common Subsequence",
+      "views": 37
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 7, Part 2: The optimal binary search tree problem",
+      "views": 34
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 13: Divide and conquer, Karatsuba integer multiplication",
+      "views": 92
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 14: More divide and conquer, the maximum subarray product problem",
+      "views": 83
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 15: Shortest path algorithms",
+      "views": 91
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 16: All Pairs Shortest Paths",
+      "views": 46
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 16: An introduction to NP-completeness, Part 1",
+      "views": 67
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec 17: NP-completeness, Part 2",
+      "views": 45
+    },
+    {
+      "title": "CSE201, Winter 2025, Lec12: Minimum Spanning Trees",
+      "views": 159
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "courses": {
+    "stanford-cs124": {
+      "title": "CS124 From Languages to Information",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS124 · Jurafsky",
+          "url": "https://web.stanford.edu/class/cs124/",
+          "youtube": "https://www.youtube.com/playlist?list=PLaZQkZp6WhWyvdiP49JG-rjyTPck_hvEu",
+          "youtubeId": "808M7q8QX0E",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-cs224n": {
+      "title": "CS224N NLP with Deep Learning",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS224N · Manning · Spring 2024",
+          "url": "https://web.stanford.edu/class/cs224n/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOaMFbaqxPDoLWjDaRAdP9D",
+          "date": "Spring 2024",
+          "youtubeId": "DzpHeXVSC5I",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS224N · 2023",
+          "url": "https://web.stanford.edu/class/cs224n/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4",
+          "date": "Winter 2023",
+          "youtubeId": "rmVRLeJRkl4"
+        },
+        {
+          "label": "Stanford CS224N · Winter 2019",
+          "url": "https://web.stanford.edu/class/cs224n/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z",
+          "date": "Winter 2019",
+          "youtubeId": "8rXD5-xhemo"
+        },
+        {
+          "label": "Stanford CS224N · Manning, Socher · Winter 2017",
+          "url": "https://web.stanford.edu/class/cs224n/",
+          "youtube": "https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6",
+          "date": "Winter 2017",
+          "youtubeId": "OQQ-W_63UgQ"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "stanford-cs124",
+      "to": "stanford-cs224n"
+    }
+  ]
+}

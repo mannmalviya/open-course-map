@@ -96,8 +96,22 @@ export function courseRect(c: Course): Rect {
   return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: compactCourses ? COURSE_H_COMPACT : COURSE_H };
 }
 
+/** Ghost label wrapped to fit the box width — long course titles take two lines. */
+export function ghostTitleLines(g: Ghost): string[] {
+  const target = map.courses[g.node] ?? map.groups[g.node];
+  return wrapText('↪ ' + (target?.title ?? g.node), 22);
+}
+
 export function ghostRect(g: Ghost): Rect {
-  return { x: g.pos.x, y: g.pos.y, w: GHOST_W, h: GHOST_H };
+  const h = GHOST_H + (ghostTitleLines(g).length - 1) * 18;
+  return { x: g.pos.x, y: g.pos.y, w: GHOST_W, h };
+}
+
+/** Hide prerequisite arrows and ghost cards on the map — synced from App state. */
+let hidePrereqs = false;
+
+export function setHidePrereqs(v: boolean) {
+  hidePrereqs = v;
 }
 
 /** Schools hidden by the settings filter — synced from App state before each render. */
@@ -160,6 +174,7 @@ export function coursesIn(groupId: string): string[] {
 }
 
 export function ghostsIn(groupId: string): Ghost[] {
+  if (hidePrereqs) return [];
   return map.ghosts.filter((g) => {
     if (g.inGroup !== groupId) return false;
     const course = map.courses[g.node];
@@ -189,6 +204,7 @@ export function unlocksOf(courseId: string): string[] {
  * a course node in this group, a child group's box, or a hand-placed ghost.
  */
 export function edgesOn(groupId: string): Array<Edge & { fromRect: Rect; toRect: Rect }> {
+  if (hidePrereqs) return [];
   const rects = new Map<string, Rect>();
   for (const id of coursesIn(groupId)) rects.set(id, courseRect(map.courses[id]));
   for (const id of childGroups(groupId)) {

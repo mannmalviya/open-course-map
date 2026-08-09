@@ -24,6 +24,30 @@
           "youtubeId": "nykOeWgQcHM"
         }
       ]
+    },
+    "harvard-cs50p": {
+      "title": "CS50P Programming with Python",
+      "university": "Harvard",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Harvard CS50P · Malan · 2022",
+          "url": "https://cs50.harvard.edu/python/",
+          "youtube": "https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
+          "date": "2022",
+          "youtubeId": "OvKCESUCWII",
+          "primary": true
+        },
+        {
+          "label": "freeCodeCamp · CS50P full course",
+          "youtube": "https://www.youtube.com/watch?v=nLRL_NcnK-4",
+          "date": "2022",
+          "youtubeId": "nLRL_NcnK-4"
+        }
+      ]
     }
   }
 }

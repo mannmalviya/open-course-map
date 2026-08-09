@@ -1,0 +1,80 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS229 Machine Learning I Introduction I 2022 I Lecture 1",
+      "views": 396000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Supervised learning setup, LMS I 2022 I Lecture 2",
+      "views": 96000
+    },
+    {
+      "title": "Stanford CS229 I Weighted Least Squares, Logistic regression, Newton's Method I 2022 I Lecture 3",
+      "views": 64000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Exponential family, Generalized Linear Models I 2022 I Lecture 4",
+      "views": 44000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Gaussian discriminant analysis, Naive Bayes I 2022 I Lecture 5",
+      "views": 39000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Naive Bayes, Laplace Smoothing I 2022 I Lecture 6",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Kernels I 2022 I Lecture 7",
+      "views": 26000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Neural Networks 1 I 2022 I Lecture 8",
+      "views": 26000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Neural Networks 2 (backprop) I 2022 I Lecture 9",
+      "views": 17000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Bias - Variance, Regularization I 2022 I Lecture 10",
+      "views": 15000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Feature / Model selection, ML Advice I 2022 I Lecture 11",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS229 I K-Means, GMM (non EM), Expectation Maximization I 2022 I Lecture 12",
+      "views": 19000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I GMM (EM) I 2022 I Lecture 13",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Factor Analysis/PCA I 2022 I Lecture 14",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I PCA/ICA I 2022 I Lecture 15",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Self-supervised learning I 2022 I Lecture 16",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS229 I Basic concepts in RL, Value iteration, Policy iteration I 2022 I Lecture 17",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS229 I Societal impact of ML (Guest lecture by Prof. James Zou) I 2022 I Lecture 18",
+      "views": 7800
+    },
+    {
+      "title": "Stanford CS229 Machine Learning I Model-based RL, Value function approximator I 2022 I Lecture 20",
+      "views": 16000
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "lectures": [
+    {
+      "title": "CSE104, Computational Complexity: Lec 1, Cantor's diagonalization",
+      "views": 1100
+    },
+    {
+      "title": "CSE104, Lec 2: Turing machine simulations",
+      "views": 822
+    },
+    {
+      "title": "CSE104: Lec 3, the definitions of P and NP",
+      "views": 235
+    },
+    {
+      "title": "CSE104: Lec 4, NP-completeness, the Cook-Levin Theorem",
+      "views": 187
+    },
+    {
+      "title": "CSE104, Lec 5: The proof of the Cook-Levin theorem and the NP-completeness of 3SAT",
+      "views": 430
+    },
+    {
+      "title": "CSE104, Lec 7: co-NP and the factoring problem",
+      "views": 201
+    },
+    {
+      "title": "CSE104, Lec 8: EXP vs NEXP and the time hierarchy theorem",
+      "views": 457
+    },
+    {
+      "title": "CSE104, Lec 9: Savitch's theorem, PSPACE = NPSPACE",
+      "views": 938
+    },
+    {
+      "title": "CSE104, Lec 10: QBF is PSPACE-complete, the notion of logspace reductions",
+      "views": 483
+    },
+    {
+      "title": "CSE104, Lec 11: Logspace reductions and NL-completeness",
+      "views": 405
+    },
+    {
+      "title": "CSE104, Lec 12: Read-once certificates for NL, starting NL=co-NL",
+      "views": 142
+    },
+    {
+      "title": "CSE104, Lec 13: NL = co-NL, the Immerman-Szelepcsenyi theorem",
+      "views": 392
+    },
+    {
+      "title": "CSE104, Lec 14: The polynomial hierarchy",
+      "views": 292
+    },
+    {
+      "title": "CSE104, Lec 15: More on the polynomial hierarchy",
+      "views": 246
+    },
+    {
+      "title": "CSE104, Lec 16: Introduction to circuit complexity",
+      "views": 539
+    },
+    {
+      "title": "CSE104, Lec 17: The Karp-Lipton theorem",
+      "views": 345
+    },
+    {
+      "title": "CSE104, Lec 18: Randomized computation, the class BPP",
+      "views": 380
+    },
+    {
+      "title": "CSE104, Lec 19: Theorems on BPP",
+      "views": 286
+    }
+  ]
+}

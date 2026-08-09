@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 1 - Introduction and Linear Algebra",
+      "views": 294000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 2 - Matrix Calculus and Probability Theory",
+      "views": 97000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 3 - Probability and Statistics",
+      "views": 69000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 4 - Linear Regression",
+      "views": 59000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 5 - Perceptron and Logistic Regression",
+      "views": 47000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 6 - Exponential Family & GLM",
+      "views": 38000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 7 - GDA, Naive Bayes & Laplace Smoothing",
+      "views": 34000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 8 - Kernel Methods & Support Vector Machine",
+      "views": 33000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 9 - Bayesian Methods - Parametric &  Non",
+      "views": 24000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 10 - Deep learning - I",
+      "views": 22000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 11 - Deep Learning - II",
+      "views": 17000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 12 - Bias and Variance & Regularization",
+      "views": 21000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 13-Statistical Learning Uniform Convergence",
+      "views": 16000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 14 - Reinforcement Learning - I",
+      "views": 14000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 15 - Reinforcement Learning - II",
+      "views": 11000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 16 - K-means, GMM, and EM",
+      "views": 33000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 17 - Factor Analysis & ELBO",
+      "views": 15000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 18 - Principal & Independent CA",
+      "views": 18000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 19 - Maximum Entropy and Calibration",
+      "views": 13000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 20 - Variational Autoencoder",
+      "views": 32000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 21 - Evaluation Metrics",
+      "views": 18000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 22 - Practical Tips and Course Recap",
+      "views": 12000
+    },
+    {
+      "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 23 - Course Recap and Wrap Up",
+      "views": 14000
+    }
+  ]
+}

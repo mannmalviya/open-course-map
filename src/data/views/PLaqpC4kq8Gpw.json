@@ -1,0 +1,72 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction",
+      "views": 17000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 2: Supervised Learning Setup",
+      "views": 5800
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 3: Weighted Least Squares",
+      "views": 2100
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 4: Exponential Family, GLMs Classification",
+      "views": 2800
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 5: Gaussian Discriminant Analysis",
+      "views": 2600
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 6: Dataset Split, ML Advice",
+      "views": 1500
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 7: Neural Networks 1 (Architecture)",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 8: Neural Networks 2 (Backprop)",
+      "views": 1500
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 9: K-Means and GMM (non-EM)",
+      "views": 1000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 10: GMM (EM), PCA",
+      "views": 1500
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 11: Diffusion Models",
+      "views": 3400
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 12: Representation Learning",
+      "views": 7300
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 13: LLMs, Next-Word Prediction Loss",
+      "views": 1300
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 14: Transformers, In-Context Learning",
+      "views": 16000
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 16: Basic Concept in RL, Policy Gradient",
+      "views": 4200
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 18: GMM (EM), PCA",
+      "views": 1500
+    },
+    {
+      "title": "Stanford CS229 Machine Learning | Spring 2026 | Lecture 20: GMM (EM), PCA",
+      "views": 5400
+    }
+  ]
+}

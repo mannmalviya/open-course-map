@@ -17,6 +17,43 @@
           "primary": true
         }
       ]
+    },
+    "ucsc-cse104": {
+      "title": "CSE104 Computational Complexity",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 80,
+        "y": 380
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE104 · Seshadhri · 2020",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fas529oXenovd3MyafNQbKl",
+          "date": "Fall 2020",
+          "youtubeId": "0FwTO7mT0G8",
+          "primary": true
+        }
+      ]
+    },
+    "ucsc-cse204": {
+      "title": "CSE204 Complexity Theory",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 400,
+        "y": 380
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE204 · Seshadhri · 2022",
+          "youtube": "https://www.youtube.com/playlist?list=PLOQjlWvnI0fYMPFnJeVZ0kt4KPwWcbF0o",
+          "date": "Spring 2022",
+          "youtubeId": "xVYqNjlIsuE",
+          "primary": true
+        }
+      ]
     }
-  }
+  },
+  "edges": [
+    { "from": "ucsc-cse104", "to": "ucsc-cse204" }
+  ]
 }

@@ -118,6 +118,18 @@ body {
   opacity: 1;
 }
 
+/* Ghost references highlight on hover — the accent flows into the sketch via --ghost-ink */
+.ghost {
+  transform-box: fill-box;
+  transform-origin: center;
+  transition: transform 0.2s ease;
+}
+
+.ghost:hover {
+  transform: scale(1.03);
+  --ghost-ink: var(--accent);
+}
+
 /* Floating islands, Excalidraw-style */
 .island {
   position: absolute;

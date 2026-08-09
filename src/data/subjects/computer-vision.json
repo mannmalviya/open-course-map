@@ -1,0 +1,54 @@
+{
+  "courses": {
+    "stanford-cs231n": {
+      "title": "CS231n Deep Learning for Computer Vision",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS231N \u00b7 2025",
+          "url": "https://cs231n.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16",
+          "date": "Spring 2025",
+          "youtubeId": "2fq9wYslV0A",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS231n \u00b7 Spring 2017",
+          "url": "https://cs231n.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk",
+          "date": "Spring 2017",
+          "youtubeId": "vT1JzLTH4G4"
+        },
+        {
+          "label": "Stanford CS231n \u00b7 Karpathy \u00b7 Winter 2016",
+          "url": "https://cs231n.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC",
+          "date": "Winter 2016",
+          "youtubeId": "NfnWJUyUJYU"
+        }
+      ]
+    },
+    "mit-6801": {
+      "title": "6.801 Machine Vision",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.801 \u00b7 Horn \u00b7 Fall 2020",
+          "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O",
+          "date": "Fall 2020",
+          "youtubeId": "tY2gczObpfU",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

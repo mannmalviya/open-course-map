@@ -1,0 +1,40 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning",
+      "views": 665000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, & Weakly Supervised Learning",
+      "views": 159000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 3: Full Cycle of a DL project",
+      "views": 70000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 4: Adversarial Robustness and Generative Models",
+      "views": 54000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 5: Deep Reinforcement Learning",
+      "views": 42000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 6: AI Project Strategy",
+      "views": 46000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 8: Agents, Prompts, and RAG",
+      "views": 463000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 9: Career Advice in AI",
+      "views": 436000
+    },
+    {
+      "title": "Stanford CS230 | Autumn 2025 | Lecture 10: What’s Going On Inside My Model?",
+      "views": 29000
+    }
+  ]
+}

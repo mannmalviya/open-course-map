@@ -1,0 +1,52 @@
+{
+  "lectures": [
+    {
+      "title": "CS50x 2024 - Lecture 0 - Scratch",
+      "views": 2100000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 1 - C",
+      "views": 1400000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 2 - Arrays",
+      "views": 618000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 3 - Algorithms",
+      "views": 459000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 4 - Memory",
+      "views": 397000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 5 - Data Structures",
+      "views": 575000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 6 - Python",
+      "views": 489000
+    },
+    {
+      "title": "CS50x 2024 - Artificial Intelligence",
+      "views": 222000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 7 - SQL",
+      "views": 618000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript",
+      "views": 303000
+    },
+    {
+      "title": "CS50x 2024 - Lecture 9 - Flask",
+      "views": 245000
+    },
+    {
+      "title": "CS50x 2024 - Cybersecurity",
+      "views": 178000
+    }
+  ]
+}

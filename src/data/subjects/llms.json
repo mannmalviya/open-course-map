@@ -133,6 +133,31 @@
           "youtubeId": "0rZtSwNOTQo"
         }
       ]
+    },
+    "stanford-cs25": {
+      "title": "CS25 Transformers United",
+      "university": "Stanford",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS25 \u00b7 V1\u2013V6 \u00b7 2021\u20132026",
+          "url": "https://web.stanford.edu/class/cs25/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPZxxeUFvQHCkZJsaEBdDZj",
+          "date": "2021\u20132026",
+          "youtubeId": "NDdc39KYqDU",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS25 \u00b7 V1 \u00b7 2021",
+          "url": "https://web.stanford.edu/class/cs25/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM",
+          "date": "2021",
+          "youtubeId": "P127jhj-8-Y"
+        }
+      ]
     }
   }
 }

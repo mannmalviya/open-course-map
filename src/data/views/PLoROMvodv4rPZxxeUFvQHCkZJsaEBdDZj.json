@@ -1,0 +1,68 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS25: Transformers United V6 I From Language Models to Native Multimodal Intelligence",
+      "views": 113000
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I Serving Transformers: Lessons from the Trenches",
+      "views": 6600
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I Advancing Science and Medicine with Collaborative AI Agents",
+      "views": 3300
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I Distinct Modes of Generalization from Parameters and Context",
+      "views": 3600
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I From Next-Token Prediction to Next-Generation Intelligence",
+      "views": 14000
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I The Ultra-Scale Talk: Scaling Training to Thousands of GPUs",
+      "views": 1800
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I On the Tradeoffs of State Space Models and Transformers",
+      "views": 5800
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I From Representation Learning to World Modeling",
+      "views": 96000
+    },
+    {
+      "title": "Stanford CS25: Transformers United V6 I Overview of Transformers",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS25: V5 I Transformers for Video Generation, Andrew Brown of Meta",
+      "views": 16000
+    },
+    {
+      "title": "Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond",
+      "views": 29000
+    },
+    {
+      "title": "Stanford CS25: V5 I Overview of Transformers",
+      "views": 40000
+    },
+    {
+      "title": "Stanford CS25: V4 I Hyung Won Chung of OpenAI",
+      "views": 211000
+    },
+    {
+      "title": "Stanford CS224N NLP with Deep Learning | 2023 | Lecture 8 - Self-Attention and Transformers",
+      "views": 133000
+    },
+    {
+      "title": "Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy",
+      "views": 1000000
+    },
+    {
+      "title": "Stanford CS25: V1 I Transformers United: DL Models that have revolutionized NLP, CV, RL",
+      "views": 195000
+    }
+  ]
+}

@@ -160,6 +160,24 @@
           "primary": true
         }
       ]
+    },
+    "nyu-dl": {
+      "title": "NYU Deep Learning",
+      "university": "NYU",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "NYU \u00b7 LeCun, Canziani \u00b7 Spring 2020",
+          "url": "https://atcold.github.io/NYU-DLSP20/",
+          "youtube": "https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v",
+          "date": "Spring 2020",
+          "youtubeId": "0bMe_vCZo30",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [

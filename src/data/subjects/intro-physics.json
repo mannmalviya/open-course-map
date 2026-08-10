@@ -1,7 +1,7 @@
 {
   "courses": {
     "phys200": {
-      "title": "PHYS 200 · Physics I",
+      "title": "PHYS 200 \u00b7 Physics I",
       "university": "Yale",
       "pos": {
         "x": 80,
@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "Yale PHYS 200 · Shankar · 2006",
+          "label": "Yale PHYS 200 \u00b7 Shankar \u00b7 2006",
           "url": "https://oyc.yale.edu/physics/phys-200",
           "youtube": "https://www.youtube.com/playlist?list=PLFE3074A4CB751B2B",
           "date": "Fall 2006",
@@ -19,7 +19,7 @@
       ]
     },
     "phys201": {
-      "title": "PHYS 201 · Physics II",
+      "title": "PHYS 201 \u00b7 Physics II",
       "university": "Yale",
       "pos": {
         "x": 400,
@@ -27,7 +27,7 @@
       },
       "versions": [
         {
-          "label": "Yale PHYS 201 · Shankar · 2010",
+          "label": "Yale PHYS 201 \u00b7 Shankar \u00b7 2010",
           "url": "https://oyc.yale.edu/physics/phys-201",
           "youtube": "https://www.youtube.com/playlist?list=PLD07B2225BB40E582",
           "date": "Spring 2010",
@@ -45,7 +45,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.01x · Lewin · 1999",
+          "label": "MIT 8.01x \u00b7 Lewin \u00b7 1999",
           "youtube": "https://www.youtube.com/playlist?list=PLyQSN7X0ro203puVhQsmCj9qhlFQ-As8e",
           "date": "Fall 1999",
           "youtubeId": "wWnfJ0-xXRE",
@@ -62,7 +62,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.02x · Lewin · 2002",
+          "label": "MIT 8.02x \u00b7 Lewin \u00b7 2002",
           "youtube": "https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j",
           "date": "Spring 2002",
           "youtubeId": "rtlJoXxlSFE",
@@ -79,11 +79,36 @@
       },
       "versions": [
         {
-          "label": "MIT 8.03 · Lewin · 2004",
+          "label": "MIT 8.03 \u00b7 Lewin \u00b7 2004",
           "youtube": "https://www.youtube.com/playlist?list=PLyQSN7X0ro22WeXM2QCKJm2NP_xHpGV89",
           "date": "Fall 2004",
           "youtubeId": "sf3XlpPtBo0",
           "primary": true
+        }
+      ]
+    },
+    "susskind-cm": {
+      "title": "Classical Mechanics",
+      "university": "Stanford",
+      "pos": {
+        "x": 720,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2011",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL47F408D36D4CF129",
+          "date": "Fall 2011",
+          "youtubeId": "ApUFtLCrU90",
+          "primary": true
+        },
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2007",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL189C0DCE90CB6D81",
+          "date": "Fall 2007",
+          "youtubeId": "pyX8kQ-JzHI"
         }
       ]
     }
@@ -93,7 +118,13 @@
       "from": "phys200",
       "to": "phys201"
     },
-    { "from": "mit-801", "to": "mit-802" },
-    { "from": "mit-802", "to": "mit-803" }
+    {
+      "from": "mit-801",
+      "to": "mit-802"
+    },
+    {
+      "from": "mit-802",
+      "to": "mit-803"
+    }
   ]
 }

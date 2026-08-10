@@ -35,6 +35,92 @@
           "primary": true
         }
       ]
+    },
+    "susskind-standard-model": {
+      "title": "Particle Physics: Standard Model",
+      "university": "Stanford",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2010",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL8BCB4981DD1A0108",
+          "date": "Winter 2010",
+          "youtubeId": "Igl8hE3Eac0",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-susy": {
+      "title": "Particle Physics: SUSY & GUTs",
+      "university": "Stanford",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Spring 2010",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLpi18tMShZSBKLugjxRsN8U5MmILu1nBo",
+          "date": "Spring 2010",
+          "youtubeId": "W6srShxBCrk",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-string": {
+      "title": "String Theory and M-Theory",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2010",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLA2FDCCBC7956448F",
+          "date": "Fall 2010",
+          "youtubeId": "25haxRuZQUk",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-string-topics": {
+      "title": "Topics in String Theory",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2011",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL3E633552E58EB230",
+          "date": "Winter 2011",
+          "youtubeId": "NZ-ElsvYKyo",
+          "primary": true
+        }
+      ]
     }
-  }
+  },
+  "edges": [
+    {
+      "from": "susskind-particle",
+      "to": "susskind-standard-model"
+    },
+    {
+      "from": "susskind-standard-model",
+      "to": "susskind-susy"
+    },
+    {
+      "from": "susskind-string",
+      "to": "susskind-string-topics"
+    }
+  ]
 }

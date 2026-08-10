@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "Yale ASTR 160 · Bailyn · Spring 2007",
+          "label": "Yale ASTR 160 \u00b7 Bailyn \u00b7 Spring 2007",
           "url": "https://oyc.yale.edu/astronomy/astr-160",
           "youtube": "https://www.youtube.com/playlist?list=PLD1515420F4E601A4",
           "date": "Spring 2007",
@@ -27,12 +27,37 @@
       },
       "versions": [
         {
-          "label": "MIT 8.286 · Guth · Fall 2013",
+          "label": "MIT 8.286 \u00b7 Guth \u00b7 Fall 2013",
           "url": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra",
           "date": "Fall 2013",
           "youtubeId": "ANCN7vr9FVk",
           "primary": true
+        }
+      ]
+    },
+    "susskind-cosmology": {
+      "title": "Cosmology",
+      "university": "Stanford",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2013",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLpGHT1n4-mAuVGJ2E1uF9GSwLsx7p1xtm",
+          "date": "Winter 2013",
+          "youtubeId": "P-medYaqVak",
+          "primary": true
+        },
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2009",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL888811AA667C942F",
+          "date": "Winter 2009",
+          "youtubeId": "32wIKaLkvc4"
         }
       ]
     }

@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.04 · Adams · 2013",
+          "label": "MIT 8.04 \u00b7 Adams \u00b7 2013",
           "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr",
           "date": "Spring 2013",
@@ -17,7 +17,7 @@
           "primary": true
         },
         {
-          "label": "MIT 8.04 · Zwiebach · 2016",
+          "label": "MIT 8.04 \u00b7 Zwiebach \u00b7 2016",
           "url": "https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G",
           "date": "Spring 2016",
@@ -34,7 +34,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.05 · Zwiebach · 2013",
+          "label": "MIT 8.05 \u00b7 Zwiebach \u00b7 2013",
           "url": "https://ocw.mit.edu/courses/8-05-quantum-physics-ii-fall-2013/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx",
           "date": "Fall 2013",
@@ -52,7 +52,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.06 · Zwiebach · 2018",
+          "label": "MIT 8.06 \u00b7 Zwiebach \u00b7 2018",
           "url": "https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L",
           "date": "Spring 2018",
@@ -60,10 +60,103 @@
           "primary": true
         }
       ]
+    },
+    "susskind-qm": {
+      "title": "Quantum Mechanics",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2012",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL701CD168D02FF56F",
+          "date": "Winter 2012",
+          "youtubeId": "iJfw6lDlTuA",
+          "primary": true
+        },
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Winter 2008",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL84C10A9CB1D13841",
+          "date": "Winter 2008",
+          "youtubeId": "JzhlfbWBuQ8"
+        }
+      ]
+    },
+    "susskind-aqm": {
+      "title": "Advanced Quantum Mechanics",
+      "university": "Stanford",
+      "pos": {
+        "x": 400,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2013",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLpGHT1n4-mAsmMxmSX0LCaXIXT2PmU85m",
+          "date": "Fall 2013",
+          "youtubeId": "l6vR825BR3c",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-qe1": {
+      "title": "Quantum Entanglements, Part 1",
+      "university": "Stanford",
+      "pos": {
+        "x": 720,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2006",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLA27CEA1B8B27EB67",
+          "date": "Fall 2006",
+          "youtubeId": "0Eeuqh9QfNI",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-qe3": {
+      "title": "Quantum Entanglements, Part 3",
+      "university": "Stanford",
+      "pos": {
+        "x": 1040,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Spring 2007",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL5F9D6DB4231291BE",
+          "date": "Spring 2007",
+          "youtubeId": "3ZEYa7SRRsU",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [
-    { "from": "mit-804", "to": "mit-805" },
-    { "from": "mit-805", "to": "mit-806" }
+    {
+      "from": "mit-804",
+      "to": "mit-805"
+    },
+    {
+      "from": "mit-805",
+      "to": "mit-806"
+    },
+    {
+      "from": "susskind-qm",
+      "to": "susskind-aqm"
+    },
+    {
+      "from": "susskind-qe1",
+      "to": "susskind-qe3"
+    }
   ]
 }

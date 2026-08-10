@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.20 · Klute · 2021",
+          "label": "MIT 8.20 \u00b7 Klute \u00b7 2021",
           "url": "https://ocw.mit.edu/courses/8-20-introduction-to-special-relativity-january-iap-2021/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8",
           "date": "IAP 2021",
@@ -27,12 +27,19 @@
       },
       "versions": [
         {
-          "label": "Stanford · Susskind · General Relativity · 2012",
+          "label": "Stanford \u00b7 Susskind \u00b7 General Relativity \u00b7 2012",
           "url": "https://theoreticalminimum.com/courses/general-relativity/2012/fall",
           "youtube": "https://www.youtube.com/playlist?list=PLpGHT1n4-mAvcXwzOIz3dHnGZaQP1LEib",
           "date": "Fall 2012",
           "youtubeId": "SwhOffh0kEE",
           "primary": true
+        },
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Einstein's Theory \u00b7 Fall 2008",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PL6C8BDEEBA6BDC78D",
+          "date": "Fall 2008",
+          "youtubeId": "hbmf0bB38h0"
         }
       ]
     },
@@ -45,7 +52,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.962 · Hughes · 2020",
+          "label": "MIT 8.962 \u00b7 Hughes \u00b7 2020",
           "url": "https://ocw.mit.edu/courses/8-962-general-relativity-spring-2020/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP629n_3fX7HmKKgin_rqGzbx",
           "date": "Spring 2020",
@@ -53,10 +60,41 @@
           "primary": true
         }
       ]
+    },
+    "susskind-sr": {
+      "title": "Special Relativity",
+      "university": "Stanford",
+      "pos": {
+        "x": 780,
+        "y": 60
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 2012",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLD9DDFBDC338226CA",
+          "date": "2012",
+          "youtubeId": "toGH5BdgRZ4",
+          "primary": true
+        },
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Spring 2008",
+          "url": "https://theoreticalminimum.com/courses",
+          "youtube": "https://www.youtube.com/playlist?list=PLCCD6C043FEC59772",
+          "date": "Spring 2008",
+          "youtubeId": "BAurgxtOdxY"
+        }
+      ]
     }
   },
   "edges": [
-    { "from": "mit-820", "to": "susskind-gr" },
-    { "from": "mit-820", "to": "mit-8962" }
+    {
+      "from": "mit-820",
+      "to": "susskind-gr"
+    },
+    {
+      "from": "mit-820",
+      "to": "mit-8962"
+    }
   ]
 }

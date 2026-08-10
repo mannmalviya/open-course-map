@@ -1,0 +1,156 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to Thermodynamics",
+      "views": 122000
+    },
+    {
+      "title": "Supplemental Video: Sodium Acetate Demo",
+      "views": 11000
+    },
+    {
+      "title": "Lecture 2: Scope and Use of Thermodynamics",
+      "views": 19000
+    },
+    {
+      "title": "Lecture 3: Process Variables and the First Law",
+      "views": 10000
+    },
+    {
+      "title": "Lecture 4: Heat Engines and Energy Conversion Efficiency",
+      "views": 7400
+    },
+    {
+      "title": "Lecture 5: Second Law and Entropy Maximization",
+      "views": 8000
+    },
+    {
+      "title": "Lecture 6: Thermodynamic Potentials",
+      "views": 5700
+    },
+    {
+      "title": "Lecture 7: Ideal Gas Processes",
+      "views": 3400
+    },
+    {
+      "title": "Lecture 8: Mathematical Implications of Equilibrium and Spontaneous Processes",
+      "views": 2500
+    },
+    {
+      "title": "Lecture 9: Case Studies - Specific Heats and Phase Transformations",
+      "views": 2100
+    },
+    {
+      "title": "Lecture 10: Introduction to Unary Phase Transformations",
+      "views": 2200
+    },
+    {
+      "title": "Lecture 11: Phase Coexistence in Unary Systems",
+      "views": 1700
+    },
+    {
+      "title": "Supplemental Video: The Three Dees of Thermodynamics",
+      "views": 2600
+    },
+    {
+      "title": "Lecture 12: Case Studies - Saturation Vapor Pressure",
+      "views": 1300
+    },
+    {
+      "title": "Lecture 13: Introduction to Ideal (Gas) Mixtures",
+      "views": 2300
+    },
+    {
+      "title": "Lecture 14: Reacting Gas Mixtures at Equilibrium",
+      "views": 1400
+    },
+    {
+      "title": "Lecture 15: Introduction to Solutions, General Case",
+      "views": 4600
+    },
+    {
+      "title": "Supplemental Video: The Lever Rule",
+      "views": 8200
+    },
+    {
+      "title": "Lecture 16: Partial Molar Properties",
+      "views": 1800
+    },
+    {
+      "title": "Lecture 17: Solution Models - Ideal, Dilute, and Regular",
+      "views": 1500
+    },
+    {
+      "title": "Lecture 18: Case Study in Reacting Gas Mixtures - Introducing the Nernst Equation",
+      "views": 1400
+    },
+    {
+      "title": "Lecture 19: Regular Solution Models and Stability",
+      "views": 1200
+    },
+    {
+      "title": "Lecture 20: Introduction to Binary Phase Diagrams",
+      "views": 1800
+    },
+    {
+      "title": "Lecture 21: Phase Coexistence and Separation",
+      "views": 1100
+    },
+    {
+      "title": "Lecture 22: Free Energy-Composition Diagrams, General Case",
+      "views": 4100
+    },
+    {
+      "title": "Lecture 23: Building Binary Phase Diagrams, Part I",
+      "views": 1400
+    },
+    {
+      "title": "Supplemental Video: Gallium-Indium Eutectic Demo",
+      "views": 3300
+    },
+    {
+      "title": "Lecture 24: Building Binary Phase Diagrams, Part II",
+      "views": 1000
+    },
+    {
+      "title": "Lecture 25: Building Binary Phase Diagrams, Part III",
+      "views": 758
+    },
+    {
+      "title": "Lecture 26: CALPHAD - Case Studies and Guest Lecture",
+      "views": 1100
+    },
+    {
+      "title": "Lecture 27: Introduction to Statistical Thermodynamics",
+      "views": 2700
+    },
+    {
+      "title": "Lecture 28: Boltzmann Hypothesis",
+      "views": 1300
+    },
+    {
+      "title": "Lecture 29: Boltzmann Distribution",
+      "views": 4700
+    },
+    {
+      "title": "Lecture 30: Intermediate Phases and Reactions",
+      "views": 861
+    },
+    {
+      "title": "Lecture 31: Reacting Multi-phase Systems",
+      "views": 797
+    },
+    {
+      "title": "Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems",
+      "views": 977
+    },
+    {
+      "title": "Supplemental Video: Ternary Phase Diagram and Ouzo Demo",
+      "views": 2700
+    },
+    {
+      "title": "Supplemental Video: Ouzo Demo",
+      "views": 1100
+    }
+  ]
+}

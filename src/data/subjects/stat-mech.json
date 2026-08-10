@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "Stanford · Susskind · 2013",
+          "label": "Stanford \u00b7 Susskind \u00b7 2013",
           "url": "https://theoreticalminimum.com/courses/statistical-mechanics/2013/spring",
           "youtube": "https://www.youtube.com/playlist?list=PLpi18tMShZSAQFNTb8Ji7EgCFP9lXbkOe",
           "date": "Spring 2013",
@@ -27,7 +27,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.333 · Kardar · 2013",
+          "label": "MIT 8.333 \u00b7 Kardar \u00b7 2013",
           "url": "https://ocw.mit.edu/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg",
           "date": "Fall 2013",
@@ -45,7 +45,7 @@
       },
       "versions": [
         {
-          "label": "MIT 8.334 · Kardar · 2014",
+          "label": "MIT 8.334 \u00b7 Kardar \u00b7 2014",
           "url": "https://ocw.mit.edu/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7",
           "date": "Spring 2014",
@@ -53,9 +53,30 @@
           "primary": true
         }
       ]
+    },
+    "mit-3020": {
+      "title": "3.020 Thermodynamics of Materials",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 400
+      },
+      "versions": [
+        {
+          "label": "MIT 3.020 \u00b7 Jaramillo \u00b7 Spring 2021",
+          "url": "https://ocw.mit.edu/courses/3-020-thermodynamics-of-materials-spring-2021/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX",
+          "date": "Spring 2021",
+          "youtubeId": "kd_6bwynBj8",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [
-    { "from": "mit-8333", "to": "mit-8334" }
+    {
+      "from": "mit-8333",
+      "to": "mit-8334"
+    }
   ]
 }

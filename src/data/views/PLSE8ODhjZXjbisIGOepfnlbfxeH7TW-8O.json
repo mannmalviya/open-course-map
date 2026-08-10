@@ -1,0 +1,100 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture #01 - Course Information & History of Databases [CMU Database Systems Spring 2016]",
+      "views": 30000
+    },
+    {
+      "title": "Lecture #02 - In-Memory Databases [CMU Database Systems Spring 2016]",
+      "views": 8900
+    },
+    {
+      "title": "Lecture  #03 - Concurrency Control (Part I) [CMU Database Systems Spring 2016]",
+      "views": 4400
+    },
+    {
+      "title": "Lecture  #04 - Concurrency Control (Part II) [CMU Database Systems Spring 2016]",
+      "views": 2700
+    },
+    {
+      "title": "Lecture #05 - Concurrency Control (Part III) [CMU Database Systems Spring 2016]",
+      "views": 2400
+    },
+    {
+      "title": "Lecture #06 - Indexing (Locking & Latching) [CMU Database Systems Spring 2016]",
+      "views": 2400
+    },
+    {
+      "title": "Lecture #07 - Indexing (OLTP) [CMU Database Systems Spring 2016]",
+      "views": 1400
+    },
+    {
+      "title": "Lecture #08 - Indexing (OLAP) [CMU Database Systems Spring 2016]",
+      "views": 1300
+    },
+    {
+      "title": "Lecture #09 - Storage Models & Data Layout [CMU Database Systems Spring 2016]",
+      "views": 1200
+    },
+    {
+      "title": "Lecture #10 - Query Execution & Scheduling [CMU Database Systems Spring 2016]",
+      "views": 1300
+    },
+    {
+      "title": "Lecture #11 - Join Algorithms (Hashing) [CMU Database Systems Spring 2016]",
+      "views": 1200
+    },
+    {
+      "title": "Lecture #12 - Join Algorithms (Sorting) [CMU Database Systems Spring 2016]",
+      "views": 1000
+    },
+    {
+      "title": "Lecture #13 - Logging & Recovery (Physical Logging) [CMU Database Systems Spring 2016]",
+      "views": 958
+    },
+    {
+      "title": "Lecture #14 - Logging & Recovery (Alternative Methods) [CMU Database Systems Spring 2016]",
+      "views": 537
+    },
+    {
+      "title": "Lecture #15 - Project Ideas & Extra Credit [CMU Database Systems Spring 2016]",
+      "views": 498
+    },
+    {
+      "title": "Lecture #16 - Database Compression [CMU Database Systems Spring 2016]",
+      "views": 662
+    },
+    {
+      "title": "Lecture #17 - Query Planning (Optimizer Implementation) [CMU Database Systems Spring 2016]",
+      "views": 987
+    },
+    {
+      "title": "Lecture #18 - Query Planning (Cost Models) [CMU Database Systems Spring 2016]",
+      "views": 931
+    },
+    {
+      "title": "Lecture #19 - Query Compilation [CMU Database Systems Spring 2016]",
+      "views": 1100
+    },
+    {
+      "title": "Lecture #20 - Scan Sharing [CMU Database Systems Spring 2016]",
+      "views": 620
+    },
+    {
+      "title": "Lecture #21 - Vectorized Execution [CMU Database Systems Spring 2016]",
+      "views": 697
+    },
+    {
+      "title": "Lecture #22 - Larger-than-Memory Databases [CMU Database Systems Spring 2016]",
+      "views": 712
+    },
+    {
+      "title": "Lecture #23 - Non-Volatile Memory Database Systems [CMU Database Systems Spring 2016]",
+      "views": 756
+    },
+    {
+      "title": "Lecture #24 - End-of-Semester + MemSQL Tech Talk [CMU Database Systems Spring 2016]",
+      "views": 1900
+    }
+  ]
+}

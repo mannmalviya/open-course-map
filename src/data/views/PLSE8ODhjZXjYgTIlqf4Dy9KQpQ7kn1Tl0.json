@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "L01 - Course Information & History of Databases [CMU Database Systems Spring 2017]",
+      "views": 16000
+    },
+    {
+      "title": "L02 - In-Memory Databases [CMU Database Systems Spring 2017]",
+      "views": 8000
+    },
+    {
+      "title": "L03 - Concurrency Control Challenges [CMU Database Systems Spring 2017]",
+      "views": 3900
+    },
+    {
+      "title": "L04 - Optimistic Concurrency Control [CMU Database Systems Spring 2017]",
+      "views": 2100
+    },
+    {
+      "title": "L05 - Multi-Version Concurrency Control [CMU Database Systems Spring 2017]",
+      "views": 4200
+    },
+    {
+      "title": "L06 - Index Locking & Latching [CMU Database Systems Spring 2017]",
+      "views": 1500
+    },
+    {
+      "title": "L07 - Latch-free OLTP Indexes (Part I)  [CMU Database Systems Spring 2017]",
+      "views": 1200
+    },
+    {
+      "title": "L08 - Latch-free OLTP Indexes (Part II)  [CMU Database Systems Spring 2017]",
+      "views": 891
+    },
+    {
+      "title": "L09 - OLAP Indexes [CMU Database Systems Spring 2017]",
+      "views": 1200
+    },
+    {
+      "title": "L10 - Storage Models & Data Layout  [CMU Database Systems Spring 2017]",
+      "views": 1100
+    },
+    {
+      "title": "L11 - Database Compression [CMU Database Systems Spring 2017]",
+      "views": 748
+    },
+    {
+      "title": "L12 - Logging Protocols [CMU Database Systems Spring 2017]",
+      "views": 844
+    },
+    {
+      "title": "L13 - Checkpoint Protocols [CMU Database Systems Spring 2017]",
+      "views": 753
+    },
+    {
+      "title": "L14 - Optimizer Implementation (Part I) [CMU Database Systems Spring 2017]",
+      "views": 1400
+    },
+    {
+      "title": "L15 - Optimizer Implementation (Part II) [CMU Database Systems Spring 2017]",
+      "views": 762
+    },
+    {
+      "title": "L16 - Optimizer Cost Models [CMU Database Systems Spring 2017]",
+      "views": 672
+    },
+    {
+      "title": "L17 - Query Execution & Scheduling [CMU Database Systems Spring 2017]",
+      "views": 856
+    },
+    {
+      "title": "L18 - Parallel Join Algorithms (Hashing) [CMU Database Systems Spring 2017]",
+      "views": 1400
+    },
+    {
+      "title": "L19 - Parallel Join Algorithms (Sorting) [CMU Database Systems Spring 2017]",
+      "views": 707
+    },
+    {
+      "title": "L20 - Query Compilation [CMU Database Systems Spring 2017]",
+      "views": 803
+    },
+    {
+      "title": "L21 - Vectorized Execution (Part I) [CMU Database Systems Spring 2017]",
+      "views": 783
+    },
+    {
+      "title": "L22 - Vectorized Execution (Part II) [CMU Database Systems Spring 2017]",
+      "views": 463
+    },
+    {
+      "title": "L23 - Larger-than-Memory Databases [CMU Database Systems Spring 2017]",
+      "views": 563
+    },
+    {
+      "title": "L24 - Non-Volatile Memory Databases [CMU Database Systems Spring 2017]",
+      "views": 965
+    },
+    {
+      "title": "L25 - Apache Impala/Kudu Tech Talk [CMU Database Systems Spring 2017]",
+      "views": 2600
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "CMU Advanced Database Systems - 01 Course Information & History of Databases (Spring 2018)",
+      "views": 26000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 02 In-Memory Databases (Spring 2018)",
+      "views": 7200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 03 Query Compilation (Spring 2018)",
+      "views": 4700
+    },
+    {
+      "title": "CMU Advanced Database Systems - 04 Optimistic Concurrency Control (Spring 2018)",
+      "views": 5600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 05 Multi-Version Concurrency Control Part I (Spring 2018)",
+      "views": 3500
+    },
+    {
+      "title": "CMU Advanced Database Systems - 06 Multi-Version Concurrency Control Part II (Spring 2018)",
+      "views": 1600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 07 Index Locking & Latching (Spring 2018)",
+      "views": 1800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 08 OLTP Indexes Part I (Spring 2018)",
+      "views": 1600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 09 OLTP Indexes Part II (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 10 Storage Models & Data Layout (Spring 2018)",
+      "views": 1500
+    },
+    {
+      "title": "CMU Advanced Database Systems - 11 System Catalogs & Database Compression (Spring 2018)",
+      "views": 1200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 12 Logging Protocols (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 13 Database Checkpoints (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 14 Networking (Spring 2018)",
+      "views": 1200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 15 Optimizer Implementation Part I (Spring 2018)",
+      "views": 2100
+    },
+    {
+      "title": "CMU Advanced Database Systems - 16 Optimizer Implementation Part II (Spring 2018)",
+      "views": 1200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 17 Cost Models (Spring 2018)",
+      "views": 1200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 18 Query Execution & Scheduling (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 19 Parallel Hash Join Algorithms (Spring 2018)",
+      "views": 2300
+    },
+    {
+      "title": "CMU Advanced Database Systems - 20 Parallel Sort-Merge Join Algorithms (Spring 2018)",
+      "views": 1200
+    },
+    {
+      "title": "CMU Advanced Database Systems - 21 Vectorized Query Execution Part I (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 22 Vectorized Query Execution Part II (Spring 2018)",
+      "views": 757
+    },
+    {
+      "title": "CMU Advanced Database Systems - 23 Larger-than-Memory Databases (Spring 2018)",
+      "views": 835
+    },
+    {
+      "title": "CMU Advanced Database Systems - 24 Databases on New Hardware (Spring 2018)",
+      "views": 1000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 25 Ashish Motivala [Snowflake]  (Spring 2018)",
+      "views": 8600
+    }
+  ]
+}

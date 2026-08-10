@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "CMU Advanced Database Systems - 01 In-Memory Databases (Spring 2019)",
+      "views": 51000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 02 Transaction Models & In-Memory Concurrency Control (Spring 2019)",
+      "views": 13000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 03 Multi-Version Concurrency Control Design Decisions (Spring 2019)",
+      "views": 6800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 04 Multi-Version Concurrency Control Protocols (Spring 2019)",
+      "views": 4100
+    },
+    {
+      "title": "CMU Advanced Database Systems - 05 MVCC Garbage Collection (Spring 2019)",
+      "views": 2700
+    },
+    {
+      "title": "CMU Advanced Database Systems - 06 Index Locking & Latching (Spring 2019)",
+      "views": 3400
+    },
+    {
+      "title": "CMU Advanced Database Systems - 07 OLTP Indexes: Latch-free Data Structures (Spring 2019)",
+      "views": 2400
+    },
+    {
+      "title": "CMU Advanced Database Systems - 08 OLTP Indexes: Trie Data Structures (Spring 2019)",
+      "views": 3000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 09 Storage Models & Data Layout (Spring 2019)",
+      "views": 2900
+    },
+    {
+      "title": "CMU Advanced Database Systems - 10 Database Compression (Spring 2019)",
+      "views": 1800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 11 Larger-than-Memory Databases (Spring 2019)",
+      "views": 2300
+    },
+    {
+      "title": "CMU Advanced Database Systems - 12 Recovery Protocols (Spring 2019)",
+      "views": 1700
+    },
+    {
+      "title": "CMU Advanced Database Systems - 13 Networking Protocols (Spring 2019)",
+      "views": 1700
+    },
+    {
+      "title": "CMU Advanced Database Systems - 14 Scheduling (Spring 2019)",
+      "views": 1800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 15 Query Processing & Execution (Spring 2019)",
+      "views": 2600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 16 Server-side Logic Execution (Spring 2019)",
+      "views": 1400
+    },
+    {
+      "title": "CMU Advanced Database Systems - 17 Parallel Hash Join Algorithms (Spring 2019)",
+      "views": 2400
+    },
+    {
+      "title": "CMU Advanced Database Systems - 18 Parallel Sort-Merge Join Algorithms (Spring 2019)",
+      "views": 1500
+    },
+    {
+      "title": "CMU Advanced Database Systems - 19 Query Compilation & Code Generation (Spring 2019)",
+      "views": 2300
+    },
+    {
+      "title": "CMU Advanced Database Systems - 20 Vectorized Query Execution (Spring 2019)",
+      "views": 1800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 21 Vectorization vs. Compilation (Spring 2019)",
+      "views": 1600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 22 Query Optimizer Implementation (Part I) (Spring 2019)",
+      "views": 3100
+    },
+    {
+      "title": "CMU Advanced Database Systems - 23 Query Optimizer Implementation (Part 2) (Spring 2019)",
+      "views": 1800
+    },
+    {
+      "title": "CMU Advanced Database Systems - 24 Query Optimizer Cost Models (Spring 2019)",
+      "views": 1600
+    },
+    {
+      "title": "CMU Advanced Database Systems - 25 Self-Driving Databases (Spring 2019)",
+      "views": 3000
+    },
+    {
+      "title": "CMU Advanced Database Systems - 26 Anil Goel (SAP HANA) (Spring 2019)",
+      "views": 3000
+    }
+  ]
+}

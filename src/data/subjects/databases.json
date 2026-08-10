@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "CMU 15-445/645 · Fall 2025",
+          "label": "CMU 15-445/645 \u00b7 Fall 2025",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYMAgsGH-GtY5rJYZ6zjsd5",
           "date": "Fall 2025",
@@ -17,48 +17,114 @@
           "primary": true
         },
         {
-          "label": "CMU 15-445/645 · Fall 2024",
+          "label": "CMU 15-445/645 \u00b7 Fall 2024",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYDBpQnSymaectKjxCy6BYq",
           "date": "Fall 2024",
           "youtubeId": "otE2WvX3XdQ"
         },
         {
-          "label": "CMU 15-445/645 · Fall 2023",
+          "label": "CMU 15-445/645 \u00b7 Fall 2023",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g",
           "date": "Fall 2023",
           "youtubeId": "vdPALZ-GCfI"
         },
         {
-          "label": "CMU 15-445/645 · Fall 2022",
+          "label": "CMU 15-445/645 \u00b7 Fall 2022",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf",
           "date": "Fall 2022",
           "youtubeId": "uikbtpVZS2s"
         },
         {
-          "label": "CMU 15-445/645 · Fall 2021",
+          "label": "CMU 15-445/645 \u00b7 Fall 2021",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG",
           "date": "Fall 2021",
           "youtubeId": "v4bU6n97Vr8"
         },
         {
-          "label": "CMU 15-445/645 · Fall 2019",
+          "label": "CMU 15-445/645 \u00b7 Fall 2019",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi",
           "date": "Fall 2019",
           "youtubeId": "oeYBdghaIjc"
         },
         {
-          "label": "CMU 15-445/645 · Fall 2018",
+          "label": "CMU 15-445/645 \u00b7 Fall 2018",
           "url": "https://15445.courses.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7",
           "date": "Fall 2018",
           "youtubeId": "vyVGm_2iFwU"
         }
       ]
+    },
+    "cmu-15721": {
+      "title": "15-721 Advanced Database Systems",
+      "university": "CMU",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2024",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYa_zX-KeMJui7pcN1rIaIJ",
+          "date": "Spring 2024",
+          "youtubeId": "NLycrsJ1jI8",
+          "primary": true
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2023",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn",
+          "date": "Spring 2023",
+          "youtubeId": "LWS8LEQAUVc"
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2020",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O",
+          "date": "Spring 2020",
+          "youtubeId": "SdW5RKUboKc"
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2019",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U",
+          "date": "Spring 2019",
+          "youtubeId": "m72mt4VN9ik"
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2018",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYplQRUlrgQKwIAV3es0U6t",
+          "date": "Spring 2018",
+          "youtubeId": "poEfLYH9W2M"
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2017",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0",
+          "date": "Spring 2017",
+          "youtubeId": "UGMLKsma_VU"
+        },
+        {
+          "label": "CMU 15-721 \u00b7 Spring 2016",
+          "url": "https://15721.courses.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O",
+          "date": "Spring 2016",
+          "youtubeId": "MyQzjba1beA"
+        }
+      ]
     }
-  }
+  },
+  "edges": [
+    {
+      "from": "cmu-15445",
+      "to": "cmu-15721"
+    }
+  ]
 }

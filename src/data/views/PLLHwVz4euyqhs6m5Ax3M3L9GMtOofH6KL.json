@@ -1,0 +1,52 @@
+{
+  "lectures": [
+    {
+      "title": "CSE225 Spring 2025 4/4 - Flip-flops",
+      "views": 151
+    },
+    {
+      "title": "CSE225 Spring 2025 4/7 - always_comb",
+      "views": 19
+    },
+    {
+      "title": "CSE225 Spring 2025 4/9 - More always_comb + CMOS",
+      "views": 15
+    },
+    {
+      "title": "CSE225 Spring 2025 4/11 - State Machines",
+      "views": 16
+    },
+    {
+      "title": "CSE225 Spring 2025 4/14 - ready/valid",
+      "views": 18
+    },
+    {
+      "title": "CSE225 Spring 2025 4/16 - ready/valid buffers",
+      "views": 11
+    },
+    {
+      "title": "CSE225 Spring 2025 4/21 - ready/valid Pipeline",
+      "views": 21
+    },
+    {
+      "title": "CSE225 Spring 2025 4/23 - ready/valid FIFO",
+      "views": 35
+    },
+    {
+      "title": "CSE225 Spring 2025 4/25 - Simulation+Testbenches",
+      "views": 22
+    },
+    {
+      "title": "CSE225 Spring 2025 4/28 - Simulation+Testbenches continued",
+      "views": 24
+    },
+    {
+      "title": "CSE225 Spring 2025 4/30 - Testbench Activity",
+      "views": 33
+    },
+    {
+      "title": "CSE225 Spring 2025 5/5 - Fixed Point",
+      "views": 23
+    }
+  ]
+}

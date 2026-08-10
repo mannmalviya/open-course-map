@@ -1,0 +1,46 @@
+{
+  "courses": {
+    "ucsc-cse100": {
+      "title": "CSE100 Logic Design",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE100 · Fall 2024",
+          "url": "https://courses.engineering.ucsc.edu/courses/cse100",
+          "youtube": "https://www.youtube.com/playlist?list=PLLHwVz4euyqgKJ8rizbW7ZWNbusXobms7",
+          "date": "Fall 2024",
+          "youtubeId": "VkecNQIwHno",
+          "primary": true
+        }
+      ]
+    },
+    "ucsc-cse225": {
+      "title": "CSE225 Intro to ASIC Systems Design",
+      "university": "UC Santa Cruz",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UCSC CSE225 · Spring 2025",
+          "url": "https://courses.engineering.ucsc.edu/courses/cse225",
+          "youtube": "https://www.youtube.com/playlist?list=PLLHwVz4euyqhs6m5Ax3M3L9GMtOofH6KL",
+          "date": "Spring 2025",
+          "youtubeId": "bSjkztLmV0k",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "ucsc-cse100",
+      "to": "ucsc-cse225"
+    }
+  ]
+}

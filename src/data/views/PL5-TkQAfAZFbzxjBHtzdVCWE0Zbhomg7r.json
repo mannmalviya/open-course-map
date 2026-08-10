@@ -1,0 +1,92 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Introduction to Deep Learning for Computer Vision",
+      "views": 296000
+    },
+    {
+      "title": "Lecture 2: Image Classification",
+      "views": 101000
+    },
+    {
+      "title": "Lecture 3: Linear Classifiers",
+      "views": 100000
+    },
+    {
+      "title": "Lecture 4: Optimization",
+      "views": 68000
+    },
+    {
+      "title": "Lecture 5: Neural Networks",
+      "views": 56000
+    },
+    {
+      "title": "Lecture 6: Backpropagation",
+      "views": 145000
+    },
+    {
+      "title": "Lecture 7: Convolutional Networks",
+      "views": 80000
+    },
+    {
+      "title": "Lecture 8: CNN Architectures",
+      "views": 62000
+    },
+    {
+      "title": "Lecture 9: Hardware and Software",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 10: Training Neural Networks I",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 11: Training Neural Networks II",
+      "views": 34000
+    },
+    {
+      "title": "Lecture 12: Recurrent Networks",
+      "views": 49000
+    },
+    {
+      "title": "Lecture 13: Attention",
+      "views": 87000
+    },
+    {
+      "title": "Lecture 14: Visualizing and Understanding",
+      "views": 31000
+    },
+    {
+      "title": "Lecture 15: Object Detection",
+      "views": 76000
+    },
+    {
+      "title": "Lecture 16: Detection and Segmentation",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 17: 3D Vision",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 18: Videos",
+      "views": 27000
+    },
+    {
+      "title": "Lecture 19: Generative Models I",
+      "views": 46000
+    },
+    {
+      "title": "Lecture 20: Generative Models II",
+      "views": 26000
+    },
+    {
+      "title": "Lecture 21: Reinforcement Learning",
+      "views": 20000
+    },
+    {
+      "title": "Lecture 22: Conclusion",
+      "views": 12000
+    }
+  ]
+}

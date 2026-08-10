@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1:  Introduction to Deep Learning for Computer Vision (UMich EECS 498-007)",
+      "views": 7000
+    },
+    {
+      "title": "Lecture 2: Image Classification (UMich EECS 498-007)",
+      "views": 1500
+    },
+    {
+      "title": "Lecture 3: Linear Classifiers (UMich EECS 498-007)",
+      "views": 1200
+    },
+    {
+      "title": "Lecture 4: Optimization (UMich EECS 498-007)",
+      "views": 1100
+    },
+    {
+      "title": "Lecture 5: Neural Networks (UMich EECS 498-007)",
+      "views": 904
+    },
+    {
+      "title": "Lecture 6  Backpropagation (UMich EECS 498-007)",
+      "views": 1000
+    },
+    {
+      "title": "Lecture 7: Convolutional Networks (UMich EECS 498-007)",
+      "views": 1000
+    },
+    {
+      "title": "Lecture 8: CNN Architectures (UMich EECS 498-007)",
+      "views": 819
+    },
+    {
+      "title": "Lecture 9: Hardware and Software (UMich EECS 498-007)",
+      "views": 486
+    },
+    {
+      "title": "Lecture 10: Training Neural Networks Part 1 (UMich EECS 498-007)",
+      "views": 608
+    },
+    {
+      "title": "Lecture 11: Training Neural Networks Part 2 (UMich EECS 498-007)",
+      "views": 455
+    },
+    {
+      "title": "Lecture 12: Recurrent Neural Networks (UMich EECS 498-007)",
+      "views": 867
+    },
+    {
+      "title": "Lecture 13: Attention (UMich EECS 498-007)",
+      "views": 1200
+    },
+    {
+      "title": "Guest Lecture: Adversarial Machine Learning (UMich EECS 498-007)",
+      "views": 471
+    },
+    {
+      "title": "Lecture 14: Visualizing and Understanding (UMich EECS 498-007)",
+      "views": 486
+    },
+    {
+      "title": "Lecture 15: Object Detection (UMich EECS 498-007)",
+      "views": 726
+    },
+    {
+      "title": "Lecture 16: Detection and Segmentation (UMich EECS 498-007)",
+      "views": 568
+    },
+    {
+      "title": "Lecture 17: 3D Vision (UMich EECS 498-007)",
+      "views": 585
+    },
+    {
+      "title": "Lecture 18: Videos (UMich EECS 498-007)",
+      "views": 607
+    },
+    {
+      "title": "Lecture 19: Generative Models Part 1 (UMich EECS 498-007)",
+      "views": 560
+    },
+    {
+      "title": "Lecture 20: Generative Models Part 2 (UMich EECS 498-007)",
+      "views": 480
+    },
+    {
+      "title": "Lecture 21: Reinforcement Learning (UMich EECS 498-007)",
+      "views": 954
+    },
+    {
+      "title": "Lecture 22: Recap & Open Problems (UMich EECS 498-007)",
+      "views": 244
+    }
+  ]
+}

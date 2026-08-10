@@ -49,6 +49,31 @@
           "primary": true
         }
       ]
+    },
+    "umich-eecs498": {
+      "title": "EECS 498 DL for Computer Vision",
+      "university": "UMich",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UMich EECS 498 \u00b7 Johnson \u00b7 Winter 2022",
+          "url": "https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/",
+          "youtube": "https://www.youtube.com/playlist?list=PLLhQgjrONLVFP1E7p2jWMMeM2FWUf2Qc7",
+          "date": "Winter 2022",
+          "youtubeId": "QytpbYkGxKo",
+          "primary": true
+        },
+        {
+          "label": "UMich EECS 498 \u00b7 Johnson \u00b7 Fall 2019",
+          "url": "https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r",
+          "date": "Fall 2019",
+          "youtubeId": "dJYGatp4SvA"
+        }
+      ]
     }
   }
 }

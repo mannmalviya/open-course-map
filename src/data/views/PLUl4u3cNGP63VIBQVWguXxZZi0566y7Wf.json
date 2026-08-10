@@ -1,0 +1,96 @@
+{
+  "lectures": [
+    {
+      "title": "1. Introduction and Matrix Multiplication",
+      "views": 270000
+    },
+    {
+      "title": "2. Bentley Rules for Optimizing Work",
+      "views": 89000
+    },
+    {
+      "title": "3. Bit Hacks",
+      "views": 79000
+    },
+    {
+      "title": "4. Assembly Language & Computer Architecture",
+      "views": 846000
+    },
+    {
+      "title": "5. C to Assembly",
+      "views": 349000
+    },
+    {
+      "title": "6. Multicore Programming",
+      "views": 153000
+    },
+    {
+      "title": "7. Races and Parallelism",
+      "views": 29000
+    },
+    {
+      "title": "8. Analysis of Multithreaded Algorithms",
+      "views": 32000
+    },
+    {
+      "title": "9. What Compilers Can and Cannot Do",
+      "views": 90000
+    },
+    {
+      "title": "10. Measurement and Timing",
+      "views": 22000
+    },
+    {
+      "title": "11. Storage Allocation",
+      "views": 22000
+    },
+    {
+      "title": "12. Parallel Storage Allocation",
+      "views": 13000
+    },
+    {
+      "title": "13. The Cilk Runtime System",
+      "views": 11000
+    },
+    {
+      "title": "14. Caching and Cache-Efficient Algorithms",
+      "views": 27000
+    },
+    {
+      "title": "15. Cache-Oblivious Algorithms",
+      "views": 12000
+    },
+    {
+      "title": "16. Nondeterministic Parallel Programming",
+      "views": 14000
+    },
+    {
+      "title": "17. Synchronization Without Locks",
+      "views": 39000
+    },
+    {
+      "title": "18. Domain Specific Languages and Autotuning",
+      "views": 12000
+    },
+    {
+      "title": "19. Leiserchess Codewalk",
+      "views": 5500
+    },
+    {
+      "title": "20. Speculative Parallelism & Leiserchess",
+      "views": 5700
+    },
+    {
+      "title": "21. Tuning a TSP Algorithm",
+      "views": 11000
+    },
+    {
+      "title": "22. Graph Optimization",
+      "views": 15000
+    },
+    {
+      "title": "23. High Performance in Dynamic Languages",
+      "views": 19000
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Course Overview + Introduction to the Shell",
+      "views": 247000
+    },
+    {
+      "title": "Lecture 2: Command-line Environment",
+      "views": 43000
+    },
+    {
+      "title": "Lecture 3: Development Environment and Tools",
+      "views": 22000
+    },
+    {
+      "title": "Lecture 4: Debugging and Profiling",
+      "views": 20000
+    },
+    {
+      "title": "Lecture 5: Version Control and Git",
+      "views": 17000
+    },
+    {
+      "title": "Lecture 6: Packaging and Shipping Code",
+      "views": 10000
+    },
+    {
+      "title": "Lecture 7: Agentic Coding",
+      "views": 56000
+    },
+    {
+      "title": "Lecture 8: Beyond the Code",
+      "views": 9200
+    },
+    {
+      "title": "Lecture 9: Code Quality",
+      "views": 10000
+    }
+  ]
+}

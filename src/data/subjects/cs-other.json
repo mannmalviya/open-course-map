@@ -1,0 +1,36 @@
+{
+  "courses": {
+    "mit-missing-semester": {
+      "title": "The Missing Semester",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT · The Missing Semester · IAP 2026",
+          "url": "https://missing.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L",
+          "date": "IAP 2026",
+          "youtubeId": "MSgoeuMqUmU",
+          "primary": true
+        },
+        {
+          "label": "MIT · The Missing Semester · IAP 2020",
+          "url": "https://missing.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J",
+          "date": "IAP 2020",
+          "youtubeId": "Z56Jmr9Z34Q"
+        },
+        {
+          "label": "MIT · Hacker Tools (former name) · IAP 2019",
+          "url": "https://missing.csail.mit.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv",
+          "date": "IAP 2019",
+          "youtubeId": "qw2c6ffSVOM"
+        }
+      ]
+    }
+  }
+}

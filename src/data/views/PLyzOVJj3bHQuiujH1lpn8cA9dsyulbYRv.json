@@ -1,0 +1,76 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 1: Course Overview (2019)",
+      "views": 50000
+    },
+    {
+      "title": "Lecture 2: Virtual Machines and Containers (2019)",
+      "views": 25000
+    },
+    {
+      "title": "Lecture 3.5: Shell and Scripting (re-recording) (2019)",
+      "views": 21000
+    },
+    {
+      "title": "Lecture 3: Shell and Scripting (2019)",
+      "views": 8900
+    },
+    {
+      "title": "Lecture 4: Command-line Environment (2019)",
+      "views": 7800
+    },
+    {
+      "title": "Lecture 5: Data Wrangling (2019)",
+      "views": 5900
+    },
+    {
+      "title": "Lecture 6: Editors (2019)",
+      "views": 6600
+    },
+    {
+      "title": "Lecture 7: Version Control (2019)",
+      "views": 6000
+    },
+    {
+      "title": "Lecture 8: Dotfiles (2019)",
+      "views": 8300
+    },
+    {
+      "title": "Lecture 9: Backups (2019)",
+      "views": 4300
+    },
+    {
+      "title": "Lecture 10: Automation (2019)",
+      "views": 5000
+    },
+    {
+      "title": "Lecture 11: Machine Introspection (2019)",
+      "views": 4000
+    },
+    {
+      "title": "Lecture 12: Program Introspection (2019)",
+      "views": 3000
+    },
+    {
+      "title": "Lecture 13: Package and Dependency Management (2019)",
+      "views": 4100
+    },
+    {
+      "title": "Lecture 14: OS Customization (2019)",
+      "views": 6800
+    },
+    {
+      "title": "Lecture 15: Remote Machines (2019)",
+      "views": 5000
+    },
+    {
+      "title": "Lecture 16: Web and Browsers (2019)",
+      "views": 8300
+    },
+    {
+      "title": "Lecture 17: Security and Privacy (2019)",
+      "views": 6200
+    }
+  ]
+}

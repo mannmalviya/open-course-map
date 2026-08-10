@@ -62,6 +62,7 @@ const LOGOS: Record<string, string> = {
   Stanford: '/logos/stanford.svg',
   Yale: '/logos/yale.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz.svg',
+  'UC Berkeley': '/logos/uc-berkeley.svg',
 };
 
 export function logoFor(university?: string): string | undefined {

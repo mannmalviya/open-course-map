@@ -1,0 +1,120 @@
+{
+  "lectures": [
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 0",
+      "views": 6400
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 1",
+      "views": 4200
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 2",
+      "views": 2700
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 3",
+      "views": 2200
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 4",
+      "views": 1700
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 5",
+      "views": 1500
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 6",
+      "views": 1200
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 7",
+      "views": 977
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 8",
+      "views": 1000
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Lecture 9",
+      "views": 1100
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Deep Neural Networks: CNN II",
+      "views": 783
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Deep Neural Networks: CNN III",
+      "views": 657
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Deep Neural Networks: CNN IV",
+      "views": 634
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Recurrent Networks",
+      "views": 876
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Stability Analysis and LSTMs",
+      "views": 805
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Recurrent Neural Networks: Part 3",
+      "views": 678
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Sequence to Sequence Models: CTC",
+      "views": 669
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Modeling Sequence-to-Sequence models",
+      "views": 489
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Sequence to Sequence Models: Attention Models",
+      "views": 923
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Transformer and Newer Architectures",
+      "views": 724
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Large Language Models",
+      "views": 686
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Neural Networks: Representation",
+      "views": 553
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Variational Autoencoders",
+      "views": 643
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Diffusion",
+      "views": 893
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Generative Adversarial Networks",
+      "views": 393
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026:  Graph Neural Networks",
+      "views": 907
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026:  Reinforcement Learning",
+      "views": 529
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026: Hopfield Networks",
+      "views": 334
+    },
+    {
+      "title": "CMU Introduction to Deep Learning 11785, Spring 2026:  Boltzmann Machines",
+      "views": 369
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "lectures": [
+    {
+      "title": "Recitation 0 | (1/5) AWS Account Setup and Command Line Interface (CLI) 2",
+      "views": 16000
+    },
+    {
+      "title": "Recitation 0 | (2/5) Foundations of Jupyter Notebook with SageMaker Notebook Instances",
+      "views": 4000
+    },
+    {
+      "title": "Recitation 0 | (3/5) Foundations of Python",
+      "views": 7100
+    },
+    {
+      "title": "Recitation 0 | (4/5) Foundations of NumPy",
+      "views": 3800
+    },
+    {
+      "title": "Recitation 0E | Setting Up AWS Deep Learning AMI",
+      "views": 4300
+    },
+    {
+      "title": "Recitation 1 | Your First Deep Learning Code",
+      "views": 6000
+    },
+    {
+      "title": "Lec 0: Course Logistics",
+      "views": 6100
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 1",
+      "views": 8200
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 2",
+      "views": 5400
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 3",
+      "views": 3400
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 4",
+      "views": 2800
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 4 part2",
+      "views": 2500
+    },
+    {
+      "title": "Introduction to Deep learning Lecture 6",
+      "views": 2100
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 5",
+      "views": 2400
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 7",
+      "views": 1900
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 8",
+      "views": 2000
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 9 Guest Speaker",
+      "views": 1100
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 10",
+      "views": 1300
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 11 Guest Speaker",
+      "views": 935
+    },
+    {
+      "title": "Introduction_to_deep_learning lecture 14 part2",
+      "views": 1400
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 13",
+      "views": 1500
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 12",
+      "views": 1300
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 20",
+      "views": 986
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 14 part1",
+      "views": 1300
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 16",
+      "views": 1200
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 18",
+      "views": 1500
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 19",
+      "views": 1200
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 24",
+      "views": 1300
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 25",
+      "views": 1100
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 26",
+      "views": 1000
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 27",
+      "views": 1100
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 28",
+      "views": 1500
+    },
+    {
+      "title": "Introduction to Deep Learning Lecture 29",
+      "views": 961
+    }
+  ]
+}

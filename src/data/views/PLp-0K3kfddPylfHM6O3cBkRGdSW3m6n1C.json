@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "S2025 Lecture 1 - Introduction to Neural Networks",
+      "views": 12000
+    },
+    {
+      "title": "S2025 Intro to Deep Learning - Lecture 0",
+      "views": 4700
+    },
+    {
+      "title": "S2025 Lecture 2 - Neural Nets As Universal Approximators",
+      "views": 4700
+    },
+    {
+      "title": "S2025 Lecture 3 - Training Part I",
+      "views": 3800
+    },
+    {
+      "title": "S2025 Lecture 4 - Training Part II",
+      "views": 2700
+    },
+    {
+      "title": "S2025 Lecture 5 - Training Part III",
+      "views": 2400
+    },
+    {
+      "title": "S2025 Lecture 6 - Training Part IV",
+      "views": 2000
+    },
+    {
+      "title": "S2025 Lecture 7 - Training Part V",
+      "views": 1600
+    },
+    {
+      "title": "S2025 Lecture 8 - Training Part VI",
+      "views": 1400
+    },
+    {
+      "title": "S2025 Lecture 9 - Convolutional Neural Networks (CNNs) Part I",
+      "views": 1800
+    },
+    {
+      "title": "S2025 Lecture 10 - Convolutional Neural Networks (CNNs) Part II",
+      "views": 1200
+    },
+    {
+      "title": "S2025 Lecture 11 - Convolutional Neural Networks (CNNs) Part III",
+      "views": 1100
+    },
+    {
+      "title": "S2025 Lecture 12 - Convolutional Neural Networks (CNNs) Part IV",
+      "views": 906
+    },
+    {
+      "title": "S2025 Lecture 13 - Recurrent Neural Networks (RRNs) Part I",
+      "views": 1300
+    },
+    {
+      "title": "S2025 Lecture 14 - Recurrent Neural Networks (RRNs) Part II",
+      "views": 1300
+    },
+    {
+      "title": "S2025 Lecture 15 - Recurrent Neural Networks (RRNs) Part III",
+      "views": 1000
+    },
+    {
+      "title": "S2025 Lecture 16 - Sequence to Sequence models",
+      "views": 1100
+    },
+    {
+      "title": "S2025 Lecture 17  - Recurrent Networks: Modelling Language Sequence-to-Sequence models",
+      "views": 864
+    },
+    {
+      "title": "S2025 Lecture 18 - Sequence to Sequence models: Attention Models",
+      "views": 1300
+    },
+    {
+      "title": "S2025 Lecture 19 - Transformer and Newer Architectures",
+      "views": 1600
+    },
+    {
+      "title": "S2025 Lecture 20 - Large Language Models",
+      "views": 1700
+    },
+    {
+      "title": "S2025 Lecture 21 - Neural Networks",
+      "views": 1000
+    },
+    {
+      "title": "S2025 Lecture 22 - Variational Auto Encoders",
+      "views": 1000
+    },
+    {
+      "title": "S2025 Lecture 23 - Diffusion",
+      "views": 1000
+    },
+    {
+      "title": "S2025 Lecture 24 - Generative Adversarial Networks",
+      "views": 726
+    },
+    {
+      "title": "S2025 Lecture 27 - Graph Neural Networks",
+      "views": 1200
+    }
+  ]
+}

@@ -178,6 +178,59 @@
           "primary": true
         }
       ]
+    },
+    "cmu-11785": {
+      "title": "11-785 Intro to Deep Learning",
+      "university": "CMU",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2026",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPwarejN0RmVerKwkwgyvh3r",
+          "date": "Spring 2026",
+          "youtubeId": "43ochbxaOTE",
+          "primary": true
+        },
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Fall 2025",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPxpDVLFdFwXzAS2TH-f-QX8",
+          "date": "Fall 2025",
+          "youtubeId": "w8h_AWHTcK4"
+        },
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2025",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPylfHM6O3cBkRGdSW3m6n1C",
+          "date": "Spring 2025",
+          "youtubeId": "NXYrIEP1LRs"
+        },
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2024",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas",
+          "date": "Spring 2024",
+          "youtubeId": "ylRKoyTqwOc"
+        },
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2020",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe",
+          "date": "Spring 2020",
+          "youtubeId": "0Oqpax2Q2hc"
+        },
+        {
+          "label": "CMU 11-785 \u00b7 Raj \u00b7 Fall 2019",
+          "url": "https://deeplearning.cs.cmu.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj",
+          "date": "Fall 2019",
+          "youtubeId": "LmIjgmijyiI"
+        }
+      ]
     }
   },
   "edges": [

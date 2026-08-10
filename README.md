@@ -1,5 +1,7 @@
 # open-course-map
 
+![Open Course Map](cover.png)
+
 A hand-drawn map of the best free university courses on the internet. MIT, Stanford, Yale, Harvard and more, organized by subject with prerequisite arrows so you know what to take next.
 
 ## Why

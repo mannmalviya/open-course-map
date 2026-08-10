@@ -584,30 +584,6 @@
       }
     },
     {
-      "node": "stanford-cs109",
-      "inGroup": "ml",
-      "pos": {
-        "x": 80,
-        "y": 60
-      }
-    },
-    {
-      "node": "stanford-engr108",
-      "inGroup": "ml",
-      "pos": {
-        "x": 80,
-        "y": 200
-      }
-    },
-    {
-      "node": "stanford-ee364a",
-      "inGroup": "ml",
-      "pos": {
-        "x": 80,
-        "y": 340
-      }
-    },
-    {
       "node": "stanford-cs229",
       "inGroup": "dl",
       "pos": {
@@ -637,22 +613,6 @@
       "pos": {
         "x": -280,
         "y": 180
-      }
-    },
-    {
-      "node": "mit-6041",
-      "inGroup": "ml",
-      "pos": {
-        "x": 80,
-        "y": 480
-      }
-    },
-    {
-      "node": "mit-1806",
-      "inGroup": "ml",
-      "pos": {
-        "x": 80,
-        "y": 620
       }
     },
     {

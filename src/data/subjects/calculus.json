@@ -1,0 +1,62 @@
+{
+  "courses": {
+    "mit-1801": {
+      "title": "18.01 Single Variable Calculus",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.01 · Jerison · 2006",
+          "url": "https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/",
+          "youtube": "https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1",
+          "date": "Fall 2006",
+          "youtubeId": "7K1sB05pE0A",
+          "primary": true
+        }
+      ]
+    },
+    "mit-1802": {
+      "title": "18.02 Multivariable Calculus",
+      "university": "MIT",
+      "pos": {
+        "x": 400,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.02 · Auroux · 2007",
+          "url": "https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/",
+          "youtube": "https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38",
+          "date": "Fall 2007",
+          "youtubeId": "PxCxlsl_YwY",
+          "primary": true
+        }
+      ]
+    },
+    "mit-1803": {
+      "title": "18.03 Differential Equations",
+      "university": "MIT",
+      "pos": {
+        "x": 720,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 18.03 · Mattuck · 2006",
+          "url": "https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/",
+          "youtube": "https://www.youtube.com/playlist?list=PLEC88901EBADDD980",
+          "date": "Spring 2006",
+          "youtubeId": "XDhJ8lVGbl8",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    { "from": "mit-1801", "to": "mit-1802" },
+    { "from": "mit-1802", "to": "mit-1803" }
+  ]
+}

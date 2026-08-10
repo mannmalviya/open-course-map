@@ -9,14 +9,45 @@
       },
       "versions": [
         {
-          "label": "Stanford EE364A · Boyd · 2023",
+          "label": "Stanford EE364A \u00b7 Boyd \u00b7 2023",
           "url": "https://web.stanford.edu/class/ee364a/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h",
           "date": "2023",
           "youtubeId": "kV1ru-Inzl4",
           "primary": true
+        },
+        {
+          "label": "Stanford EE364A \u00b7 Boyd \u00b7 2008",
+          "url": "https://web.stanford.edu/class/ee364a/",
+          "youtube": "https://www.youtube.com/playlist?list=PL3940DD956CDF0622",
+          "date": "2008",
+          "youtubeId": "McLq1hEq3UY"
+        }
+      ]
+    },
+    "stanford-ee364b": {
+      "title": "EE364B Convex Optimization II",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford EE364B \u00b7 Boyd \u00b7 2008",
+          "url": "https://web.stanford.edu/class/ee364b/",
+          "youtube": "https://www.youtube.com/playlist?list=PLKqPM_AcQY4w6C4PudrDqRLK-i3uYu1oO",
+          "date": "2008",
+          "youtubeId": "U3lJAObbMFI",
+          "primary": true
         }
       ]
     }
-  }
+  },
+  "edges": [
+    {
+      "from": "stanford-ee364a",
+      "to": "stanford-ee364b"
+    }
+  ]
 }

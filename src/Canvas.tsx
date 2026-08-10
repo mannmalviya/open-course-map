@@ -96,11 +96,11 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
     if (Math.hypot(e.clientX - drag.current.startX, e.clientY - drag.current.startY) > 4) {
       drag.current.moved = true;
     }
-    setT((prev) => ({
-      ...prev,
-      x: drag.current!.tx + e.clientX - drag.current!.startX,
-      y: drag.current!.ty + e.clientY - drag.current!.startY,
-    }));
+    // Read drag state now, not inside the updater: React may run the updater
+    // after pointerup has already cleared drag.current (fast fling release)
+    const x = drag.current.tx + e.clientX - drag.current.startX;
+    const y = drag.current.ty + e.clientY - drag.current.startY;
+    setT((prev) => ({ ...prev, x, y }));
   };
   const onPointerUp = () => {
     // Pointer capture makes the browser fire a click on the pressed node even

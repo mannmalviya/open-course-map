@@ -1,0 +1,76 @@
+{
+  "lectures": [
+    {
+      "title": "Lecture 01 - The Learning Problem",
+      "views": 1400000
+    },
+    {
+      "title": "Lecture 02 - Is Learning Feasible?",
+      "views": 502000
+    },
+    {
+      "title": "Lecture 03 -The Linear Model I",
+      "views": 379000
+    },
+    {
+      "title": "Lecture 04 - Error and Noise",
+      "views": 250000
+    },
+    {
+      "title": "Lecture 05 - Training Versus Testing",
+      "views": 236000
+    },
+    {
+      "title": "Lecture 06 - Theory of Generalization",
+      "views": 204000
+    },
+    {
+      "title": "Lecture 07 - The VC Dimension",
+      "views": 201000
+    },
+    {
+      "title": "Lecture 08 - Bias-Variance Tradeoff",
+      "views": 173000
+    },
+    {
+      "title": "Lecture 09 - The Linear Model II",
+      "views": 160000
+    },
+    {
+      "title": "Lecture 10 - Neural Networks",
+      "views": 455000
+    },
+    {
+      "title": "Lecture 11 - Overfitting",
+      "views": 124000
+    },
+    {
+      "title": "Lecture 12 - Regularization",
+      "views": 140000
+    },
+    {
+      "title": "Lecture 13 - Validation",
+      "views": 107000
+    },
+    {
+      "title": "Lecture 14 - Support Vector Machines",
+      "views": 324000
+    },
+    {
+      "title": "Lecture 15 - Kernel Methods",
+      "views": 231000
+    },
+    {
+      "title": "Lecture 16 - Radial Basis Functions",
+      "views": 175000
+    },
+    {
+      "title": "Lecture 17 - Three Learning Principles",
+      "views": 94000
+    },
+    {
+      "title": "Lecture 18 - Epilogue",
+      "views": 102000
+    }
+  ]
+}

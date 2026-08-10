@@ -1,0 +1,392 @@
+{
+  "lectures": [
+    {
+      "title": "CS 285: Lecture 1, Part 1",
+      "views": 153000
+    },
+    {
+      "title": "CS 285: Lecture 1, Part 2",
+      "views": 38000
+    },
+    {
+      "title": "CS 285: Lecture 1, Part 3",
+      "views": 26000
+    },
+    {
+      "title": "CS 285: Lecture 1, Part 4",
+      "views": 24000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 1",
+      "views": 37000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 2",
+      "views": 25000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 3",
+      "views": 16000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 4",
+      "views": 17000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 5",
+      "views": 20000
+    },
+    {
+      "title": "CS 285: Lecture 2, Part 6",
+      "views": 15000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 1",
+      "views": 57000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 2",
+      "views": 30000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 3",
+      "views": 29000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 4",
+      "views": 24000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 5",
+      "views": 23000
+    },
+    {
+      "title": "CS 285: Lecture 4, Part 6",
+      "views": 19000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 1",
+      "views": 44000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 2",
+      "views": 31000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 3",
+      "views": 30000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 4",
+      "views": 31000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 5",
+      "views": 24000
+    },
+    {
+      "title": "CS 285: Lecture 5, Part 6",
+      "views": 24000
+    },
+    {
+      "title": "CS 285: Lecture 6, Part 1",
+      "views": 41000
+    },
+    {
+      "title": "CS 285: Lecture 6, Part 2",
+      "views": 25000
+    },
+    {
+      "title": "CS 285: Lecture 6, Part 3",
+      "views": 19000
+    },
+    {
+      "title": "CS 285: Lecture 6, Part 4",
+      "views": 22000
+    },
+    {
+      "title": "CS 285: Lecture 6, Part 5",
+      "views": 15000
+    },
+    {
+      "title": "CS 285: Lecture 7, Part 1",
+      "views": 28000
+    },
+    {
+      "title": "CS 285: Lecture 7, Part 2",
+      "views": 18000
+    },
+    {
+      "title": "CS 285: Lecture 7, Part 3",
+      "views": 15000
+    },
+    {
+      "title": "CS 285: Lecture 7, Part 4",
+      "views": 14000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 1",
+      "views": 21000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 2",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 3",
+      "views": 11000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 4",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 5",
+      "views": 11000
+    },
+    {
+      "title": "CS 285: Lecture 8, Part 6",
+      "views": 10000
+    },
+    {
+      "title": "CS 285: Lecture 9, Part 1",
+      "views": 22000
+    },
+    {
+      "title": "CS 285: Lecture 9, Part 2",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 9, Part 3",
+      "views": 10000
+    },
+    {
+      "title": "CS 285: Lecture 9, Part 4",
+      "views": 11000
+    },
+    {
+      "title": "CS 285: Lecture 10, Part 1",
+      "views": 19000
+    },
+    {
+      "title": "CS 285: Lecture 10, Part 2",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 10, Part 3",
+      "views": 12000
+    },
+    {
+      "title": "CS 285: Lecture 10, Part 4",
+      "views": 12000
+    },
+    {
+      "title": "CS 285: Lecture 10, Part 5",
+      "views": 8400
+    },
+    {
+      "title": "CS 285: Lecture 11, Part 1",
+      "views": 17000
+    },
+    {
+      "title": "CS 285: Lecture 11, Part 2",
+      "views": 11000
+    },
+    {
+      "title": "CS 285: Lecture 11, Part 3",
+      "views": 10000
+    },
+    {
+      "title": "CS 285: Lecture 11, Part 4",
+      "views": 8500
+    },
+    {
+      "title": "CS 285: Lecture 11, Part 5",
+      "views": 10000
+    },
+    {
+      "title": "CS 285: Lecture 12, Part 1: Model-Based RL with Policies",
+      "views": 8900
+    },
+    {
+      "title": "CS 285: Lecture 12, Part 2: Model-Based RL with Policies",
+      "views": 5700
+    },
+    {
+      "title": "CS 285: Lecture 12, Part 3: Model-Based RL with Policies",
+      "views": 5300
+    },
+    {
+      "title": "CS 285: Lecture 12, Part 4: Model-Based RL with Policies",
+      "views": 5900
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 1",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 2",
+      "views": 8000
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 3",
+      "views": 7300
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 4",
+      "views": 6700
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 5",
+      "views": 5800
+    },
+    {
+      "title": "CS 285: Lecture 13, Part 6",
+      "views": 5900
+    },
+    {
+      "title": "CS 285: Lecture 14, Part 1",
+      "views": 10000
+    },
+    {
+      "title": "CS 285: Lecture 14, Part 2",
+      "views": 6200
+    },
+    {
+      "title": "CS 285: Lecture 14, Part 3",
+      "views": 5700
+    },
+    {
+      "title": "CS 285: Lecture 14, Part 4",
+      "views": 5300
+    },
+    {
+      "title": "CS 285: Lecture 15, Part 1: Offline Reinforcement Learning",
+      "views": 17000
+    },
+    {
+      "title": "CS 285: Lecture 15, Part 2: Offline Reinforcement Learning",
+      "views": 9100
+    },
+    {
+      "title": "CS 285: Lecture 15, Part 3: Offline Reinforcement Learning",
+      "views": 6800
+    },
+    {
+      "title": "CS 285: Lecture 16, Part 1: Offline Reinforcement Learning 2",
+      "views": 11000
+    },
+    {
+      "title": "CS 285: Lecture 16, Part 2: Offline Reinforcement Learning 2",
+      "views": 6500
+    },
+    {
+      "title": "CS 285: Lecture 16, Part 3: Offline Reinforcement Learning 2",
+      "views": 5600
+    },
+    {
+      "title": "CS 285: Lecture 16, Part 4: Offline Reinforcement Learning 2",
+      "views": 4600
+    },
+    {
+      "title": "CS 285: Lecture 17, Part 1: RL Theory",
+      "views": 7800
+    },
+    {
+      "title": "CS 285: Lecture 17, Part 2: RL Theory",
+      "views": 3500
+    },
+    {
+      "title": "CS 285: Lecture 18, Variational Inference, Part 1",
+      "views": 35000
+    },
+    {
+      "title": "CS 285: Lecture 18, Variational Inference, Part 2",
+      "views": 19000
+    },
+    {
+      "title": "CS 285: Lecture 18, Variational Inference, Part 3",
+      "views": 13000
+    },
+    {
+      "title": "CS 285: Lecture 18, Variational Inference, Part 4",
+      "views": 6400
+    },
+    {
+      "title": "CS 285: Lecture 19, Control as Inference, Part 1",
+      "views": 12000
+    },
+    {
+      "title": "CS 285: Lecture 19, Control as Inference, Part 2",
+      "views": 9300
+    },
+    {
+      "title": "CS 285: Lecture 19, Control as Inference, Part 3",
+      "views": 7100
+    },
+    {
+      "title": "CS 285: Lecture 19, Control as Inference, Part 4",
+      "views": 5100
+    },
+    {
+      "title": "CS 285: Lecture 19, Control as Inference, Part 5",
+      "views": 4300
+    },
+    {
+      "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 1",
+      "views": 24000
+    },
+    {
+      "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 2",
+      "views": 12000
+    },
+    {
+      "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 3",
+      "views": 7800
+    },
+    {
+      "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 4",
+      "views": 9900
+    },
+    {
+      "title": "CS 285: Lecture 22, Part 1: Transfer Learning & Meta-Learning",
+      "views": 6500
+    },
+    {
+      "title": "CS 285: Lecture 22, Part 2: Transfer Learning & Meta-Learning",
+      "views": 3500
+    },
+    {
+      "title": "CS 285: Lecture 22, Part 3: Transfer Learning & Meta-Learning",
+      "views": 3600
+    },
+    {
+      "title": "CS 285: Lecture 22, Part 4: Transfer Learning & Meta-Learning",
+      "views": 3500
+    },
+    {
+      "title": "CS 285: Lecture 22, Part 5: Transfer Learning & Meta-Learning",
+      "views": 3400
+    },
+    {
+      "title": "CS 285: Guest Lecture: Aviral Kumar",
+      "views": 873
+    },
+    {
+      "title": "CS 285: Lecture 23: Open Problems",
+      "views": 1900
+    },
+    {
+      "title": "CS 285: Guest Lecture: Bo Dai",
+      "views": 1200
+    },
+    {
+      "title": "CS 285: Chelsea Finn (Stanford)",
+      "views": 1800
+    },
+    {
+      "title": "CS 285: Guest Lecture: Alexandre Bayen",
+      "views": 1100
+    }
+  ]
+}

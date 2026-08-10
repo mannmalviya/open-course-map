@@ -142,6 +142,24 @@
           "youtubeId": "iOh7QUZGyiU"
         }
       ]
+    },
+    "berkeley-cs182": {
+      "title": "CS 182 Deep Learning",
+      "university": "UC Berkeley",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Berkeley CS 182 \u00b7 Levine \u00b7 Spring 2021",
+          "url": "https://cs182sp21.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A",
+          "date": "Spring 2021",
+          "youtubeId": "rSY1pVGdZ4I",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [

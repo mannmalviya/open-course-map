@@ -447,6 +447,18 @@
         "h": 160
       }
     },
+    "digital-logic": {
+      "title": "Digital Logic",
+      "parent": "hardware",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
     "computer-architecture": {
       "title": "Computer Architecture",
       "parent": "hardware",

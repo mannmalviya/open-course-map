@@ -584,6 +584,10 @@
     {
       "from": "linear-algebra",
       "to": "intro-physics"
+    },
+    {
+      "from": "foundations",
+      "to": "algorithms"
     }
   ],
   "ghosts": [

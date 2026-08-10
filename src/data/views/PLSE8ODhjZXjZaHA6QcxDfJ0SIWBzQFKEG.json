@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "title": "01 - Course Introduction & Relational Model (CMU Intro to Database Systems / Fall 2021)",
+      "views": 64000
+    },
+    {
+      "title": "02 - Intermediate SQL (CMU Intro to Database Systems / Fall 2021)",
+      "views": 18000
+    },
+    {
+      "title": "03 - Database Storage I (CMU Intro to Database Systems / Fall 2021)",
+      "views": 13000
+    },
+    {
+      "title": "04 - Database Storage II (CMU Intro to Database Systems / Fall 2021)",
+      "views": 8100
+    },
+    {
+      "title": "05 - Buffer Pools (CMU Intro to Database Systems / Fall 2021)",
+      "views": 12000
+    },
+    {
+      "title": "06 - Hash Tables (CMU Intro to Database Systems / Fall 2021)",
+      "views": 6800
+    },
+    {
+      "title": "07 - Tree Indexes (CMU Intro to Database Systems / Fall 2021)",
+      "views": 6500
+    },
+    {
+      "title": "08 - Index Concurrency Control (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4300
+    },
+    {
+      "title": "09 - Sorting & Aggregations (CMU Intro to Database Systems / Fall 2021)",
+      "views": 3900
+    },
+    {
+      "title": "10 - Join Algorithms (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4300
+    },
+    {
+      "title": "11 - Query Execution I (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4800
+    },
+    {
+      "title": "12 - Query Execution II (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2600
+    },
+    {
+      "title": "13 - Query Planning & Optimization I (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4100
+    },
+    {
+      "title": "14 - Query Planning & Optimization II (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2900
+    },
+    {
+      "title": "15 - Concurrency Control Theory (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4000
+    },
+    {
+      "title": "16 - Two-Phase Locking Concurrency Control (CMU Intro to Database Systems / Fall 2021)",
+      "views": 3500
+    },
+    {
+      "title": "17 - Timestamp Ordering Concurrency Control (CMU Intro to Database Systems / Fall 2021)",
+      "views": 3100
+    },
+    {
+      "title": "18 - Multi-Version Concurrency Control (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2900
+    },
+    {
+      "title": "19 - Database Logging (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2600
+    },
+    {
+      "title": "20 - Database Recovery (CMU Intro to Database Systems / Fall 2021)",
+      "views": 3100
+    },
+    {
+      "title": "21 - Introduction to Distributed Databases (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4000
+    },
+    {
+      "title": "22 - Distributed OLTP Databases (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2800
+    },
+    {
+      "title": "23 - Distributed OLAP Databases (CMU Intro to Database Systems / Fall 2021)",
+      "views": 3300
+    },
+    {
+      "title": "24 - Justin Levandoski (Google BigQuery) (CMU Intro to Database Systems / Fall 2021)",
+      "views": 4300
+    },
+    {
+      "title": "25 - Final Review (CMU Intro to Database Systems / Fall 2021)",
+      "views": 2400
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "01 - Relational Model & Relational Algebra (CMU Intro to Database Systems / Fall 2022)",
+      "views": 179000
+    },
+    {
+      "title": "02 - Modern SQL (CMU Intro to Database Systems / Fall 2022)",
+      "views": 44000
+    },
+    {
+      "title": "03 - Database Storage 1 (CMU Intro to Database Systems / Fall 2022)",
+      "views": 44000
+    },
+    {
+      "title": "04 - Database Storage 2 (CMU Intro to Database Systems / Fall 2022)",
+      "views": 23000
+    },
+    {
+      "title": "05 - Columnar Databases & Compression (CMU Intro to Database Systems / Fall 2022)",
+      "views": 22000
+    },
+    {
+      "title": "06 - Memory Management + Buffer Cache (CMU Intro to Database Systems / Fall 2022)",
+      "views": 22000
+    },
+    {
+      "title": "07 - Hash Tables (CMU Intro to Database Systems / Fall 2022)",
+      "views": 17000
+    },
+    {
+      "title": "08 - B+Tree Indexes (CMU Intro to Database Systems / Fall 2022)",
+      "views": 19000
+    },
+    {
+      "title": "09 - Concurrent Indexes (CMU Intro to Database Systems / Fall 2022)",
+      "views": 11000
+    },
+    {
+      "title": "10 - Sorting & Aggregation Algorithms (CMU Intro to Database Systems / Fall 2022)",
+      "views": 13000
+    },
+    {
+      "title": "11 - Join Algorithms (CMU Intro to Database Systems / Fall 2022)",
+      "views": 12000
+    },
+    {
+      "title": "12 - Query Execution 1 (CMU Intro to Database Systems / Fall 2022)",
+      "views": 11000
+    },
+    {
+      "title": "13 - Parallel Query Execution (CMU Intro to Database Systems / Fall 2022)",
+      "views": 8800
+    },
+    {
+      "title": "14 - Query Planning & Optimization (CMU Intro to Database Systems / Fall 2022)",
+      "views": 13000
+    },
+    {
+      "title": "15 - Concurrency Control Theory (CMU Intro to Database Systems / Fall 2022)",
+      "views": 14000
+    },
+    {
+      "title": "16 - Two-Phase Locking in Databases (CMU Intro to Database Systems / Fall 2022)",
+      "views": 10000
+    },
+    {
+      "title": "17 - Timestamp-Ordering Concurrency Control (CMU Intro to Database Systems / Fall 2022)",
+      "views": 9700
+    },
+    {
+      "title": "18 - Multi-Version Concurrency Control MVCC (CMU Intro to Database Systems / Fall 2022)",
+      "views": 14000
+    },
+    {
+      "title": "19 - Database Logging & Shadow Paging (CMU Intro to Database Systems / Fall 2022)",
+      "views": 8000
+    },
+    {
+      "title": "20 - Database Recovery with ARIES (CMU Intro to Database Systems / Fall 2022)",
+      "views": 8300
+    },
+    {
+      "title": "21 - Introduction to Distributed Databases (CMU Intro to Database Systems / Fall 2022)",
+      "views": 17000
+    },
+    {
+      "title": "22 - Distributed Transactional Database Systems (CMU Intro to Database Systems / Fall 2022)",
+      "views": 8100
+    },
+    {
+      "title": "23 - Distributed Analytical Database Systems (CMU Intro to Database Systems / Fall 2022)",
+      "views": 6100
+    },
+    {
+      "title": "24 - Embedded Database Logic (CMU Intro to Database Systems / Fall 2022)",
+      "views": 4800
+    },
+    {
+      "title": "25 - Snowflake Database Architecture Overview (CMU Intro to Database Systems / Fall 2022)",
+      "views": 12000
+    },
+    {
+      "title": "26 - Live Call-in Q&A Lecture (CMU Intro to Database Systems / Fall 2022)",
+      "views": 7200
+    }
+  ]
+}

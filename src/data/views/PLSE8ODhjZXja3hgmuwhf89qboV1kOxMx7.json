@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "CMU Database Systems - 01 Course introduction & Relational Data Model (Fall 2018)",
+      "views": 89000
+    },
+    {
+      "title": "CMU Database Systems - 02 Advanced SQL (Fall 2018)",
+      "views": 29000
+    },
+    {
+      "title": "CMU Database Systems - 03 Database Storage I (Fall 2018)",
+      "views": 19000
+    },
+    {
+      "title": "CMU Database Systems - 04 Database Storage II (Fall 2018)",
+      "views": 10000
+    },
+    {
+      "title": "CMU Database Systems - 05 Buffer Pools (Fall 2018)",
+      "views": 11000
+    },
+    {
+      "title": "CMU Database Systems - 06 Hash Tables (Fall 2018)",
+      "views": 8800
+    },
+    {
+      "title": "CMU Database Systems - 07 Tree Indexes Part I (Fall 2018)",
+      "views": 7000
+    },
+    {
+      "title": "CMU Database Systems - 08 Tree Indexes Part II (Fall 2018)",
+      "views": 4500
+    },
+    {
+      "title": "CMU Database Systems - 09 Index Concurrency Control (Fall 2018)",
+      "views": 5400
+    },
+    {
+      "title": "CMU Database Systems - 10 Query Processing (Fall 2018)",
+      "views": 9000
+    },
+    {
+      "title": "CMU Database Systems - 11 Sorting & Aggregation Algorithms (Fall 2018)",
+      "views": 4200
+    },
+    {
+      "title": "CMU Database Systems - 12 Join Algorithms (Fall 2018)",
+      "views": 7200
+    },
+    {
+      "title": "CMU Database Systems - 13 Query Optimization (Fall 2018)",
+      "views": 22000
+    },
+    {
+      "title": "CMU Database Systems - 14 Parallel Execution (Fall 2018)",
+      "views": 3000
+    },
+    {
+      "title": "CMU Database Systems - 15 Embedded Logic (Fall 2018)",
+      "views": 2700
+    },
+    {
+      "title": "CMU Database Systems - 16 Concurrency Control Theory (Fall 2018)",
+      "views": 8200
+    },
+    {
+      "title": "CMU Database Systems - 17 Two-Phase Locking Concurrency Control (Fall 2018)",
+      "views": 11000
+    },
+    {
+      "title": "CMU Database Systems - 18 Timestamp Ordering Concurrency Control (Fall 2018)",
+      "views": 8100
+    },
+    {
+      "title": "CMU Database Systems - 19 Multi-Version Concurrency Control (Fall 2018)",
+      "views": 10000
+    },
+    {
+      "title": "CMU Database Systems - 20 Logging Schemes (Fall 2018)",
+      "views": 3500
+    },
+    {
+      "title": "CMU Database Systems - 21 Database Recovery (Fall 2018)",
+      "views": 4200
+    },
+    {
+      "title": "CMU Database Systems - 22 Distributed OLTP Databases Part I (Fall 2018)",
+      "views": 3800
+    },
+    {
+      "title": "CMU Database Systems - 23 Distributed OLTP Databases Part II (Fall 2018)",
+      "views": 2700
+    },
+    {
+      "title": "CMU Database Systems - 24 Distributed OLAP Databases (Fall 2018)",
+      "views": 2600
+    },
+    {
+      "title": "CMU Database Systems - 25 Ethan Zhang [VoltDB] (Fall 2018)",
+      "views": 3600
+    },
+    {
+      "title": "CMU Database Systems - 26 Systems Potpourri [CockroachDB, Spanner, MongoDB] (Fall 2018)",
+      "views": 4500
+    }
+  ]
+}

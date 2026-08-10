@@ -1,0 +1,108 @@
+{
+  "lectures": [
+    {
+      "title": "F2023 #00 - Course Overview & Logistics (CMU Intro to Database Systems)",
+      "views": 93000
+    },
+    {
+      "title": "F2023 #01 - Relational Model & Algebra (CMU Intro to Database Systems)",
+      "views": 52000
+    },
+    {
+      "title": "F2023 #02 - Modern SQL (CMU Intro to Database Systems)",
+      "views": 35000
+    },
+    {
+      "title": "F2023 #03 - Database Storage Part 1 (CMU Intro to Database Systems)",
+      "views": 37000
+    },
+    {
+      "title": "F2023 #04 - Database Storage Part 2 (CMU Intro to Database Systems)",
+      "views": 21000
+    },
+    {
+      "title": "F2023 #05 - Storage Models & Database Compression (CMU Intro to Database Systems)",
+      "views": 17000
+    },
+    {
+      "title": "F2023 #06 - Database Memory & Disk I/O Management (CMU Intro to Database Systems)",
+      "views": 16000
+    },
+    {
+      "title": "F2023 #07 - Hash Tables (CMU Intro to Database Systems)",
+      "views": 14000
+    },
+    {
+      "title": "F2023 #08 - B+Tree Indexes (CMU Intro to Database Systems)",
+      "views": 18000
+    },
+    {
+      "title": "F2023 #09 - Index Concurrency Control (CMU Intro to Database Systems)",
+      "views": 10000
+    },
+    {
+      "title": "F2023 #10 - Sorting & Aggregation Algorithms (CMU Intro to Database Systems)",
+      "views": 8100
+    },
+    {
+      "title": "F2023 #11 - Join Algorithms (CMU Intro to Database Systems)",
+      "views": 9800
+    },
+    {
+      "title": "F2023 #12 - Query Execution Part 1 (CMU Intro to Database Systems)",
+      "views": 9100
+    },
+    {
+      "title": "F2023 #13 - Query Execution Part 2 (CMU Intro to Database Systems)",
+      "views": 5900
+    },
+    {
+      "title": "F2023 #14 - Query Planning & Optimization (CMU Intro to Database Systems)",
+      "views": 7100
+    },
+    {
+      "title": "F2023 #15 - Concurrency Control Theory (CMU Intro to Database Systems)",
+      "views": 8400
+    },
+    {
+      "title": "F2023 #16 - Two-Phase Locking Concurrency Control (CMU Intro to Database Systems)",
+      "views": 6500
+    },
+    {
+      "title": "F2023 #17 - Timestamp Ordering Concurrency Control (CMU Intro to Database Systems)",
+      "views": 5200
+    },
+    {
+      "title": "F2023 #18 - Multi-Version Concurrency Control (CMU Intro to Database Systems)",
+      "views": 5200
+    },
+    {
+      "title": "F2023 #19 - Database Logging (CMU Intro to Database Systems)",
+      "views": 5400
+    },
+    {
+      "title": "F2023 #20 - Database Recovery (CMU Intro to Database Systems)",
+      "views": 4600
+    },
+    {
+      "title": "F2023 #21 - Intro to Distributed Databases (CMU Intro to Database Systems)",
+      "views": 9800
+    },
+    {
+      "title": "F2023 #22 - Distributed Transaction Processing Databases (CMU Intro to Database Systems)",
+      "views": 6000
+    },
+    {
+      "title": "F2023 #23 - Distributed Data Warehouse OLAP Databases (CMU Intro to Database Systems)",
+      "views": 6200
+    },
+    {
+      "title": "F2023 #24 - SingleStore Database Overview (CMU Intro to Database Systems)",
+      "views": 4700
+    },
+    {
+      "title": "F2023 #25 - Potpourri: Redis, CockroachDB, Snowflake, MangoDB, TabDB (CMU Intro to Database Systems)",
+      "views": 11000
+    }
+  ]
+}

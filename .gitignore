@@ -2,3 +2,4 @@ node_modules
 dist
 *.local
 tsconfig.tsbuildinfo
+__pycache__

@@ -1,0 +1,40 @@
+{
+  "lectures": [
+    {
+      "title": "Lesson 1 - Deep Learning for Coders (2020)",
+      "views": 336000
+    },
+    {
+      "title": "Lesson 2 - Deep Learning for Coders (2020)",
+      "views": 140000
+    },
+    {
+      "title": "Lesson 3 - Deep Learning for Coders (2020)",
+      "views": 103000
+    },
+    {
+      "title": "Lesson 4 - Deep Learning for Coders (2020)",
+      "views": 78000
+    },
+    {
+      "title": "Ethics for Data Science",
+      "views": 37000
+    },
+    {
+      "title": "Lesson 6 - Deep Learning for Coders (2020)",
+      "views": 62000
+    },
+    {
+      "title": "Lesson 7 - Deep Learning for Coders (2020)",
+      "views": 48000
+    },
+    {
+      "title": "Lesson 8 - Deep Learning for Coders (2020)",
+      "views": 47000
+    },
+    {
+      "title": "Lesson \"0\": Practical Deep Learning for Coders (fast.ai)",
+      "views": 58000
+    }
+  ]
+}

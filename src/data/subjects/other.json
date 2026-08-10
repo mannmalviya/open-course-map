@@ -75,6 +75,61 @@
           "url": "https://mit-mi.github.io/how2ai-course/spring2025/"
         }
       ]
+    },
+    "karpathy-zero-to-hero": {
+      "title": "Neural Networks: Zero to Hero",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Karpathy \u00b7 Zero to Hero",
+          "url": "https://karpathy.ai/zero-to-hero.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ",
+          "youtubeId": "VMj-3S1tku0",
+          "primary": true
+        }
+      ]
+    },
+    "fastai-pdl": {
+      "title": "Practical Deep Learning for Coders",
+      "university": "fast.ai",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "fast.ai \u00b7 Howard \u00b7 2022",
+          "url": "https://course.fast.ai/",
+          "youtube": "https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU",
+          "date": "2022",
+          "youtubeId": "8SF_h3xF3cE",
+          "primary": true
+        },
+        {
+          "label": "fast.ai \u00b7 Howard \u00b7 2020",
+          "url": "https://course.fast.ai/",
+          "youtube": "https://www.youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM",
+          "date": "2020",
+          "youtubeId": "_QUEXsHfsA0"
+        },
+        {
+          "label": "fast.ai \u00b7 Howard \u00b7 2019",
+          "url": "https://course.fast.ai/",
+          "youtube": "https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn",
+          "date": "2019",
+          "youtubeId": "XfoYk_Z5AkI"
+        },
+        {
+          "label": "fast.ai \u00b7 Howard \u00b7 2018",
+          "url": "https://course.fast.ai/",
+          "youtube": "https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM",
+          "date": "2018",
+          "youtubeId": "IPBSB1HLNLo"
+        }
+      ]
     }
   }
 }

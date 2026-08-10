@@ -19,6 +19,7 @@
   --island-border: rgba(0, 0, 0, 0.08);
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.09);
   --hover-bg: #f1f0ff;
+  --star-gold: #d4a72c;
   /* chart tokens — validated against the light surface */
   --chart-bar: #6965db;
   --chart-grid: rgba(0, 0, 0, 0.07);
@@ -35,6 +36,7 @@
   --island-border: rgba(255, 255, 255, 0.08);
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
   --hover-bg: #2e2d39;
+  --star-gold: #e3b341;
   /* chart tokens — validated against the dark surface */
   --chart-bar: #7d78e8;
   --chart-grid: rgba(255, 255, 255, 0.09);
@@ -192,6 +194,29 @@ body {
   top: 16px;
   right: 16px;
   padding: 4px;
+}
+
+.gh-link {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px;
+  border-radius: 8px;
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.gh-link:hover {
+  background: var(--hover-bg);
+}
+
+.gh-star {
+  color: var(--star-gold);
+}
+
+.gh-count {
+  font-variant-numeric: tabular-nums;
 }
 
 .theme-toggle button {

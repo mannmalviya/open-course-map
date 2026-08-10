@@ -9,7 +9,7 @@
       },
       "versions": [
         {
-          "label": "MIT · The Missing Semester · IAP 2026",
+          "label": "MIT \u00b7 The Missing Semester \u00b7 IAP 2026",
           "url": "https://missing.csail.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L",
           "date": "IAP 2026",
@@ -17,20 +17,58 @@
           "primary": true
         },
         {
-          "label": "MIT · The Missing Semester · IAP 2020",
+          "label": "MIT \u00b7 The Missing Semester \u00b7 IAP 2020",
           "url": "https://missing.csail.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J",
           "date": "IAP 2020",
           "youtubeId": "Z56Jmr9Z34Q"
         },
         {
-          "label": "MIT · Hacker Tools (former name) · IAP 2019",
+          "label": "MIT \u00b7 Hacker Tools (former name) \u00b7 IAP 2019",
           "url": "https://missing.csail.mit.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv",
           "date": "IAP 2019",
           "youtubeId": "qw2c6ffSVOM"
         }
       ]
+    },
+    "nand2tetris-1": {
+      "title": "From Nand to Tetris, Part 1",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Schocken, Nisan \u00b7 Part 1 (Hardware)",
+          "url": "https://www.nand2tetris.org/",
+          "youtube": "https://www.youtube.com/playlist?list=PLrDd_kMiAuNmSb-CKWQqq9oBFN_KNMTaI",
+          "youtubeId": "LqirVc5SlW0",
+          "primary": true
+        }
+      ]
+    },
+    "nand2tetris-2": {
+      "title": "From Nand to Tetris, Part 2",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Schocken, Nisan \u00b7 Part 2 (Software)",
+          "url": "https://www.nand2tetris.org/",
+          "youtube": "https://www.youtube.com/playlist?list=PLrDd_kMiAuNmllp9vuPqCuttC1XL9VyVh",
+          "youtubeId": "KBTg0ju4rxM",
+          "primary": true
+        }
+      ]
     }
-  }
+  },
+  "edges": [
+    {
+      "from": "nand2tetris-1",
+      "to": "nand2tetris-2"
+    }
+  ]
 }

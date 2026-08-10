@@ -113,6 +113,35 @@
           "primary": true
         }
       ]
+    },
+    "deepmind-ucl-dl": {
+      "title": "DeepMind x UCL Deep Learning",
+      "university": "DeepMind x UCL",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Deep Learning Lecture Series \u00b7 2021",
+          "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm",
+          "date": "2021",
+          "youtubeId": "TCCjZe0y4Qc",
+          "primary": true
+        },
+        {
+          "label": "Deep Learning Lecture Series \u00b7 2020",
+          "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF",
+          "date": "2020",
+          "youtubeId": "7R52wiUgxZI"
+        },
+        {
+          "label": "Deep Learning Course \u00b7 2018",
+          "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc",
+          "date": "2018",
+          "youtubeId": "iOh7QUZGyiU"
+        }
+      ]
     }
   },
   "edges": [

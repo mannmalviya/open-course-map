@@ -1,0 +1,44 @@
+{
+  "lectures": [
+    {
+      "title": "RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning",
+      "views": 1800000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 2: Markov Decision Process",
+      "views": 758000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 3: Planning by Dynamic Programming",
+      "views": 468000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 4: Model-Free Prediction",
+      "views": 392000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 5: Model Free Control",
+      "views": 314000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 6: Value Function Approximation",
+      "views": 299000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 7: Policy Gradient Methods",
+      "views": 314000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 8: Integrating Learning and Planning",
+      "views": 151000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 9: Exploration and Exploitation",
+      "views": 130000
+    },
+    {
+      "title": "RL Course by David Silver - Lecture 10: Classic Games",
+      "views": 86000
+    }
+  ]
+}

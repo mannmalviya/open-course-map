@@ -1,0 +1,52 @@
+{
+  "lectures": [
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 1/12 | Intro to Machine Learning & AI",
+      "views": 669000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 2/12 |  Neural Networks Foundations",
+      "views": 115000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 3/12 | Convolutional Neural Networks for Image Recognition",
+      "views": 65000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 4/12 |  Advanced Models for Computer Vision",
+      "views": 49000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 5/12 |  Optimization for Machine Learning",
+      "views": 42000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 6/12 | Sequences and Recurrent Networks",
+      "views": 51000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 7/12 |  Deep Learning for Natural Language Processing",
+      "views": 42000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 8/12 |  Attention and Memory in Deep Learning",
+      "views": 67000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 9/12 |  Generative Adversarial Networks",
+      "views": 36000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 10/12 |  Unsupervised Representation Learning",
+      "views": 34000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 11/12 | Modern Latent Variable Models",
+      "views": 37000
+    },
+    {
+      "title": "DeepMind x UCL | Deep Learning Lectures | 12/12 |  Responsible Innovation",
+      "views": 22000
+    }
+  ]
+}

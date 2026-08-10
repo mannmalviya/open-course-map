@@ -1,0 +1,56 @@
+{
+  "lectures": [
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Introduction to Reinforcement Learning [1/13]",
+      "views": 391000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Exploration & Control [2/13]",
+      "views": 106000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - MDPs and Dynamic Programming [3/13]",
+      "views": 61000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Theoretical Fund. of Dynamic Programming Algorithms [4/13]",
+      "views": 34000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Model-free Prediction [5/13]",
+      "views": 38000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Model-free Control [6/13]",
+      "views": 27000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Function Approximation [7/13]",
+      "views": 31000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Planning & models [8/13]",
+      "views": 20000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Policy-Gradient and Actor-Critic methods [9/13]",
+      "views": 50000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Approximate Dynamic Programming [10/13]",
+      "views": 18000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Multi-step & Off Policy [11/13]",
+      "views": 18000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Deep Reinforcement Learning #1 [12/13]",
+      "views": 26000
+    },
+    {
+      "title": "DeepMind x UCL RL Lecture Series - Deep Reinforcement Learning #2 [13/13]",
+      "views": 21000
+    }
+  ]
+}

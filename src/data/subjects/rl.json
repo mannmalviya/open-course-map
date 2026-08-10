@@ -41,6 +41,30 @@
           "primary": true
         }
       ]
+    },
+    "deepmind-ucl-rl": {
+      "title": "DeepMind x UCL Reinforcement Learning",
+      "university": "DeepMind x UCL",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Reinforcement Learning Course \u00b7 2018",
+          "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb",
+          "date": "2018",
+          "youtubeId": "ISk80iLhdfU",
+          "primary": true
+        },
+        {
+          "label": "Intro to RL \u00b7 David Silver \u00b7 2015",
+          "url": "https://www.davidsilver.uk/teaching/",
+          "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
+          "date": "2015",
+          "youtubeId": "2pWv7GOvuf0"
+        }
+      ]
     }
   },
   "edges": [

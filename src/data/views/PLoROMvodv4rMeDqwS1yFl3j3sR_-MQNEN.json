@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 1: Course Overview and AI Foundations",
+      "views": 52000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 2: Learning I",
+      "views": 10000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 3: Learning II",
+      "views": 4200
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 4: Learning III",
+      "views": 3000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 5: Search I",
+      "views": 3000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 6: Search II",
+      "views": 1700
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 7: Markov Decision Processes",
+      "views": 2500
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 8: Reinforcement Learning",
+      "views": 1800
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 9: Policy Gradient",
+      "views": 1200
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 10: Games I",
+      "views": 1400
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 11: Games II",
+      "views": 1000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 12: Bayesian Networks I",
+      "views": 1400
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 13: Bayesian Networks and Gibbs Sampling",
+      "views": 1100
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 14: Bayesian Networks and Learning",
+      "views": 1300
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 15: Logic I",
+      "views": 1400
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 16: Logic II",
+      "views": 1500
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 17: Language Models",
+      "views": 4800
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 18: AI & Society",
+      "views": 2400
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 19: AI Supply Chains",
+      "views": 7000
+    },
+    {
+      "title": "Stanford CS221 | Autumn 2025 | Lecture 20: Fireside Chat, Conclusion",
+      "views": 10000
+    }
+  ]
+}

@@ -9,11 +9,61 @@
       },
       "versions": [
         {
-          "label": "MIT 6.034 · Winston · 2010",
+          "label": "MIT 6.034 \u00b7 Winston \u00b7 2010",
           "url": "https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi",
           "date": "Fall 2010",
           "youtubeId": "TjZBTDzGeGg",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-cs221": {
+      "title": "CS221 AI Principles & Techniques",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS221 \u00b7 Autumn 2025",
+          "url": "https://stanford-cs221.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN",
+          "date": "Autumn 2025",
+          "youtubeId": "yaLEGZuIIgE",
+          "primary": true
+        },
+        {
+          "label": "Stanford CS221 \u00b7 Autumn 2021",
+          "url": "https://stanford-cs221.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2",
+          "date": "Autumn 2021",
+          "youtubeId": "ZiwogMtbjr4"
+        },
+        {
+          "label": "Stanford CS221 \u00b7 Autumn 2019",
+          "url": "https://stanford-cs221.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX",
+          "date": "Autumn 2019",
+          "youtubeId": "J8Eh7RqggsU"
+        }
+      ]
+    },
+    "berkeley-cs188": {
+      "title": "CS 188 Artificial Intelligence",
+      "university": "UC Berkeley",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Berkeley CS 188 \u00b7 Spring 2024",
+          "url": "https://inst.eecs.berkeley.edu/~cs188/sp24/",
+          "youtube": "https://www.youtube.com/playlist?list=PLp8QV47qJEg67UTShQ4er4RYQ3rOeDKxv",
+          "date": "Spring 2024",
+          "youtubeId": "NG3MHjcvk2A",
           "primary": true
         }
       ]

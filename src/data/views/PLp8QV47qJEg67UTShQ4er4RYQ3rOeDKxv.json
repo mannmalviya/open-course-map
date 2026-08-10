@@ -1,0 +1,112 @@
+{
+  "lectures": [
+    {
+      "title": "[CS188 SP24] LEC01 - Intro to AI, Rational Agents",
+      "views": 41000
+    },
+    {
+      "title": "[CS188 SP24] LEC02 - Search: State Spaces, Uninformed Search",
+      "views": 14000
+    },
+    {
+      "title": "[CS188 SP24] LEC03 - Search: Informed Search, A*, Heuristics",
+      "views": 9600
+    },
+    {
+      "title": "[CS188 SP24] LEC04 - Search: Local Search",
+      "views": 9900
+    },
+    {
+      "title": "[CS188 SP24] LEC05 - Games: Trees, Minimax, Pruning",
+      "views": 8400
+    },
+    {
+      "title": "[CS188 SP24] LEC06 - Games: Expectimax, Monte Carlo Tree Search",
+      "views": 8500
+    },
+    {
+      "title": "[CS188 SP24] LEC07 - Logic: Propositional Logic and Planning",
+      "views": 6400
+    },
+    {
+      "title": "[CS188 SP24] LEC08 - Logic: Logical Inference, Theorem Proving, Boolean Satisfiability, DPLL",
+      "views": 3900
+    },
+    {
+      "title": "[CS188 SP24] LEC09 - Logic: First Order Logic",
+      "views": 3000
+    },
+    {
+      "title": "[CS188 SP24] LEC10 - Intro to Probability",
+      "views": 4800
+    },
+    {
+      "title": "[CS188 SP24] LEC11 - Bayes Nets",
+      "views": 5800
+    },
+    {
+      "title": "[CS188 SP24] LEC12 - Bayes Nets: Inference",
+      "views": 4500
+    },
+    {
+      "title": "[CS188 SP24] LEC13 - Bayes Nets: Sampling",
+      "views": 3200
+    },
+    {
+      "title": "[CS188 SP24] LEC14 - HMMs: Markov Chains, HMMs",
+      "views": 3900
+    },
+    {
+      "title": "[CS188 SP24] LEC15 - HMMs: Forward & Viterbi Algorithms, Dynamic Bayes Nets, Particle Filtering",
+      "views": 2400
+    },
+    {
+      "title": "[CS188 SP24] LEC16 - Utility Theory, Rationality, Decision Networks, VPI",
+      "views": 2600
+    },
+    {
+      "title": "[CS188 SP24] LEC17 - MDPs: States, Values, Policies, Q-values",
+      "views": 4300
+    },
+    {
+      "title": "[CS188 SP24] LEC18 - MDPs: Dynamic Programming",
+      "views": 3000
+    },
+    {
+      "title": "[CS188 SP24] LEC19 - ML: Machine Learning I",
+      "views": 3700
+    },
+    {
+      "title": "[CS188 SP24] LEC20 - ML: Machine Learning II",
+      "views": 2500
+    },
+    {
+      "title": "[CS188 SP24] LEC21 - ML: Machine Learning III",
+      "views": 2000
+    },
+    {
+      "title": "[CS188 SP24] LEC22 - ML: Neural Networks",
+      "views": 2200
+    },
+    {
+      "title": "[CS188 SP24] LEC23 - RL: Bandits & Recommendation Systems",
+      "views": 1600
+    },
+    {
+      "title": "[CS188 SP24] LEC24 - RL: Reinforcement Learning I",
+      "views": 4100
+    },
+    {
+      "title": "[CS188 SP24] LEC25 - RL: Reinforcement Learning II",
+      "views": 3100
+    },
+    {
+      "title": "[CS188 SP24] LEC26 - AI Existential Safety",
+      "views": 1100
+    },
+    {
+      "title": "[CS188 SP24] LEC27 - Large Language Models",
+      "views": 1600
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lectures": [
+    {
+      "title": "Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)",
+      "views": 749000
+    },
+    {
+      "title": "Machine Learning 1 - Linear Classifiers, SGD | Stanford CS221: AI (Autumn 2019)",
+      "views": 469000
+    },
+    {
+      "title": "Machine Learning 2 - Features, Neural Networks | Stanford CS221: AI (Autumn 2019)",
+      "views": 80000
+    },
+    {
+      "title": "Machine Learning 3 - Generalization, K-means | Stanford CS221: AI (Autumn 2019)",
+      "views": 48000
+    },
+    {
+      "title": "Search 1 - Dynamic Programming, Uniform Cost Search | Stanford CS221: AI (Autumn 2019)",
+      "views": 106000
+    },
+    {
+      "title": "Search 2 - A* | Stanford CS221: Artificial Intelligence (Autumn 2019)",
+      "views": 56000
+    },
+    {
+      "title": "Markov Decision Processes 1 - Value Iteration | Stanford CS221: AI (Autumn 2019)",
+      "views": 506000
+    },
+    {
+      "title": "Markov Decision Processes 2 - Reinforcement Learning | Stanford CS221: AI (Autumn 2019)",
+      "views": 91000
+    },
+    {
+      "title": "Game Playing 1 - Minimax, Alpha-beta Pruning | Stanford CS221: AI (Autumn 2019)",
+      "views": 50000
+    },
+    {
+      "title": "Game Playing 2 - TD Learning, Game Theory | Stanford CS221: Artificial Intelligence (Autumn 2019)",
+      "views": 49000
+    },
+    {
+      "title": "Factor Graphs 1 - Constraint Satisfaction Problems | Stanford CS221: AI (Autumn 2019)",
+      "views": 45000
+    },
+    {
+      "title": "Factor Graphs 2 - Conditional Independence | Stanford CS221: AI (Autumn 2019)",
+      "views": 20000
+    },
+    {
+      "title": "Bayesian Networks 1 - Inference | Stanford CS221: AI (Autumn 2019)",
+      "views": 106000
+    },
+    {
+      "title": "Bayesian Networks 2 - Forward-Backward | Stanford CS221: AI (Autumn 2019)",
+      "views": 29000
+    },
+    {
+      "title": "Bayesian Networks 3 - Maximum Likelihood | Stanford CS221: AI (Autumn 2019)",
+      "views": 22000
+    },
+    {
+      "title": "Logic 1 - Propositional Logic | Stanford CS221: AI (Autumn 2019)",
+      "views": 110000
+    },
+    {
+      "title": "Logic 2 - First-order Logic | Stanford CS221: AI (Autumn 2019)",
+      "views": 52000
+    },
+    {
+      "title": "Deep Learning | Stanford CS221: AI (Autumn 2019)",
+      "views": 16000
+    },
+    {
+      "title": "Conclusion | Stanford CS221: AI (Autumn 2019)",
+      "views": 17000
+    }
+  ]
+}

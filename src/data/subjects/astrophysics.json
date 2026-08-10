@@ -1,0 +1,40 @@
+{
+  "courses": {
+    "yale-astr160": {
+      "title": "ASTR 160 Frontiers in Astrophysics",
+      "university": "Yale",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Yale ASTR 160 · Bailyn · Spring 2007",
+          "url": "https://oyc.yale.edu/astronomy/astr-160",
+          "youtube": "https://www.youtube.com/playlist?list=PLD1515420F4E601A4",
+          "date": "Spring 2007",
+          "youtubeId": "nzmFc2gjUo4",
+          "primary": true
+        }
+      ]
+    },
+    "mit-8286": {
+      "title": "8.286 The Early Universe",
+      "university": "MIT",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.286 · Guth · Fall 2013",
+          "url": "https://ocw.mit.edu/courses/8-286-the-early-universe-fall-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra",
+          "date": "Fall 2013",
+          "youtubeId": "ANCN7vr9FVk",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

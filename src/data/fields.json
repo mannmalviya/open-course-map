@@ -470,6 +470,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "astrophysics": {
+      "title": "Astrophysics & Cosmology",
+      "parent": "physics",
+      "pos": {
+        "x": 780,
+        "y": 560
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

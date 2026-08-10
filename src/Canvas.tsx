@@ -23,7 +23,8 @@ interface Transform {
 export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: CanvasProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [t, setT] = useState<Transform>({ x: 0, y: 0, k: 1 });
-  const drag = useRef<{ startX: number; startY: number; tx: number; ty: number } | null>(null);
+  const drag = useRef<{ startX: number; startY: number; tx: number; ty: number; moved: boolean } | null>(null);
+  const suppressClick = useRef(false);
 
   const courses = coursesIn(groupId);
   const groups = childGroups(groupId);
@@ -86,11 +87,15 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
   }, []);
 
   const onPointerDown = (e: React.PointerEvent<SVGSVGElement>) => {
-    drag.current = { startX: e.clientX, startY: e.clientY, tx: t.x, ty: t.y };
+    drag.current = { startX: e.clientX, startY: e.clientY, tx: t.x, ty: t.y, moved: false };
+    suppressClick.current = false;
     (e.target as Element).setPointerCapture?.(e.pointerId);
   };
   const onPointerMove = (e: React.PointerEvent<SVGSVGElement>) => {
     if (!drag.current) return;
+    if (Math.hypot(e.clientX - drag.current.startX, e.clientY - drag.current.startY) > 4) {
+      drag.current.moved = true;
+    }
     setT((prev) => ({
       ...prev,
       x: drag.current!.tx + e.clientX - drag.current!.startX,
@@ -98,7 +103,17 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
     }));
   };
   const onPointerUp = () => {
+    // Pointer capture makes the browser fire a click on the pressed node even
+    // after a long pan — swallow that click so panning never navigates
+    if (drag.current?.moved) suppressClick.current = true;
     drag.current = null;
+  };
+  const onClickCapture = (e: React.MouseEvent) => {
+    if (suppressClick.current) {
+      suppressClick.current = false;
+      e.stopPropagation();
+      e.preventDefault();
+    }
   };
 
   const empty = courses.length === 0 && groups.length === 0 && ghosts.length === 0;
@@ -110,7 +125,9 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
       onPointerUp={onPointerUp}
+      onPointerCancel={onPointerUp}
       onPointerLeave={onPointerUp}
+      onClickCapture={onClickCapture}
     >
       <g transform={`translate(${t.x} ${t.y}) scale(${t.k})`}>
         {edges.map((e, i) => {

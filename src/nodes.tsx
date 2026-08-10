@@ -24,7 +24,6 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
     return (
       <g
         className="node course-node"
-        onPointerDown={(e) => e.stopPropagation()}
         onClick={() => onSelect(id)}
       >
         <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H_COMPACT} seed={seed} fill="var(--node-fill)" />
@@ -52,7 +51,6 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
   return (
     <g
       className="node course-node"
-      onPointerDown={(e) => e.stopPropagation()}
       onClick={() => onSelect(id)}
     >
       <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H} seed={seed} fill="var(--node-fill)" />
@@ -287,7 +285,6 @@ export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
   return (
     <g
       className="node group-node"
-      onPointerDown={(e) => e.stopPropagation()}
       onClick={() => onOpen(id)}
     >
       <SketchRect x={x} y={y} w={w} h={h} seed={seed} fill="var(--group-fill)" strokeWidth={1.8} />
@@ -331,7 +328,6 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
   return (
     <g
       className="node ghost"
-      onPointerDown={(e) => e.stopPropagation()}
       onClick={() => onJump(ghost.node)}
     >
       <SketchRect

@@ -9,11 +9,29 @@
       },
       "versions": [
         {
-          "label": "MIT 8.323 · Liu",
+          "label": "MIT 8.323 \u00b7 Liu",
           "url": "https://ocw.mit.edu/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5",
           "date": "Spring 2023",
           "youtubeId": "xQFgk-nEihg",
+          "primary": true
+        }
+      ]
+    },
+    "susskind-particle": {
+      "title": "Particle Physics: Basic Concepts",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford \u00b7 Susskind \u00b7 Fall 2009",
+          "url": "https://theoreticalminimum.com/courses/particle-physics-1-basic-concepts/2009/fall",
+          "youtube": "https://www.youtube.com/playlist?list=PLF363FFF951EC0673",
+          "date": "Fall 2009",
+          "youtubeId": "2eFvVzNF24g",
           "primary": true
         }
       ]

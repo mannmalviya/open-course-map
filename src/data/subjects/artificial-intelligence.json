@@ -56,6 +56,12 @@
       "title": "CS 188 Artificial Intelligence",
       "university": "UC Berkeley",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Artificial Intelligence: A Modern Approach",
+          "authors": "Russell & Norvig"
+        }
+      ],
       "pos": {
         "x": 780,
         "y": 120

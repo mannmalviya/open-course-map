@@ -4,6 +4,12 @@
       "title": "8.04 Quantum Physics I",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Quantum Mechanics",
+          "authors": "David J. Griffiths"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -68,6 +74,12 @@
       "title": "Quantum Mechanics",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Quantum Mechanics: The Theoretical Minimum",
+          "authors": "Susskind & Friedman"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 400

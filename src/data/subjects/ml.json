@@ -70,6 +70,12 @@
       "title": "CS 156 Learning from Data",
       "university": "Caltech",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Learning From Data",
+          "authors": "Abu-Mostafa, Magdon-Ismail & Lin"
+        }
+      ],
       "pos": {
         "x": 780,
         "y": 160

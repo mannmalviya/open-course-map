@@ -4,6 +4,12 @@
       "title": "6.041 Probability",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Probability",
+          "authors": "Bertsekas & Tsitsiklis"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -23,6 +29,12 @@
       "title": "Statistics 110",
       "university": "Harvard",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Probability",
+          "authors": "Blitzstein & Hwang"
+        }
+      ],
       "pos": {
         "x": 350,
         "y": 120

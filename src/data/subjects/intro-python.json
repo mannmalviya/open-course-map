@@ -4,6 +4,12 @@
       "title": "Intro to CS in Python",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Computation and Programming Using Python",
+          "authors": "John V. Guttag"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

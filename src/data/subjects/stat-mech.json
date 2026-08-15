@@ -30,6 +30,12 @@
       "title": "8.333 Stat Mech I",
       "university": "MIT",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "Statistical Physics of Particles",
+          "authors": "Mehran Kardar"
+        }
+      ],
       "pos": {
         "x": 350,
         "y": 120
@@ -49,6 +55,12 @@
       "title": "8.334 Stat Mech II",
       "university": "MIT",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "Statistical Physics of Fields",
+          "authors": "Mehran Kardar"
+        }
+      ],
       "pos": {
         "x": 660,
         "y": 120

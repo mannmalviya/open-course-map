@@ -4,6 +4,13 @@
       "title": "CS124 From Languages to Information",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Speech and Language Processing",
+          "authors": "Jurafsky & Martin",
+          "url": "https://web.stanford.edu/~jurafsky/slp3/"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -22,6 +29,13 @@
       "title": "CS224N NLP with Deep Learning",
       "university": "Stanford",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "Speech and Language Processing",
+          "authors": "Jurafsky & Martin",
+          "url": "https://web.stanford.edu/~jurafsky/slp3/"
+        }
+      ],
       "pos": {
         "x": 430,
         "y": 120

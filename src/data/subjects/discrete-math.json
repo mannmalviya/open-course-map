@@ -4,6 +4,13 @@
       "title": "Math for Computer Science",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Mathematics for Computer Science",
+          "authors": "Lehman, Leighton & Meyer",
+          "url": "https://people.csail.mit.edu/meyer/mcs.pdf"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

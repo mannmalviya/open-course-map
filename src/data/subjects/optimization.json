@@ -4,6 +4,13 @@
       "title": "EE364A Convex Optimization I",
       "university": "Stanford",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "Convex Optimization",
+          "authors": "Boyd & Vandenberghe",
+          "url": "https://web.stanford.edu/~boyd/cvxbook/"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -30,6 +37,13 @@
       "title": "EE364B Convex Optimization II",
       "university": "Stanford",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "Convex Optimization",
+          "authors": "Boyd & Vandenberghe",
+          "url": "https://web.stanford.edu/~boyd/cvxbook/"
+        }
+      ],
       "pos": {
         "x": 430,
         "y": 120

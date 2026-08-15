@@ -134,6 +134,25 @@ export function CoursePage({ courseId, background, onJumpToNode }: CoursePagePro
           </div>
         </SketchBox>
 
+        {course.textbooks && course.textbooks.length > 0 && (
+          <>
+            <h3>Textbooks</h3>
+            <div className="textbooks">
+              {course.textbooks.map((b, i) => (
+                <SketchBox key={i} seedKey={`${courseId}:book${i}`} className="textbook">
+                  <div className="textbook-title">{b.title}</div>
+                  <div className="textbook-authors">{b.authors}</div>
+                  {b.url && (
+                    <a className="textbook-link" href={b.url} target="_blank" rel="noreferrer">
+                      read free ↗
+                    </a>
+                  )}
+                </SketchBox>
+              ))}
+            </div>
+          </>
+        )}
+
         {rest.length > 0 && (
           <>
             <h3>Other versions</h3>

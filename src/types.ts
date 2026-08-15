@@ -21,11 +21,21 @@ export interface Version {
 /** Academic level as the offering school classifies it */
 export type Level = 'undergrad' | 'grad';
 
+export interface Textbook {
+  title: string;
+  /** Display string, e.g. "Cormen, Leiserson, Rivest & Stein" */
+  authors: string;
+  /** Only where the publisher or authors offer the book free */
+  url?: string;
+}
+
 export interface Course {
   title: string;
   university?: string;
   /** Absent for courses with no academic level (open lecture series, MOOCs) */
   level?: Level;
+  /** Absent where the course has no unambiguous assigned text */
+  textbooks?: Textbook[];
   /** When the course was offered, e.g. "Fall 2020" — defaults to the primary version's date */
   term?: string;
   /** Subject this course belongs to — stamped from the subject filename at load */

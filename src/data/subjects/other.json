@@ -3,6 +3,7 @@
     "mit-self-driving": {
       "title": "MIT Self-Driving Cars",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -20,6 +21,7 @@
     "mit-deep-learning": {
       "title": "MIT Deep Learning",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 120
@@ -43,6 +45,7 @@
     "mit-65940": {
       "title": "6.5940 EfficientML.ai",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 780,
         "y": 120
@@ -61,6 +64,7 @@
     "mit-how2ai": {
       "title": "How to AI (Almost) Anything",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 420
@@ -78,6 +82,7 @@
     },
     "karpathy-zero-to-hero": {
       "title": "Neural Networks: Zero to Hero",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 420
@@ -95,6 +100,7 @@
     "fastai-pdl": {
       "title": "Practical Deep Learning for Coders",
       "university": "fast.ai",
+      "level": "undergrad",
       "pos": {
         "x": 780,
         "y": 420

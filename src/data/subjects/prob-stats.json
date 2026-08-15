@@ -3,6 +3,7 @@
     "mit-6041": {
       "title": "6.041 Probability",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "stat110": {
       "title": "Statistics 110",
       "university": "Harvard",
+      "level": "undergrad",
       "pos": {
         "x": 350,
         "y": 120
@@ -39,6 +41,7 @@
     "stanford-cs109": {
       "title": "CS109 Probability for CS",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 620,
         "y": 120

@@ -3,6 +3,7 @@
     "mit-6034": {
       "title": "6.034 Artificial Intelligence",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "stanford-cs221": {
       "title": "CS221 AI Principles & Techniques",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120
@@ -53,6 +55,7 @@
     "berkeley-cs188": {
       "title": "CS 188 Artificial Intelligence",
       "university": "UC Berkeley",
+      "level": "undergrad",
       "pos": {
         "x": 780,
         "y": 120

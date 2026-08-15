@@ -3,6 +3,7 @@
     "mit-820": {
       "title": "8.20 Special Relativity",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 190
@@ -21,6 +22,7 @@
     "susskind-gr": {
       "title": "General Relativity",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 60
@@ -46,6 +48,7 @@
     "mit-8962": {
       "title": "8.962 General Relativity",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 320
@@ -64,6 +67,7 @@
     "susskind-sr": {
       "title": "Special Relativity",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 780,
         "y": 60

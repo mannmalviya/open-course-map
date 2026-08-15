@@ -3,6 +3,7 @@
     "mit-64210": {
       "title": "6.4210 Robotic Manipulation",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "mit-68210": {
       "title": "6.8210 Underactuated Robotics",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120

@@ -3,6 +3,7 @@
     "harvard-cs50x": {
       "title": "CS50x Intro to Computer Science",
       "university": "Harvard",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120

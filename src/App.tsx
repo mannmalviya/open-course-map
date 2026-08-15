@@ -1,17 +1,28 @@
 import { useEffect, useState } from 'react';
-import { Canvas } from './Canvas';
+import { Canvas, type Background } from './Canvas';
 import { CoursePage } from './CoursePage';
 import {
-  allSchools, groupChain, map, parseHash, routeHash, setCompactCourses, setHiddenSchools,
-  setHidePrereqs, type Route,
+  allSchools, groupChain, LEVELS, map, parseHash, routeHash, setCompactCourses, setHiddenLevels,
+  setHiddenSchools, setHidePrereqs, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
 
 const REPO = 'mannmalviya/open-course-map';
 
+const BACKGROUNDS: { id: Background; label: string }[] = [
+  { id: 'plain', label: 'Plain' },
+  { id: 'grid', label: 'Grid' },
+  { id: 'dots', label: 'Dots' },
+];
+
 function formatStars(n: number): string {
   return n >= 1000 ? `${(n / 1000).toFixed(1).replace(/\.0$/, '')}k` : String(n);
+}
+
+function initialBackground(): Background {
+  const saved = localStorage.getItem('ocm-bg');
+  return saved === 'plain' || saved === 'dots' ? saved : 'grid';
 }
 
 function initialTheme(): Theme {
@@ -51,10 +62,25 @@ function initialHidden(): ReadonlySet<string> {
   }
 }
 
+/** Stored as the *hidden* set, matching the school filter. */
+function initialHiddenLevels(): ReadonlySet<string> {
+  try {
+    const saved: unknown = JSON.parse(localStorage.getItem('ocm-hidden-levels') ?? '[]');
+    const known = new Set(LEVELS.map((l) => l.id as string));
+    return new Set(
+      Array.isArray(saved) ? saved.filter((s): s is string => typeof s === 'string' && known.has(s)) : []
+    );
+  } catch {
+    return new Set();
+  }
+}
+
 export default function App() {
   const [route, setRoute] = useState<Route>(parseHash);
   const [theme, setTheme] = useState<Theme>(initialTheme);
+  const [background, setBackground] = useState<Background>(initialBackground);
   const [hidden, setHidden] = useState<ReadonlySet<string>>(initialHidden);
+  const [hiddenLevels, setHiddenLevelsState] = useState<ReadonlySet<string>>(initialHiddenLevels);
   const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
   const [noPrereqs, setNoPrereqs] = useState(() => localStorage.getItem('ocm-hide-prereqs') === '1');
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -65,6 +91,7 @@ export default function App() {
 
   // Sync the model's filter before children render so the whole map reflects it
   setHiddenSchools(hidden);
+  setHiddenLevels(hiddenLevels);
   setCompactCourses(compact);
   setHidePrereqs(noPrereqs);
 
@@ -93,8 +120,16 @@ export default function App() {
   }, [theme]);
 
   useEffect(() => {
+    localStorage.setItem('ocm-bg', background);
+  }, [background]);
+
+  useEffect(() => {
     localStorage.setItem('ocm-hidden-schools', JSON.stringify([...hidden]));
   }, [hidden]);
+
+  useEffect(() => {
+    localStorage.setItem('ocm-hidden-levels', JSON.stringify([...hiddenLevels]));
+  }, [hiddenLevels]);
 
   useEffect(() => {
     localStorage.setItem('ocm-compact', compact ? '1' : '0');
@@ -133,6 +168,15 @@ export default function App() {
     });
   };
 
+  const toggleLevel = (level: string) => {
+    setHiddenLevelsState((prev) => {
+      const next = new Set(prev);
+      if (next.has(level)) next.delete(level);
+      else next.add(level);
+      return next;
+    });
+  };
+
   const navigate = (groupId: string, courseId?: string) => {
     window.location.hash = routeHash(groupId, courseId);
   };
@@ -152,6 +196,7 @@ export default function App() {
       ) : (
         <Canvas
           groupId={route.groupId}
+          background={background}
           onSelectCourse={(id) => navigate(route.groupId, id)}
           onOpenGroup={(id) => navigate(id)}
           onJumpToNode={jumpToNode}
@@ -259,6 +304,17 @@ export default function App() {
               {school}
             </label>
           ))}
+          <div className="settings-section">Level</div>
+          {LEVELS.map((level) => (
+            <label key={level.id} className="settings-row">
+              <input
+                type="checkbox"
+                checked={!hiddenLevels.has(level.id)}
+                onChange={() => toggleLevel(level.id)}
+              />
+              {level.label}
+            </label>
+          ))}
           <div className="settings-section">Display</div>
           <label className="settings-row">
             <input
@@ -276,6 +332,18 @@ export default function App() {
             />
             Hide prerequisites
           </label>
+          <div className="settings-section">Background</div>
+          {BACKGROUNDS.map(({ id, label }) => (
+            <label key={id} className="settings-row">
+              <input
+                type="radio"
+                name="ocm-bg"
+                checked={background === id}
+                onChange={() => setBackground(id)}
+              />
+              {label}
+            </label>
+          ))}
         </div>
       )}
 

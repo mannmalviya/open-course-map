@@ -3,6 +3,7 @@
     "mit-18100a": {
       "title": "18.100A Real Analysis",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "mit-18100b": {
       "title": "18.100B Real Analysis",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120

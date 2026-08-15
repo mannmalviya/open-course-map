@@ -1,6 +1,6 @@
 import rawFields from './data/fields.json';
 import type {
-  CourseMap, Course, FieldsFile, Ghost, Lecture, Rect, Edge, SubjectFile, Version, ViewsFile,
+  CourseMap, Course, FieldsFile, Ghost, Lecture, Level, Rect, Edge, SubjectFile, Version, ViewsFile,
 } from './types';
 
 /**
@@ -129,8 +129,29 @@ export function allSchools(): string[] {
   return [...schools].sort();
 }
 
+/** Levels hidden by the settings filter — synced from App state before each render. */
+let hiddenLevels: ReadonlySet<string> = new Set();
+
+export function setHiddenLevels(levels: ReadonlySet<string>) {
+  hiddenLevels = levels;
+}
+
+/** Display names for the level filter and badges, in course order. */
+export const LEVELS: { id: Level; label: string }[] = [
+  { id: 'undergrad', label: 'Undergrad' },
+  { id: 'grad', label: 'Grad' },
+];
+
+export function levelLabel(level: Level): string {
+  return LEVELS.find((l) => l.id === level)?.label ?? level;
+}
+
+/** Courses with no school or no level are never hidden — you can't filter on absent data. */
 function courseVisible(c: Course): boolean {
-  return !c.university || !hiddenSchools.has(c.university);
+  return (
+    (!c.university || !hiddenSchools.has(c.university)) &&
+    (!c.level || !hiddenLevels.has(c.level))
+  );
 }
 
 /** Recursive course count ignoring the school filter. */
@@ -148,7 +169,11 @@ export function totalCourseCount(groupId: string): number {
  * had courses (empty scaffolding) stay visible regardless of the filter.
  */
 function groupFilteredOut(groupId: string): boolean {
-  return hiddenSchools.size > 0 && courseCount(groupId) === 0 && totalCourseCount(groupId) > 0;
+  return (
+    (hiddenSchools.size > 0 || hiddenLevels.size > 0) &&
+    courseCount(groupId) === 0 &&
+    totalCourseCount(groupId) > 0
+  );
 }
 
 /** Chain of group ids from root down to the given group. */

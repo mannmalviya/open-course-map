@@ -7,8 +7,11 @@ import type { Rect } from './types';
 import { CourseNode, GhostNode, GroupNode } from './nodes';
 import { SketchArrow, SketchText } from './sketch';
 
+export type Background = 'plain' | 'grid' | 'dots';
+
 interface CanvasProps {
   groupId: string;
+  background: Background;
   onSelectCourse: (id: string) => void;
   onOpenGroup: (id: string) => void;
   onJumpToNode: (id: string) => void;
@@ -20,7 +23,15 @@ interface Transform {
   k: number;
 }
 
-export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: CanvasProps) {
+/** Cell size in world units, doubled/halved so it stays legible at any zoom */
+function cellSize(k: number): number {
+  let cell = 20;
+  while (cell * k < 14) cell *= 2;
+  while (cell * k > 56) cell /= 2;
+  return cell;
+}
+
+export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJumpToNode }: CanvasProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [t, setT] = useState<Transform>({ x: 0, y: 0, k: 1 });
   const drag = useRef<{ startX: number; startY: number; tx: number; ty: number; moved: boolean } | null>(null);
@@ -117,6 +128,9 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
   };
 
   const empty = courses.length === 0 && groups.length === 0 && ghosts.length === 0;
+  // The pattern rides the same transform as the content, so it pans and zooms
+  // with the map; strokes are divided by k to stay one screen pixel wide
+  const cell = cellSize(t.k);
 
   return (
     <svg
@@ -129,6 +143,31 @@ export function Canvas({ groupId, onSelectCourse, onOpenGroup, onJumpToNode }: C
       onPointerLeave={onPointerUp}
       onClickCapture={onClickCapture}
     >
+      {background !== 'plain' && (
+        <>
+          <defs>
+            <pattern
+              id="canvas-bg"
+              patternUnits="userSpaceOnUse"
+              width={cell}
+              height={cell}
+              patternTransform={`translate(${t.x} ${t.y}) scale(${t.k})`}
+            >
+              {background === 'grid' ? (
+                <path
+                  d={`M ${cell / 2} 0 V ${cell} M 0 ${cell / 2} H ${cell}`}
+                  fill="none"
+                  stroke="var(--grid-line)"
+                  strokeWidth={1 / t.k}
+                />
+              ) : (
+                <circle cx={cell / 2} cy={cell / 2} r={1.3 / t.k} fill="var(--dot)" />
+              )}
+            </pattern>
+          </defs>
+          <rect width="100%" height="100%" fill="url(#canvas-bg)" />
+        </>
+      )}
       <g transform={`translate(${t.x} ${t.y}) scale(${t.k})`}>
         {edges.map((e, i) => {
           const from = borderPoint(e.fromRect, center(e.toRect));

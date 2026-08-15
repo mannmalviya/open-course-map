@@ -3,6 +3,7 @@
     "stanford-cs229": {
       "title": "CS229 Machine Learning",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 160
@@ -49,6 +50,7 @@
     "mit-6036": {
       "title": "6.036 Machine Learning",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 420
@@ -67,6 +69,7 @@
     "caltech-cs156": {
       "title": "CS 156 Learning from Data",
       "university": "Caltech",
+      "level": "undergrad",
       "pos": {
         "x": 780,
         "y": 160

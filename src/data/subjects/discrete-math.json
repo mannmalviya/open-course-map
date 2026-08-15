@@ -3,6 +3,7 @@
     "mit-math-for-cs": {
       "title": "Math for Computer Science",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -35,6 +36,7 @@
     "mit-18200": {
       "title": "18.200 Discrete Applied Math",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120

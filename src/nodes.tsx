@@ -2,8 +2,8 @@ import type { Course, Ghost, Group, Rect } from './types';
 import {
   COURSE_W, COURSE_H, COURSE_H_COMPACT, GHOST_W,
   borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
-  edgesOn, ghostRect, ghostsIn, ghostTitleLines, isCompact, logoFor, map, primaryVersion,
-  seedFor, thumbUrl, wrapText,
+  edgesOn, ghostRect, ghostsIn, ghostTitleLines, isCompact, levelLabel, logoFor, map,
+  primaryVersion, seedFor, thumbUrl, wrapText,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -47,6 +47,9 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
   const titleY = y + (twoLines ? 116 : 130);
   // footer row tucked under the title: school logo bottom-left, term bottom-right
   const footerBaseline = y + COURSE_H - 14;
+  const levelText = course.level ? levelLabel(course.level) : '';
+  const levelW = levelText.length * 5.4 + 12;
+  const levelInk = course.level === 'grad' ? 'var(--accent)' : 'var(--muted)';
 
   return (
     <g
@@ -107,6 +110,20 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
           lines={[term]}
           size={11} fill="var(--muted)" anchor="end"
         />
+      )}
+      {/* Level sits inside the outline over the thumbnail's top-left, deliberately
+          lighter than the +N badge so it reads as metadata, not a callout */}
+      {course.level && (
+        <g>
+          <SketchRect
+            x={thumbX + 6} y={thumbY + 6} w={levelW} h={18}
+            seed={seed + 3} stroke={levelInk} fill="var(--bg)" strokeWidth={0.9}
+          />
+          <SketchText
+            x={thumbX + 6 + levelW / 2} y={thumbY + 19}
+            lines={[levelText]} size={10} fill={levelInk}
+          />
+        </g>
       )}
       {extra > 0 && (
         <g>
@@ -332,7 +349,8 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
     >
       <SketchRect
         x={x} y={y} w={GHOST_W} h={h}
-        seed={seed} stroke="var(--ghost-ink, var(--muted))" dash="6 6" strokeWidth={1.2}
+        seed={seed} stroke="var(--ghost-ink, var(--muted))" fill="var(--node-fill)"
+        dash="6 6" strokeWidth={1.2}
       />
       <SketchText
         x={x + 14} y={y + 24}

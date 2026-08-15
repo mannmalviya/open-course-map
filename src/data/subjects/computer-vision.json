@@ -3,6 +3,7 @@
     "stanford-cs231n": {
       "title": "CS231n Deep Learning for Computer Vision",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120
@@ -35,6 +36,7 @@
     "mit-6801": {
       "title": "6.801 Machine Vision",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 120
@@ -53,6 +55,7 @@
     "umich-eecs498": {
       "title": "EECS 498 DL for Computer Vision",
       "university": "UMich",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 420

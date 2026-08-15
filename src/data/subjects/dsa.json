@@ -3,6 +3,7 @@
     "mit-6006": {
       "title": "6.006 Intro to Algorithms",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -35,6 +36,7 @@
     "mit-6046": {
       "title": "6.046 Design & Analysis of Algorithms",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 60
@@ -53,6 +55,7 @@
     "mit-6851": {
       "title": "6.851 Advanced Data Structures",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 720,
         "y": 60
@@ -71,6 +74,7 @@
     "harvard-cs224": {
       "title": "CS224 Advanced Algorithms",
       "university": "Harvard",
+      "level": "grad",
       "pos": {
         "x": 720,
         "y": 300
@@ -89,6 +93,7 @@
     "stanford-alg1": {
       "title": "Algorithms 1",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 360
@@ -107,6 +112,7 @@
     "stanford-alg2": {
       "title": "Algorithms 2",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 360
@@ -125,6 +131,7 @@
     "ucsc-cse101": {
       "title": "CSE101 Intro to DSA",
       "university": "UC Santa Cruz",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 600
@@ -148,6 +155,7 @@
     "ucsc-cse201": {
       "title": "CSE201 Graduate Algorithms",
       "university": "UC Santa Cruz",
+      "level": "grad",
       "pos": {
         "x": 400,
         "y": 600
@@ -171,6 +179,7 @@
     "ucsc-cse202": {
       "title": "CSE202 Combinatorial Algorithms",
       "university": "UC Santa Cruz",
+      "level": "grad",
       "pos": {
         "x": 720,
         "y": 600

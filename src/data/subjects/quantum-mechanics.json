@@ -3,6 +3,7 @@
     "mit-804": {
       "title": "8.04 Quantum Physics I",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "mit-805": {
       "title": "8.05 Quantum Physics II",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120
@@ -46,6 +48,7 @@
     "mit-806": {
       "title": "8.06 Quantum Physics III",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 720,
         "y": 120
@@ -64,6 +67,7 @@
     "susskind-qm": {
       "title": "Quantum Mechanics",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 400
@@ -89,6 +93,7 @@
     "susskind-aqm": {
       "title": "Advanced Quantum Mechanics",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 400,
         "y": 400
@@ -107,6 +112,7 @@
     "susskind-qe1": {
       "title": "Quantum Entanglements, Part 1",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 720,
         "y": 400
@@ -125,6 +131,7 @@
     "susskind-qe3": {
       "title": "Quantum Entanglements, Part 3",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 1040,
         "y": 400

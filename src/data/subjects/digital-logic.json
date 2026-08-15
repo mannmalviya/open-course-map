@@ -3,6 +3,7 @@
     "ucsc-cse100": {
       "title": "CSE100 Logic Design",
       "university": "UC Santa Cruz",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "ucsc-cse225": {
       "title": "CSE225 Intro to ASIC Systems Design",
       "university": "UC Santa Cruz",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120

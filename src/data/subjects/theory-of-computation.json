@@ -3,6 +3,7 @@
     "mit-18404": {
       "title": "18.404 Theory of Computation",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "ucsc-cse104": {
       "title": "CSE104 Computational Complexity",
       "university": "UC Santa Cruz",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 380
@@ -38,6 +40,7 @@
     "ucsc-cse204": {
       "title": "CSE204 Complexity Theory",
       "university": "UC Santa Cruz",
+      "level": "grad",
       "pos": {
         "x": 400,
         "y": 380

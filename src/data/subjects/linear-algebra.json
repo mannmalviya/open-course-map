@@ -3,6 +3,7 @@
     "mit-1806": {
       "title": "18.06 Linear Algebra",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "stanford-engr108": {
       "title": "ENGR108 Applied Linear Algebra",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 360
@@ -46,6 +48,7 @@
     "mit-18065": {
       "title": "18.065 Matrix Methods",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120
@@ -64,6 +67,7 @@
     "mit-18s096": {
       "title": "18.S096 Matrix Calculus for ML",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 360

@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
-import { groupChain, lecturesFor, logoFor, map, playlistId, prereqsOf, thumbUrl, unlocksOf } from './model';
+import {
+  groupChain, lecturesFor, levelLabel, logoFor, map, playlistId, prereqsOf, thumbUrl, unlocksOf,
+} from './model';
 import type { Version } from './types';
 import { ViewsChart } from './ViewsChart';
 
@@ -97,6 +99,9 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
               <>{course.university} · </>
             ))}
           {groupLabel(course.group)}
+          {course.level && (
+            <span className={'level-tag level-' + course.level}>{levelLabel(course.level)}</span>
+          )}
         </div>
 
         <section className="hero">

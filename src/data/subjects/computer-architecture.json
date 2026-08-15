@@ -3,6 +3,7 @@
     "eth-ddca": {
       "title": "Digital Design & Computer Architecture",
       "university": "ETH Z\u00fcrich",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -70,6 +71,7 @@
     "eth-comparch": {
       "title": "Computer Architecture",
       "university": "ETH Z\u00fcrich",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120
@@ -116,6 +118,7 @@
     "eth-foca": {
       "title": "Fundamentals of Computer Architecture",
       "university": "ETH Z\u00fcrich",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 420
@@ -134,6 +137,7 @@
     "mit-6004": {
       "title": "6.004 Computation Structures",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 420

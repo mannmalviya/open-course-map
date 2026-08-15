@@ -3,6 +3,7 @@
     "berkeley-cs162": {
       "title": "CS162 Operating Systems",
       "university": "UC Berkeley",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120

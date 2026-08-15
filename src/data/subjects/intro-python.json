@@ -3,6 +3,7 @@
     "mit-intro-python": {
       "title": "Intro to CS in Python",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "harvard-cs50p": {
       "title": "CS50P Programming with Python",
       "university": "Harvard",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120

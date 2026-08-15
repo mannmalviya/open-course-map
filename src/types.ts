@@ -18,9 +18,14 @@ export interface Version {
   primary?: boolean;
 }
 
+/** Academic level as the offering school classifies it */
+export type Level = 'undergrad' | 'grad';
+
 export interface Course {
   title: string;
   university?: string;
+  /** Absent for courses with no academic level (open lecture series, MOOCs) */
+  level?: Level;
   /** When the course was offered, e.g. "Fall 2020" — defaults to the primary version's date */
   term?: string;
   /** Subject this course belongs to — stamped from the subject filename at load */

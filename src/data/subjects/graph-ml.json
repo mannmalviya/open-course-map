@@ -3,6 +3,7 @@
     "stanford-cs224w": {
       "title": "CS224W ML with Graphs",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120

@@ -3,6 +3,7 @@
     "cmu-15445": {
       "title": "15-445 Intro to Database Systems",
       "university": "CMU",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -63,6 +64,7 @@
     "cmu-15721": {
       "title": "15-721 Advanced Database Systems",
       "university": "CMU",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120

@@ -3,6 +3,7 @@
     "susskind-sm": {
       "title": "Statistical Mechanics",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "mit-8333": {
       "title": "8.333 Stat Mech I",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 350,
         "y": 120
@@ -46,6 +48,7 @@
     "mit-8334": {
       "title": "8.334 Stat Mech II",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 660,
         "y": 120
@@ -64,6 +67,7 @@
     "mit-3020": {
       "title": "3.020 Thermodynamics of Materials",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 400

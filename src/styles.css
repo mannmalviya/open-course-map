@@ -14,12 +14,15 @@
   --accent: #6965db;
   --arrow: #1e1e1e;
   --node-fill: #ffffff;
-  --group-fill: transparent;
+  /* Cards are opaque so patterned backgrounds never show through them */
+  --group-fill: var(--node-fill);
   --island-bg: #ffffff;
   --island-border: rgba(0, 0, 0, 0.08);
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.09);
   --hover-bg: #f1f0ff;
   --star-gold: #d4a72c;
+  --grid-line: rgba(0, 0, 0, 0.1);
+  --dot: rgba(0, 0, 0, 0.22);
   /* chart tokens — validated against the light surface */
   --chart-bar: #6965db;
   --chart-grid: rgba(0, 0, 0, 0.07);
@@ -37,6 +40,8 @@
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
   --hover-bg: #2e2d39;
   --star-gold: #e3b341;
+  --grid-line: rgba(255, 255, 255, 0.08);
+  --dot: rgba(255, 255, 255, 0.18);
   /* chart tokens — validated against the dark surface */
   --chart-bar: #7d78e8;
   --chart-grid: rgba(255, 255, 255, 0.09);
@@ -269,6 +274,9 @@ body {
   gap: 6px;
   padding: 12px 16px;
   min-width: 170px;
+  /* The list outgrows short viewports — keep every section reachable */
+  max-height: calc(100vh - 96px);
+  overflow-y: auto;
 }
 
 .settings-title {
@@ -333,6 +341,21 @@ body {
   color: var(--muted);
   font-size: 14px;
   margin-bottom: 26px;
+}
+
+/* Level sits with the other course-level facts, quieter than the subject name */
+.level-tag {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 1px 7px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 11px;
+  vertical-align: 1px;
+}
+
+.level-tag.level-grad {
+  color: var(--accent);
 }
 
 .uni-logo {

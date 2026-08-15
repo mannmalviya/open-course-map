@@ -3,6 +3,7 @@
     "stanford-cs234": {
       "title": "CS234 Reinforcement Learning",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120
@@ -28,6 +29,7 @@
     "stanford-cs224r": {
       "title": "CS224R Deep Reinforcement Learning",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120
@@ -45,6 +47,7 @@
     "deepmind-ucl-rl": {
       "title": "DeepMind x UCL Reinforcement Learning",
       "university": "DeepMind x UCL",
+      "level": "grad",
       "pos": {
         "x": 780,
         "y": 120
@@ -69,6 +72,7 @@
     "berkeley-cs285": {
       "title": "CS 285 Deep Reinforcement Learning",
       "university": "UC Berkeley",
+      "level": "grad",
       "pos": {
         "x": 1130,
         "y": 120

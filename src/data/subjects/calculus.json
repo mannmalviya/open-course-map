@@ -3,6 +3,7 @@
     "mit-1801": {
       "title": "18.01 Single Variable Calculus",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "mit-1802": {
       "title": "18.02 Multivariable Calculus",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120
@@ -39,6 +41,7 @@
     "mit-1803": {
       "title": "18.03 Differential Equations",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 720,
         "y": 120

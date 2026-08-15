@@ -3,6 +3,7 @@
     "phys200": {
       "title": "PHYS 200 \u00b7 Physics I",
       "university": "Yale",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "phys201": {
       "title": "PHYS 201 \u00b7 Physics II",
       "university": "Yale",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 120
@@ -39,6 +41,7 @@
     "mit-801": {
       "title": "8.01x Classical Mechanics",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 80,
         "y": 380
@@ -56,6 +59,7 @@
     "mit-802": {
       "title": "8.02x Electricity & Magnetism",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 400,
         "y": 380
@@ -73,6 +77,7 @@
     "mit-803": {
       "title": "8.03 Vibrations & Waves",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 720,
         "y": 380
@@ -90,6 +95,7 @@
     "susskind-cm": {
       "title": "Classical Mechanics",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 720,
         "y": 120

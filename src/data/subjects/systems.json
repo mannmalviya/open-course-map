@@ -3,6 +3,7 @@
     "mit-6824": {
       "title": "6.824 Distributed Systems",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "stanford-cs149": {
       "title": "CS149 Parallel Computing",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 120
@@ -39,6 +41,7 @@
     "mit-6172": {
       "title": "6.172 Performance Engineering",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 780,
         "y": 120

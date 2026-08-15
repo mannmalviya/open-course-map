@@ -3,6 +3,7 @@
     "mit-8323": {
       "title": "8.323 QFT I",
       "university": "MIT",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "susskind-particle": {
       "title": "Particle Physics: Basic Concepts",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 120
@@ -39,6 +41,7 @@
     "susskind-standard-model": {
       "title": "Particle Physics: Standard Model",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 780,
         "y": 120
@@ -57,6 +60,7 @@
     "susskind-susy": {
       "title": "Particle Physics: SUSY & GUTs",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 1130,
         "y": 120
@@ -75,6 +79,7 @@
     "susskind-string": {
       "title": "String Theory and M-Theory",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 400
@@ -93,6 +98,7 @@
     "susskind-string-topics": {
       "title": "Topics in String Theory",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 400

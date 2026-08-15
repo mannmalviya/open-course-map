@@ -3,6 +3,7 @@
     "stanford-cs236": {
       "title": "CS236 Deep Generative Models",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 120
@@ -21,6 +22,7 @@
     "mit-6s184": {
       "title": "6.S184 Flow Matching & Diffusion",
       "university": "MIT",
+      "level": "undergrad",
       "pos": {
         "x": 430,
         "y": 120
@@ -46,6 +48,7 @@
     "stanford-cs336": {
       "title": "CS336 Language Modeling from Scratch",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 780,
         "y": 120
@@ -71,6 +74,7 @@
     "stanford-cme295": {
       "title": "CME295 Transformers and LLMs",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 80,
         "y": 420
@@ -89,6 +93,7 @@
     "stanford-llm-collection": {
       "title": "LLM Lectures Collection",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 430,
         "y": 420
@@ -105,6 +110,7 @@
     "stanford-cs330": {
       "title": "CS330 Multi-Task & Meta Learning",
       "university": "Stanford",
+      "level": "grad",
       "pos": {
         "x": 780,
         "y": 420
@@ -137,6 +143,7 @@
     "stanford-cs25": {
       "title": "CS25 Transformers United",
       "university": "Stanford",
+      "level": "undergrad",
       "pos": {
         "x": 1130,
         "y": 120

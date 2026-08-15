@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Operating Systems: Principles and Practice",
-          "authors": "Anderson & Dahlin"
+          "authors": "Anderson & Dahlin",
+          "cover": "anderson-dahlin"
         }
       ],
       "pos": {

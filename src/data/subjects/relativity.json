@@ -26,7 +26,8 @@
       "textbooks": [
         {
           "title": "General Relativity: The Theoretical Minimum",
-          "authors": "Susskind & Cabannes"
+          "authors": "Susskind & Cabannes",
+          "cover": "ttm-general-relativity"
         }
       ],
       "pos": {
@@ -77,7 +78,8 @@
       "textbooks": [
         {
           "title": "Special Relativity and Classical Field Theory",
-          "authors": "Susskind & Friedman"
+          "authors": "Susskind & Friedman",
+          "cover": "ttm-special-relativity"
         }
       ],
       "pos": {

@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Introduction to the Theory of Computation",
-          "authors": "Michael Sipser"
+          "authors": "Michael Sipser",
+          "cover": "sipser"
         }
       ],
       "pos": {

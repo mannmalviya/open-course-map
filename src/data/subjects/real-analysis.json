@@ -26,7 +26,8 @@
       "textbooks": [
         {
           "title": "Principles of Mathematical Analysis",
-          "authors": "Walter Rudin"
+          "authors": "Walter Rudin",
+          "cover": "rudin"
         }
       ],
       "pos": {

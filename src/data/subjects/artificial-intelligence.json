@@ -59,7 +59,8 @@
       "textbooks": [
         {
           "title": "Artificial Intelligence: A Modern Approach",
-          "authors": "Russell & Norvig"
+          "authors": "Russell & Norvig",
+          "cover": "russell-norvig"
         }
       ],
       "pos": {

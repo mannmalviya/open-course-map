@@ -27,6 +27,12 @@ export interface Textbook {
   authors: string;
   /** Only where the publisher or authors offer the book free */
   url?: string;
+  /**
+   * Basename of a cover in public/covers/, without extension. The same book
+   * shares a slug across courses. Set even when the file is not there yet —
+   * a missing cover falls back to the text-only card.
+   */
+  cover?: string;
 }
 
 export interface Course {

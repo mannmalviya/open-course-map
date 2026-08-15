@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Introduction to Probability",
-          "authors": "Bertsekas & Tsitsiklis"
+          "authors": "Bertsekas & Tsitsiklis",
+          "cover": "bertsekas-probability"
         }
       ],
       "pos": {
@@ -32,7 +33,8 @@
       "textbooks": [
         {
           "title": "Introduction to Probability",
-          "authors": "Blitzstein & Hwang"
+          "authors": "Blitzstein & Hwang",
+          "cover": "blitzstein-probability"
         }
       ],
       "pos": {

@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Introduction to Linear Algebra",
-          "authors": "Gilbert Strang"
+          "authors": "Gilbert Strang",
+          "cover": "strang-linear-algebra"
         }
       ],
       "pos": {
@@ -40,6 +41,7 @@
         {
           "title": "Introduction to Applied Linear Algebra",
           "authors": "Boyd & Vandenberghe",
+          "cover": "boyd-vmls",
           "url": "https://web.stanford.edu/~boyd/vmls/"
         }
       ],
@@ -65,7 +67,8 @@
       "textbooks": [
         {
           "title": "Linear Algebra and Learning from Data",
-          "authors": "Gilbert Strang"
+          "authors": "Gilbert Strang",
+          "cover": "strang-learning-from-data"
         }
       ],
       "pos": {

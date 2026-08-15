@@ -103,6 +103,11 @@ export function logoFor(university?: string): string | undefined {
   return university ? LOGOS[university] : undefined;
 }
 
+/** Book covers live in public/covers/ as <slug>.png — drop a file in and it appears. */
+export function coverUrl(slug?: string): string | undefined {
+  return slug ? `/covers/${slug}.png` : undefined;
+}
+
 export function formatViews(n: number): string {
   if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(n >= 10_000_000 ? 0 : 1).replace(/\.0$/, '')}M`;
   if (n >= 1_000) return `${(n / 1_000).toFixed(0)}K`;

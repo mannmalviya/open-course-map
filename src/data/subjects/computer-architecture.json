@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Digital Design and Computer Architecture",
-          "authors": "Harris & Harris"
+          "authors": "Harris & Harris",
+          "cover": "harris-harris"
         }
       ],
       "pos": {

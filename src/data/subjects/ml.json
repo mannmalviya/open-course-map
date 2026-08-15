@@ -73,7 +73,8 @@
       "textbooks": [
         {
           "title": "Learning From Data",
-          "authors": "Abu-Mostafa, Magdon-Ismail & Lin"
+          "authors": "Abu-Mostafa, Magdon-Ismail & Lin",
+          "cover": "learning-from-data"
         }
       ],
       "pos": {

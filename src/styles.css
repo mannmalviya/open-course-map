@@ -655,9 +655,25 @@ body {
 
 .textbook > .sketch-box-body {
   display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 12px 14px;
+}
+
+/* Covers are portrait; height is capped so a tall scan cannot stretch the card */
+.textbook-cover {
+  flex: none;
+  width: 52px;
+  max-height: 78px;
+  object-fit: contain;
+  border: 1px solid var(--island-border);
+}
+
+.textbook-text {
+  display: flex;
   flex-direction: column;
   gap: 3px;
-  padding: 12px 14px;
+  min-width: 0;
 }
 
 .textbook-title {

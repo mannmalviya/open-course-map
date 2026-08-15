@@ -99,7 +99,8 @@
       "textbooks": [
         {
           "title": "The Theoretical Minimum: Classical Mechanics",
-          "authors": "Susskind & Hrabovsky"
+          "authors": "Susskind & Hrabovsky",
+          "cover": "ttm-classical-mechanics"
         }
       ],
       "pos": {

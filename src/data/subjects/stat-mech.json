@@ -33,7 +33,8 @@
       "textbooks": [
         {
           "title": "Statistical Physics of Particles",
-          "authors": "Mehran Kardar"
+          "authors": "Mehran Kardar",
+          "cover": "kardar-particles"
         }
       ],
       "pos": {
@@ -58,7 +59,8 @@
       "textbooks": [
         {
           "title": "Statistical Physics of Fields",
-          "authors": "Mehran Kardar"
+          "authors": "Mehran Kardar",
+          "cover": "kardar-fields"
         }
       ],
       "pos": {

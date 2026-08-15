@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Introduction to Algorithms",
-          "authors": "Cormen, Leiserson, Rivest & Stein"
+          "authors": "Cormen, Leiserson, Rivest & Stein",
+          "cover": "clrs"
         }
       ],
       "pos": {
@@ -46,7 +47,8 @@
       "textbooks": [
         {
           "title": "Introduction to Algorithms",
-          "authors": "Cormen, Leiserson, Rivest & Stein"
+          "authors": "Cormen, Leiserson, Rivest & Stein",
+          "cover": "clrs"
         }
       ],
       "pos": {
@@ -109,7 +111,8 @@
       "textbooks": [
         {
           "title": "Algorithms Illuminated",
-          "authors": "Tim Roughgarden"
+          "authors": "Tim Roughgarden",
+          "cover": "algorithms-illuminated"
         }
       ],
       "pos": {
@@ -134,7 +137,8 @@
       "textbooks": [
         {
           "title": "Algorithms Illuminated",
-          "authors": "Tim Roughgarden"
+          "authors": "Tim Roughgarden",
+          "cover": "algorithms-illuminated"
         }
       ],
       "pos": {

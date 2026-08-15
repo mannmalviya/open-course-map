@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react';
 import {
-  groupChain, lecturesFor, levelLabel, logoFor, map, playlistId, prereqsOf, thumbUrl, unlocksOf,
+  coverUrl, groupChain, lecturesFor, levelLabel, logoFor, map, playlistId, prereqsOf, thumbUrl,
+  unlocksOf,
 } from './model';
-import type { Version } from './types';
+import type { Textbook, Version } from './types';
 import { ViewsChart } from './ViewsChart';
 import { BackgroundLayer, type Background } from './Canvas';
 import { SketchBox } from './sketch';
@@ -56,6 +57,26 @@ function HeroThumb({ version, university }: { version: Version; university?: str
       onLoad={(e) => {
         if (e.currentTarget.naturalWidth < 200) setFailed(true);
       }}
+    />
+  );
+}
+
+/**
+ * Covers are dropped into public/covers/ by hand, so a slug often has no file
+ * yet. Rather than show a broken image, the card falls back to text only.
+ */
+function BookCover({ book }: { book: Textbook }) {
+  const [failed, setFailed] = useState(false);
+  const src = coverUrl(book.cover);
+  useEffect(() => setFailed(false), [src]);
+  if (!src || failed) return null;
+  return (
+    <img
+      className="textbook-cover"
+      src={src}
+      alt={`${book.title} cover`}
+      loading="lazy"
+      onError={() => setFailed(true)}
     />
   );
 }
@@ -140,13 +161,16 @@ export function CoursePage({ courseId, background, onJumpToNode }: CoursePagePro
             <div className="textbooks">
               {course.textbooks.map((b, i) => (
                 <SketchBox key={i} seedKey={`${courseId}:book${i}`} className="textbook">
-                  <div className="textbook-title">{b.title}</div>
-                  <div className="textbook-authors">{b.authors}</div>
-                  {b.url && (
-                    <a className="textbook-link" href={b.url} target="_blank" rel="noreferrer">
-                      read free ↗
-                    </a>
-                  )}
+                  <BookCover book={b} />
+                  <div className="textbook-text">
+                    <div className="textbook-title">{b.title}</div>
+                    <div className="textbook-authors">{b.authors}</div>
+                    {b.url && (
+                      <a className="textbook-link" href={b.url} target="_blank" rel="noreferrer">
+                        read free ↗
+                      </a>
+                    )}
+                  </div>
                 </SketchBox>
               ))}
             </div>

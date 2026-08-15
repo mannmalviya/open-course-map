@@ -7,7 +7,8 @@
       "textbooks": [
         {
           "title": "Introduction to Quantum Mechanics",
-          "authors": "David J. Griffiths"
+          "authors": "David J. Griffiths",
+          "cover": "griffiths-qm"
         }
       ],
       "pos": {
@@ -77,7 +78,8 @@
       "textbooks": [
         {
           "title": "Quantum Mechanics: The Theoretical Minimum",
-          "authors": "Susskind & Friedman"
+          "authors": "Susskind & Friedman",
+          "cover": "ttm-quantum-mechanics"
         }
       ],
       "pos": {

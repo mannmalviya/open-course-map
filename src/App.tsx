@@ -192,7 +192,7 @@ export default function App() {
   return (
     <div className="app">
       {route.courseId ? (
-        <CoursePage courseId={route.courseId} onJumpToNode={jumpToNode} />
+        <CoursePage courseId={route.courseId} background={background} onJumpToNode={jumpToNode} />
       ) : (
         <Canvas
           groupId={route.groupId}

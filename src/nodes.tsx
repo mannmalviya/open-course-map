@@ -1,9 +1,13 @@
-import type { Course, Ghost, Group, Rect } from './types';
+import type { Course, Gap, Ghost, Group, Rect } from './types';
 import {
-  COURSE_W, COURSE_H, COURSE_H_COMPACT, GHOST_W,
+  COURSE_W, COURSE_H, COURSE_H_COMPACT, GAP_W,
+  GAP_TITLE_TOP, GAP_TITLE_LINE, GAP_STATUS_GAP, GAP_NOTE_TOP, GAP_NOTE_LINE,
+  GAP_ALTS_TOP, GAP_ALT_ROW,
   borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
-  edgesOn, ghostRect, ghostsIn, ghostTitleLines, isCompact, levelLabel, logoFor, map,
-  primaryVersion, seedFor, thumbUrl, wrapText,
+  edgesOn, gapAltLabel, gapAlternates, gapNoteLines, gapRect, gapsIn, gapTitleLines,
+  ghostNoteLines, ghostRect, ghostsIn, ghostTitleLines, ghostWidth,
+  isCompact, levelLabel, logoFor, map,
+  PATHWAYS_GROUP, primaryVersion, seedFor, thumbUrl, wrapText,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -150,6 +154,8 @@ function pageRects(groupId: string): Array<{ rect: Rect; kind: 'course' | 'group
     if (g.pos && g.size) out.push({ rect: { x: g.pos.x, y: g.pos.y, w: g.size.w, h: g.size.h }, kind: 'group' });
   }
   for (const g of ghostsIn(groupId)) out.push({ rect: ghostRect(g), kind: 'ghost' });
+  // Gaps preview like ghosts — dashed and unfilled, which is what they are
+  for (const g of gapsIn(groupId)) out.push({ rect: gapRect(g), kind: 'ghost' });
   return out;
 }
 
@@ -295,7 +301,12 @@ export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
   const { x, y } = group.pos;
   const { w, h } = group.size;
   const seed = seedFor(id);
-  const count = courseCount(id);
+  // The pathways index holds sequences, not courses of its own, so a course count reads 0 there
+  const isPathwayIndex = id === PATHWAYS_GROUP;
+  const count = isPathwayIndex ? childGroups(id).length : courseCount(id);
+  const countLabel = isPathwayIndex
+    ? `${count} pathway${count === 1 ? '' : 's'}`
+    : `${count} course${count === 1 ? '' : 's'}`;
   const thumbs = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
   const hasPreview = thumbs.length > 0 || pageRects(id).length > 0;
 
@@ -313,14 +324,14 @@ export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
       ) : (
         <SketchText
           x={x + w / 2} y={y + h / 2 + 6}
-          lines={[`${count} course${count === 1 ? '' : 's'}`]}
+          lines={[countLabel]}
           size={14} fill="var(--muted)"
         />
       )}
       {hasPreview && (
         <SketchText
           x={x + 14} y={y + h - 12}
-          lines={[`${count} course${count === 1 ? '' : 's'}`]}
+          lines={[countLabel]}
           size={12} anchor="start" fill="var(--muted)"
         />
       )}
@@ -340,7 +351,10 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
   const home = homeId ? map.groups[homeId] : undefined;
   const { x, y } = ghost.pos;
   const { h } = ghostRect(ghost);
+  const w = ghostWidth(ghost);
   const seed = seedFor(ghost.node + ghost.inGroup);
+  const titleLines = ghostTitleLines(ghost);
+  const noteLines = ghostNoteLines(ghost);
 
   return (
     <g
@@ -348,20 +362,99 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
       onClick={() => onJump(ghost.node)}
     >
       <SketchRect
-        x={x} y={y} w={GHOST_W} h={h}
+        x={x} y={y} w={w} h={h}
         seed={seed} stroke="var(--ghost-ink, var(--muted))" fill="var(--node-fill)"
         dash="6 6" strokeWidth={1.2}
       />
       <SketchText
         x={x + 14} y={y + 24}
-        lines={ghostTitleLines(ghost)} size={14} anchor="start"
+        lines={titleLines} size={14} anchor="start"
         fill="var(--ghost-ink, var(--ink))"
       />
+      {noteLines.length > 0 && (
+        <SketchText
+          x={x + 14} y={y + 24 + (titleLines.length - 1) * 18 + 20}
+          lines={noteLines} size={12} anchor="start"
+          fill="var(--muted)"
+        />
+      )}
       <SketchText
         x={x + 14} y={y + h - 13}
         lines={[`in ${home?.title ?? '?'}`]} size={11} anchor="start"
         fill="var(--ghost-ink, var(--muted))"
       />
+    </g>
+  );
+}
+
+interface GapNodeProps {
+  gap: Gap;
+  onSelectCourse: (id: string) => void;
+}
+
+/**
+ * A required step nobody has put online. Drawn deliberately unlike a course
+ * card — no thumbnail, no accent — so it reads as a hole in the sequence, with
+ * other schools' coverage offered underneath rather than swapped in silently.
+ */
+export function GapNode({ gap, onSelectCourse }: GapNodeProps) {
+  const { x, y } = gap.pos;
+  const { h } = gapRect(gap);
+  const seed = seedFor(gap.id);
+  const titleLines = gapTitleLines(gap);
+  const noteLines = gapNoteLines(gap);
+  const alts = gapAlternates(gap);
+
+  const titleBase = y + GAP_TITLE_TOP;
+  const statusY = titleBase + (titleLines.length - 1) * GAP_TITLE_LINE + GAP_STATUS_GAP;
+  const noteBase = statusY + GAP_NOTE_TOP;
+  const afterNote = noteLines.length > 0 ? noteBase + (noteLines.length - 1) * GAP_NOTE_LINE : statusY;
+  const altsBase = afterNote + GAP_ALTS_TOP;
+
+  return (
+    <g className="node gap-node">
+      <SketchRect
+        x={x} y={y} w={GAP_W} h={h}
+        seed={seed} stroke="var(--muted)" fill="var(--bg)"
+        dash="4 5" strokeWidth={1.2}
+      />
+      <SketchText
+        x={x + 14} y={titleBase}
+        lines={titleLines} size={15} anchor="start" fill="var(--muted)"
+      />
+      <SketchText
+        x={x + 14} y={statusY}
+        lines={['⌀ not uploaded anywhere']} size={12} anchor="start" fill="var(--muted)"
+      />
+      {noteLines.length > 0 && (
+        <SketchText
+          x={x + 14} y={noteBase}
+          lines={noteLines} size={11} anchor="start" fill="var(--muted)"
+        />
+      )}
+      {alts.length > 0 && (
+        <>
+          <SketchText
+            x={x + 14} y={altsBase}
+            lines={['covered elsewhere:']} size={11} anchor="start" fill="var(--muted)"
+          />
+          {alts.map((id, i) => (
+            <g key={id} className="gap-alt" onClick={() => onSelectCourse(id)}>
+              {/* transparent hit area: SVG text alone is a thin target */}
+              <rect
+                x={x + 10} y={altsBase + 6 + i * GAP_ALT_ROW}
+                width={GAP_W - 20} height={GAP_ALT_ROW}
+                fill="transparent"
+              />
+              <SketchText
+                x={x + 14} y={altsBase + GAP_ALT_ROW + i * GAP_ALT_ROW}
+                lines={[gapAltLabel(id)]}
+                size={12} anchor="start" fill="var(--accent)"
+              />
+            </g>
+          ))}
+        </>
+      )}
     </g>
   );
 }

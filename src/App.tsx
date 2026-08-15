@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react';
 import { Canvas, type Background } from './Canvas';
 import { CoursePage } from './CoursePage';
+import { Landing } from './Landing';
 import {
-  allSchools, groupChain, LEVELS, map, parseHash, routeHash, setCompactCourses, setHiddenLevels,
-  setHiddenSchools, setHidePrereqs, type Route,
+  allSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, routeHash,
+  setCompactCourses, setHiddenLevels, setHiddenSchools, setHidePrereqs, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
@@ -187,11 +188,23 @@ export default function App() {
     else if (map.groups[id]) navigate(id);
   };
 
+  /**
+   * On a pathway every step is a ghost, so the usual "jump to its home subject"
+   * would eject you from the sequence you are reading. Open the course in place.
+   */
+  const onPathway = isPathway(route.groupId);
+  const activateNode = (id: string) => {
+    if (onPathway && map.courses[id]) navigate(route.groupId, id);
+    else jumpToNode(id);
+  };
+
   const chain = groupChain(route.groupId);
 
   return (
     <div className="app">
-      {route.courseId ? (
+      {route.landing ? (
+        <Landing onOpenPathway={(id) => navigate(id)} onOpenMap={() => navigate('root')} />
+      ) : route.courseId ? (
         <CoursePage courseId={route.courseId} onJumpToNode={jumpToNode} />
       ) : (
         <Canvas
@@ -199,13 +212,13 @@ export default function App() {
           background={background}
           onSelectCourse={(id) => navigate(route.groupId, id)}
           onOpenGroup={(id) => navigate(id)}
-          onJumpToNode={jumpToNode}
+          onJumpToNode={activateNode}
         />
       )}
 
       <div className="island breadcrumbs">
-        <span className="logo">Open Course Map</span>
-        {chain.map((id, i) => (
+        <a className="logo" href={landingHash()}>Open Course Map</a>
+        {!route.landing && chain.map((id, i) => (
           <span key={id} className="crumb-wrap">
             {i > 0 && <span className="crumb-sep">›</span>}
             <button
@@ -347,8 +360,12 @@ export default function App() {
         </div>
       )}
 
-      {!route.courseId && (
-        <div className="island hint">scroll to pan · ctrl+scroll to zoom · click a subject to see its courses</div>
+      {!route.courseId && !route.landing && (
+        <div className="island hint">
+          {onPathway
+            ? 'scroll to pan · ctrl+scroll to zoom · follow the arrows'
+            : 'scroll to pan · ctrl+scroll to zoom · click a subject to see its courses'}
+        </div>
       )}
     </div>
   );

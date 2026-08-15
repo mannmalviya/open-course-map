@@ -1,0 +1,46 @@
+{
+  "title": "The Theoretical Minimum",
+  "kind": "official",
+  "field": "Physics",
+  "source": "Stanford Continuing Studies — Susskind's core sequence, in the order Stanford lists it",
+  "blurb": "Susskind's six core courses. Not a survey — the actual machinery, in the order a physicist would hand it to you.",
+  "steps": [
+    {
+      "course": "susskind-cm",
+      "pos": { "x": 180, "y": 0 },
+      "note": "Stanford lists this first. Everything later assumes the Lagrangian."
+    },
+    {
+      "course": "susskind-qm",
+      "pos": { "x": 180, "y": 160 },
+      "note": "Follows Classical Mechanics in Stanford's ordering."
+    },
+    {
+      "course": "susskind-sr",
+      "pos": { "x": 180, "y": 320 },
+      "note": "Special relativity and classical field theory, taken together."
+    },
+    {
+      "course": "susskind-gr",
+      "pos": { "x": 180, "y": 480 },
+      "note": "Assumes special relativity and the field-theory material above."
+    },
+    {
+      "course": "susskind-cosmology",
+      "pos": { "x": 180, "y": 640 },
+      "note": "Applies general relativity at the scale of the universe."
+    },
+    {
+      "course": "susskind-sm",
+      "pos": { "x": 180, "y": 800 },
+      "note": "Stanford places statistical mechanics last in the core six."
+    }
+  ],
+  "edges": [
+    { "from": "susskind-cm", "to": "susskind-qm" },
+    { "from": "susskind-qm", "to": "susskind-sr" },
+    { "from": "susskind-sr", "to": "susskind-gr" },
+    { "from": "susskind-gr", "to": "susskind-cosmology" },
+    { "from": "susskind-cosmology", "to": "susskind-sm" }
+  ]
+}

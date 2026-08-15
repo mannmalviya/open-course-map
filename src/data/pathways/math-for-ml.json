@@ -1,0 +1,40 @@
+{
+  "title": "Enough math for ML",
+  "kind": "curated",
+  "field": "Math",
+  "source": "Mann's picks — opinion, not a department's requirements",
+  "blurb": "The five courses that actually pay off before you touch a machine learning course. Deliberately not a math degree.",
+  "steps": [
+    {
+      "course": "mit-1806",
+      "pos": { "x": 20, "y": 0 },
+      "note": "Start here. Take the 2005 run, not 2011 — Strang is sharper and the audio is better."
+    },
+    {
+      "course": "mit-1802",
+      "pos": { "x": 320, "y": 0 },
+      "note": "You need gradients, Jacobians and the chain rule. You can stop after that."
+    },
+    {
+      "course": "mit-6041",
+      "pos": { "x": 620, "y": 0 },
+      "note": "Tsitsiklis is the clearest lecturer on this whole map."
+    },
+    {
+      "course": "mit-18065",
+      "pos": { "x": 320, "y": 230 },
+      "note": "The bridge course — linear algebra the way ML actually uses it. Skip it and you'll fake your way through gradients forever."
+    },
+    {
+      "course": "stanford-ee364a",
+      "pos": { "x": 320, "y": 470 },
+      "note": "Boyd. Everything after this assumes you can spot a convex problem on sight."
+    }
+  ],
+  "edges": [
+    { "from": "mit-1806", "to": "mit-18065" },
+    { "from": "mit-1802", "to": "mit-18065" },
+    { "from": "mit-6041", "to": "mit-18065" },
+    { "from": "mit-18065", "to": "stanford-ee364a" }
+  ]
+}

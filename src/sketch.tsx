@@ -1,5 +1,6 @@
-import { useMemo } from 'react';
+import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import rough from 'roughjs';
+import { COURSE_W, seedFor } from './model';
 
 const gen = rough.generator();
 
@@ -13,20 +14,25 @@ interface SketchRectProps {
   fill?: string;
   strokeWidth?: number;
   dash?: string;
+  roughness?: number;
+  bowing?: number;
 }
 
 /** Hand-drawn rectangle rendered as SVG paths via rough.js (Excalidraw's shape library). */
-export function SketchRect({ x, y, w, h, seed, stroke = 'var(--ink)', fill, strokeWidth = 1.5, dash }: SketchRectProps) {
+export function SketchRect({
+  x, y, w, h, seed, stroke = 'var(--ink)', fill, strokeWidth = 1.5, dash,
+  roughness = 1.4, bowing = 1,
+}: SketchRectProps) {
   const paths = useMemo(() => {
     const drawable = gen.rectangle(0, 0, w, h, {
       seed,
-      roughness: 1.4,
-      bowing: 1,
+      roughness,
+      bowing,
       strokeWidth,
       ...(fill ? { fill: 'placeholder', fillStyle: 'solid' } : {}),
     });
     return gen.toPaths(drawable);
-  }, [w, h, seed, strokeWidth, fill]);
+  }, [w, h, seed, strokeWidth, fill, roughness, bowing]);
 
   return (
     <g transform={`translate(${x} ${y})`}>
@@ -46,6 +52,67 @@ export function SketchRect({ x, y, w, h, seed, stroke = 'var(--ink)', fill, stro
         );
       })}
     </g>
+  );
+}
+
+/**
+ * rough.js deviation is roughly absolute, so a page-width card drawn at the
+ * canvas's roughness looks almost straight next to a 220px map card. Scale the
+ * wobble with the box so both read as the same hand.
+ */
+function boxRoughness(w: number, h: number): number {
+  return Math.min(1.4 * Math.sqrt(Math.max(w, h) / COURSE_W), 2.6);
+}
+
+interface SketchBoxProps {
+  /** Stable string so a card's jitter stays put across re-renders */
+  seedKey: string;
+  className?: string;
+  fill?: string;
+  children: ReactNode;
+}
+
+/**
+ * A hand-drawn border around an HTML box — the map's card look, outside the
+ * canvas. rough.js needs pixel geometry, so the frame trails the element's
+ * measured size.
+ */
+export function SketchBox({ seedKey, className, fill = 'var(--node-fill)', children }: SketchBoxProps) {
+  const ref = useRef<HTMLDivElement>(null);
+  const [size, setSize] = useState({ w: 0, h: 0 });
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const measure = () => setSize({ w: el.clientWidth, h: el.clientHeight });
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    measure();
+    return () => ro.disconnect();
+  }, []);
+
+  const rough = boxRoughness(size.w, size.h);
+  // strokes wander further as roughness climbs, so the frame is inset to match
+  const inset = 2 + rough;
+
+  return (
+    <div ref={ref} className={'sketch-box' + (className ? ' ' + className : '')}>
+      {size.w > 0 && size.h > 0 && (
+        <svg className="sketch-box-frame" width={size.w} height={size.h} aria-hidden="true">
+          <SketchRect
+            x={inset}
+            y={inset}
+            w={size.w - inset * 2}
+            h={size.h - inset * 2}
+            seed={seedFor(seedKey)}
+            fill={fill}
+            roughness={rough}
+            bowing={Math.min(rough, 2)}
+          />
+        </svg>
+      )}
+      <div className="sketch-box-body">{children}</div>
+    </div>
   );
 }
 

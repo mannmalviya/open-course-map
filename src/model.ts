@@ -1,12 +1,17 @@
 import rawFields from './data/fields.json';
 import type {
-  CourseMap, Course, FieldsFile, Ghost, Lecture, Level, Rect, Edge, SubjectFile, Version, ViewsFile,
+  CourseMap, Course, FieldsFile, Gap, Ghost, Group, Lecture, Level, PathwayFile, Rect, Edge,
+  SubjectFile, Version, ViewsFile,
 } from './types';
+
+/** Parent group every pathway hangs off; gives them their own page and URL prefix. */
+export const PATHWAYS_GROUP = 'pathways';
 
 /**
  * The map is split across data files: fields.json is the atlas (all field and
  * subject groups, cross-subject edges, ghosts); each data/subjects/<id>.json
- * holds one subject's courses and internal edges. Merged here at build time.
+ * holds one subject's courses and internal edges; each data/pathways/<id>.json
+ * is one sequence through courses that already exist. Merged here at build time.
  */
 function loadMap(): CourseMap {
   const fields = rawFields as FieldsFile;
@@ -14,7 +19,9 @@ function loadMap(): CourseMap {
     groups: fields.groups,
     courses: {},
     edges: [...fields.edges],
-    ghosts: fields.ghosts,
+    ghosts: [...fields.ghosts],
+    gaps: {},
+    pathwayEdges: {},
   };
   const subjectFiles = import.meta.glob('./data/subjects/*.json', {
     eager: true,
@@ -32,6 +39,33 @@ function loadMap(): CourseMap {
       merged.courses[courseId] = { ...course, group: subjectId };
     }
     if (file.edges) merged.edges.push(...file.edges);
+  }
+
+  const pathwayFiles = import.meta.glob('./data/pathways/*.json', {
+    eager: true,
+    import: 'default',
+  }) as Record<string, PathwayFile>;
+  for (const [path, file] of Object.entries(pathwayFiles)) {
+    const id = path.replace(/^.*\//, '').replace(/\.json$/, '');
+    merged.groups[id] = {
+      title: file.title,
+      parent: PATHWAYS_GROUP,
+      kind: file.kind,
+      blurb: file.blurb,
+      source: file.source,
+      field: file.field,
+    };
+    for (const step of file.steps) {
+      if (!merged.courses[step.course]) {
+        console.warn(`pathways/${id}.json references unknown course "${step.course}"`);
+        continue;
+      }
+      merged.ghosts.push({ node: step.course, inGroup: id, pos: step.pos, note: step.note });
+    }
+    for (const gap of file.gaps ?? []) {
+      merged.gaps[gap.id] = { ...gap, inGroup: id };
+    }
+    merged.pathwayEdges[id] = file.edges ?? [];
   }
   return merged;
 }
@@ -97,15 +131,87 @@ export function courseRect(c: Course): Rect {
   return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: compactCourses ? COURSE_H_COMPACT : COURSE_H };
 }
 
+/** Pathway steps carry commentary, so they get a wider card than a bare reference. */
+export const GHOST_W_NOTED = 270;
+
+export function ghostWidth(g: Ghost): number {
+  return g.note ? GHOST_W_NOTED : GHOST_W;
+}
+
 /** Ghost label wrapped to fit the box width — long course titles take two lines. */
 export function ghostTitleLines(g: Ghost): string[] {
   const target = map.courses[g.node] ?? map.groups[g.node];
-  return wrapText('↪ ' + (target?.title ?? g.node), 22);
+  return wrapText('↪ ' + (target?.title ?? g.node), g.note ? 30 : 22);
+}
+
+/** A step's note, wrapped — pathway steps carry one, plain ghosts don't. */
+export function ghostNoteLines(g: Ghost): string[] {
+  return g.note ? wrapText(g.note, 38, 4) : [];
 }
 
 export function ghostRect(g: Ghost): Rect {
-  const h = GHOST_H + (ghostTitleLines(g).length - 1) * 18;
-  return { x: g.pos.x, y: g.pos.y, w: GHOST_W, h };
+  const noteLines = ghostNoteLines(g);
+  const h =
+    GHOST_H +
+    (ghostTitleLines(g).length - 1) * 18 +
+    (noteLines.length > 0 ? noteLines.length * 15 + 6 : 0);
+  return { x: g.pos.x, y: g.pos.y, w: ghostWidth(g), h };
+}
+
+// Gap nodes are wider than ghosts: they carry a reason and a list of alternates
+export const GAP_W = 300;
+
+/**
+ * Label for one alternate. School first: it is the part that makes the offer
+ * meaningful, and it is the part a truncated title would otherwise eat.
+ */
+export function gapAltLabel(courseId: string): string {
+  const c = map.courses[courseId];
+  const label = c.university ? `${c.university} · ${c.title}` : c.title;
+  return wrapText('↪ ' + label, 42, 1)[0];
+}
+
+export function gapTitleLines(g: Gap): string[] {
+  return wrapText(g.title, 26);
+}
+
+export function gapNoteLines(g: Gap): string[] {
+  return g.note ? wrapText(g.note, 32, 3) : [];
+}
+
+/** Alternates that actually resolve to a course the school filter still shows. */
+export function gapAlternates(g: Gap): string[] {
+  return (g.alternates ?? []).filter((id) => map.courses[id] && courseVisible(map.courses[id]));
+}
+
+/**
+ * Stacked layout offsets inside a gap node, shared by the geometry and the
+ * renderer so edges land on the box the user actually sees.
+ */
+export const GAP_TITLE_TOP = 26;
+export const GAP_TITLE_LINE = 19;
+export const GAP_STATUS_GAP = 22;
+export const GAP_NOTE_TOP = 17;
+export const GAP_NOTE_LINE = 14;
+export const GAP_ALTS_TOP = 22;
+export const GAP_ALT_ROW = 20;
+
+export function gapRect(g: Gap): Rect {
+  const titles = gapTitleLines(g).length;
+  const notes = gapNoteLines(g).length;
+  const alts = gapAlternates(g).length;
+  const h =
+    GAP_TITLE_TOP +
+    (titles - 1) * GAP_TITLE_LINE +
+    GAP_STATUS_GAP +
+    (notes > 0 ? GAP_NOTE_TOP + (notes - 1) * GAP_NOTE_LINE : 0) +
+    (alts > 0 ? GAP_ALTS_TOP + alts * GAP_ALT_ROW : 0) +
+    14;
+  return { x: g.pos.x, y: g.pos.y, w: GAP_W, h };
+}
+
+export function gapsIn(groupId: string): Gap[] {
+  return Object.values(map.gaps).filter((g) => g.inGroup === groupId);
 }
 
 /** Hide prerequisite arrows and ghost cards on the map — synced from App state. */
@@ -199,8 +305,37 @@ export function coursesIn(groupId: string): string[] {
   );
 }
 
+/** True for a pathway's own page — pathway groups are the ones carrying a kind. */
+export function isPathway(groupId: string): boolean {
+  return map.groups[groupId]?.kind !== undefined;
+}
+
+/** Every pathway, in data order, for the landing page. */
+export function pathways(): Array<{ id: string; group: Group }> {
+  return Object.keys(map.groups)
+    .filter((id) => map.groups[id].parent === PATHWAYS_GROUP)
+    .map((id) => ({ id, group: map.groups[id] }));
+}
+
+/** Steps on a pathway, counting gaps — what the landing card advertises. */
+export function pathwayStepCount(groupId: string): number {
+  return map.ghosts.filter((g) => g.inGroup === groupId).length + gapsIn(groupId).length;
+}
+
+/** Schools appearing on a pathway, in step order, deduped. */
+export function pathwaySchools(groupId: string): string[] {
+  const out: string[] = [];
+  for (const g of map.ghosts) {
+    if (g.inGroup !== groupId) continue;
+    const uni = map.courses[g.node]?.university;
+    if (uni && !out.includes(uni)) out.push(uni);
+  }
+  return out;
+}
+
 export function ghostsIn(groupId: string): Ghost[] {
-  if (hidePrereqs) return [];
+  // On a pathway the ghosts *are* the content, so "hide prerequisites" must not empty the page
+  if (hidePrereqs && !isPathway(groupId)) return [];
   return map.ghosts.filter((g) => {
     if (g.inGroup !== groupId) return false;
     const course = map.courses[g.node];
@@ -230,16 +365,21 @@ export function unlocksOf(courseId: string): string[] {
  * a course node in this group, a child group's box, or a hand-placed ghost.
  */
 export function edgesOn(groupId: string): Array<Edge & { fromRect: Rect; toRect: Rect }> {
-  if (hidePrereqs) return [];
+  // A pathway's arrows are the sequence itself, not decoration the filter may drop
+  if (hidePrereqs && !isPathway(groupId)) return [];
   const rects = new Map<string, Rect>();
   for (const id of coursesIn(groupId)) rects.set(id, courseRect(map.courses[id]));
   for (const id of childGroups(groupId)) {
     const g = map.groups[id];
     if (g.pos && g.size) rects.set(id, { x: g.pos.x, y: g.pos.y, w: g.size.w, h: g.size.h });
   }
+  for (const g of gapsIn(groupId)) rects.set(g.id, gapRect(g));
   for (const g of ghostsIn(groupId)) if (!rects.has(g.node)) rects.set(g.node, ghostRect(g));
   const out: Array<Edge & { fromRect: Rect; toRect: Rect }> = [];
-  for (const e of map.edges) {
+  // A pathway shows exactly the sequence it declares — no prerequisite edges
+  // leaking in from the wider map to contradict its ordering
+  const source = isPathway(groupId) ? map.pathwayEdges[groupId] ?? [] : map.edges;
+  for (const e of source) {
     const fromRect = rects.get(e.from);
     const toRect = rects.get(e.to);
     if (fromRect && toRect) out.push({ ...e, fromRect, toRect });
@@ -309,6 +449,8 @@ export function wrapText(text: string, maxChars: number, maxLines = 2): string[]
 }
 
 export interface Route {
+  /** The landing page — `#/` with nothing after it */
+  landing?: boolean;
   groupId: string;
   courseId?: string;
 }
@@ -317,23 +459,32 @@ export function parseHash(): Route {
   const hash = window.location.hash.replace(/^#\/?/, '');
   const [path, query] = hash.split('?');
   const segments = path.split('/').filter(Boolean);
-  const last = segments[segments.length - 1];
-  // Subject page: the last path segment is a course id
-  if (last && map.courses[last]) {
-    return { groupId: map.courses[last].group, courseId: last };
-  }
-  const groupId = last && map.groups[last] ? last : 'root';
   // Back-compat with old ?c= panel links
   const params = new URLSearchParams(query ?? '');
   const c = params.get('c') ?? undefined;
-  return { groupId, courseId: c && map.courses[c] ? c : undefined };
+  const panelCourse = c && map.courses[c] ? c : undefined;
+  if (segments.length === 0 && !panelCourse) return { landing: true, groupId: 'root' };
+  const last = segments[segments.length - 1];
+  if (last && map.courses[last]) {
+    // The segment before a course names the page it was opened from, so a course
+    // reached through a pathway keeps that context instead of jumping home
+    const parent = segments[segments.length - 2];
+    const groupId = parent && map.groups[parent] ? parent : map.courses[last].group;
+    return { groupId, courseId: last };
+  }
+  const groupId = last && map.groups[last] ? last : 'root';
+  return { groupId, courseId: panelCourse };
 }
 
+/** `#/` is the landing, so the root map needs a segment of its own. */
+const MAP_SEGMENT = 'map';
+
 export function routeHash(groupId: string, courseId?: string): string {
-  if (courseId && map.courses[courseId]) {
-    const path = groupChain(map.courses[courseId].group).filter((id) => id !== 'root');
-    return '#/' + [...path, courseId].join('/');
-  }
   const path = groupChain(groupId).filter((id) => id !== 'root');
-  return '#/' + path.join('/');
+  if (courseId && map.courses[courseId]) path.push(courseId);
+  return path.length > 0 ? '#/' + path.join('/') : '#/' + MAP_SEGMENT;
+}
+
+export function landingHash(): string {
+  return '#/';
 }

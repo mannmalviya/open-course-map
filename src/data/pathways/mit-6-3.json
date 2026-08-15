@@ -1,0 +1,90 @@
+{
+  "title": "MIT 6-3 Computer Science",
+  "kind": "official",
+  "field": "Computer Science",
+  "source": "Transcribed from MIT's 6-3 degree requirements",
+  "blurb": "MIT's computer science major, as MIT sequences it. Several required courses have never been put online — those are marked, not hidden.",
+  "steps": [
+    {
+      "course": "mit-intro-python",
+      "pos": { "x": 40, "y": 0 },
+      "note": "6.100A — the entry point to the whole major."
+    },
+    {
+      "course": "mit-1801",
+      "pos": { "x": 620, "y": 0 },
+      "note": "Institute-wide requirement, not specific to 6-3."
+    },
+    {
+      "course": "mit-math-for-cs",
+      "pos": { "x": 330, "y": 210 },
+      "note": "6.1200. Required before 6.1210 and the theory courses."
+    },
+    {
+      "course": "mit-1802",
+      "pos": { "x": 620, "y": 210 },
+      "note": "Institute-wide requirement."
+    },
+    {
+      "course": "mit-6006",
+      "pos": { "x": 40, "y": 430 },
+      "note": "6.1210. Requires 6.1010 and 6.1200."
+    },
+    {
+      "course": "mit-1806",
+      "pos": { "x": 620, "y": 430 },
+      "note": "The standard math elective for 6-3."
+    },
+    {
+      "course": "mit-6046",
+      "pos": { "x": 40, "y": 640 },
+      "note": "6.1220. Requires 6.1210."
+    },
+    {
+      "course": "mit-18404",
+      "pos": { "x": 330, "y": 640 },
+      "note": "6.1400 / 18.404. Requires 6.1200."
+    },
+    {
+      "course": "mit-6004",
+      "pos": { "x": 620, "y": 700 },
+      "note": "6.1910. Requires the low-level programming course above."
+    }
+  ],
+  "gaps": [
+    {
+      "id": "gap-6-1010",
+      "title": "6.1010 Fundamentals of Programming",
+      "pos": { "x": 0, "y": 200 },
+      "note": "Required before 6.1210. MIT has never released lecture video for it.",
+      "alternates": ["harvard-cs50x", "harvard-cs50p"]
+    },
+    {
+      "id": "gap-6-1900",
+      "title": "6.1900 Low-level Programming in C and Assembly",
+      "pos": { "x": 640, "y": 640 },
+      "note": "Required before 6.1910 Computation Structures. No lecture video online.",
+      "alternates": ["nand2tetris-1", "eth-ddca"]
+    },
+    {
+      "id": "gap-6-1800",
+      "title": "6.1800 Computer Systems Engineering",
+      "pos": { "x": 300, "y": 900 },
+      "note": "Required for the degree, taken after 6.1910. No lecture video online.",
+      "alternates": ["berkeley-cs162", "mit-6824"]
+    }
+  ],
+  "edges": [
+    { "from": "mit-intro-python", "to": "gap-6-1010" },
+    { "from": "gap-6-1010", "to": "mit-6006" },
+    { "from": "mit-math-for-cs", "to": "mit-6006" },
+    { "from": "mit-math-for-cs", "to": "mit-18404" },
+    { "from": "mit-6006", "to": "mit-6046" },
+    { "from": "mit-6006", "to": "mit-18404" },
+    { "from": "mit-intro-python", "to": "gap-6-1900" },
+    { "from": "gap-6-1900", "to": "mit-6004" },
+    { "from": "mit-6004", "to": "gap-6-1800" },
+    { "from": "mit-1801", "to": "mit-1802" },
+    { "from": "mit-1802", "to": "mit-1806" }
+  ]
+}

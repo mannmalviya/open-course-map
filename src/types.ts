@@ -34,6 +34,12 @@ export interface Course {
   versions: Version[];
 }
 
+/**
+ * How a pathway's ordering was arrived at. `official` sequences are transcribed
+ * from a department's own requirements; `curated` ones are a personal pick.
+ */
+export type PathwayKind = 'official' | 'curated';
+
 /** A field (Math, Physics, …) or a subject (Quantum Mechanics, …) — same recursive shape */
 export interface Group {
   title: string;
@@ -41,6 +47,14 @@ export interface Group {
   /** Position and size of this group's box on its parent's page */
   pos?: XY;
   size?: { w: number; h: number };
+  /** Present only on pathway groups — a sequence rather than a subject */
+  kind?: PathwayKind;
+  /** One-line pitch, shown on the landing page card */
+  blurb?: string;
+  /** Where the ordering came from, e.g. "transcribed from MIT's 6-3 requirements" */
+  source?: string;
+  /** Field this pathway is filed under on the landing page, e.g. "Physics" */
+  field?: string;
 }
 
 export interface Edge {
@@ -56,6 +70,26 @@ export interface Ghost {
   /** group page the ghost is placed on */
   inGroup: string;
   pos: XY;
+  /** Why this step is here — sourced fact on official pathways, opinion on curated ones */
+  note?: string;
+}
+
+/**
+ * A step in an official pathway that the department requires but nobody has put
+ * online. Rendered as a real node so the sequence stays faithful instead of
+ * silently skipping it.
+ */
+export interface Gap {
+  /** Stable id so pathway edges can point at it */
+  id: string;
+  title: string;
+  /** Why it belongs in the sequence */
+  note?: string;
+  /** Pathway page this gap is placed on — stamped from the filename at load */
+  inGroup: string;
+  pos: XY;
+  /** Course ids that cover similar ground, offered as an alternative, not a swap */
+  alternates?: string[];
 }
 
 export interface CourseMap {
@@ -63,6 +97,13 @@ export interface CourseMap {
   courses: Record<string, Course>;
   edges: Edge[];
   ghosts: Ghost[];
+  gaps: Record<string, Gap>;
+  /**
+   * Kept out of `edges` on purpose: a pathway's arrows describe that sequence
+   * only. Merging them into the prerequisite graph would invent prerequisites
+   * on subject pages and in a course's "do first" list.
+   */
+  pathwayEdges: Record<string, Edge[]>;
 }
 
 /** Shape of data/fields.json: the atlas — all groups, plus everything that spans subjects */
@@ -76,6 +117,23 @@ export interface FieldsFile {
 export interface SubjectFile {
   courses: Record<string, Omit<Course, 'group'>>;
   /** Edges between this subject's own courses */
+  edges?: Edge[];
+}
+
+/**
+ * Shape of data/pathways/<pathway-id>.json; the filename is the pathway id.
+ * A pathway owns no courses — its steps are placed references to courses that
+ * already live in a subject, so the same course can appear on several pathways.
+ */
+export interface PathwayFile {
+  title: string;
+  kind: PathwayKind;
+  blurb: string;
+  source: string;
+  field: string;
+  /** Ordered for readability; the edges are what actually define the sequence */
+  steps: Array<{ course: string; pos: XY; note?: string }>;
+  gaps?: Array<Omit<Gap, 'inGroup'>>;
   edges?: Edge[];
 }
 

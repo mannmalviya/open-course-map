@@ -756,3 +756,203 @@ body {
   font-size: 11px;
   color: var(--muted);
 }
+
+/* Landing: the triage page at #/ — DOM, not canvas, but wearing the map's clothes */
+.landing {
+  position: absolute;
+  inset: 0;
+  overflow-y: auto;
+  padding: 96px 24px 64px;
+}
+
+.landing-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.landing h1 {
+  font-family: var(--hand-font);
+  font-size: 46px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.landing-tagline {
+  margin-top: 12px;
+  max-width: 60ch;
+  font-size: 16px;
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+.landing-stats {
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.landing h2 {
+  font-family: var(--hand-font);
+  font-size: 26px;
+  font-weight: 400;
+  color: var(--accent);
+  margin-top: 44px;
+}
+
+.landing-sub {
+  margin-top: 8px;
+  max-width: 62ch;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+.pathway-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 22px;
+  margin-top: 26px;
+}
+
+/* The drawn frame wanders outside the box, so cards need room not to collide */
+.pathway-card {
+  margin: 4px;
+}
+
+.pathway-card > .sketch-box-body {
+  height: 100%;
+}
+
+/* The whole card is the target — a button so it keeps keyboard focus and Enter */
+.pathway-hit {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 7px;
+  width: 100%;
+  height: 100%;
+  padding: 18px 18px 16px;
+  background: none;
+  border: none;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.pathway-hit:hover {
+  background: var(--hover-bg);
+}
+
+.pathway-kind {
+  align-self: flex-start;
+  padding: 1px 8px;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* Curated is opinion, so it wears the accent; official stays deliberately plain */
+.pathway-kind.kind-curated {
+  color: var(--accent);
+}
+
+.pathway-field {
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.pathway-title {
+  font-family: var(--hand-font);
+  font-size: 21px;
+  line-height: 1.2;
+}
+
+.pathway-blurb {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+.pathway-source {
+  font-size: 11px;
+  line-height: 1.45;
+  color: var(--muted);
+  font-style: italic;
+}
+
+.pathway-meta {
+  margin-top: auto;
+  padding-top: 8px;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.pathway-gaps {
+  color: var(--accent);
+}
+
+.landing-alt {
+  margin-top: 38px;
+}
+
+.landing-map-link {
+  background: none;
+  border: none;
+  font-family: var(--hand-font);
+  font-size: 18px;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 6px 10px;
+  margin-left: -10px;
+  border-radius: 8px;
+}
+
+.landing-map-link:hover {
+  background: var(--hover-bg);
+}
+
+/* Breadcrumb wordmark doubles as the way back to the landing */
+a.logo {
+  color: inherit;
+  text-decoration: none;
+}
+
+a.logo:hover {
+  color: var(--accent);
+}
+
+/* Gap steps: the box itself is inert, only the alternates inside are clickable */
+.gap-node {
+  cursor: default;
+}
+
+.gap-alt {
+  cursor: pointer;
+}
+
+.gap-alt:hover text {
+  text-decoration: underline;
+}
+
+/* Hand-drawn frame around an HTML box — see SketchBox in sketch.tsx */
+.sketch-box {
+  position: relative;
+}
+
+/* Rough strokes wander past the nominal rect, so the frame must not clip */
+.sketch-box-frame {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.sketch-box-body {
+  position: relative;
+}

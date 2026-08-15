@@ -3,6 +3,18 @@
     "root": {
       "title": "All Subjects"
     },
+    "pathways": {
+      "title": "Pathways",
+      "parent": "root",
+      "pos": {
+        "x": 180,
+        "y": -170
+      },
+      "size": {
+        "w": 500,
+        "h": 170
+      }
+    },
     "math": {
       "title": "Math",
       "parent": "root",

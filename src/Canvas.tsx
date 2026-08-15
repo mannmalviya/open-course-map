@@ -1,10 +1,10 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import {
-  borderPoint, center, childGroups, coursesIn, edgesOn, ghostsIn,
+  borderPoint, center, childGroups, coursesIn, edgesOn, gapRect, gapsIn, ghostsIn,
   courseRect, ghostRect, map, seedFor, totalCourseCount,
 } from './model';
 import type { Rect } from './types';
-import { CourseNode, GhostNode, GroupNode } from './nodes';
+import { CourseNode, GapNode, GhostNode, GroupNode } from './nodes';
 import { SketchArrow, SketchText } from './sketch';
 
 export type Background = 'plain' | 'grid' | 'dots';
@@ -40,6 +40,7 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
   const courses = coursesIn(groupId);
   const groups = childGroups(groupId);
   const ghosts = ghostsIn(groupId);
+  const gaps = gapsIn(groupId);
   const edges = edgesOn(groupId);
 
   // Fit content on page change
@@ -49,6 +50,7 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
     const rects: Rect[] = [
       ...courses.map((id) => courseRect(map.courses[id])),
       ...ghosts.map(ghostRect),
+      ...gaps.map(gapRect),
       ...groups
         .map((id) => map.groups[id])
         .filter((g) => g.pos && g.size)
@@ -127,7 +129,8 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
     }
   };
 
-  const empty = courses.length === 0 && groups.length === 0 && ghosts.length === 0;
+  const empty =
+    courses.length === 0 && groups.length === 0 && ghosts.length === 0 && gaps.length === 0;
   // The pattern rides the same transform as the content, so it pans and zooms
   // with the map; strokes are divided by k to stay one screen pixel wide
   const cell = cellSize(t.k);
@@ -186,6 +189,9 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
         ))}
         {ghosts.map((g, i) => (
           <GhostNode key={i} ghost={g} onJump={onJumpToNode} />
+        ))}
+        {gaps.map((g) => (
+          <GapNode key={g.id} gap={g} onSelectCourse={onSelectCourse} />
         ))}
         {courses.map((id) => (
           <CourseNode key={id} id={id} course={map.courses[id]} onSelect={onSelectCourse} />

@@ -4,9 +4,12 @@ import {
 } from './model';
 import type { Version } from './types';
 import { ViewsChart } from './ViewsChart';
+import { BackgroundLayer, type Background } from './Canvas';
+import { SketchBox } from './sketch';
 
 interface CoursePageProps {
   courseId: string;
+  background: Background;
   onJumpToNode: (id: string) => void;
 }
 
@@ -63,7 +66,7 @@ function shortLabel(v: Version): string {
   return rest || v.label;
 }
 
-export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
+export function CoursePage({ courseId, background, onJumpToNode }: CoursePageProps) {
   const course = map.courses[courseId];
   const versions = course?.versions ?? [];
   const primaryIdx = Math.max(0, versions.findIndex((v) => v.primary));
@@ -84,6 +87,7 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
 
   return (
     <main className="course-page">
+      <BackgroundLayer background={background} />
       <div className="course-inner">
         <h1>{course.title}</h1>
         <div className="course-sub">
@@ -104,10 +108,13 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
           )}
         </div>
 
-        <section className="hero">
-          <a className="hero-thumb" href={hero.youtube ?? hero.url} target="_blank" rel="noreferrer">
-            <HeroThumb version={hero} university={course.university} />
-          </a>
+        <SketchBox seedKey={courseId + ':hero'} className="hero">
+          {/* outline over the image, the way map cards frame their thumbnails */}
+          <SketchBox seedKey={courseId + ':thumb'} className="thumb-frame" fill="none">
+            <a className="hero-thumb" href={hero.youtube ?? hero.url} target="_blank" rel="noreferrer">
+              <HeroThumb version={hero} university={course.university} />
+            </a>
+          </SketchBox>
           <div className="hero-info">
             {hero.primary && versions.length > 1 && <div className="hero-badge">★ Recommended</div>}
             <h2>{hero.label}</h2>
@@ -125,7 +132,26 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
               )}
             </div>
           </div>
-        </section>
+        </SketchBox>
+
+        {course.textbooks && course.textbooks.length > 0 && (
+          <>
+            <h3>Textbooks</h3>
+            <div className="textbooks">
+              {course.textbooks.map((b, i) => (
+                <SketchBox key={i} seedKey={`${courseId}:book${i}`} className="textbook">
+                  <div className="textbook-title">{b.title}</div>
+                  <div className="textbook-authors">{b.authors}</div>
+                  {b.url && (
+                    <a className="textbook-link" href={b.url} target="_blank" rel="noreferrer">
+                      read free ↗
+                    </a>
+                  )}
+                </SketchBox>
+              ))}
+            </div>
+          </>
+        )}
 
         {rest.length > 0 && (
           <>
@@ -134,7 +160,7 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
               {rest.map((v, i) => {
                 const thumb = thumbUrl(v);
                 return (
-                  <div key={i} className="offering">
+                  <SketchBox key={i} seedKey={`${courseId}:v${i}`} className="offering">
                     <a className="offering-thumb" href={v.url ?? v.youtube} target="_blank" rel="noreferrer">
                       {thumb ? (
                         <img src={thumb} alt="" />
@@ -166,7 +192,7 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
                         )}
                       </div>
                     </div>
-                  </div>
+                  </SketchBox>
                 );
               })}
             </div>
@@ -189,7 +215,9 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
                 ))}
               </div>
             )}
-            <ViewsChart lectures={lectures} playlistId={playlistId(chartVersion)} />
+            <SketchBox seedKey={courseId + ':chart'} className="chart-frame">
+              <ViewsChart lectures={lectures} playlistId={playlistId(chartVersion)} />
+            </SketchBox>
             <div className="chart-note">YouTube views per lecture</div>
           </>
         )}

@@ -4,6 +4,12 @@
       "title": "Digital Design & Computer Architecture",
       "university": "ETH Z\u00fcrich",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Digital Design and Computer Architecture",
+          "authors": "Harris & Harris"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

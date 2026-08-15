@@ -4,6 +4,12 @@
       "title": "18.404 Theory of Computation",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to the Theory of Computation",
+          "authors": "Michael Sipser"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

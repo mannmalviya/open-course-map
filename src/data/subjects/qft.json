@@ -4,6 +4,12 @@
       "title": "8.323 QFT I",
       "university": "MIT",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "An Introduction to Quantum Field Theory",
+          "authors": "Peskin & Schroeder"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

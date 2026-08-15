@@ -96,6 +96,12 @@
       "title": "Classical Mechanics",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "The Theoretical Minimum: Classical Mechanics",
+          "authors": "Susskind & Hrabovsky"
+        }
+      ],
       "pos": {
         "x": 720,
         "y": 120

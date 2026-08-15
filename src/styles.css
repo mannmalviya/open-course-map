@@ -317,6 +317,45 @@ body {
   pointer-events: none;
 }
 
+/* Hand-drawn frame around an HTML box — see SketchBox in sketch.tsx */
+.sketch-box {
+  position: relative;
+}
+
+/* Rough strokes wander past the nominal rect, so the frame must not clip */
+.sketch-box-frame {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.sketch-box-body {
+  position: relative;
+}
+
+/* Frame drawn over its contents rather than behind — for outlining an image */
+.thumb-frame > .sketch-box-frame {
+  z-index: 1;
+}
+
+/* keep the chart's axis labels clear of the drawn frame */
+.chart-frame > .sketch-box-body {
+  padding: 2px 10px;
+}
+
+/* The map's background, repainted behind pages that replace the canvas.
+   Fixed, not absolute: the course page is the scroll container, and an absolute
+   child would scroll the pattern away with the content. */
+.bg-layer {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
 /* Course page: all versions of one course */
 .course-page {
   position: absolute;
@@ -328,6 +367,9 @@ body {
 .course-inner {
   max-width: 880px;
   margin: 0 auto;
+  /* sits above .bg-layer, which is positioned and would otherwise paint over it */
+  position: relative;
+  z-index: 1;
 }
 
 .course-page h1 {
@@ -381,20 +423,16 @@ body {
 }
 
 /* Hero: the recommended version, front and center */
-.hero {
+.hero > .sketch-box-body {
   display: grid;
   grid-template-columns: minmax(280px, 480px) 1fr;
   gap: 24px;
   align-items: center;
-  background: var(--island-bg);
-  border: 1px solid var(--island-border);
-  border-radius: 14px;
-  box-shadow: var(--island-shadow);
   padding: 18px;
 }
 
 @media (max-width: 720px) {
-  .hero {
+  .hero > .sketch-box-body {
     grid-template-columns: 1fr;
   }
 }
@@ -402,7 +440,6 @@ body {
 .hero-thumb {
   display: block;
   aspect-ratio: 16 / 9;
-  border-radius: 10px;
   overflow: hidden;
   background: var(--hover-bg);
 }
@@ -437,8 +474,9 @@ body {
 }
 
 .hero-info h2 {
-  font-size: 19px;
-  font-weight: 600;
+  font-family: var(--hand-font);
+  font-size: 22px;
+  font-weight: 400;
   margin-bottom: 4px;
 }
 
@@ -459,7 +497,8 @@ body {
   padding: 9px 16px;
   border: 1px solid var(--island-border);
   border-radius: 8px;
-  font-size: 13.5px;
+  font-family: var(--hand-font);
+  font-size: 15px;
   color: var(--ink);
   text-decoration: none;
   transition: background-color 0.2s ease, border-color 0.2s ease;
@@ -518,10 +557,6 @@ body {
 
 .views-chart {
   position: relative;
-  background: var(--island-bg);
-  border: 1px solid var(--island-border);
-  border-radius: 12px;
-  box-shadow: var(--island-shadow);
   padding: 8px 4px 2px;
 }
 
@@ -612,31 +647,61 @@ body {
   margin-top: 8px;
 }
 
+.textbooks {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+}
+
+.textbook > .sketch-box-body {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  padding: 12px 14px;
+}
+
+.textbook-title {
+  font-family: var(--hand-font);
+  font-size: 16px;
+}
+
+.textbook-authors {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.textbook-link {
+  margin-top: 5px;
+  align-self: flex-start;
+  font-size: 12px;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.textbook-link:hover {
+  text-decoration: underline;
+}
+
 .offerings {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   gap: 16px;
 }
 
-.offering {
+.offering > .sketch-box-body {
   display: flex;
   flex-direction: column;
-  background: var(--island-bg);
-  border: 1px solid var(--island-border);
-  border-radius: 10px;
-  box-shadow: var(--island-shadow);
-  overflow: hidden;
+  /* the frame is drawn, not clipped, so the thumbnail is inset like a map card */
+  padding: 10px;
+  gap: 10px;
 }
 
 .offering {
-  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease,
-    transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform 0.2s ease;
 }
 
 .offering:hover {
-  border-color: var(--accent);
   transform: translateY(-3px);
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.12);
 }
 
 .offering-thumb img {
@@ -677,12 +742,12 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10px;
-  padding: 10px 12px 12px;
 }
 
 .offering-label {
   flex: 1;
-  font-size: 13.5px;
+  font-family: var(--hand-font);
+  font-size: 15px;
 }
 
 .offering-star {
@@ -748,8 +813,8 @@ body {
 }
 
 .course-link-title {
-  font-size: 13px;
-  font-weight: 500;
+  font-family: var(--hand-font);
+  font-size: 15px;
 }
 
 .course-link-group {

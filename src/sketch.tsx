@@ -69,6 +69,8 @@ interface SketchBoxProps {
   seedKey: string;
   className?: string;
   fill?: string;
+  stroke?: string;
+  strokeWidth?: number;
   children: ReactNode;
 }
 
@@ -77,7 +79,9 @@ interface SketchBoxProps {
  * canvas. rough.js needs pixel geometry, so the frame trails the element's
  * measured size.
  */
-export function SketchBox({ seedKey, className, fill = 'var(--node-fill)', children }: SketchBoxProps) {
+export function SketchBox({
+  seedKey, className, fill = 'var(--node-fill)', stroke, strokeWidth, children,
+}: SketchBoxProps) {
   const ref = useRef<HTMLDivElement>(null);
   const [size, setSize] = useState({ w: 0, h: 0 });
 
@@ -106,6 +110,8 @@ export function SketchBox({ seedKey, className, fill = 'var(--node-fill)', child
             h={size.h - inset * 2}
             seed={seedFor(seedKey)}
             fill={fill}
+            stroke={stroke}
+            strokeWidth={strokeWidth}
             roughness={rough}
             bowing={Math.min(rough, 2)}
           />

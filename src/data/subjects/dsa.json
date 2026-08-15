@@ -4,6 +4,12 @@
       "title": "6.006 Intro to Algorithms",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Algorithms",
+          "authors": "Cormen, Leiserson, Rivest & Stein"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -37,6 +43,12 @@
       "title": "6.046 Design & Analysis of Algorithms",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Algorithms",
+          "authors": "Cormen, Leiserson, Rivest & Stein"
+        }
+      ],
       "pos": {
         "x": 400,
         "y": 60
@@ -94,6 +106,12 @@
       "title": "Algorithms 1",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Algorithms Illuminated",
+          "authors": "Tim Roughgarden"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 360
@@ -113,6 +131,12 @@
       "title": "Algorithms 2",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Algorithms Illuminated",
+          "authors": "Tim Roughgarden"
+        }
+      ],
       "pos": {
         "x": 400,
         "y": 360

@@ -205,7 +205,7 @@ export default function App() {
       {route.landing ? (
         <Landing onOpenPathway={(id) => navigate(id)} onOpenMap={() => navigate('root')} />
       ) : route.courseId ? (
-        <CoursePage courseId={route.courseId} onJumpToNode={jumpToNode} />
+        <CoursePage courseId={route.courseId} background={background} onJumpToNode={jumpToNode} />
       ) : (
         <Canvas
           groupId={route.groupId}

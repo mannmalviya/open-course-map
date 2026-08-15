@@ -36,6 +36,13 @@
     "nand2tetris-1": {
       "title": "From Nand to Tetris, Part 1",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "The Elements of Computing Systems",
+          "authors": "Nisan & Schocken",
+          "url": "https://www.nand2tetris.org/book"
+        }
+      ],
       "pos": {
         "x": 430,
         "y": 120
@@ -53,6 +60,13 @@
     "nand2tetris-2": {
       "title": "From Nand to Tetris, Part 2",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "The Elements of Computing Systems",
+          "authors": "Nisan & Schocken",
+          "url": "https://www.nand2tetris.org/book"
+        }
+      ],
       "pos": {
         "x": 780,
         "y": 120

@@ -4,6 +4,12 @@
       "title": "18.06 Linear Algebra",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Linear Algebra",
+          "authors": "Gilbert Strang"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120
@@ -30,6 +36,13 @@
       "title": "ENGR108 Applied Linear Algebra",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Introduction to Applied Linear Algebra",
+          "authors": "Boyd & Vandenberghe",
+          "url": "https://web.stanford.edu/~boyd/vmls/"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 360
@@ -49,6 +62,12 @@
       "title": "18.065 Matrix Methods",
       "university": "MIT",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Linear Algebra and Learning from Data",
+          "authors": "Gilbert Strang"
+        }
+      ],
       "pos": {
         "x": 400,
         "y": 120

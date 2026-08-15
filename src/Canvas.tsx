@@ -31,6 +31,57 @@ function cellSize(k: number): number {
   return cell;
 }
 
+interface BgPatternProps {
+  id: string;
+  background: Background;
+  cell: number;
+  /** Pan/zoom applied to the pattern; identity off the canvas */
+  transform?: string;
+  k?: number;
+}
+
+/** The grid/dot fill, shared so the course page paints the same background as the map. */
+function BgPattern({ id, background, cell, transform, k = 1 }: BgPatternProps) {
+  return (
+    <>
+      <defs>
+        <pattern
+          id={id}
+          patternUnits="userSpaceOnUse"
+          width={cell}
+          height={cell}
+          patternTransform={transform}
+        >
+          {background === 'grid' ? (
+            <path
+              d={`M ${cell / 2} 0 V ${cell} M 0 ${cell / 2} H ${cell}`}
+              fill="none"
+              stroke="var(--grid-line)"
+              strokeWidth={1 / k}
+            />
+          ) : (
+            <circle cx={cell / 2} cy={cell / 2} r={1.3 / k} fill="var(--dot)" />
+          )}
+        </pattern>
+      </defs>
+      <rect width="100%" height="100%" fill={`url(#${id})`} />
+    </>
+  );
+}
+
+/**
+ * Full-bleed background for pages that replace the canvas, so navigating into a
+ * course does not silently drop the user's background setting.
+ */
+export function BackgroundLayer({ background }: { background: Background }) {
+  if (background === 'plain') return null;
+  return (
+    <svg className="bg-layer" aria-hidden="true">
+      <BgPattern id="page-bg" background={background} cell={20} />
+    </svg>
+  );
+}
+
 export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJumpToNode }: CanvasProps) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [t, setT] = useState<Transform>({ x: 0, y: 0, k: 1 });
@@ -147,29 +198,13 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
       onClickCapture={onClickCapture}
     >
       {background !== 'plain' && (
-        <>
-          <defs>
-            <pattern
-              id="canvas-bg"
-              patternUnits="userSpaceOnUse"
-              width={cell}
-              height={cell}
-              patternTransform={`translate(${t.x} ${t.y}) scale(${t.k})`}
-            >
-              {background === 'grid' ? (
-                <path
-                  d={`M ${cell / 2} 0 V ${cell} M 0 ${cell / 2} H ${cell}`}
-                  fill="none"
-                  stroke="var(--grid-line)"
-                  strokeWidth={1 / t.k}
-                />
-              ) : (
-                <circle cx={cell / 2} cy={cell / 2} r={1.3 / t.k} fill="var(--dot)" />
-              )}
-            </pattern>
-          </defs>
-          <rect width="100%" height="100%" fill="url(#canvas-bg)" />
-        </>
+        <BgPattern
+          id="canvas-bg"
+          background={background}
+          cell={cell}
+          transform={`translate(${t.x} ${t.y}) scale(${t.k})`}
+          k={t.k}
+        />
       )}
       <g transform={`translate(${t.x} ${t.y}) scale(${t.k})`}>
         {edges.map((e, i) => {

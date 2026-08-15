@@ -23,6 +23,12 @@
       "title": "General Relativity",
       "university": "Stanford",
       "level": "grad",
+      "textbooks": [
+        {
+          "title": "General Relativity: The Theoretical Minimum",
+          "authors": "Susskind & Cabannes"
+        }
+      ],
       "pos": {
         "x": 430,
         "y": 60
@@ -68,6 +74,12 @@
       "title": "Special Relativity",
       "university": "Stanford",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Special Relativity and Classical Field Theory",
+          "authors": "Susskind & Friedman"
+        }
+      ],
       "pos": {
         "x": 780,
         "y": 60

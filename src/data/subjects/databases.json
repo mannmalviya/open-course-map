@@ -4,6 +4,12 @@
       "title": "15-445 Intro to Database Systems",
       "university": "CMU",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Database System Concepts",
+          "authors": "Silberschatz, Korth & Sudarshan"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

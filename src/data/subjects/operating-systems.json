@@ -4,6 +4,12 @@
       "title": "CS162 Operating Systems",
       "university": "UC Berkeley",
       "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Operating Systems: Principles and Practice",
+          "authors": "Anderson & Dahlin"
+        }
+      ],
       "pos": {
         "x": 80,
         "y": 120

@@ -1,42 +1,52 @@
 {
   "lectures": [
     {
+      "id": "VMj-3S1tku0",
       "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
-      "views": 3800000
+      "views": 3900000
     },
     {
+      "id": "PaCmpygFfXo",
       "title": "The spelled-out intro to language modeling: building makemore",
       "views": 1200000
     },
     {
+      "id": "TCH_1BHY58I",
       "title": "Building makemore Part 2: MLP",
-      "views": 573000
+      "views": 575000
     },
     {
+      "id": "P6sfmUTpUmc",
       "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
-      "views": 533000
+      "views": 535000
     },
     {
+      "id": "q8SA3rM6ckI",
       "title": "Building makemore Part 4: Becoming a Backprop Ninja",
-      "views": 365000
+      "views": 366000
     },
     {
+      "id": "t3YJ5hKiMQ0",
       "title": "Building makemore Part 5: Building a WaveNet",
-      "views": 288000
+      "views": 289000
     },
     {
+      "id": "kCc8FmEb1nY",
       "title": "Let's build GPT: from scratch, in code, spelled out.",
       "views": 7600000
     },
     {
+      "id": "bZQun8Y4L2A",
       "title": "State of GPT | BRK216HFS",
       "views": 774000
     },
     {
+      "id": "zduSFxRajkE",
       "title": "Let's build the GPT Tokenizer",
       "views": 1100000
     },
     {
+      "id": "l8pRSuU81PU",
       "title": "Let's reproduce GPT-2 (124M)",
       "views": 1100000
     }

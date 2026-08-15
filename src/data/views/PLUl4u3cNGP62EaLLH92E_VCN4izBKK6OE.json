@@ -1,70 +1,87 @@
 {
   "lectures": [
     {
+      "id": "0YqjeqLhDDE",
       "title": "Lecture 1 Part 1: Introduction and Motivation",
       "views": 162000
     },
     {
+      "id": "5DUQ3-Y_gX4",
       "title": "Lecture 1 Part 2: Derivatives as Linear Operators",
       "views": 30000
     },
     {
+      "id": "v8EIBpBEC6A",
       "title": "Lecture 2 Part 1: Derivatives in Higher Dimensions: Jacobians and Matrix Functions",
       "views": 24000
     },
     {
+      "id": "DH118YqIgow",
       "title": "Lecture 2 Part 2: Vectorization of Matrix Functions",
       "views": 13000
     },
     {
+      "id": "BKo57m-uU1k",
       "title": "Lecture 3 Part 1: Kronecker Products and Jacobians",
       "views": 16000
     },
     {
+      "id": "gtG62xaelPE",
       "title": "Lecture 3 Part 2: Finite-Difference Approximations",
       "views": 8100
     },
     {
+      "id": "qWYtrT4TeIs",
       "title": "Lecture 4 Part 1: Gradients and Inner Products in Other Vector Spaces",
-      "views": 8900
+      "views": 9000
     },
     {
+      "id": "lBfqvBJaFmc",
       "title": "Lecture 4 Part 2: Nonlinear Root Finding, Optimization, and Adjoint Gradient Methods",
       "views": 8700
     },
     {
+      "id": "66Hc7vnDQ8o",
       "title": "Lecture 5 Part 1: Derivative of Matrix Determinant and Inverse",
-      "views": 15000
+      "views": 16000
     },
     {
+      "id": "5F6roh4pmJU",
       "title": "Lecture 5 Part 2: Forward Automatic Differentiation via Dual Numbers",
       "views": 12000
     },
     {
+      "id": "r9_5dxtDTOk",
       "title": "Lecture 5 Part 3: Differentiation on Computational Graphs",
       "views": 14000
     },
     {
+      "id": "cvBHoCAUkD4",
       "title": "Lecture 6 Part 1: Adjoint Differentiation of ODE Solutions",
       "views": 5600
     },
     {
+      "id": "tTUT7YuSMoc",
       "title": "Lecture 6 Part 2: Calculus of Variations and Gradients of Functionals",
       "views": 8600
     },
     {
+      "id": "feU1kISxPDM",
       "title": "Lecture 7 Part 1: Derivatives of Random Functions",
-      "views": 5000
+      "views": 5100
     },
     {
+      "id": "PkpRIStmfrE",
       "title": "Lecture 7 Part 2: Second Derivatives, Bilinear Forms, and Hessian Matrices",
       "views": 4400
     },
     {
+      "id": "v6w8hVZPt0o",
       "title": "Lecture 8 Part 1: Derivatives of Eigenproblems",
-      "views": 4300
+      "views": 4400
     },
     {
+      "id": "43kl6wi1H6k",
       "title": "Lecture 8 Part 2: Automatic Differentiation on Computational Graphs",
       "views": 6900
     }

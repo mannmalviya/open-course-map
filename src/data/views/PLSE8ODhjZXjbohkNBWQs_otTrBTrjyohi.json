@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "oeYBdghaIjc",
       "title": "01 - Course Introduction & Relational Model (CMU Databases Systems / Fall 2019)",
       "views": 246000
     },
     {
+      "id": "6VCHuLqfmV8",
       "title": "02 - Advanced SQL (CMU Databases Systems / Fall 2019)",
       "views": 74000
     },
     {
+      "id": "1D81vXw2T_w",
       "title": "03 - Database Storage I (CMU Databases Systems / Fall 2019)",
       "views": 80000
     },
     {
+      "id": "YWRYEXNy6IE",
       "title": "04 - Database Storage II (CMU Databases Systems / Fall 2019)",
       "views": 41000
     },
     {
+      "id": "uZ3-aeFYE5k",
       "title": "05 - Buffer Pools + Memory Management (CMU Databases Systems / Fall 2019)",
       "views": 44000
     },
     {
+      "id": "j5X1bBPulAk",
       "title": "06 - Hash Tables (CMU Databases Systems / Fall 2019)",
       "views": 34000
     },
     {
+      "id": "JHZFc4hMGhk",
       "title": "07 - Tree Indexes I (CMU Databases Systems / Fall 2019)",
       "views": 34000
     },
     {
+      "id": "Y_h1bH2FJ7M",
       "title": "08 - Tree Indexes II (CMU Databases Systems / Fall 2019)",
       "views": 20000
     },
     {
+      "id": "x5tqzyf0zrk",
       "title": "09 - Multi-Threaded Index Concurrency Control  (CMU Databases Systems / Fall 2019)",
       "views": 18000
     },
     {
+      "id": "GjzMFrTYEfo",
       "title": "10 - Sorting & Aggregations  (CMU Databases Systems / Fall 2019)",
       "views": 19000
     },
     {
+      "id": "nUwT7PEQ49o",
       "title": "11 - Join Algorithms  (CMU Databases Systems / Fall 2019)",
       "views": 21000
     },
     {
+      "id": "L5NhM7kw6Eg",
       "title": "12 - Query Execution I (CMU Databases Systems / Fall 2019)",
       "views": 19000
     },
     {
+      "id": "XRLrHiT825U",
       "title": "13 - Query Execution II (CMU Databases Systems / Fall 2019)",
       "views": 12000
     },
     {
+      "id": "28hSVkOs6x8",
       "title": "14 - Query Planning & Optimization I (CMU Databases Systems / Fall 2019)",
       "views": 15000
     },
     {
+      "id": "cJ2fZIRkRVE",
       "title": "15 - Query Planning & Optimization II (CMU Databases Systems / Fall 2019)",
       "views": 11000
     },
     {
+      "id": "mYFo1aE47xE",
       "title": "16 - Concurrency Control Theory (CMU Databases Systems / Fall 2019)",
       "views": 23000
     },
     {
+      "id": "0N--mEuDmxY",
       "title": "17 - Two-Phase Locking Concurrency Control (CMU Databases Systems / Fall 2019)",
       "views": 14000
     },
     {
+      "id": "cPxJEt2to2A",
       "title": "18 - Timestamp Ordering Concurrency Control (CMU Databases Systems / Fall 2019)",
       "views": 11000
     },
     {
+      "id": "E4u4ogqfEIA",
       "title": "19 - Multi-Version Concurrency Control (CMU Databases Systems / Fall 2019)",
       "views": 15000
     },
     {
+      "id": "hh21I1702OY",
       "title": "20 - Database Logging Schemes (CMU Databases Systems / Fall 2019)",
       "views": 13000
     },
     {
+      "id": "4VGkRXVM5fk",
       "title": "21 - ARIES Database Recovery (CMU Databases Systems / Fall 2019)",
       "views": 12000
     },
     {
+      "id": "0_m5gPfzEYQ",
       "title": "22 - Introduction to Distributed Databases (CMU Databases Systems / Fall 2019)",
       "views": 30000
     },
     {
+      "id": "iqWQy-VEs7Q",
       "title": "23 - Distributed OLTP Databases (CMU Databases Systems / Fall 2019)",
       "views": 12000
     },
     {
+      "id": "dPMc7FZ3Gqo",
       "title": "24 - Distributed OLAP Databases (CMU Databases Systems / Fall 2019)",
       "views": 11000
     },
     {
+      "id": "sE_JEeHQChY",
       "title": "25 - Shasank Chavan (Oracle In-Memory Databases) (CMU Databases Systems / Fall 2019)",
       "views": 8400
     },
     {
+      "id": "XB53N2eIAig",
       "title": "26 - Systems Potpourri (Facebook Scuba, MongoDB, CockroachDB) (CMU Databases Systems / Fall 2019)",
       "views": 9900
     }

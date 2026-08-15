@@ -1,66 +1,82 @@
 {
   "lectures": [
     {
+      "id": "WsvFL-LjA6U",
       "title": "Stanford CS234 Reinforcement Learning I Introduction to Reinforcement Learning I 2024 I Lecture 1",
-      "views": 170000
+      "views": 171000
     },
     {
+      "id": "gHdsUUGcBC0",
       "title": "Stanford CS234 Reinforcement Learning I Tabular MDP Planning I 2024 I Lecture 2",
       "views": 59000
     },
     {
+      "id": "jjq51TRNVvk",
       "title": "Stanford CS234 Reinforcement Learning I Policy Evaluation I 2024 I Lecture 3",
       "views": 28000
     },
     {
+      "id": "b_wvosA70f8",
       "title": "Stanford CS234 Reinforcement Learning I Q learning and Function Approximation I 2024 I Lecture 4",
       "views": 21000
     },
     {
+      "id": "L6OVEmV3NcE",
       "title": "Stanford CS234 Reinforcement Learning I Policy Search 1 I 2024 I Lecture 5",
       "views": 15000
     },
     {
+      "id": "8PwvNQ5WS-o",
       "title": "Stanford CS234 Reinforcement Learning I Policy Search 2 I 2024 I Lecture 6",
       "views": 12000
     },
     {
+      "id": "4ngb0IZTg8I",
       "title": "Stanford CS234 Reinforcement Learning I Policy Search 3 I 2024 I Lecture 7",
       "views": 12000
     },
     {
+      "id": "IEbuJtjqtMU",
       "title": "Stanford CS234 Reinforcement Learning I Offline RL 1 I 2024 I Lecture 8",
-      "views": 9200
+      "views": 9300
     },
     {
+      "id": "Q7rl8ovBWwQ",
       "title": "Stanford CS234 I Guest Lecture on DPO: Rafael Rafailov, Archit Sharma, Eric Mitchell I Lecture 9",
       "views": 13000
     },
     {
+      "id": "F6APGIAm5fw",
       "title": "Stanford CS234 Reinforcement Learning I Offline RL 3 I 2024 I Lecture 10",
       "views": 7100
     },
     {
+      "id": "sqYii3nd78w",
       "title": "Stanford CS234 Reinforcement Learning I Exploration 1 I 2024 I Lecture 11",
-      "views": 7500
+      "views": 7600
     },
     {
+      "id": "gFJNsfg_35E",
       "title": "Stanford CS234 Reinforcement Learning I Exploration 2 I 2024 I Lecture 12",
-      "views": 5800
+      "views": 5900
     },
     {
+      "id": "pc7oayCSZmQ",
       "title": "Stanford CS234 Reinforcement Learning I Exploration 3 I 2024 I Lecture 13",
       "views": 5100
     },
     {
+      "id": "UgANzoWc0nc",
       "title": "Stanford CS234 Reinforcement Learning I Multi-Agent Game Playing I 2024 I Lecture 14",
-      "views": 8200
+      "views": 8300
     },
     {
+      "id": "FOlPpjNbHjE",
       "title": "Stanford CS234 Reinforcement Learning I Emma Brunskill & Dan Webber I 2024 I Lecture 15",
       "views": 7500
     },
     {
+      "id": "eenJzay5aLo",
       "title": "Stanford CS234 Reinforcement Learning I Value Alignment I 2024 I Lecture 16",
       "views": 10000
     }

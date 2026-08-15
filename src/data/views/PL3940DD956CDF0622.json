@@ -1,150 +1,187 @@
 {
   "lectures": [
     {
+      "id": "McLq1hEq3UY",
       "title": "Lecture 1 | Convex Optimization I (Stanford)",
       "views": 746000
     },
     {
+      "id": "P3W_wFZ2kUo",
       "title": "Lecture 2 | Convex Optimization I (Stanford)",
       "views": 287000
     },
     {
+      "id": "kcOodzDGV4c",
       "title": "Lecture 3 | Convex Optimization I (Stanford)",
       "views": 220000
     },
     {
+      "id": "lEN2xvTTr0E",
       "title": "Lecture 4 | Convex Optimization I (Stanford)",
       "views": 151000
     },
     {
+      "id": "Ry5i8DGZrJs",
       "title": "Lecture 5 | Convex Optimization I (Stanford)",
       "views": 123000
     },
     {
+      "id": "-T9cloGG_80",
       "title": "Lecture 6 | Convex Optimization I (Stanford)",
       "views": 89000
     },
     {
+      "id": "VxQ8VHm1Ci4",
       "title": "Lecture 7 | Convex Optimization I",
       "views": 88000
     },
     {
+      "id": "FJVmflArCXc",
       "title": "Lecture 8 | Convex Optimization I (Stanford)",
       "views": 128000
     },
     {
+      "id": "3Q9mMluX3Gw",
       "title": "Lecture 9 | Convex Optimization I (Stanford)",
       "views": 79000
     },
     {
+      "id": "gH13lxieYFU",
       "title": "Lecture 10 | Convex Optimization I (Stanford)",
       "views": 53000
     },
     {
+      "id": "GxK04B9SVg4",
       "title": "Lecture 11 | Convex Optimization I (Stanford)",
       "views": 41000
     },
     {
+      "id": "mNzu42FrlHo",
       "title": "Lecture 12 | Convex Optimization I (Stanford)",
       "views": 35000
     },
     {
+      "id": "FkPLteYMK40",
       "title": "Lecture 13 | Convex Optimization I (Stanford)",
       "views": 34000
     },
     {
+      "id": "ZmvQ7GQ_gPg",
       "title": "Lecture 14 | Convex Optimization I (Stanford)",
       "views": 33000
     },
     {
+      "id": "sTCtkkqrY8A",
       "title": "Lecture 15 | Convex Optimization I (Stanford)",
       "views": 54000
     },
     {
+      "id": "Ap8LGbCVx4I",
       "title": "Lecture 16 | Convex Optimization I (Stanford)",
       "views": 38000
     },
     {
+      "id": "StlHUwd_AgM",
       "title": "Lecture 17 | Convex Optimization I (Stanford)",
       "views": 35000
     },
     {
+      "id": "oMRVDILkpUI",
       "title": "Lecture 18 | Convex Optimization I (Stanford)",
       "views": 36000
     },
     {
+      "id": "HZW-9Ar0iVc",
       "title": "Lecture 19 | Convex Optimization I (Stanford)",
       "views": 29000
     },
     {
+      "id": "U3lJAObbMFI",
       "title": "Lecture 1 | Convex Optimization II (Stanford)",
       "views": 67000
     },
     {
+      "id": "ZniZaKCTktI",
       "title": "Lecture 2 | Convex Optimization II (Stanford)",
       "views": 22000
     },
     {
+      "id": "B51GgGCHBRk",
       "title": "Lecture 3 | Convex Optimization II (Stanford)",
       "views": 19000
     },
     {
+      "id": "kE3wtUaQzpA",
       "title": "Lecture 4 | Convex Optimization II (Stanford)",
       "views": 15000
     },
     {
+      "id": "fhAFzmnFVqU",
       "title": "Lecture 5 | Convex Optimization II (Stanford)",
       "views": 15000
     },
     {
+      "id": "N3vJOq5ZmKc",
       "title": "Lecture 6 | Convex Optimization II (Stanford)",
       "views": 14000
     },
     {
+      "id": "t0MmgkV4YrA",
       "title": "Lecture 7 | Convex Optimization II (Stanford)",
       "views": 16000
     },
     {
+      "id": "dLp2m9ae_MQ",
       "title": "Lecture 8 | Convex Optimization II (Stanford)",
       "views": 15000
     },
     {
+      "id": "Kwli6FkYQYY",
       "title": "Lecture 9 | Convex Optimization II (Stanford)",
       "views": 17000
     },
     {
+      "id": "rAGMDhz23Aw",
       "title": "Lecture 10 | Convex Optimization II (Stanford)",
       "views": 11000
     },
     {
+      "id": "upMWYV7S1Y0",
       "title": "Lecture 11 | Convex Optimization II (Stanford)",
       "views": 15000
     },
     {
+      "id": "cHVpwyYU_LY",
       "title": "Lecture 12 | Convex Optimization II (Stanford)",
       "views": 13000
     },
     {
+      "id": "E4gl91l0l40",
       "title": "Lecture 13 | Convex Optimization II (Stanford)",
       "views": 13000
     },
     {
+      "id": "QsfQAPdxeyw",
       "title": "Lecture 14 | Convex Optimization II (Stanford)",
       "views": 15000
     },
     {
+      "id": "DsXzUU691ts",
       "title": "Lecture 15 | Convex Optimization II (Stanford)",
       "views": 11000
     },
     {
+      "id": "1A734g96Npk",
       "title": "Lecture 16 | Convex Optimization II (Stanford)",
       "views": 23000
     },
     {
+      "id": "TzY09ZfmOUI",
       "title": "Lecture 17 | Convex Optimization II (Stanford)",
       "views": 16000
     },
     {
+      "id": "ORo5IU9a55s",
       "title": "Lecture 18 | Convex Optimization II (Stanford)",
       "views": 24000
     }

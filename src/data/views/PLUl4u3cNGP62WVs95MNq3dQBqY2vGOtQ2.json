@@ -1,402 +1,502 @@
 {
   "lectures": [
     {
+      "id": "R0tFDXBZvKI",
       "title": "1.2.1 What is Information?",
       "views": 96000
     },
     {
+      "id": "qyBuzeUYs2M",
       "title": "1.2.2 Quantifying Information",
-      "views": 27000
+      "views": 28000
     },
     {
+      "id": "7ufoYYj15cU",
       "title": "1.2.3 Entropy",
       "views": 19000
     },
     {
+      "id": "uh5zxZCp70c",
       "title": "1.2.4 Encoding",
       "views": 14000
     },
     {
+      "id": "cVEj5p9GiBA",
       "title": "1.2.5 Fixed-length Encodings",
       "views": 18000
     },
     {
+      "id": "RbJV-g9Lob8",
       "title": "1.2.6 Signed Integers: 2's complement",
       "views": 21000
     },
     {
+      "id": "wPwWtFMkxLo",
       "title": "1.2.7 Variable-length Encoding",
       "views": 28000
     },
     {
+      "id": "f866lUTRXE4",
       "title": "1.2.8 Huffman's Algorithm",
       "views": 11000
     },
     {
+      "id": "JuvrTQapI_k",
       "title": "1.2.9 Huffman Code",
-      "views": 8500
+      "views": 8600
     },
     {
+      "id": "4fTOrb1yBFU",
       "title": "1.2.10 Error Detection and Correction",
       "views": 9100
     },
     {
+      "id": "FkFYxaWhn8g",
       "title": "1.2.11 Error Correction",
       "views": 6300
     },
     {
+      "id": "fg6QYiiF_c8",
       "title": "1.2.12 Worked Examples: Quantifying Information",
       "views": 5600
     },
     {
+      "id": "m_G3z-C1C2g",
       "title": "1.2.12 Worked Examples: Two's Complement Representation",
       "views": 71000
     },
     {
+      "id": "ydboHy_yNts",
       "title": "1.2.12 Worked Examples: Two's Complement Addition",
       "views": 109000
     },
     {
+      "id": "cTU43KgGLFw",
       "title": "1.2.12 Worked Examples: Huffman Encoding",
       "views": 16000
     },
     {
+      "id": "2IQxigpPMns",
       "title": "1.2.12 Worked Examples: Error Correction",
       "views": 4300
     },
     {
+      "id": "pUmMZqwzZ10",
       "title": "2.2.1 Concrete Encoding of Information",
       "views": 8400
     },
     {
+      "id": "AlT3zLxcHmw",
       "title": "2.2.2 Analog Signaling",
       "views": 6800
     },
     {
+      "id": "OaT9zGXjAmQ",
       "title": "2.2.3 Using Voltages Digitally",
       "views": 5700
     },
     {
+      "id": "WXlcxHX0R_Y",
       "title": "2.2.4 Combinational Devices",
       "views": 6400
     },
     {
+      "id": "SlwUHJ4kgjI",
       "title": "2.2.5 Dealing with Noise",
       "views": 5700
     },
     {
+      "id": "CLiy3m2Jt-M",
       "title": "2.2.6 Voltage Transfer Characteristic",
       "views": 12000
     },
     {
+      "id": "qY5Rr-PTMMc",
       "title": "2.2.7 VTC Example",
       "views": 5600
     },
     {
+      "id": "Bzqpuuoq4bI",
       "title": "2.2.8 Worked Examples: The Static Discipline",
       "views": 5900
     },
     {
+      "id": "wP-ODG_e1i0",
       "title": "3.2.1 MOSFET: Physical View",
       "views": 11000
     },
     {
+      "id": "xvojobO-1Hw",
       "title": "3.2.2 MOSFET: Electrical View",
-      "views": 8200
+      "views": 8300
     },
     {
+      "id": "2JxUXSG9rKo",
       "title": "3.2.3 CMOS Recipe",
       "views": 6400
     },
     {
+      "id": "Fi62zvlY2o4",
       "title": "3.2.4 Beyond Inverters",
       "views": 4700
     },
     {
+      "id": "J5Mg_tqT18g",
       "title": "3.2.5 CMOS Gates",
       "views": 6300
     },
     {
+      "id": "br3mu-IK9N8",
       "title": "3.2.6 CMOS Timing",
       "views": 6300
     },
     {
+      "id": "EnmOjVUSfdY",
       "title": "3.2.7 Lenient Gates",
       "views": 4100
     },
     {
+      "id": "uUKJPnwlbRI",
       "title": "3.2.8 Worked Examples: CMOS Functions",
-      "views": 3300
+      "views": 3400
     },
     {
+      "id": "7XEUB_dTaK0",
       "title": "3.2.8 Worked Examples: CMOS Logic Gates",
       "views": 61000
     },
     {
+      "id": "1eIFnKOZ-oY",
       "title": "4.2.1 Sum of Products",
       "views": 17000
     },
     {
+      "id": "3YjMdixww4c",
       "title": "4.2.2 Useful Logic Gates",
       "views": 7200
     },
     {
+      "id": "Z8jR--1_2e4",
       "title": "4.2.3 Inverting Logic",
-      "views": 5400
+      "views": 5500
     },
     {
+      "id": "r6Tk1-jZxzg",
       "title": "4.2.4 Logic Simplification",
       "views": 5700
     },
     {
+      "id": "VdRC2raV8fA",
       "title": "4.2.5 Karnaugh Maps",
       "views": 8200
     },
     {
+      "id": "BZX8qSrMNyo",
       "title": "4.2.6 Multiplexers",
       "views": 9800
     },
     {
+      "id": "58edfKe-LO8",
       "title": "4.2.7 Read-only Memories",
       "views": 6100
     },
     {
+      "id": "VHVsCE9XmQk",
       "title": "4.2.8 Worked Examples: Truth Tables",
       "views": 8600
     },
     {
+      "id": "zZfr7Zqfqm4",
       "title": "4.2.8 Worked Examples: Gates and Boolean Logic",
       "views": 11000
     },
     {
+      "id": "J6rzqMwDUmM",
       "title": "4.2.8 Worked Examples: Combinational Logic Timing",
       "views": 11000
     },
     {
+      "id": "tjIFsdM-hBA",
       "title": "4.2.8 Worked Examples: Karnaugh Maps",
       "views": 4500
     },
     {
+      "id": "z3DEmSG8kPk",
       "title": "5.2.1 Digital State",
       "views": 7200
     },
     {
+      "id": "LiO-HMhxAtY",
       "title": "5.2.2 D Latch",
       "views": 7700
     },
     {
+      "id": "CcInkh1mKZA",
       "title": "5.2.3 D Register",
       "views": 5100
     },
     {
+      "id": "VkVe_wNU6RI",
       "title": "5.2.4 D Register Timing",
       "views": 5300
     },
     {
+      "id": "3LQUrpSADx8",
       "title": "5.2.5 Sequential Circuit Timing",
       "views": 10000
     },
     {
+      "id": "TSmui37yrL8",
       "title": "5.2.6 Timing Example",
       "views": 3500
     },
     {
+      "id": "d4Auh7uWEjY",
       "title": "5.2.7 Worked Example 1",
       "views": 2500
     },
     {
+      "id": "LN0k-boDvOk",
       "title": "5.2.8 Worked Example 2",
       "views": 2100
     },
     {
+      "id": "5mJd--JCwBI",
       "title": "6.2.1 Finite State Machines",
       "views": 11000
     },
     {
+      "id": "UDow47-q5KI",
       "title": "6.2.2 State Transition Diagrams",
       "views": 25000
     },
     {
+      "id": "aheyquidLO8",
       "title": "6.2.3 FSM States",
       "views": 4600
     },
     {
+      "id": "luHnuoDkAtU",
       "title": "6.2.4 Roboant Example",
       "views": 4100
     },
     {
+      "id": "Ht_tyuAWmpM",
       "title": "6.2.5 Equivalent States; Implementation",
       "views": 4500
     },
     {
+      "id": "ZPpuDMk9BOU",
       "title": "6.2.6 Synchronization and Metastability",
       "views": 13000
     },
     {
+      "id": "Sj18t7hdbt8",
       "title": "6.2.7 Worked Examples: FSM States and Transitions",
       "views": 7600
     },
     {
+      "id": "Z3-WzUhl9nQ",
       "title": "6.2.7 Worked Examples: FSM Implementation",
       "views": 6600
     },
     {
+      "id": "3HIV4MnLGCw",
       "title": "7.2.1 Latency and Throughput",
       "views": 22000
     },
     {
+      "id": "56QUjMD3xoI",
       "title": "7.2.2 Pipelined Circuits",
       "views": 8200
     },
     {
+      "id": "LW-8wbtPQIE",
       "title": "7.2.3 Pipelining Methodology",
-      "views": 8800
+      "views": 8900
     },
     {
+      "id": "MpJe7SMzi0E",
       "title": "7.2.4 Circuit Interleaving",
       "views": 4000
     },
     {
+      "id": "63QXdU9pliI",
       "title": "7.2.5 Self-timed Circuits",
       "views": 6100
     },
     {
+      "id": "RiD2xxcrsxg",
       "title": "7.2.6 Control Structures",
       "views": 2100
     },
     {
+      "id": "VdLJMPppocU",
       "title": "7.2.7 Worked Examples: Pipelining",
       "views": 2500
     },
     {
+      "id": "hmPiuS0PqCs",
       "title": "7.2.7 Worked Examples: Pipelining 2",
-      "views": 2200
+      "views": 2300
     },
     {
+      "id": "9M0dd86FUoA",
       "title": "8.2.1 Power Dissipation",
       "views": 4000
     },
     {
+      "id": "S2c7pAFdP84",
       "title": "8.2.2 Carry-select Adders",
       "views": 22000
     },
     {
+      "id": "i1tUBZLWD3o",
       "title": "8.2.3 Carry-lookahead Adders",
       "views": 19000
     },
     {
+      "id": "0OX-DkYPB3c",
       "title": "8.2.4 Binary Multiplication",
       "views": 30000
     },
     {
+      "id": "r3c31nh_iOc",
       "title": "8.2.5 Multiplier Tradeoffs",
       "views": 3800
     },
     {
+      "id": "UuUPG_amkWc",
       "title": "8.2.6 Part 1 Wrap-up",
       "views": 1900
     },
     {
+      "id": "oi1Jb-dGsWU",
       "title": "9.2.1 Datapaths and FSMs",
       "views": 14000
     },
     {
+      "id": "781P9Ixmi0g",
       "title": "9.2.2 Programmable Datapaths",
       "views": 5000
     },
     {
+      "id": "H0xGKKpKaRE",
       "title": "9.2.3 The von Neumann Model",
       "views": 95000
     },
     {
+      "id": "JSm74ghAvJc",
       "title": "9.2.4 Storage",
       "views": 6600
     },
     {
+      "id": "yRvgtY49eXE",
       "title": "9.2.5 ALU Instructions",
       "views": 7000
     },
     {
+      "id": "185WS_ZzobA",
       "title": "9.2.6 Constant Operands",
       "views": 3000
     },
     {
+      "id": "S1PUUyVdC9M",
       "title": "9.2.7 Memory Access",
       "views": 3300
     },
     {
+      "id": "m42nkRJwCKY",
       "title": "9.2.8 Branches",
       "views": 2600
     },
     {
+      "id": "3VGZANOQXAM",
       "title": "9.2.9 Jumps",
       "views": 2200
     },
     {
+      "id": "O6yw1qkECig",
       "title": "9.2.10 Worked Examples: Programmable Architectures",
       "views": 2100
     },
     {
+      "id": "j35fYO_ASeY",
       "title": "10.2.1 Intro to Assembly Language",
-      "views": 12000
+      "views": 13000
     },
     {
+      "id": "CbcJFO6VtsY",
       "title": "10.2.2 Symbols and Labels",
       "views": 3600
     },
     {
+      "id": "ffgPLOLPCYU",
       "title": "10.2.3 Instruction Macros",
       "views": 2600
     },
     {
+      "id": "Ouk7t7ViTfI",
       "title": "10.2.4 Assembly Wrap-up",
       "views": 1900
     },
     {
+      "id": "vJqBBh2XFTM",
       "title": "10.2.5 Models of Computation",
-      "views": 8900
+      "views": 9000
     },
     {
+      "id": "1shiN7898cc",
       "title": "10.2.6 Computability, Universality",
       "views": 2100
     },
     {
+      "id": "qSLkk5o1Mc8",
       "title": "10.2.7 Uncomputable Functions",
       "views": 3400
     },
     {
+      "id": "M278hILkZlE",
       "title": "10.2.8 Worked Examples: Beta Assembly",
       "views": 2400
     },
     {
+      "id": "F5-87RM_zHA",
       "title": "11.2.1 Iterpretation and Compilation",
       "views": 9300
     },
     {
+      "id": "Sqhb-TGC4aQ",
       "title": "11.2.2 Compiling Expressions",
       "views": 3500
     },
     {
+      "id": "P_YdbHBRzC4",
       "title": "11.2.3 Compiling Statements",
       "views": 2200
     },
     {
+      "id": "-bWtembpQjU",
       "title": "11.2.4 Compiler Frontend",
       "views": 7700
     },
     {
+      "id": "e8eEyYmLx98",
       "title": "11.2.5 Optimization and Code Generation",
       "views": 9000
     },
     {
+      "id": "5BRcFgMJLCs",
       "title": "11.2.6 Worked Examples",
       "views": 2100
     },
     {
+      "id": "ZUWb9HHXGHM",
       "title": "12.2.1 Procedures",
       "views": 2900
     },
     {
+      "id": "3eQh_W8YF_g",
       "title": "12.2.2 Activation Records and Stacks",
       "views": 18000
     }

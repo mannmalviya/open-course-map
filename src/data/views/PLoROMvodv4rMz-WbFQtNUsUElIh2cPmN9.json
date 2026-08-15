@@ -1,218 +1,272 @@
 {
   "lectures": [
     {
+      "id": "oR6G1MUMveE",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 1 - Introduction",
       "views": 102000
     },
     {
+      "id": "vVspolIKPgc",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 2 - vector notation",
       "views": 46000
     },
     {
+      "id": "wlPiJZ1DQjs",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 3 - vector examples",
       "views": 25000
     },
     {
+      "id": "Ih3rIcBnnSg",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 4-addition & scalar mult.",
       "views": 23000
     },
     {
+      "id": "YiCAeeBEo50",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 5 - VMLS inner product",
       "views": 18000
     },
     {
+      "id": "wqcknO3fArY",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 6 - VMLS complexity",
       "views": 15000
     },
     {
+      "id": "0rOEhJlNzhs",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 7 - VMLS linear functions",
       "views": 19000
     },
     {
+      "id": "H0jR5nqueWk",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 8-VMLS taylor approx & reg",
       "views": 15000
     },
     {
+      "id": "odR39SYhUH0",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 9 - VMLS norm",
       "views": 14000
     },
     {
+      "id": "w77MlgsylqY",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 10 - VMLS distance",
       "views": 11000
     },
     {
+      "id": "Gdl92kGR8Ho",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 11-VMLS std. deviation",
       "views": 10000
     },
     {
+      "id": "4shS22XxZYw",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 12 - VMLS angle",
       "views": 10000
     },
     {
+      "id": "liaZ_SCuE1w",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 13 - VMLS k means",
       "views": 12000
     },
     {
+      "id": "a4GjONqojzM",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 14-VMLS k means app.",
       "views": 8400
     },
     {
+      "id": "RikEADik56Q",
       "title": "Stanford ENGR108: Intro to Applied Linear Algebra | 2020 | Lecture 15-VMLS linear ind.",
       "views": 9800
     },
     {
+      "id": "IZhpqYeKZEM",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 16-VMLS Gram Schmidt algo.",
       "views": 8400
     },
     {
+      "id": "dTeN9ypsVTU",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 17 - VMLS matrix notation",
       "views": 9500
     },
     {
+      "id": "1_LEoD33gC0",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 18-VMLS matrix vector mult",
       "views": 6500
     },
     {
+      "id": "JbtNJM1hM_4",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 19-VMLS matrix vector  ex.",
       "views": 6900
     },
     {
+      "id": "jXN50fuRSqE",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 20-VMLS selector matrices",
       "views": 6900
     },
     {
+      "id": "v7CH2ry-vrQ",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 21 - VMLS incidence matrix",
       "views": 5900
     },
     {
+      "id": "kTg0vKppOl8",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 22 - VMLS convolution",
       "views": 8300
     },
     {
+      "id": "tQ3nrT6cZGE",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 23-VMLS vector linear func",
       "views": 6600
     },
     {
+      "id": "8SD2zRNWQcU",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 24-VMLS linear func models",
       "views": 5400
     },
     {
+      "id": "6zWKMTVGkgQ",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 25 - VMLS linear equations",
       "views": 5400
     },
     {
+      "id": "NS0jvPLtgGc",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 26-VMLS linear dynamic sys",
       "views": 6600
     },
     {
+      "id": "t-G9n2uCa4k",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 27-VMLS matrix mult",
       "views": 7000
     },
     {
+      "id": "NZfWiVuRMnI",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 28-VMLS matrix mult ex",
       "views": 4700
     },
     {
+      "id": "vDCZpK96k7k",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 29-VMLS mtrx pwrs & QR fac",
       "views": 5600
     },
     {
+      "id": "WFx4oV2JcRM",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 30-VMLS left & right inv.",
       "views": 6800
     },
     {
+      "id": "lWEJPWFIgtw",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 31-VMLS solving linear eqs",
       "views": 5200
     },
     {
+      "id": "R69sATXr1lM",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 32 - VMLS pseudo inverse",
       "views": 5600
     },
     {
+      "id": "q7tuWtK2wWY",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 33 - VMLS least squares",
       "views": 8200
     },
     {
+      "id": "5XhCN-44ua0",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 34-VMLS least squares ex.",
       "views": 5200
     },
     {
+      "id": "1UssEuFDxd4",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 35-VMLS LS data fitting",
       "views": 5100
     },
     {
+      "id": "R6sObXmPqXw",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 36-VMLS fit univariate fnc",
       "views": 4900
     },
     {
+      "id": "SaERMg6BhWk",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 37 - VMLS validation",
       "views": 4000
     },
     {
+      "id": "3LGyi_9Yn8s",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 38 - VMLS classification",
       "views": 3600
     },
     {
+      "id": "J-xhBfJn1mw",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 39-VMLS LS classification",
-      "views": 3200
+      "views": 3300
     },
     {
+      "id": "WaOr_4M8yfE",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 40-VMLS multiclass classif",
       "views": 3200
     },
     {
+      "id": "p18I80UDjNs",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 41-VMLS multi objective LS",
       "views": 3900
     },
     {
+      "id": "qr9uzoRkYK0",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 42-ctrl via multi obj LS",
       "views": 5300
     },
     {
+      "id": "y44HXBjCZ0Q",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 43-MLS est & inversion",
       "views": 3400
     },
     {
+      "id": "XTdzAMf0gG0",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 44-VMLS reg data fitting",
       "views": 3100
     },
     {
+      "id": "vOFsja_YmJc",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 45-VMLS constrained LS",
       "views": 4900
     },
     {
+      "id": "maCbeyno_mI",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 46-VMLS solve cstr LS prob",
       "views": 4200
     },
     {
+      "id": "fKUea6LCzU8",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 47-VMLS portfolio optim",
       "views": 3600
     },
     {
+      "id": "MNqVUDkudYM",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 48-VMLS linear quadrt ctrl",
       "views": 3600
     },
     {
+      "id": "zu2nYmSfY6U",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 49-VMLS lin quadrt st est",
       "views": 3100
     },
     {
+      "id": "nK6uSzKQlEs",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 50-VMLS nonlinear eq. & LS",
       "views": 3000
     },
     {
+      "id": "UQsOyMj9lnI",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 51-VMLS Leven. Marq. algo",
       "views": 5700
     },
     {
+      "id": "W0mamVcppBA",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 52-VMLS nonlin mdl fitting",
       "views": 4400
     },
     {
+      "id": "SM_ZieyKicU",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 53-VMLS cstrd nonlinear LS",
       "views": 4300
     },
     {
+      "id": "00njRSL8WNQ",
       "title": "Stanford ENGR108: Introduction to Applied Linear Algebra | 2020 | Lecture 54-VMLS aug Lagragian mthd",
       "views": 4700
     }

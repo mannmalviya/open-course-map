@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "UGMLKsma_VU",
       "title": "L01 - Course Information & History of Databases [CMU Database Systems Spring 2017]",
       "views": 16000
     },
     {
+      "id": "fZHvESD3gPY",
       "title": "L02 - In-Memory Databases [CMU Database Systems Spring 2017]",
       "views": 8000
     },
     {
+      "id": "OFsg2mAsQDo",
       "title": "L03 - Concurrency Control Challenges [CMU Database Systems Spring 2017]",
       "views": 3900
     },
     {
+      "id": "6H0yuYPHw0Q",
       "title": "L04 - Optimistic Concurrency Control [CMU Database Systems Spring 2017]",
       "views": 2100
     },
     {
+      "id": "brn4Fh8mWQ8",
       "title": "L05 - Multi-Version Concurrency Control [CMU Database Systems Spring 2017]",
       "views": 4200
     },
     {
+      "id": "y8WoIgT_LIQ",
       "title": "L06 - Index Locking & Latching [CMU Database Systems Spring 2017]",
       "views": 1500
     },
     {
+      "id": "8MgjNtMuUKA",
       "title": "L07 - Latch-free OLTP Indexes (Part I)  [CMU Database Systems Spring 2017]",
       "views": 1200
     },
     {
+      "id": "OHycDbha3-Q",
       "title": "L08 - Latch-free OLTP Indexes (Part II)  [CMU Database Systems Spring 2017]",
       "views": 891
     },
     {
+      "id": "RjYG8wkcbc0",
       "title": "L09 - OLAP Indexes [CMU Database Systems Spring 2017]",
       "views": 1200
     },
     {
+      "id": "DEYJODQ1M-k",
       "title": "L10 - Storage Models & Data Layout  [CMU Database Systems Spring 2017]",
       "views": 1100
     },
     {
+      "id": "pbiyGMmSw6U",
       "title": "L11 - Database Compression [CMU Database Systems Spring 2017]",
       "views": 748
     },
     {
+      "id": "r4yepvv_m-w",
       "title": "L12 - Logging Protocols [CMU Database Systems Spring 2017]",
       "views": 844
     },
     {
+      "id": "cirITb2T6Ko",
       "title": "L13 - Checkpoint Protocols [CMU Database Systems Spring 2017]",
       "views": 753
     },
     {
+      "id": "1VX1evaBv20",
       "title": "L14 - Optimizer Implementation (Part I) [CMU Database Systems Spring 2017]",
       "views": 1400
     },
     {
+      "id": "7ZCDkVcw3aQ",
       "title": "L15 - Optimizer Implementation (Part II) [CMU Database Systems Spring 2017]",
       "views": 762
     },
     {
+      "id": "7csNBv4J7zU",
       "title": "L16 - Optimizer Cost Models [CMU Database Systems Spring 2017]",
       "views": 672
     },
     {
+      "id": "-rZWBgaupYo",
       "title": "L17 - Query Execution & Scheduling [CMU Database Systems Spring 2017]",
-      "views": 856
+      "views": 857
     },
     {
+      "id": "R_FhR1Qr3Vs",
       "title": "L18 - Parallel Join Algorithms (Hashing) [CMU Database Systems Spring 2017]",
       "views": 1400
     },
     {
+      "id": "707Z60AHZig",
       "title": "L19 - Parallel Join Algorithms (Sorting) [CMU Database Systems Spring 2017]",
       "views": 707
     },
     {
+      "id": "xyRyGLVQtEM",
       "title": "L20 - Query Compilation [CMU Database Systems Spring 2017]",
       "views": 803
     },
     {
+      "id": "KeaVs1DtsO8",
       "title": "L21 - Vectorized Execution (Part I) [CMU Database Systems Spring 2017]",
       "views": 783
     },
     {
+      "id": "pKIWysCcR_I",
       "title": "L22 - Vectorized Execution (Part II) [CMU Database Systems Spring 2017]",
       "views": 463
     },
     {
+      "id": "IYpX2Bmujr0",
       "title": "L23 - Larger-than-Memory Databases [CMU Database Systems Spring 2017]",
       "views": 563
     },
     {
+      "id": "RW8-TTflCVI",
       "title": "L24 - Non-Volatile Memory Databases [CMU Database Systems Spring 2017]",
       "views": 965
     },
     {
+      "id": "V5Eu3NiYWNM",
       "title": "L25 - Apache Impala/Kudu Tech Talk [CMU Database Systems Spring 2017]",
       "views": 2600
     }

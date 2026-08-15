@@ -1,130 +1,162 @@
 {
   "lectures": [
     {
+      "id": "6CNeDUk3fJA",
       "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2023)",
       "views": 20000
     },
     {
+      "id": "fqWNVGcVL2o",
       "title": "Computer Architecture - Lecture 2: Memory Systems: Challenges and Opportunities (Fall 2023)",
       "views": 6100
     },
     {
+      "id": "GTLhs7SIVtE",
       "title": "Computer Architecture - Lecture 3: Processing near Memory (Fall 2023)",
       "views": 3400
     },
     {
+      "id": "FBV579jtxj8",
       "title": "Computer Architecture - Lecture 4: Programming a Real-world PIM Arch. and Enabling PIM (Fall 2023)",
       "views": 2100
     },
     {
+      "id": "WPSd93rOXqs",
       "title": "Computer Architecture - Lecture 5: Processing using Memory (Fall 2023)",
       "views": 2100
     },
     {
+      "id": "PTDjgPUB8tQ",
       "title": "Computer Architecture - Lecture 6: Memory Security, Reliability Problems and Solutions (Fall 2023)",
       "views": 1600
     },
     {
+      "id": "O3IXOFsyvFo",
       "title": "Computer Architecture - Lecture 7: Cutting Edge Research on DRAM Read Disturbance (Fall 2023)",
-      "views": 956
+      "views": 957
     },
     {
+      "id": "XKNU0A2GAnM",
       "title": "Computer Architecture - Lecture 8: Data Retention and Memory Refresh (Fall 2023)",
       "views": 1200
     },
     {
+      "id": "HToR2HGyCeU",
       "title": "Computer Architecture - Lecture 9: Memory Latency (Fall 2023)",
       "views": 2000
     },
     {
+      "id": "EH5EfcE-lSI",
       "title": "Computer Architecture - Lecture 10: Genome Analysis (Fall 2023)",
       "views": 1000
     },
     {
+      "id": "tzyPB20NfaI",
       "title": "Computer Architecture - Lecture 11: Cutting-Edge Research in Computer Architecture (Fall 2023)",
       "views": 1100
     },
     {
+      "id": "UpBs8kvbqDI",
       "title": "Computer Architecture - Lecture 12: Memory Controllers (Fall 2023)",
       "views": 3400
     },
     {
+      "id": "FvP2tmVvNSM",
       "title": "Computer Architecture - Lecture 13: Memory Controllers II & Prefetching (Fall 2023)",
       "views": 1700
     },
     {
+      "id": "BgF9DsdLtHM",
       "title": "Computer Architecture - Lecture 14: Prefetching II (Fall 2023)",
       "views": 1200
     },
     {
+      "id": "ylqDue6XFeM",
       "title": "Computer Architecture - Lecture 15: Emerging Memory Technologies (Fall 2023)",
       "views": 882
     },
     {
+      "id": "lzC-choGjgo",
       "title": "Computer Architecture - Lecture 16: Flash Memory and Solid-State Drives (Fall 2023)",
       "views": 1300
     },
     {
+      "id": "mxyEqvemQ90",
       "title": "Computer Architecture - Lecture 17: Flash Memory and Solid-State Drives II (Fall 2023)",
       "views": 1300
     },
     {
+      "id": "r1GmCoVQ_hA",
       "title": "Computer Architecture - Lecture 18: Parallelism & Heterogeneity (Fall 2023)",
       "views": 1700
     },
     {
+      "id": "xQjyaQtAZCg",
       "title": "Computer Architecture - Lecture 19: Multiprocessors and Memory Ordering (Fall 2023)",
       "views": 1500
     },
     {
+      "id": "lt0bUdwW1II",
       "title": "Computer Architecture - Lecture 20: Cache Coherence (Fall 2023)",
       "views": 3500
     },
     {
+      "id": "bAYoGl042JE",
       "title": "Computer Architecture - Lecture 21: Interconnects (Fall 2023)",
       "views": 2700
     },
     {
+      "id": "5lybMDZHBBQ",
       "title": "Computer Architecture - Lecture 22: Simulation (Fall 2023)",
       "views": 2100
     },
     {
+      "id": "teb8jc3U1JY",
       "title": "Computer Architecture - Lecture 23: Cutting-Edge Research in Computer Architecture  (Fall 2023)",
       "views": 953
     },
     {
+      "id": "wrUMqaydnWc",
       "title": "Computer Architecture - Lecture 24: Discussion Session (Fall 2023)",
       "views": 750
     },
     {
+      "id": "jzcQ0KBxI3s",
       "title": "Computer Architecture - Lecture 25: Cutting-Edge Research in Computer Architecture  (Fall 2023)",
       "views": 1100
     },
     {
+      "id": "6abzvI9xzRI",
       "title": "Computer Architecture - Lecture 26: On-Chip Networks (Fall 2023)",
       "views": 4100
     },
     {
+      "id": "nHHsYp7ZkHQ",
       "title": "Computer Architecture - Lecture 27: VLIW Architectures (Fall 2023)",
       "views": 3200
     },
     {
+      "id": "XkgtANeDrm8",
       "title": "Computer Architecture - Lecture 28: Systolic Array Architectures (Fall 2023)",
       "views": 11000
     },
     {
+      "id": "Kj8Hgc80VYo",
       "title": "Computer Architecture - Lecture 29: SIMD & GPU Architectures (Fall 2023)",
       "views": 10000
     },
     {
+      "id": "xz9DO-4Pkko",
       "title": "Computer Architecture - Lecture 30: GPU Programming (Fall 2023)",
       "views": 5100
     },
     {
+      "id": "rXGGSYYYwh8",
       "title": "Computer Architecture - Lecture 31: Virtual Memory (Fall 2023)",
-      "views": 6400
+      "views": 6500
     },
     {
+      "id": "BGaLNhyr-2Q",
       "title": "Computer Architecture - Lecture 32: Cache Design and Management (Fall 2023)",
       "views": 5800
     }

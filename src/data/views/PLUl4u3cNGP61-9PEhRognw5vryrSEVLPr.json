@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "lZ3bPUKo5zc",
       "title": "Lecture 1: Introduction to Superposition",
       "views": 9000000
     },
     {
+      "id": "U6fI3brP8V4",
       "title": "Lecture 2: Experimental Facts of Life",
       "views": 2200000
     },
     {
+      "id": "Ei8CFin00PY",
       "title": "Lecture 3: The Wave Function",
       "views": 1500000
     },
     {
+      "id": "NN2txluv1PY",
       "title": "Lecture 4: Expectations, Momentum, and Uncertainty",
-      "views": 773000
-    },
-    {
-      "title": "Lecture 5: Operators and the Schrödinger Equation",
       "views": 774000
     },
     {
-      "title": "Lecture 6: Time Evolution and the Schrödinger Equation",
-      "views": 708000
+      "id": "lMFgfqRZYoc",
+      "title": "Lecture 5: Operators and the Schrödinger Equation",
+      "views": 775000
     },
     {
+      "id": "TWpyhsPAK14",
+      "title": "Lecture 6: Time Evolution and the Schrödinger Equation",
+      "views": 709000
+    },
+    {
+      "id": "Uk5DUtHY7LM",
       "title": "Lecture 7: More on Energy Eigenstates",
       "views": 304000
     },
     {
+      "id": "qu-jyrwW6hw",
       "title": "Lecture 8: Quantum Harmonic Oscillator",
       "views": 412000
     },
     {
+      "id": "jJX_1zT73U0",
       "title": "Lecture 9: Operator Methods for the Harmonic Oscillator",
-      "views": 224000
+      "views": 225000
     },
     {
+      "id": "VSqpYPgxcps",
       "title": "Lecture 10: Clicker Bonanza and Dirac Notation",
-      "views": 137000
+      "views": 138000
     },
     {
+      "id": "iZKAtzK5WXM",
       "title": "Lecture 11: Dispersion of the Gaussian and the Finite Well",
       "views": 140000
     },
     {
+      "id": "lHhw_SExF1M",
       "title": "Lecture 12: The Dirac Well and Scattering off the Finite Step",
       "views": 137000
     },
     {
+      "id": "SsCeVABM4Mo",
       "title": "Lecture 13: More on Scattering",
-      "views": 107000
+      "views": 108000
     },
     {
+      "id": "wH9nO8_aDSI",
       "title": "Lecture 14: Resonance and the S-Matrix",
-      "views": 52000
+      "views": 53000
     },
     {
+      "id": "H5m39G-FAwE",
       "title": "Lecture 15: Eigenstates of the Angular Momentum Part 1",
       "views": 127000
     },
     {
+      "id": "R4LyPVfGWtI",
       "title": "Lecture 16: Eigenstates of the Angular Momentum Part 2",
       "views": 121000
     },
     {
+      "id": "mLe8YCnUed4",
       "title": "Lecture 17: More on Central Potentials",
       "views": 98000
     },
     {
+      "id": "G5_u6k9LR3E",
       "title": "Lecture 18: \"Hydrogen\" and its Discontents",
       "views": 94000
     },
     {
+      "id": "9lX2FENOe4o",
       "title": "Lecture 19: Identical Particles",
       "views": 140000
     },
     {
+      "id": "gK_D6RkbMy8",
       "title": "Lecture 20: Periodic Lattices Part 1",
       "views": 113000
     },
     {
+      "id": "SZlnoxak4xM",
       "title": "Lecture 21: Periodic Lattices Part 2",
       "views": 63000
     },
     {
+      "id": "Oq4OHT4hhJc",
       "title": "Lecture 22: Metals, Insulators, and Semiconductors",
       "views": 202000
     },
     {
+      "id": "Rc1vFAUnRUM",
       "title": "Lecture 23: More on Spin",
       "views": 90000
     },
     {
+      "id": "awpnsGl08bc",
       "title": "Lecture 24: Entanglement: QComputing, EPR, and Bell's Theorem",
       "views": 216000
     },
     {
+      "id": "ytewCHh00mk",
       "title": "Experiment 2: Effective Mass",
       "views": 47000
     }

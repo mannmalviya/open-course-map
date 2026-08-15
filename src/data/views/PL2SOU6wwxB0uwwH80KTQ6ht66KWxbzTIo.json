@@ -1,142 +1,177 @@
 {
   "lectures": [
     {
+      "id": "KbB0FjPg0mw",
       "title": "Lecture 1: Probability and Counting | Statistics 110",
       "views": 1600000
     },
     {
+      "id": "FJd_1H3rZGg",
       "title": "Lecture 2: Story Proofs, Axioms of Probability | Statistics 110",
-      "views": 445000
+      "views": 446000
     },
     {
+      "id": "LZ5Wergp_PA",
       "title": "Lecture 3: Birthday Problem, Properties of Probability | Statistics 110",
       "views": 327000
     },
     {
+      "id": "P7NE4WF8j-Q",
       "title": "Lecture 4: Conditional Probability | Statistics 110",
       "views": 274000
     },
     {
+      "id": "JzDvVgNDxo8",
       "title": "Lecture 5: Conditioning Continued, Law of Total Probability | Statistics 110",
-      "views": 202000
+      "views": 203000
     },
     {
+      "id": "fDcjhAKuhqQ",
       "title": "Lecture 6: Monty Hall, Simpson's Paradox | Statistics 110",
       "views": 188000
     },
     {
+      "id": "PNrqCdslGi4",
       "title": "Lecture 7: Gambler's Ruin and Random Variables | Statistics 110",
-      "views": 238000
+      "views": 239000
     },
     {
+      "id": "k2BB0p8byGA",
       "title": "Lecture 8: Random Variables and Their Distributions | Statistics 110",
       "views": 242000
     },
     {
+      "id": "LX2q356N2rU",
       "title": "Lecture 9: Expectation, Indicator Random Variables, Linearity | Statistics 110",
       "views": 195000
     },
     {
+      "id": "P1fSFvhPf7Q",
       "title": "Lecture 10: Expectation Continued | Statistics 110",
       "views": 129000
     },
     {
+      "id": "TD1N4hxqMzY",
       "title": "Lecture 11: The Poisson distribution | Statistics 110",
       "views": 201000
     },
     {
+      "id": "Tci---bVs60",
       "title": "Lecture 12: Discrete vs. Continuous, the Uniform | Statistics 110",
       "views": 133000
     },
     {
+      "id": "72QjzHnYvL0",
       "title": "Lecture 13: Normal distribution | Statistics 110",
       "views": 142000
     },
     {
+      "id": "9vp1Ll2NpRw",
       "title": "Lecture 14: Location, Scale, and LOTUS | Statistics 110",
       "views": 92000
     },
     {
+      "id": "yFRZf81sB5k",
       "title": "Lecture 15: Midterm Review | Statistics 110",
       "views": 74000
     },
     {
+      "id": "bM6nFDjvEns",
       "title": "Lecture 16: Exponential Distribution | Statistics 110",
       "views": 131000
     },
     {
+      "id": "N8O6zd6vTZ8",
       "title": "Lecture 17: Moment Generating Functions | Statistics 110",
       "views": 187000
     },
     {
+      "id": "tVDdx6xUOcs",
       "title": "Lecture 18: MGFs Continued | Statistics 110",
       "views": 93000
     },
     {
+      "id": "J70dP_AECzQ",
       "title": "Lecture 19: Joint, Conditional, and Marginal Distributions | Statistics 110",
       "views": 290000
     },
     {
+      "id": "xiVWNkQUqKk",
       "title": "Lecture 20: Multinomial and Cauchy | Statistics 110",
       "views": 79000
     },
     {
+      "id": "IujCYxtpszU",
       "title": "Lecture 21: Covariance and Correlation | Statistics 110",
       "views": 133000
     },
     {
+      "id": "yXwPUAIvFyg",
       "title": "Lecture 22: Transformations and Convolutions | Statistics 110",
       "views": 93000
     },
     {
+      "id": "UZjlBQbV1KU",
       "title": "Lecture 23: Beta distribution | Statistics 110",
-      "views": 109000
+      "views": 110000
     },
     {
+      "id": "Qjeswpm0cWY",
       "title": "Lecture 24: Gamma distribution and Poisson process | Statistics 110",
       "views": 160000
     },
     {
+      "id": "2LR5JYbhyjg",
       "title": "Lecture 25: Order Statistics and Conditional Expectation | Statistics 110",
       "views": 106000
     },
     {
+      "id": "PgawcWisb0I",
       "title": "Lecture 26: Conditional Expectation Continued | Statistics 110",
       "views": 65000
     },
     {
+      "id": "gjBvCiRt8QA",
       "title": "Lecture 27: Conditional Expectation given an R.V. | Statistics 110",
       "views": 80000
     },
     {
+      "id": "UtXK_EQ3Pow",
       "title": "Lecture 28: Inequalities | Statistics 110",
       "views": 65000
     },
     {
+      "id": "OprNqnHsVIA",
       "title": "Lecture 29: Law of Large Numbers and Central Limit Theorem | Statistics 110",
       "views": 176000
     },
     {
+      "id": "MF-XSJOsGqw",
       "title": "Lecture 30: Chi-Square, Student-t, Multivariate Normal | Statistics 110",
-      "views": 103000
+      "views": 104000
     },
     {
+      "id": "8AJPs3gvNlY",
       "title": "Lecture 31: Markov Chains | Statistics 110",
       "views": 182000
     },
     {
+      "id": "aBGOyZv2pZE",
       "title": "Lecture 32: Markov Chains Continued | Statistics 110",
       "views": 78000
     },
     {
+      "id": "Q-pCzTpwPBU",
       "title": "Lecture 33: Markov Chains Continued Further | Statistics 110",
       "views": 57000
     },
     {
+      "id": "ChS3K2O-h7o",
       "title": "Lecture 34: A Look Ahead | Statistics 110",
       "views": 45000
     },
     {
+      "id": "dzFf3r1yph8",
       "title": "Joseph Blitzstein: \"The Soul of Statistics\" | Harvard Thinks Big 4",
       "views": 147000
     }

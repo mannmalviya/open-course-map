@@ -1,150 +1,187 @@
 {
   "lectures": [
     {
+      "id": "ubhxKNlOlRg",
       "title": "Digital Design and Computer Architecture - L1: Intro: Fundamentals, Transistors, Gates (Spring 2025)",
-      "views": 78000
+      "views": 79000
     },
     {
+      "id": "U-4jmbm8inw",
       "title": "Digital Design and Computer Architecture - L2: Combinational Logic (Spring 2025)",
       "views": 27000
     },
     {
+      "id": "smHJ1W7S-2Q",
       "title": "Digital Design and Computer Architecture - L3: Sequential Logic (Spring 2025)",
       "views": 18000
     },
     {
+      "id": "kzBRsLTKf8g",
       "title": "Digital Design and Computer Architecture - L4: Sequential Logic II, Labs, Verilog (Spring 2025)",
-      "views": 6200
+      "views": 6300
     },
     {
+      "id": "MHlj1bARKPw",
       "title": "Digital Design and Computer Architecture - L4: Sequential Logic II, Labs, Verilog (Spring 2025)",
       "views": 12000
     },
     {
+      "id": "KcP1ky8_U7w",
       "title": "Digital Design and Comp. Arch. - Recorded Lecture 4: Sequential Logic II, Labs, Verilog",
-      "views": 9800
+      "views": 9900
     },
     {
+      "id": "3Sqt0GIFPbc",
       "title": "Digital Design and Computer Architecture - L5: HDL, Verilog II, Timing & Verification",
       "views": 10000
     },
     {
+      "id": "DBsDuQwpPsI",
       "title": "Digital Design and Computer Architecture - L6: Timing & Verification II (Spring 2025)",
-      "views": 8800
+      "views": 8900
     },
     {
+      "id": "T0Ka9QG9t-o",
       "title": "Digital Design and Comp. Arch. - L7: Von Neumann Model & Instruction Set Architectures (Spring 2025)",
       "views": 14000
     },
     {
+      "id": "o2YvlUCv9d4",
       "title": "Digital Design and Computer Architecture - L8: Instruction Set Architectures II (Spring 2025)",
       "views": 10000
     },
     {
+      "id": "l8KpCtprJpc",
       "title": "Digital Design and Computer Architecture - L9:  ISA and Microarchitecture (Spring 2025)",
-      "views": 7900
+      "views": 8000
     },
     {
+      "id": "DTAnkPmnhIQ",
       "title": "Digital Design and Computer Architecture - L9c:  Assembly Programming (Spring 2025)",
       "views": 4800
     },
     {
+      "id": "DbnRJRfKhM4",
       "title": "Digital Design and Computer Arch. - L10: Microarchitecture Fundamentals and Design II (Spring 2025)",
-      "views": 9400
+      "views": 9500
     },
     {
+      "id": "7EiYH010rf4",
       "title": "Digital Design and Computer Arch. - L11: Multi-Cycle and Pipelined Processor Design (Spring 2025)",
-      "views": 8700
+      "views": 8800
     },
     {
+      "id": "EkLmDhThlQc",
       "title": "Digital Design and Computer Arch. - L12: Pipelined Processor Design II (Spring 2025)",
       "views": 8200
     },
     {
+      "id": "ECp41bY0SMg",
       "title": "Digital Design and Computer Arch. - L13: Precise Exceptions (Spring 2025)",
       "views": 8500
     },
     {
+      "id": "d7PWsgQs7rI",
       "title": "Digital Design and Computer Arch. - L14: Out-of-Order Execution (Spring 2025)",
       "views": 11000
     },
     {
+      "id": "5kGI2EHURSY",
       "title": "Digital Design and Comp. Arch. - L15: Dataflow, Superscalar Execution & Branch Prediction (S25)",
-      "views": 5700
-    },
-    {
-      "title": "Digital Design and Comp. Arch. - L15c: Load-Store Handling in Out-of-Order Execution (Spring 2025)",
-      "views": 3100
-    },
-    {
-      "title": "Digital Design and Computer Arch. - L16: Advanced Branch Prediction (Spring 2025)",
       "views": 5800
     },
     {
+      "id": "zvkIoiJbvvo",
+      "title": "Digital Design and Comp. Arch. - L15c: Load-Store Handling in Out-of-Order Execution (Spring 2025)",
+      "views": 3200
+    },
+    {
+      "id": "d4SSiWvNnpM",
+      "title": "Digital Design and Computer Arch. - L16: Advanced Branch Prediction (Spring 2025)",
+      "views": 5900
+    },
+    {
+      "id": "QvT_9vznrpg",
       "title": "Digital Design and Computer Arch. - L17: VLIW and Systolic Array Architectures (Spring 2025)",
       "views": 4400
     },
     {
+      "id": "GhFI92OD-Fo",
       "title": "Digital Design and Computer Arch. - L18: SIMD Architectures (Spring 2025)",
-      "views": 4200
+      "views": 4300
     },
     {
+      "id": "5IoJe-BWpZk",
       "title": "Digital Design and Computer Arch. - L18b: Decoupled Access-Execute (Spring 2025)",
       "views": 1800
     },
     {
+      "id": "gy6brWRgrnM",
       "title": "Digital Design and Computer Arch. - L19: GPU Architectures (Spring 2025)",
-      "views": 9900
+      "views": 10000
     },
     {
+      "id": "f4O6vcXCZx8",
       "title": "Digital Design and Comp. Arch. - L20: GPU Arch. II & Memory Overview and Technology (Spring 2025)",
       "views": 5600
     },
     {
+      "id": "wTz-d6XiB_Y",
       "title": "Digital Design and Comp. Arch. L21:Memory Organization, Technology, Hierarchy & Caches (Spring 2025)",
       "views": 5200
     },
     {
+      "id": "EjjbMfHPkbg",
       "title": "Digital Design and Comp. Arch. - L22: Caches (Spring 2025)",
-      "views": 5800
+      "views": 5900
     },
     {
+      "id": "eQiN4tetvHA",
       "title": "Digital Design and Comp. Arch. - L23: Caches II and Prefetching (Spring 2025)",
       "views": 3600
     },
     {
+      "id": "ohdoVff7vvY",
       "title": "Digital Design and Comp. Arch. - L23b: Multi-Core Issues in Caching (Spring 2025)",
       "views": 2500
     },
     {
+      "id": "1y6qVksP2JI",
       "title": "Digital Design and Comp. Arch. - L24: Virtual Memory (Spring 2025)",
       "views": 3500
     },
     {
+      "id": "1IRxEbktmFk",
       "title": "Digital Design & Comp. Arch: L25: Prefetching II, Processing-in-Memory, Parting Thoughts (Spr 2025)",
       "views": 3300
     },
     {
+      "id": "pnrlAQNj_ks",
       "title": "Digital Design & Comp. Arch: L26: Problem Solving I (Spring 2025)",
       "views": 3300
     },
     {
+      "id": "2dZPq0b5IK0",
       "title": "Digital Design & Comp. Arch: L27: Problem Solving II (Spring 2025)",
       "views": 2100
     },
     {
+      "id": "iSAYXGwxr3s",
       "title": "Digital Design & Comp. Arch: L28: Problem Solving III (Spring 2025)",
       "views": 2000
     },
     {
+      "id": "BIWP7-wg99Q",
       "title": "Digital Design & Comp. Arch: L29: Problem Solving IV (Spring 2025)",
       "views": 1700
     },
     {
+      "id": "7IKIvRTqWPM",
       "title": "Digital Design & Comp. Arch. - L30: Problem Solving V (Spring 2025)",
       "views": 1600
     },
     {
+      "id": "QQRQ07yBYp4",
       "title": "Digital Design and Comp. Arch. - L31: Problem Solving VI (Spring 2025)",
       "views": 2200
     }

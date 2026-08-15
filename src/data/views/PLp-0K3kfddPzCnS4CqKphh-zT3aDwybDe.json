@@ -1,134 +1,167 @@
 {
   "lectures": [
     {
+      "id": "0Oqpax2Q2hc",
       "title": "Recitation 0 | (1/5) AWS Account Setup and Command Line Interface (CLI) 2",
       "views": 16000
     },
     {
+      "id": "ZZoJFGPbRI0",
       "title": "Recitation 0 | (2/5) Foundations of Jupyter Notebook with SageMaker Notebook Instances",
       "views": 4000
     },
     {
+      "id": "YdDgflXiIpc",
       "title": "Recitation 0 | (3/5) Foundations of Python",
       "views": 7100
     },
     {
+      "id": "rNFkONjyL7A",
       "title": "Recitation 0 | (4/5) Foundations of NumPy",
       "views": 3800
     },
     {
+      "id": "RXAy2j_mlzM",
       "title": "Recitation 0E | Setting Up AWS Deep Learning AMI",
       "views": 4300
     },
     {
+      "id": "KrCp_yPVOxs",
       "title": "Recitation 1 | Your First Deep Learning Code",
       "views": 6000
     },
     {
+      "id": "b7h_XblF7SE",
       "title": "Lec 0: Course Logistics",
       "views": 6100
     },
     {
+      "id": "BcXlJ7IO3Hs",
       "title": "Introduction to Deep Learning Lecture 1",
       "views": 8200
     },
     {
+      "id": "-zSSU-aZvIk",
       "title": "Introduction to Deep Learning Lecture 2",
       "views": 5400
     },
     {
+      "id": "tO3xU2t_wTY",
       "title": "Introduction to Deep Learning Lecture 3",
       "views": 3400
     },
     {
+      "id": "MPtEhEsgacM",
       "title": "Introduction to Deep Learning Lecture 4",
       "views": 2800
     },
     {
+      "id": "l9WE5Re4ycY",
       "title": "Introduction to Deep Learning Lecture 4 part2",
       "views": 2500
     },
     {
+      "id": "bX1q4uUIhRg",
       "title": "Introduction to Deep learning Lecture 6",
       "views": 2100
     },
     {
+      "id": "xEWdCpJizO8",
       "title": "Introduction to Deep Learning Lecture 5",
       "views": 2400
     },
     {
+      "id": "fMie0uWwzDQ",
       "title": "Introduction to Deep Learning Lecture 7",
       "views": 1900
     },
     {
+      "id": "VINm_uHUgF0",
       "title": "Introduction to Deep Learning Lecture 8",
       "views": 2000
     },
     {
+      "id": "lg4zJty8-Q4",
       "title": "Introduction to Deep Learning Lecture 9 Guest Speaker",
       "views": 1100
     },
     {
+      "id": "wkjgZ1Y9n90",
       "title": "Introduction to Deep Learning Lecture 10",
       "views": 1300
     },
     {
+      "id": "zCC64NPZl1I",
       "title": "Introduction to Deep Learning Lecture 11 Guest Speaker",
       "views": 935
     },
     {
+      "id": "YO4L3bf2FsI",
       "title": "Introduction_to_deep_learning lecture 14 part2",
       "views": 1400
     },
     {
+      "id": "LdsJHJAItcM",
       "title": "Introduction to Deep Learning Lecture 13",
       "views": 1500
     },
     {
+      "id": "XXCfkmaglvY",
       "title": "Introduction to Deep Learning Lecture 12",
       "views": 1300
     },
     {
+      "id": "jsim_JzTzIY",
       "title": "Introduction to Deep Learning Lecture 20",
       "views": 986
     },
     {
+      "id": "efhNZOt4Swg",
       "title": "Introduction to Deep Learning Lecture 14 part1",
       "views": 1300
     },
     {
+      "id": "nfcccbyxQ8g",
       "title": "Introduction to Deep Learning Lecture 16",
       "views": 1200
     },
     {
+      "id": "1vzKYXGCDgQ",
       "title": "Introduction to Deep Learning Lecture 18",
       "views": 1500
     },
     {
+      "id": "ADHRdsLEzk4",
       "title": "Introduction to Deep Learning Lecture 19",
       "views": 1200
     },
     {
+      "id": "MHNGLBhqQiU",
       "title": "Introduction to Deep Learning Lecture 24",
       "views": 1300
     },
     {
+      "id": "oMWwn_RSQzQ",
       "title": "Introduction to Deep Learning Lecture 25",
       "views": 1100
     },
     {
+      "id": "e6970lByFCo",
       "title": "Introduction to Deep Learning Lecture 26",
       "views": 1000
     },
     {
+      "id": "Ev-bUFlUMds",
       "title": "Introduction to Deep Learning Lecture 27",
       "views": 1100
     },
     {
+      "id": "iqUDKPNjZkE",
       "title": "Introduction to Deep Learning Lecture 28",
       "views": 1500
     },
     {
+      "id": "GNYakDqpoQs",
       "title": "Introduction to Deep Learning Lecture 29",
       "views": 961
     }

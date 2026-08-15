@@ -1,70 +1,87 @@
 {
   "lectures": [
     {
+      "id": "O5xeyoRL95U",
       "title": "Deep Learning Basics: Introduction and Overview",
       "views": 2500000
     },
     {
+      "id": "53YvP6gdD7U",
       "title": "Deep Learning State of the Art (2019)",
       "views": 165000
     },
     {
+      "id": "zR11FLZ-O9M",
       "title": "MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)",
       "views": 368000
     },
     {
+      "id": "ByZF8_-OJNI",
       "title": "MIT 6.S094: Deep Learning for Human-Centered Semi-Autonomous Vehicles",
       "views": 42000
     },
     {
+      "id": "s3MuSOl1Rog",
       "title": "MIT Sloan: Intro to Machine Learning (in 360/VR)",
       "views": 390000
     },
     {
+      "id": "nFTQ7kHQWtc",
       "title": "MIT 6.S094: Recurrent Neural Networks for Steering Through Time",
       "views": 151000
     },
     {
+      "id": "U1toUkZw6VI",
       "title": "MIT 6.S094: Convolutional Neural Networks for End-to-End Learning of the Driving Task",
       "views": 245000
     },
     {
+      "id": "QDzM8r3WgBw",
       "title": "MIT 6.S094: Deep Reinforcement Learning for Motion Planning",
       "views": 241000
     },
     {
+      "id": "Z2GfE8pLyxc",
       "title": "MIT 6.S094: Deep Learning for Human Sensing",
       "views": 25000
     },
     {
+      "id": "CLOAswsxudo",
       "title": "MIT 6.S094: Computer Vision",
       "views": 125000
     },
     {
+      "id": "MQ6pP65o7OM",
       "title": "MIT 6.S094: Deep Reinforcement Learning",
       "views": 73000
     },
     {
+      "id": "-6INDaLcuJY",
       "title": "MIT 6.S094: Deep Learning",
       "views": 141000
     },
     {
+      "id": "bmjamLZ3v8A",
       "title": "MIT 6.S093: Introduction to Human-Centered Artificial Intelligence (AI)",
       "views": 50000
     },
     {
+      "id": "1L0TKZQcUtA",
       "title": "MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars",
       "views": 1200000
     },
     {
+      "id": "WbLQqPw_n88",
       "title": "Efficient Computing for Deep Learning, Robotics, and AI (Vivienne Sze) | MIT Deep Learning Series",
       "views": 58000
     },
     {
+      "id": "4zrU54VIK6k",
       "title": "Privacy Preserving AI (Andrew Trask) | MIT Deep Learning Series",
       "views": 78000
     },
     {
+      "id": "0VH1Lim8gL8",
       "title": "Deep Learning State of the Art (2020)",
       "views": 1300000
     }

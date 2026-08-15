@@ -1,110 +1,137 @@
 {
   "lectures": [
     {
+      "id": "LmIjgmijyiI",
       "title": "Lecture 0 | Course Logistics",
       "views": 19000
     },
     {
+      "id": "VO5vKowfMOQ",
       "title": "Lecture 1 | The Perceptron - History, Discovery, and Theory",
       "views": 46000
     },
     {
+      "id": "lkha188L4Gs",
       "title": "Lecture 2 | The Universal Approximation Theorem",
       "views": 41000
     },
     {
+      "id": "9kAQ8Em7SdM",
       "title": "Lecture 3 | Learning, Empirical Risk Minimization, and Optimization",
       "views": 18000
     },
     {
+      "id": "lTPg1hhd5Rs",
       "title": "Lecture 4 | The Backpropagation Algorithm",
       "views": 13000
     },
     {
+      "id": "cK_CK5u2p78",
       "title": "Lecture 5 | Convergence, Learning Rates, and Gradient Descent",
       "views": 11000
     },
     {
+      "id": "VabvPpI8ZbQ",
       "title": "The Neural Basis of Vision Through Convolutional Neural Networks by Mike Tarr",
       "views": 3000
     },
     {
+      "id": "sd7qhTKIi4Y",
       "title": "Lecture 6 | Convergence, Loss Surfaces, and Optimization",
       "views": 7500
     },
     {
+      "id": "fChBkJ_UjRw",
       "title": "Lecture 7 | Acceleration, Regularization, and Normalization",
       "views": 4800
     },
     {
+      "id": "6b1JVBBX0dI",
       "title": "Lecture 8 |  Batch Normalization, Dropout and other Regularization methods",
       "views": 3900
     },
     {
+      "id": "2XbZ03D0Sf4",
       "title": "Lecture 9 | (1/3) Convolutional Neural Networks",
       "views": 7200
     },
     {
+      "id": "Zp9_s0JAXCI",
       "title": "Lecture 10 | (2/3) Convolutional Neural Networks",
       "views": 3600
     },
     {
+      "id": "w3ZD3VXExpU",
       "title": "Lecture 11 | (3/3) Convolutional Neural Networks",
       "views": 3100
     },
     {
+      "id": "YYNNTrSROa4",
       "title": "Lecture 12 | (1/5) Recurrent Neural Networks",
       "views": 6500
     },
     {
+      "id": "jaw5W0bCgUQ",
       "title": "Lecture 13 | (2/5) Recurrent Neural Networks",
       "views": 3400
     },
     {
+      "id": "ItYyu3KQvOQ",
       "title": "Lecture 14 | (3/5) Recurrent Neural Networks",
       "views": 2500
     },
     {
+      "id": "h7lnKCX2ve0",
       "title": "Lecture 15 | (4/5) Recurrent Neural Networks",
       "views": 2400
     },
     {
+      "id": "JAD1Uek6LuM",
       "title": "Lecture 16 | (5/5) Recurrent Neural Networks",
       "views": 2000
     },
     {
+      "id": "HWdzSQ_ccdM",
       "title": "Lecture 17 |  Sequence to Sequence: Attention Models",
       "views": 2800
     },
     {
+      "id": "gs8vT4pdbUs",
       "title": "Lecture 19 | Representations and Autoencoders",
       "views": 4900
     },
     {
+      "id": "3Cp_pjPRmt8",
       "title": "Lecture 20 | Hopfield Nets and Auto Associators",
       "views": 6200
     },
     {
+      "id": "ZnB8MMjg1mA",
       "title": "Lecture 21 | Hopfield Nets and Boltzmann Machines (Part 1)",
       "views": 2700
     },
     {
+      "id": "R2sFABfmlXQ",
       "title": "Lecture 22 | Hopfield Nets and Boltzmann Machines (Part 2)",
       "views": 1900
     },
     {
+      "id": "lXliALnsNzQ",
       "title": "Lecture 23 | Generative Adversarial Networks (GANs) (Part 1)",
       "views": 3900
     },
     {
+      "id": "AeETawQKvPo",
       "title": "Lecture 24 | Generative Adversarial Networks (GANs) (Part 2)",
       "views": 1200
     },
     {
+      "id": "SegeqjIwM7Y",
       "title": "Lecture 25 | Reinforcement Learning (1/3)",
       "views": 2900
     },
     {
+      "id": "-aXLwTgUEXg",
       "title": "Lecture 28 | Reinforcement Learning (3/3)",
       "views": 1400
     }

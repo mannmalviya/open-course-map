@@ -1,144 +1,179 @@
 {
   "lectures": [
     {
+      "id": "7K1sB05pE0A",
       "title": "Lec 1 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 2800000
     },
     {
+      "id": "ryLdyDrBfvI",
       "title": "Lec 2 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 990000
+      "views": 992000
     },
     {
+      "id": "kCPVBl953eY",
       "title": "Lec 3 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 645000
+      "views": 646000
     },
     {
+      "id": "4sTKcvYMNxk",
       "title": "Lec 4 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 445000
+      "views": 446000
     },
     {
+      "id": "5q_3FDOkVRQ",
       "title": "Lec 5 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 422000
+      "views": 423000
     },
     {
+      "id": "9v25gg2qJYE",
       "title": "Lec 6 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 400000
+      "views": 401000
     },
     {
+      "id": "eHJuAByQf5A",
       "title": "Lec 7: Exam 1 review | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 296000
     },
     {
+      "id": "BSAA0akmPEU",
       "title": "Lec 9 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 285000
+      "views": 286000
     },
     {
+      "id": "eRCN3daFCmU",
       "title": "Lec 10 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 223000
     },
     {
+      "id": "twzGBqPeW0M",
       "title": "Lec 11 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 205000
     },
     {
+      "id": "YN7k_bXXggY",
       "title": "Lec 12 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 194000
     },
     {
+      "id": "sRIDVAcoG5A",
       "title": "Lec 13 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 189000
+      "views": 190000
     },
     {
+      "id": "4Q37iOyBq44",
       "title": "Lec 14 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 197000
     },
     {
+      "id": "-MI0b4h3rS0",
       "title": "Lec 15 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 211000
+      "views": 212000
     },
     {
+      "id": "60VGKnYBpbg",
       "title": "Lec 16 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 206000
     },
     {
+      "id": "hjZhPczMkL4",
       "title": "Lec 18 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 254000
     },
     {
+      "id": "1RLctDS2hUQ",
       "title": "Lec 19 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 191000
     },
     {
+      "id": "Pd2xP5zDsRw",
       "title": "Lec 20 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 177000
     },
     {
+      "id": "_JXPe2J069c",
       "title": "Lec 21 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 146000
+      "views": 147000
     },
     {
+      "id": "ShGBRUx2ub8",
       "title": "Lec 22 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 151000
     },
     {
+      "id": "R9a_NHXrBcg",
       "title": "Lec 23 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 124000
     },
     {
+      "id": "jBkXbAgMj6s",
       "title": "Lec 24 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 121000
     },
     {
+      "id": "zUEuKrxgHws",
       "title": "Lec 25 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 118000
     },
     {
+      "id": "Bv9kVDcj7yo",
       "title": "Lec 27 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 137000
     },
     {
+      "id": "CXKoCMVqM9s",
       "title": "Lec 28 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 122000
     },
     {
+      "id": "HgEqXhsIq_g",
       "title": "Lec 29 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 138000
+      "views": 139000
     },
     {
+      "id": "aeXp1zC6Hls",
       "title": "Lec 30 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 144000
     },
     {
+      "id": "TpWQlKHPyJ4",
       "title": "Lec 31 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 124000
     },
     {
+      "id": "XRkgBWbWvg4",
       "title": "Lec 32 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 119000
     },
     {
+      "id": "BGE3wb7H2PA",
       "title": "Lec 33 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 104000
+      "views": 105000
     },
     {
+      "id": "PNTnmH6jsRI",
       "title": "Lec 35 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 155000
     },
     {
+      "id": "KhwQKE_tld0",
       "title": "Lec 36 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 161000
     },
     {
+      "id": "MK_0QHbUnIA",
       "title": "Lec 37 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 183000
     },
     {
+      "id": "wOHrNt9ScYs",
       "title": "Lec 38 | MIT 18.01 Single Variable Calculus, Fall 2007",
       "views": 182000
     },
     {
+      "id": "--lPz7VFnKI",
       "title": "Lec 39 | MIT 18.01 Single Variable Calculus, Fall 2007",
-      "views": 157000
+      "views": 158000
     }
   ]
 }

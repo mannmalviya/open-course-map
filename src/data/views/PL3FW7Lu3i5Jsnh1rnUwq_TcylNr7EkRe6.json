@@ -1,78 +1,97 @@
 {
   "lectures": [
     {
+      "id": "OQQ-W_63UgQ",
       "title": "Lecture 1 | Natural Language Processing with Deep Learning",
       "views": 815000
     },
     {
+      "id": "ERibwqs9p38",
       "title": "Lecture 2 | Word Vector Representations: word2vec",
       "views": 535000
     },
     {
+      "id": "ASn7ExxLZws",
       "title": "Lecture 3 | GloVe: Global Vectors for Word Representation",
       "views": 230000
     },
     {
+      "id": "uc2_iwVqrRI",
       "title": "Lecture 4: Word Window Classification and Neural Networks",
       "views": 112000
     },
     {
+      "id": "isPiE-DBagM",
       "title": "Lecture 5: Backpropagation and Project Advice",
       "views": 85000
     },
     {
+      "id": "PVShkZgXznc",
       "title": "Lecture 6: Dependency Parsing",
       "views": 114000
     },
     {
+      "id": "PicxU81owCs",
       "title": "Lecture 7: Introduction to TensorFlow",
       "views": 232000
     },
     {
+      "id": "Keqep_PKrY8",
       "title": "Lecture 8: Recurrent Neural Networks and Language Models",
       "views": 132000
     },
     {
+      "id": "QuELiw8tbx8",
       "title": "Lecture 9: Machine Translation and Advanced Recurrent LSTMs and GRUs",
       "views": 93000
     },
     {
+      "id": "2DYxT4OMAmw",
       "title": "Review Session: Midterm Review",
       "views": 20000
     },
     {
+      "id": "IxQtK2SjWWM",
       "title": "Lecture 10: Neural Machine Translation and Models with Attention",
       "views": 94000
     },
     {
+      "id": "6_MO12fPC-0",
       "title": "Lecture 11: Gated Recurrent Units and Further Topics in NMT",
       "views": 36000
     },
     {
+      "id": "3MjIkWxXigM",
       "title": "Lecture 12: End-to-End Models for Speech Processing",
       "views": 73000
     },
     {
+      "id": "Lg6MZw_OOLI",
       "title": "Lecture 13: Convolutional Neural Networks",
       "views": 37000
     },
     {
+      "id": "RfwgqPkWZ1w",
       "title": "Lecture 14: Tree Recursive Neural Networks and Constituency Parsing",
       "views": 30000
     },
     {
+      "id": "rpwEWLaueRk",
       "title": "Lecture 15: Coreference Resolution",
       "views": 30000
     },
     {
+      "id": "T3octNTE7Is",
       "title": "Lecture 16: Dynamic Neural Networks for Question Answering",
       "views": 48000
     },
     {
+      "id": "B4v545V3Dq0",
       "title": "Lecture 17: Issues in NLP and Possible Architectures for NLP",
       "views": 19000
     },
     {
+      "id": "JYwNmSe4HqE",
       "title": "Lecture 18: Tackling the Limits of Deep Learning for NLP",
       "views": 23000
     }

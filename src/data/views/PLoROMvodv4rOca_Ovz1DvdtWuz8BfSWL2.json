@@ -1,242 +1,302 @@
 {
   "lectures": [
     {
+      "id": "ZiwogMtbjr4",
       "title": "General Intro | Stanford CS221: Artificial Intelligence: Principles and Techniques (Autumn 2021)",
-      "views": 255000
+      "views": 256000
     },
     {
+      "id": "z8fEXuH0mu0",
       "title": "AI History | Stanford CS221: AI (Autumn 2021)",
       "views": 31000
     },
     {
+      "id": "C0IhR4D5KYc",
       "title": "Artificial Intelligence Today | Stanford CS221: AI (Autumn 2021)",
       "views": 20000
     },
     {
+      "id": "mtrYwgIrRNk",
       "title": "Artificial Intelligence and Machine Learning 1 - Overview | Stanford CS221: AI (Autumn 2021)",
       "views": 60000
     },
     {
+      "id": "nEWNNt2KmfQ",
       "title": "Artificial Intelligence & Machine Learning 2 - Linear Regression | Stanford CS221: AI (Autumn 2021)",
       "views": 36000
     },
     {
+      "id": "WcaMiqJR09s",
       "title": "Artificial Intelligence & Machine learning 3 - Linear Classification | Stanford CS221 (Autumn 2021)",
       "views": 32000
     },
     {
+      "id": "bl2WgBLH0tI",
       "title": "Artificial Intelligence & Machine Learning 4 - Stochastic Gradient Descent | Stanford CS221 (2021)",
       "views": 16000
     },
     {
+      "id": "ZFK2XtWqUbw",
       "title": "Artificial Intelligence and Machine Learning 5 - Group DRO | Stanford CS221: AI (Autumn 2021)",
       "views": 11000
     },
     {
+      "id": "eIxbNkB4byY",
       "title": "Artificial Intelligence & Machine Learning 6 - Non Linear Features | Stanford CS221: AI(Autumn 2021)",
       "views": 11000
     },
     {
+      "id": "2QfSBLtvioE",
       "title": "Artificial Intelligence & Machine Learning 7 - Feature Templates | Stanford CS221: AI (Autumn 2021)",
       "views": 8400
     },
     {
+      "id": "pnKXgBHuN58",
       "title": "Artificial Intelligence & Machine Learning 8 - Neural Networks | Stanford CS221: AI (Autumn 2021)",
       "views": 10000
     },
     {
+      "id": "OcAF-l2xB9Y",
       "title": "Machine Learning 9 - Backpropagation | Stanford CS221: AI (Autumn 2021)",
       "views": 12000
     },
     {
+      "id": "c5btEEisp_g",
       "title": "Machine Learning 10 - Differentiable Programming | Stanford CS221: AI (Autumn 2021)",
       "views": 10000
     },
     {
+      "id": "Gq-Ah-QrOQM",
       "title": "Artificial Intelligence & Machine Learning 11 - Generalization | Stanford CS221: AI (Autumn 2021)",
       "views": 6700
     },
     {
+      "id": "ouvGV2YZEEM",
       "title": "Artificial Intelligence & Machine Learning 12 - Best Practices | Stanford CS221: AI (Autumn 2021)",
       "views": 5600
     },
     {
+      "id": "5-Fn8R9fH7A",
       "title": "Machine Learning 13 - K-means | Stanford CS221: AI (Autumn 2021)",
       "views": 9600
     },
     {
+      "id": "aIsgJJYrlXk",
       "title": "Search 1 - Dynamic Programming, Uniform Cost Search | Stanford CS221: AI (Autumn 2019)",
       "views": 106000
     },
     {
+      "id": "HEs1ZCvLH2s",
       "title": "Search 2 - A* | Stanford CS221: Artificial Intelligence (Autumn 2019)",
       "views": 56000
     },
     {
+      "id": "9g32v7bK3Co",
       "title": "Markov Decision Processes 1 - Value Iteration | Stanford CS221: AI (Autumn 2019)",
       "views": 506000
     },
     {
+      "id": "HpaHTfY52RQ",
       "title": "Markov Decision Processes 2 - Reinforcement Learning | Stanford CS221: AI (Autumn 2019)",
       "views": 91000
     },
     {
+      "id": "3pU-Hrz_xy4",
       "title": "Game Playing 1 - Minimax, Alpha-beta Pruning | Stanford CS221: AI (Autumn 2019)",
       "views": 50000
     },
     {
+      "id": "WoFwXj4p4Sc",
       "title": "Game Playing 2 - TD Learning, Game Theory | Stanford CS221: Artificial Intelligence (Autumn 2019)",
-      "views": 49000
+      "views": 55000
     },
     {
+      "id": "-IO4fPO0rxk",
       "title": "Constraint Satisfaction Problems (CSPs) 1 - Overview | Stanford CS221: AI (Autumn 2021)",
       "views": 53000
     },
     {
+      "id": "uj5wCcHsSlA",
       "title": "Constraint Satisfaction Problems (CSPs) 2 - Definitions | Stanford CS221: AI (Autumn 2021)",
       "views": 20000
     },
     {
+      "id": "Tu6BiZhMDCc",
       "title": "Constraint Satisfaction Problems (CSPs) 3 - Examples | Stanford CS221: AI (Autumn 2021)",
       "views": 18000
     },
     {
+      "id": "Lyu8VzbIe_A",
       "title": "Constraint Satisfaction Problems (CSPs) 4 - Dynamic Ordering | Stanford CS221: AI (Autumn 2021)",
       "views": 13000
     },
     {
+      "id": "5rlIYGJdPy4",
       "title": "Constraint Satisfaction Problems (CSPs) 5 - Arc Consistency | Stanford CS221: AI (Autumn 2021)",
       "views": 32000
     },
     {
+      "id": "XuWMeIHGkus",
       "title": "Constraint Satisfaction Problems (CSPs) 6 - Beam Search | Stanford CS221: AI (Autumn 2021)",
       "views": 10000
     },
     {
+      "id": "VwZKPlK6jUg",
       "title": "Constraint Satisfaction Problems (CSPs) 7 - Local Search | Stanford CS221: AI (Autumn 2021)",
       "views": 7800
     },
     {
+      "id": "neeaJb3wCYw",
       "title": "Markov Networks 1 - Overview | Stanford CS221: Artificial Intelligence (Autumn 2021)",
       "views": 9600
     },
     {
+      "id": "k6aZZF2pk7k",
       "title": "Markov Networks 2 - Gibbs Sampling | Stanford CS221: AI (Autumn 2021)",
       "views": 14000
     },
     {
+      "id": "fA7zP6EcVdw",
       "title": "Bayesian Networks 1 - Overview | Stanford CS221: AI (Autumn 2021)",
       "views": 12000
     },
     {
+      "id": "xvC6XmZmR_U",
       "title": "Bayesian Networks 2 - Definition | Stanford CS221: AI (Autumn 2021)",
       "views": 12000
     },
     {
+      "id": "ZVk8y1zVoD4",
       "title": "Bayesian Networks 3 - Probabilistic Programming | Stanford CS221: AI (Autumn 2021)",
-      "views": 7300
+      "views": 7400
     },
     {
+      "id": "-dGOWB9Zh8s",
       "title": "Bayesian Networks 4 - Probabilistic Inference | Stanford CS221: AI (Autumn 2021)",
       "views": 9400
     },
     {
+      "id": "N-ZPbpJOQs0",
       "title": "Bayesian Networks 5 - Forward-backward Algorithm | Stanford CS221: AI (Autumn 2021)",
       "views": 7400
     },
     {
+      "id": "8sOtXbQIOuE",
       "title": "Bayesian Networks 6 - Particle Filtering | Stanford CS221: AI (Autumn 2021)",
       "views": 8600
     },
     {
+      "id": "_rbDjsJTgm8",
       "title": "Bayesian Networks 7 - Supervised Learning | Stanford CS221: AI (Autumn 2021)",
       "views": 4100
     },
     {
+      "id": "M7rWvN_0xbw",
       "title": "Bayesian Networks 8 - Smoothing | Stanford CS221: AI (Autumn 2021)",
       "views": 4100
     },
     {
+      "id": "CPVFJBd-Qcg",
       "title": "Bayesian Networks 9 - EM Algorithm | Stanford CS221: AI (Autumn 2021)",
       "views": 12000
     },
     {
+      "id": "oM5LUGPO7Zk",
       "title": "Logic 1 - Overview: Logic Based Models | Stanford CS221: AI (Autumn 2021)",
       "views": 14000
     },
     {
+      "id": "LBjNaewGJzk",
       "title": "Logic 2 - Propositional Logic Syntax | Stanford CS221: AI (Autumn 2021)",
       "views": 7700
     },
     {
+      "id": "N37yIn1jX98",
       "title": "Logic 3 - Propositional Logic Semantics | Stanford CS221: AI (Autumn 2021)",
       "views": 9900
     },
     {
+      "id": "RIk67yGMVv4",
       "title": "Logic 4 - Inference Rules | Stanford CS221: AI (Autumn 2021)",
       "views": 9200
     },
     {
+      "id": "6bj4z2mt1KE",
       "title": "Logic 5 - Propositional Modus Ponens | Stanford CS221: AI (Autumn 2021)",
-      "views": 6700
+      "views": 6800
     },
     {
+      "id": "egLAF4dFdBo",
       "title": "Logic 6 - Propositional Resolutions | Stanford CS221: AI (Autumn 2021)",
       "views": 22000
     },
     {
+      "id": "Z-O0Q3_oTJM",
       "title": "Logic 7 - First Order Logic | Stanford CS221: AI (Autumn 2021)",
       "views": 53000
     },
     {
+      "id": "mndzhfBpyUw",
       "title": "Logic 8 - First Order Modus Ponens | Stanford CS221: Artificial Intelligence (Autumn 2021)",
       "views": 13000
     },
     {
+      "id": "iG_tz7ZjZAI",
       "title": "Logic 9 - First Order Resolution | Stanford CS221: AI (Autumn 2021)",
       "views": 19000
     },
     {
+      "id": "LYsOjtmLpPo",
       "title": "Logic 10 - Recap | Stanford CS221: Artificial Intelligence (Autumn 2021)",
       "views": 5100
     },
     {
+      "id": "_-hBu3_Jz-0",
       "title": "AI and Law I Mariano-Florentino Cuéllar, President of the Carnegie Endowment for International Peace",
       "views": 2500
     },
     {
+      "id": "xr8AHGlieOE",
       "title": "Stanford Fireside Talks: Robustness in Machine Learning I Robust Machine Learning",
       "views": 3200
     },
     {
+      "id": "hVsR9DdR3qE",
       "title": "Fireside Talks: State of Robotics I Automation and Robotics Engineering Lectures - Stanford",
       "views": 3100
     },
     {
+      "id": "0IZhDmh1dmI",
       "title": "Stanford Talk: Inequality in Healthcare, AI & Data Science to Reduce Inequality - Improve Healthcare",
       "views": 1400
     },
     {
+      "id": "pI72PseZQo8",
       "title": "Fireside Talks:  Artificial Intelligence (AI) and Language",
       "views": 2100
     },
     {
+      "id": "iUGmupxCdjs",
       "title": "General Conclusion | Stanford CS221: AI (Autumn 2021)",
       "views": 2300
     },
     {
+      "id": "2xQLCXqOtdU",
       "title": "Stanford CS221 I Externalities and Dual-Use Technologies I 2023",
       "views": 2300
     },
     {
+      "id": "5WHObJWE1FE",
       "title": "Stanford CS221 I The AI Alignment Problem: Reward Hacking & Negative Side Effects I 2023",
       "views": 3400
     },
     {
+      "id": "aWAqgzXENr0",
       "title": "Stanford CS221 I Encoding Human Values I 2023",
       "views": 2200
     },
     {
+      "id": "olhFrDHP7iU",
       "title": "Stanford CS221 I  Algorithms and Distribution I 2023",
       "views": 2900
     }

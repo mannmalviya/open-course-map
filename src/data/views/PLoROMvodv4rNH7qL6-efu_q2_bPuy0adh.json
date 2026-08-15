@@ -1,94 +1,117 @@
 {
   "lectures": [
     {
+      "id": "KzH1ovd4Ots",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 1 - Introduction and Linear Algebra",
-      "views": 294000
+      "views": 295000
     },
     {
+      "id": "b0HvwszmqcQ",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 2 - Matrix Calculus and Probability Theory",
       "views": 97000
     },
     {
+      "id": "Mi8wnYc1m04",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 3 - Probability and Statistics",
       "views": 69000
     },
     {
+      "id": "lNHaZlZJATw",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 4 - Linear Regression",
-      "views": 59000
+      "views": 60000
     },
     {
+      "id": "WViuTuAOPlM",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 5 - Perceptron and Logistic Regression",
       "views": 47000
     },
     {
+      "id": "sj0iPn03i7Q",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 6 - Exponential Family & GLM",
       "views": 38000
     },
     {
+      "id": "yieIOW9Kaw4",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 7 - GDA, Naive Bayes & Laplace Smoothing",
       "views": 34000
     },
     {
+      "id": "p61QzJakQxg",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 8 - Kernel Methods & Support Vector Machine",
-      "views": 33000
+      "views": 34000
     },
     {
+      "id": "IgUi7BDe1DQ",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 9 - Bayesian Methods - Parametric &  Non",
       "views": 24000
     },
     {
+      "id": "mpJ2bFF6o8s",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 10 - Deep learning - I",
       "views": 22000
     },
     {
+      "id": "4wmqDaFhs9E",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 11 - Deep Learning - II",
       "views": 17000
     },
     {
+      "id": "XhyOAX6oSX4",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 12 - Bias and Variance & Regularization",
       "views": 21000
     },
     {
+      "id": "AbhV49lfaWw",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 13-Statistical Learning Uniform Convergence",
       "views": 16000
     },
     {
+      "id": "jNevGGOkklE",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 14 - Reinforcement Learning - I",
       "views": 14000
     },
     {
+      "id": "4BbHU2_wphg",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 15 - Reinforcement Learning - II",
       "views": 11000
     },
     {
+      "id": "LmpkKwsyQj4",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 16 - K-means, GMM, and EM",
-      "views": 33000
+      "views": 34000
     },
     {
+      "id": "pA-bo8_HNy4",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 17 - Factor Analysis & ELBO",
       "views": 15000
     },
     {
+      "id": "7pJ6XNvpO8M",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 18 - Principal & Independent CA",
       "views": 18000
     },
     {
+      "id": "i6d5QTmPXiw",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 19 - Maximum Entropy and Calibration",
       "views": 13000
     },
     {
+      "id": "-TPFg-RG-KY",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 20 - Variational Autoencoder",
       "views": 32000
     },
     {
+      "id": "Lb1-iNIOLBw",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 21 - Evaluation Metrics",
       "views": 18000
     },
     {
+      "id": "OftHZYlrK-E",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 22 - Practical Tips and Course Recap",
       "views": 12000
     },
     {
+      "id": "_-uzSvC5m60",
       "title": "Stanford CS229: Machine Learning | Summer 2019 | Lecture 23 - Course Recap and Wrap Up",
       "views": 14000
     }

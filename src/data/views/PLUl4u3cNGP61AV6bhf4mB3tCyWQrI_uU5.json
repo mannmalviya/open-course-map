@@ -1,108 +1,134 @@
 {
   "lectures": [
     {
+      "id": "xQFgk-nEihg",
       "title": "Lecture 1: Classical Field Theories and Principle of Locality",
-      "views": 276000
+      "views": 277000
     },
     {
+      "id": "a2mMA4M-V9M",
       "title": "Lecture 2: Symmetries and Conservation Laws",
       "views": 65000
     },
     {
+      "id": "-P2opzekpX8",
       "title": "Lecture 3: Why Quantum Field Theory",
       "views": 34000
     },
     {
+      "id": "ryATZC_2ytw",
       "title": "Lecture 4: Canonical Quantization of a Free Scalar Field Theory",
       "views": 23000
     },
     {
+      "id": "wRHJjg9jBjA",
       "title": "Lecture 5: Complex Scalar Field Theory and Anti-Particle",
       "views": 16000
     },
     {
+      "id": "L2vNqnov1rs",
       "title": "Lecture 6: Propagators and Green Functions",
       "views": 20000
     },
     {
+      "id": "wVSd_8EJABQ",
       "title": "Lecture 7: Interacting Theories and S-Matrix",
       "views": 12000
     },
     {
+      "id": "qwIoCu7vwLQ",
       "title": "Lecture 8: Path Integral Formalism for Non-Relativistic Quantum Mechanics",
       "views": 15000
     },
     {
+      "id": "GZQ-8pg7bgk",
       "title": "Lecture 9: Path Integral Formalism for QFT; Computation of Time-Ordered Correlation Functions",
       "views": 15000
     },
     {
+      "id": "PjOoLqEy1Vs",
       "title": "Lecture 10: Time-Ordered Correlation Functions in Field Theory",
       "views": 9400
     },
     {
+      "id": "pWHUGzxzPNk",
       "title": "Lecture 11: Computation of Correlation Functions in Perturbation Theory and Feynman Diagrams",
-      "views": 9700
+      "views": 9800
     },
     {
+      "id": "m4salGLUIBg",
       "title": "Lecture 12: More on Perturbation Theory and Feynman Diagrams",
       "views": 9900
     },
     {
+      "id": "dTrZaojMiy4",
       "title": "Lecture 13: Introducing the Dirac Equation",
-      "views": 13000
+      "views": 14000
     },
     {
+      "id": "YgyshX9T3S4",
       "title": "Lecture 14: Lorentz Covariance of the Dirac Equation",
       "views": 7900
     },
     {
+      "id": "RAyFaeJCYWA",
       "title": "Lecture 15: Classical Solutions of Dirac Equations",
       "views": 5800
     },
     {
+      "id": "2tq6-8OGNOA",
       "title": "Lecture 16: Quantization of the Dirac Theory",
       "views": 5800
     },
     {
+      "id": "pWq8blw9Nhc",
       "title": "Lecture 17: Chiral and Majorana Spinors",
-      "views": 6400
+      "views": 6500
     },
     {
+      "id": "pRmAa-UyVg8",
       "title": "Lecture 18: Discrete Symmetries",
       "views": 11000
     },
     {
+      "id": "guQxqv6dhMU",
       "title": "Lecture 19: Path Integrals of Fermions",
       "views": 5400
     },
     {
+      "id": "TnEf7LR1unM",
       "title": "Lecture 20: Maxwell Theory and its Canonical Quantization",
-      "views": 6300
+      "views": 6400
     },
     {
+      "id": "lpR4my-qfQA",
       "title": "Lecture 21: Quantum Maxwell Theory (continued)",
       "views": 4600
     },
     {
+      "id": "NfmgFECXqZY",
       "title": "Lecture 22: Quantum Electrodynamics",
-      "views": 9800
+      "views": 9900
     },
     {
+      "id": "BOf_ZcJk-GU",
       "title": "Lecture 23: Cross Section and Decay Rate",
       "views": 4400
     },
     {
+      "id": "tkglOK3ZEsI",
       "title": "Lecture 24: Elementary Processes in QED (I)",
       "views": 5400
     },
     {
+      "id": "I2vEKf7L0Y4",
       "title": "Lecture 25: Elementary Processes in QED (II)",
-      "views": 3400
+      "views": 3500
     },
     {
+      "id": "5sQRaJTogZw",
       "title": "Lecture 26: Quantum Fluctuations and Renormalization",
-      "views": 8300
+      "views": 8400
     }
   ]
 }

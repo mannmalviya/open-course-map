@@ -1,68 +1,84 @@
 {
   "lectures": [
     {
+      "id": "vT1JzLTH4G4",
       "title": "Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition",
       "views": 2800000
     },
     {
+      "id": "OoUX-nOEjG0",
       "title": "Lecture 2 | Image Classification",
       "views": 1000000
     },
     {
+      "id": "h7iBpEHGVNc",
       "title": "Lecture 3 | Loss Functions and Optimization",
       "views": 953000
     },
     {
+      "id": "d14TUNcbn1k",
       "title": "Lecture 4 | Introduction to Neural Networks",
-      "views": 721000
+      "views": 722000
     },
     {
+      "id": "bNb2fEVKeEo",
       "title": "Lecture 5 | Convolutional Neural Networks",
       "views": 704000
     },
     {
+      "id": "wEoyxE0GP2M",
       "title": "Lecture 6 | Training Neural Networks I",
       "views": 556000
     },
     {
+      "id": "_JB0AO7QxSA",
       "title": "Lecture 7 | Training Neural Networks II",
       "views": 370000
     },
     {
+      "id": "6SlgtELqOWc",
       "title": "Lecture 8 | Deep Learning Software",
       "views": 301000
     },
     {
+      "id": "DAOcjicFr1Y",
       "title": "Lecture 9 | CNN Architectures",
       "views": 469000
     },
     {
+      "id": "6niqTuYFZLQ",
       "title": "Lecture 10 | Recurrent Neural Networks",
       "views": 646000
     },
     {
+      "id": "nDPWywWRIRo",
       "title": "Lecture 11 | Detection and Segmentation",
-      "views": 664000
+      "views": 665000
     },
     {
+      "id": "6wcs6szJWMY",
       "title": "Lecture 12 | Visualizing and Understanding",
       "views": 271000
     },
     {
+      "id": "5WoItGTWV54",
       "title": "Lecture 13 | Generative Models",
       "views": 520000
     },
     {
+      "id": "lvoHnicueoE",
       "title": "Lecture 14 | Deep Reinforcement Learning",
       "views": 386000
     },
     {
+      "id": "eZdOkDtYMoo",
       "title": "Lecture 15 | Efficient Methods and Hardware for Deep Learning",
       "views": 190000
     },
     {
+      "id": "CIfsB_EYsVI",
       "title": "Lecture 16 | Adversarial Examples and Adversarial Training",
-      "views": 226000
+      "views": 227000
     }
   ]
 }

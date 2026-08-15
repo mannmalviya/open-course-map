@@ -1,90 +1,112 @@
 {
   "lectures": [
     {
+      "id": "NLycrsJ1jI8",
       "title": "S2024 #00 - Course Overview & Logistics (CMU Advanced Database Systems)",
-      "views": 39000
+      "views": 40000
     },
     {
+      "id": "5J-I8Mj8tss",
       "title": "S2024 #01 - Modern OLAP Database Systems (CMU Advanced Database Systems)",
       "views": 28000
     },
     {
+      "id": "1hdynBJo3ew",
       "title": "S2024 #02 - Data Formats & Encoding Part 1 (CMU Advanced Database Systems)",
       "views": 16000
     },
     {
+      "id": "h3EOs7GH7hM",
       "title": "S2024 #03 - Data Formats & Encoding Part 2 (CMU Advanced Database Systems)",
       "views": 9400
     },
     {
+      "id": "tsbbwiWw9VE",
       "title": "S2024 #04 - Query Execution & Processing Part 1 (CMU Advanced Database Systems)",
-      "views": 9800
+      "views": 9900
     },
     {
+      "id": "et54i_Rplik",
       "title": "S2024 #05 - Query Execution & Processing Part 2 (CMU Advanced Database Systems)",
       "views": 6300
     },
     {
+      "id": "yU1S8gwjGEw",
       "title": "S2024 #06 - Vectorized Query Execution Using SIMD (CMU Advanced Database Systems)",
-      "views": 7100
+      "views": 7200
     },
     {
+      "id": "UPQ53hM6AWE",
       "title": "S2024 #07 - JIT Query Compilation & Code Generation (CMU Advanced Database Systems)",
       "views": 5600
     },
     {
+      "id": "VZjzKVfU46k",
       "title": "S2024 #08 - Query Scheduling & Coordination (CMU Advanced Database Systems)",
       "views": 4500
     },
     {
+      "id": "S40K8iGa8Ek",
       "title": "S2024 #09 - Parallel Hash Join Algorithms (CMU Advanced Database Systems)",
       "views": 4800
     },
     {
+      "id": "1aHT3KitTYo",
       "title": "S2024 #10 - Multi-Way Join Algorithms / Worst-Case Optimal Joins (CMU Advanced Database Systems)",
       "views": 3800
     },
     {
+      "id": "FaS-E-oq-X4",
       "title": "S2024 #11 - User-Defined Function Optimizations (CMU Advanced Database Systems)",
       "views": 2800
     },
     {
+      "id": "0tfDldfzlR8",
       "title": "S2024 #12 - Database Networking Protocols (CMU Advanced Database Systems)",
       "views": 4500
     },
     {
+      "id": "DwX0X8CyBSg",
       "title": "S2024 #13 - Query Optimizer Implementation 1 (CMU Advanced Database Systems)",
       "views": 5200
     },
     {
+      "id": "B9gJa5ZLg8s",
       "title": "S2024 #14 - Query Optimizer Implementation 2 (CMU Advanced Database Systems)",
       "views": 2900
     },
     {
+      "id": "anVC4AJeXqw",
       "title": "S2024 #15 - Query Optimizer Implementation 3 (CMU Advanced Database Systems)",
       "views": 2500
     },
     {
+      "id": "VOZax1tbvxw",
       "title": "S2024 #17 - Google BigQuery / Dremel (CMU Advanced Database Systems)",
       "views": 6900
     },
     {
+      "id": "PwnUf6_0H0k",
       "title": "S2024 #18 - Databricks Photon / Spark SQL (CMU Advanced Database Systems)",
       "views": 7200
     },
     {
+      "id": "NhWp1bTG0Cw",
       "title": "S2024 #19 - Snowflake Data Warehouse Internals (CMU Advanced Database Systems)",
       "views": 11000
     },
     {
+      "id": "4iD4h4sGLz4",
       "title": "S2024 #20 - DuckDB Embedded Database System (CMU Advanced Database Systems)",
       "views": 10000
     },
     {
+      "id": "hkTK6Auh5vE",
       "title": "S2024 #21 - Yellowbrick Data Warehouse System (CMU Advanced Database Systems)",
       "views": 4300
     },
     {
+      "id": "T9-MM8oHzsM",
       "title": "S2024 #22 - Amazon Redshift Data Warehouse System (CMU Advanced Database Systems)",
       "views": 6900
     }

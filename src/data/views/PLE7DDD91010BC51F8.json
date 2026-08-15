@@ -1,146 +1,182 @@
 {
   "lectures": [
     {
+      "id": "7UJ4CFRGd-U",
       "title": "An Interview with Gilbert Strang on Teaching Linear Algebra",
       "views": 1500000
     },
     {
+      "id": "J7DzL2_Na80",
       "title": "1. The Geometry of Linear Equations",
       "views": 2700000
     },
     {
+      "id": "QVKj3LADCnA",
       "title": "2. Elimination with Matrices.",
       "views": 3200000
     },
     {
+      "id": "FX4C-JpTFgY",
       "title": "3. Multiplication and Inverse Matrices",
       "views": 1900000
     },
     {
+      "id": "MsIvs_6vC38",
       "title": "4. Factorization into A = LU",
-      "views": 915000
+      "views": 917000
     },
     {
+      "id": "JibVXBElKL0",
       "title": "5. Transposes, Permutations, Spaces R^n",
       "views": 1100000
     },
     {
+      "id": "8o5Cmfpeo6g",
       "title": "6. Column Space and Nullspace",
       "views": 1000000
     },
     {
+      "id": "VqP2tREMvt0",
       "title": "7. Solving Ax = 0: Pivot Variables, Special Solutions",
-      "views": 848000
+      "views": 849000
     },
     {
+      "id": "9Q1q7s1jTzU",
       "title": "8. Solving Ax = b: Row Reduced Form R",
-      "views": 759000
+      "views": 760000
     },
     {
+      "id": "yjBerM5jWsc",
       "title": "9. Independence, Basis, and Dimension",
-      "views": 820000
+      "views": 821000
     },
     {
+      "id": "nHlE7EgJFds",
       "title": "10. The Four Fundamental Subspaces",
-      "views": 768000
+      "views": 769000
     },
     {
+      "id": "2IdtqGM6KWU",
       "title": "11. Matrix Spaces; Rank 1; Small World Graphs",
       "views": 526000
     },
     {
+      "id": "6-wh6yvk6uc",
       "title": "12. Graphs, Networks, Incidence Matrices",
-      "views": 433000
+      "views": 434000
     },
     {
+      "id": "l88D4r74gtM",
       "title": "13. Quiz 1 Review",
       "views": 361000
     },
     {
+      "id": "YzZUIYRCE38",
       "title": "14. Orthogonal Vectors and Subspaces",
-      "views": 637000
+      "views": 638000
     },
     {
+      "id": "Y_Ac6KiQ1t0",
       "title": "15. Projections onto Subspaces",
       "views": 625000
     },
     {
+      "id": "osh80YCg_GM",
       "title": "16. Projection Matrices and Least Squares",
       "views": 546000
     },
     {
+      "id": "0MtwqhIwdrI",
       "title": "17. Orthogonal Matrices and Gram-Schmidt",
-      "views": 303000
+      "views": 304000
     },
     {
+      "id": "srxexLishgY",
       "title": "18. Properties of Determinants",
       "views": 479000
     },
     {
+      "id": "23LLB9mNJvc",
       "title": "19. Determinant Formulas and Cofactors",
-      "views": 412000
+      "views": 413000
     },
     {
+      "id": "QNpj-gOXW9M",
       "title": "20. Cramer's Rule, Inverse Matrix, and Volume",
-      "views": 396000
+      "views": 397000
     },
     {
+      "id": "cdZnhQjJu4I",
       "title": "21. Eigenvalues and Eigenvectors",
-      "views": 801000
+      "views": 802000
     },
     {
+      "id": "13r9QY6cmjc",
       "title": "22. Diagonalization and Powers of A",
-      "views": 597000
+      "views": 598000
     },
     {
+      "id": "IZqwi0wJovM",
       "title": "23. Differential Equations and exp(At)",
       "views": 417000
     },
     {
+      "id": "lGGDIGizcQ0",
       "title": "24. Markov Matrices; Fourier Series",
       "views": 151000
     },
     {
+      "id": "QuZL5IKpO_U",
       "title": "24b. Quiz 2 Review",
       "views": 54000
     },
     {
+      "id": "UCc9q_cAhho",
       "title": "25. Symmetric Matrices and Positive Definiteness",
       "views": 176000
     },
     {
+      "id": "M0Sa8fLOajA",
       "title": "26. Complex Matrices; Fast Fourier Transform",
       "views": 320000
     },
     {
+      "id": "vF7eyJ2g3kU",
       "title": "27. Positive Definite Matrices and Minima",
       "views": 287000
     },
     {
+      "id": "TSdXJw83kyA",
       "title": "28. Similar Matrices and Jordan Form",
       "views": 157000
     },
     {
+      "id": "TX_vooSnhm8",
       "title": "29. Singular Value Decomposition",
       "views": 203000
     },
     {
+      "id": "Ts3o2I8_Mxc",
       "title": "30. Linear Transformations and Their Matrices",
-      "views": 526000
+      "views": 527000
     },
     {
+      "id": "0h43aV4aH7I",
       "title": "31. Change of Basis; Image Compression",
       "views": 116000
     },
     {
+      "id": "HgC1l_6ySkc",
       "title": "32. Quiz 3 Review",
       "views": 154000
     },
     {
+      "id": "Go2aLo7ZOlU",
       "title": "33. Left and Right Inverses; Pseudoinverse",
       "views": 253000
     },
     {
+      "id": "RWvi4Vx4CDc",
       "title": "34. Final Course Review",
       "views": 217000
     }

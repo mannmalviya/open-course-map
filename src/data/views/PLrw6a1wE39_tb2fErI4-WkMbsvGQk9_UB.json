@@ -1,82 +1,102 @@
 {
   "lectures": [
     {
+      "id": "cQP8WApzIQQ",
       "title": "Lecture 1: Introduction",
-      "views": 844000
+      "views": 847000
     },
     {
+      "id": "gA4YXUJX7t8",
       "title": "Lecture 2: RPC and Threads",
-      "views": 268000
+      "views": 269000
     },
     {
+      "id": "EpIgvowZr00",
       "title": "Lecture 3: GFS",
-      "views": 184000
+      "views": 185000
     },
     {
+      "id": "M_teob23ZzY",
       "title": "Lecture 4: Primary-Backup Replication",
       "views": 93000
     },
     {
+      "id": "UzzcUS2OHqo",
       "title": "Lecture 5: Go, Threads, and Raft",
-      "views": 76000
+      "views": 77000
     },
     {
+      "id": "64Zp3tzNbpE",
       "title": "Lecture 6: Fault Tolerance: Raft (1)",
       "views": 89000
     },
     {
+      "id": "4r8Mz3MMivY",
       "title": "Lecture 7: Fault Tolerance: Raft (2)",
       "views": 43000
     },
     {
+      "id": "pbmyrNjzdDk",
       "title": "Lecture 8: Zookeeper",
       "views": 78000
     },
     {
+      "id": "IXHzbCuADt0",
       "title": "Lecture 9: More Replication, CRAQ",
       "views": 36000
     },
     {
+      "id": "jJSh54J1s5o",
       "title": "Lecture 10: Cloud Replicated DB, Aurora",
       "views": 41000
     },
     {
+      "id": "-pKNCjUhPjQ",
       "title": "Lecture 11: Cache Consistency: Frangipani",
       "views": 34000
     },
     {
+      "id": "aDp99WDIM_4",
       "title": "Lecture 12: Distributed Transactions",
       "views": 57000
     },
     {
+      "id": "4eW5SWBi7vs",
       "title": "Lecture 13: Spanner",
       "views": 38000
     },
     {
+      "id": "Cw6Nj2evjSs",
       "title": "Lecture 14: Optimistic Concurrency Control",
       "views": 23000
     },
     {
+      "id": "mzIoSW-cInA",
       "title": "Lecture 15: Big Data: Spark",
       "views": 29000
     },
     {
+      "id": "Myp8z0ybdzM",
       "title": "Lecture 16: Cache Consistency: Memcached at Facebook",
-      "views": 34000
+      "views": 35000
     },
     {
+      "id": "fR_NB714EAI",
       "title": "Lecture 17: COPS, Causal Consistency",
       "views": 18000
     },
     {
+      "id": "UKdLJ7-0iFM",
       "title": "Lecture 18: Fork Consistency, Certificate Transparency",
       "views": 16000
     },
     {
+      "id": "K_euhRou98Y",
       "title": "Lecture 19: Bitcoin",
       "views": 23000
     },
     {
+      "id": "XvXK_vZ0BNw",
       "title": "Lecture 20: Blockstack",
       "views": 21000
     }

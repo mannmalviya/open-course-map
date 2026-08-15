@@ -1,130 +1,162 @@
 {
   "lectures": [
     {
+      "id": "LbC0EZY8yw4",
       "title": "Onur Mutlu - Digital Design and Computer Architecture - Lecture 1: Introduction & Basics (Spring'21)",
       "views": 72000
     },
     {
+      "id": "d8ve91yBPfg",
       "title": "Onur Mutlu - Digital Design and Comp Arch - Lecture 2: Tradeoffs, Metrics, Mysteries in Comp Arch",
       "views": 18000
     },
     {
+      "id": "RCxKDBhF9ao",
       "title": "Onur Mutlu - Digital Design & Comp Arch - Lecture 3: Mysteries in Comp Arch, FPGAs, Labs (Spring'21)",
       "views": 15000
     },
     {
+      "id": "F_sbW20kTY8",
       "title": "Onur Mutlu - Digital Design & Computer Architecture - Lecture 4: Combinational Logic I (Spring 2021)",
       "views": 15000
     },
     {
+      "id": "a8wrNf6wDQo",
       "title": "Onur Mutlu - Digital Design & Computer Arch. - Lecture 5: Combinational Logic II (Spring 2021)",
       "views": 11000
     },
     {
+      "id": "KeV4x63AD80",
       "title": "Digital Design & Computer Arch. - Lecture 6: Sequential Logic Design (ETH Zürich, Spring 2021)",
       "views": 11000
     },
     {
+      "id": "tV9uDN-ngZs",
       "title": "Onur Mutlu - Digital Design & Computer Architecture - Lecture 7: HDL and Verilog (Spring 2021)",
       "views": 11000
     },
     {
+      "id": "4AcwBBwiNlQ",
       "title": "Onur Mutlu - Digital Design & Computer Arch. - Lecture 8: Timing and Verification (Spring 2021)",
       "views": 10000
     },
     {
+      "id": "Jb75Afw2t04",
       "title": "Onur Mutlu - Digital Design & Computer Arch. - Lecture 9: Von Neumann Model & ISAs (Spring 2021)",
       "views": 12000
     },
     {
+      "id": "uRaznAt_5pI",
       "title": "Onur Mutlu - Digital Design & Computer Arch. - Lecture 10: ISA & Assembly Programming (Spring 2021)",
       "views": 10000
     },
     {
+      "id": "KwQU70q5t-E",
       "title": "Onur Mutlu - Digital Design & Comp. Arch. - Lecture 11: Microarchitecture Fundamentals (Spring 2021)",
       "views": 10000
     },
     {
+      "id": "s9XQQ0kCqTM",
       "title": "Onur Mutlu - Future Computing Architectures: Challenges & Opportunities - Keynote Talk at CSCON'21",
       "views": 4500
     },
     {
+      "id": "kgiZlSOcGFM",
       "title": "Onur Mutlu - Future Computing Architectures - ETH Zurich Inaugural Lecture (May 15, 2017)",
       "views": 14000
     },
     {
+      "id": "h_c7h5mLagU",
       "title": "Onur Mutlu - Digital Design & Comp Arch - Lecture 12: Microarchitecture Fundamentals II (Spring '21)",
       "views": 8700
     },
     {
+      "id": "9Hj48Q_HCQY",
       "title": "Onur Mutlu - Digital Design & Computer Architecture - Lecture 13: Pipelining (Spring 2021)",
       "views": 11000
     },
     {
+      "id": "6e5KZcCGBYw",
       "title": "Onur Mutlu - Digital Design & Comp Arch - Lecture 14: Pipelined Processor Design (Spring 2021)",
       "views": 9200
     },
     {
+      "id": "-_JCpTWnEqc",
       "title": "Onur Mutlu - Dig. Design & Comp Arch. - Lec.15: Precise Exceptions & Out-of-Order Execution (Spr'21)",
       "views": 9600
     },
     {
+      "id": "mjBwrgecZPU",
       "title": "Digital Design & Computer Arch. - Lecture 16: Out-of-Order Execution (ETH Zürich, Spring 2021)",
       "views": 10000
     },
     {
+      "id": "pIAWMSNVt_8",
       "title": "Onur Mutlu - Digital Design & Comp. Arch. - Lecture 17: Superscalar & Branch Prediction I (Spring21)",
       "views": 7800
     },
     {
+      "id": "QEjSKnEgH-s",
       "title": "Digital Design & Computer Architecture - Lecture 18: Branch Prediction II (ETH Zürich, Spring 2021)",
       "views": 10000
     },
     {
+      "id": "UtLy4Yagdys",
       "title": "Digital Design & Computer Arch. - Lecture 19: VLIW, Systolic Arrays, DAE (ETH Zürich, Spring 2021)",
       "views": 6500
     },
     {
+      "id": "fP4kZ2Zx_84",
       "title": "Digital Design & Comp. Arch. - Lecture 20: SIMD Processing (Vector and Array Processors) (Spring'21)",
       "views": 14000
     },
     {
+      "id": "eaxGCv0wRrU",
       "title": "Digital Design & Comp. Arch. - Lecture 21: Graphics Processing Units (GPUs) (ETH Zürich, Spring '21)",
       "views": 8800
     },
     {
+      "id": "ahPQLempLRM",
       "title": "Digital Design & Comp. Arch. - Lecture 22: Memory Organization & Technology (ETH Zürich, Spring '21)",
       "views": 8300
     },
     {
+      "id": "J6jkrDlgflo",
       "title": "Digital Design & Computer Arch. - Lecture 23: Memory Hierarchy & Caches (ETH Zürich, Spring 2021)",
       "views": 10000
     },
     {
+      "id": "89Q7OdhmQ9o",
       "title": "Digital Design & Comp. Arch. - Lecture 24: Advanced Caches (ETH Zürich, Spring 2021) - Onur Mutlu",
       "views": 8100
     },
     {
+      "id": "DpzIGc4LYuw",
       "title": "Digital Design & Computer Arch. - Lecture 25: Prefetching & Virtual Memory (ETH Zürich, Spring 2021)",
       "views": 6400
     },
     {
+      "id": "7-TyqWqE3RE",
       "title": "Digital Design & Computer Arch. - Lecture 26: Virtual Memory & Epilogue (ETH Zürich, Spring 2021)",
       "views": 6800
     },
     {
+      "id": "y40-tY5WJ8A",
       "title": "Design of Digital Circuits - Lecture 22: GPU Programming (ETH Zürich, Spring 2018)",
       "views": 5800
     },
     {
+      "id": "IeW26tOJlgs",
       "title": "Digital Design & Computer Architecture - Discussion Session I (ETH Zürich, Spring 2021)",
       "views": 3100
     },
     {
+      "id": "IyZ-nzVCJgY",
       "title": "Digital Design & Computer Architecture - Discussion Session II (ETH Zürich, Spring 2021)",
       "views": 3100
     },
     {
+      "id": "m-va6IyeCNs",
       "title": "Digital Design & Computer Architecture - Preparing for the Final Exam (ETH Zürich, Spring 2021)",
       "views": 1700
     }

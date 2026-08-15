@@ -1,80 +1,99 @@
 {
   "lectures": [
     {
+      "id": "K6anQieeurc",
       "title": "CS224W--Lecture 19  Applications of Graph Neural Networks(2018)",
       "views": 1100
     },
     {
+      "id": "_HqHc1rvJtw",
       "title": "CS224W--Lecture 18  Limitations of Graph Neural Networks(2018)",
       "views": 156
     },
     {
+      "id": "QQaX1FxzfoE",
       "title": "CS224W--Lecture 11  Link Analysis --PageRank(2018)",
       "views": 124
     },
     {
+      "id": "5SoKPici3MU",
       "title": "CS224W--Lecture 17  Reasoning over Knowledge Graphs(2018)",
       "views": 109
     },
     {
+      "id": "Me1V2jrzPQw",
       "title": "CS224W--Lecture 16  Network Evolution(2018)",
       "views": 112
     },
     {
+      "id": "hALfuxGlDlk",
       "title": "CS224W--Lecture 15  Outbreak Detection in Networks(2018）",
       "views": 91
     },
     {
+      "id": "ieigE6jrQWY",
       "title": "CS224W--Lecture 14  Influence Maximization in Networks(2018)",
       "views": 651
     },
     {
+      "id": "XiToSrOf5AY",
       "title": "CS224W--Lecture 13  Probabilistic Contagion and Models of Influence(2018)",
-      "views": 95
+      "views": 96
     },
     {
+      "id": "3hUJcadGymg",
       "title": "CS224W--Lecture 12  Network Effects and Cascading Behavior(2018)",
       "views": 123
     },
     {
+      "id": "XwNZSguyxvU",
       "title": "CS224W--Lecture 10  Deep Generative Models for Graphs(2018)",
       "views": 142
     },
     {
+      "id": "w9phpqZBt7k",
       "title": "CS224W--Lecture 9  Graph Neural Networks Implementation with Pytorch Geometric(2018)",
       "views": 506
     },
     {
+      "id": "M1xUyuKhDzg",
       "title": "CS224W--Lecture 8  Graph Neural Networks(2018)",
       "views": 233
     },
     {
+      "id": "jN5tHM8Xf74",
       "title": "CS224W--Lecture 7  Graph Representation Learning(2018)",
       "views": 151
     },
     {
+      "id": "cLGqPhR6lOk",
       "title": "CS224W--Lecture 6  Message Passing and Node Classification(2018)",
       "views": 151
     },
     {
+      "id": "372rj1DQDrY",
       "title": "CS224W--Lecture 5  Spectral Clustering(2018)",
       "views": 266
     },
     {
+      "id": "PuPY6Hr9y7g",
       "title": "CS224W--Lecture 4  Community Structure in Networks(2018)",
-      "views": 165
+      "views": 166
     },
     {
+      "id": "c2B5WPfJHg0",
       "title": "CS224W--Lecture 3  Motifs and Structural Roles in Networks(2018)",
       "views": 193
     },
     {
+      "id": "ef-qZvvQx7E",
       "title": "CS224W--Lecture 2  Properties of Networks And Random Graph Models(2018)",
       "views": 316
     },
     {
+      "id": "LWZXNa01sSo",
       "title": "CS224W--Lecture 1  Introduction; Structure of Graphs(2018)",
-      "views": 623
+      "views": 624
     }
   ]
 }

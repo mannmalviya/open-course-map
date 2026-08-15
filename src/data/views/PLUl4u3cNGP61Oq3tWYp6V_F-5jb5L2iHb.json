@@ -1,190 +1,237 @@
 {
   "lectures": [
     {
+      "id": "HtSuA80QTyo",
       "title": "Lecture 1: Algorithmic Thinking, Peak Finding",
       "views": 5900000
     },
     {
+      "id": "Zc54gFhdpLA",
       "title": "Lecture 2: Models of Computation, Document Distance",
       "views": 933000
     },
     {
+      "id": "Kg4bqzAqRBM",
       "title": "Lecture 3: Insertion Sort, Merge Sort",
       "views": 883000
     },
     {
+      "id": "B7hVxCmfPtM",
       "title": "Lecture 4: Heaps and Heap Sort",
-      "views": 906000
+      "views": 907000
     },
     {
+      "id": "9Jry5-82I68",
       "title": "Lecture 5: Binary Search Trees, BST Sort",
       "views": 637000
     },
     {
+      "id": "FNeL18KsWPc",
       "title": "Lecture 6: AVL Trees, AVL Sort",
       "views": 701000
     },
     {
+      "id": "Nz1KZXbghj8",
       "title": "Lecture 7: Counting Sort, Radix Sort, Lower Bounds for Sorting",
       "views": 424000
     },
     {
+      "id": "0M_kIqhwbFo",
       "title": "Lecture 8: Hashing with Chaining",
       "views": 622000
     },
     {
+      "id": "BRO7mVIFt08",
       "title": "Lecture 9: Table Doubling, Karp-Rabin",
       "views": 246000
     },
     {
+      "id": "rvdJDijO2Ro",
       "title": "Lecture 10: Open Addressing, Cryptographic Hashing",
       "views": 170000
     },
     {
+      "id": "eCaXlAaN2uE",
       "title": "Lecture 11: Integer Arithmetic, Karatsuba Multiplication",
       "views": 158000
     },
     {
+      "id": "2YeJ-5UAke8",
       "title": "Lecture 12: Square Roots, Newton's Method",
       "views": 103000
     },
     {
+      "id": "s-CYnVz-uh4",
       "title": "Lecture 13: Breadth-First Search (BFS)",
       "views": 733000
     },
     {
+      "id": "AfSk24UTFS8",
       "title": "Lecture 14: Depth-First Search (DFS), Topological Sort",
       "views": 477000
     },
     {
+      "id": "Aa2sqUhIn-E",
       "title": "Lecture 15: Single-Source Shortest Paths Problem",
       "views": 260000
     },
     {
+      "id": "2E7MmKv0Y24",
       "title": "Lecture 16: Dijkstra",
       "views": 326000
     },
     {
+      "id": "ozsuci5pIso",
       "title": "Lecture 17: Bellman-Ford",
       "views": 204000
     },
     {
+      "id": "CHvQ3q_gJ7E",
       "title": "Lecture 18: Speeding up Dijkstra",
       "views": 109000
     },
     {
+      "id": "OQ5jsbhAv_M",
       "title": "Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths",
       "views": 2800000
     },
     {
+      "id": "ENyox7kNKeY",
       "title": "Lecture 20: Dynamic Programming II: Text Justification, Blackjack",
       "views": 558000
     },
     {
+      "id": "ocZMDMZwhCY",
       "title": "Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack",
       "views": 374000
     },
     {
+      "id": "tp4_UXaVyx8",
       "title": "Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros.",
       "views": 181000
     },
     {
+      "id": "moPtwq_cVH8",
       "title": "Lecture 23: Computational Complexity",
       "views": 541000
     },
     {
+      "id": "dU40AvBURDQ",
       "title": "Lecture 24: Topics in Algorithms Research",
       "views": 81000
     },
     {
+      "id": "P7frcB_-g4w",
       "title": "Recitation 1: Asymptotic Complexity, Peak Finding",
       "views": 190000
     },
     {
+      "id": "QFcyt8fgQMU",
       "title": "Recitation 2: Python Cost Model, Document Distance",
       "views": 70000
     },
     {
+      "id": "4iXLnF3hExw",
       "title": "Recitation 3: Document Distance, Insertion and Merge Sort",
       "views": 46000
     },
     {
+      "id": "r5pXu1PAUkI",
       "title": "Recitation 5: Recursion Trees, Binary Search Trees",
       "views": 115000
     },
     {
+      "id": "IWzYoXKaRIc",
       "title": "Recitation 6: AVL Trees",
       "views": 85000
     },
     {
+      "id": "9bkvws_vqLU",
       "title": "Recitation 7: Comparison Sort, Counting and Radix Sort",
       "views": 47000
     },
     {
+      "id": "eGSXsaJ-BlY",
       "title": "Recitation 8: Simulation Algorithms",
       "views": 29000
     },
     {
+      "id": "w6nuXg0BISo",
       "title": "Recitation 9: Rolling Hashes, Amortized Analysis",
       "views": 37000
     },
     {
+      "id": "-DwGrJ8JxDc",
       "title": "Recitation 9b: DNA Sequence Matching",
       "views": 26000
     },
     {
+      "id": "-FElVPKykgw",
       "title": "Recitation 10: Quiz 1 Review",
       "views": 21000
     },
     {
+      "id": "a_otxyu0mSQ",
       "title": "Recitation 11: Principles of Algorithm Design",
       "views": 75000
     },
     {
+      "id": "JRgIXyEPnbA",
       "title": "Recitation 12: Karatsuba Multiplication, Newton's Method",
       "views": 27000
     },
     {
+      "id": "5JxShDZ_ylo",
       "title": "Recitation 13: Breadth-First Search (BFS)",
       "views": 39000
     },
     {
+      "id": "C5SPsY72_CM",
       "title": "Recitation 14: Depth-First Search (DFS)",
       "views": 33000
     },
     {
+      "id": "mQSp6VmfakA",
       "title": "R15. Shortest Paths",
       "views": 29000
     },
     {
+      "id": "oRpERQA4Vik",
       "title": "Recitation 16: Rubik's Cube, StarCraft Zero",
       "views": 34000
     },
     {
+      "id": "sPuazUPiV1k",
       "title": "Recitation 18: Quiz 2 Review",
       "views": 16000
     },
     {
+      "id": "IFrvgSvZA0I",
       "title": "Recitation 19: Dynamic Programming: Crazy Eights, Shortest Path",
       "views": 43000
     },
     {
+      "id": "jZbkToeNK2g",
       "title": "Recitation 20: Dynamic Programming: Blackjack",
       "views": 36000
     },
     {
+      "id": "PptQgy89cN8",
       "title": "Recitation 22: Dynamic Programming: Dance Dance Revolution",
       "views": 28000
     },
     {
+      "id": "wFP5VHGHFdk",
       "title": "Recitation 21: Dynamic Programming: Knapsack Problem",
       "views": 208000
     },
     {
+      "id": "t5Wxk96QjUk",
       "title": "Recitation 23: Computational Complexity",
       "views": 46000
     },
     {
+      "id": "hkAONP0aC9w",
       "title": "Recitation 24: Final Exam Review",
       "views": 43000
     }

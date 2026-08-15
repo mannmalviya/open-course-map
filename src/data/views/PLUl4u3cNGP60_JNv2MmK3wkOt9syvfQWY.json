@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "9syvZr-9xwk",
       "title": "1. Introduction, Finite Automata, Regular Expressions",
-      "views": 575000
+      "views": 576000
     },
     {
+      "id": "oNsscmUwjMU",
       "title": "2. Nondeterminism, Closure Properties, Conversion of Regular Expressions to FA",
       "views": 155000
     },
     {
+      "id": "KAySmSEGc9U",
       "title": "3. Regular Pumping Lemma, Conversion of FA to Regular Expressions",
       "views": 124000
     },
     {
+      "id": "m9eHViDPAJQ",
       "title": "4. Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion",
       "views": 122000
     },
     {
+      "id": "IycOPFmEQk8",
       "title": "5. CF Pumping Lemma, Turing Machines",
       "views": 94000
     },
     {
+      "id": "TTArY7ojshU",
       "title": "6. TM Variants, Church-Turing Thesis",
       "views": 74000
     },
     {
+      "id": "4MgN6uxd4i4",
       "title": "7. Decision Problems for Automata and Grammars",
       "views": 58000
     },
     {
+      "id": "3PzuSPQPEU4",
       "title": "8. Undecidability",
       "views": 64000
     },
     {
+      "id": "N28g_YBXY8Y",
       "title": "9. Reducibility",
       "views": 68000
     },
     {
+      "id": "MGqoLm2aAgc",
       "title": "10. Computation History Method",
       "views": 27000
     },
     {
+      "id": "N-_XmLanPYg",
       "title": "11. Recursion Theorem and Logic",
       "views": 26000
     },
     {
+      "id": "asjAc90L8rE",
       "title": "12. Time Complexity",
       "views": 47000
     },
     {
+      "id": "1VhnDdQsELo",
       "title": "14. P and NP, SAT, Poly-Time Reducibility",
-      "views": 43000
+      "views": 44000
     },
     {
+      "id": "iZPzBHGDsWI",
       "title": "15. NP-Completeness",
       "views": 38000
     },
     {
+      "id": "6Az1gtDRaAU",
       "title": "16. Cook-Levin Theorem",
       "views": 31000
     },
     {
+      "id": "cT_qwkTigv4",
       "title": "17. Space Complexity, PSPACE, Savitch's Theorem",
       "views": 23000
     },
     {
+      "id": "aVv9WXwW95w",
       "title": "18. PSPACE-Completeness",
       "views": 14000
     },
     {
+      "id": "4dFPVJrNLDs",
       "title": "19. Games, Generalized Geography",
       "views": 12000
     },
     {
+      "id": "q3xvno_KgRY",
       "title": "20. L and NL, NL = coNL",
       "views": 15000
     },
     {
+      "id": "vqFRAWeEcUs",
       "title": "21. Hierarchy Theorems",
       "views": 12000
     },
     {
+      "id": "N32bnUliSzo",
       "title": "22. Provably Intractable Problems, Oracles",
       "views": 8300
     },
     {
+      "id": "Vp_AzDGQyrA",
       "title": "23. Probabilistic Computation, BPP",
       "views": 11000
     },
     {
+      "id": "7J1HD9rqEB4",
       "title": "24. Probabilistic Computation (cont.)",
       "views": 8500
     },
     {
+      "id": "TSI3LR5WZmo",
       "title": "25. Interactive Proof Systems, IP",
       "views": 10000
     },
     {
+      "id": "eEXSv0jChO4",
       "title": "26. coNP is a subset of IP",
       "views": 7300
     }

@@ -1,30 +1,37 @@
 {
   "lectures": [
     {
+      "id": "IPBSB1HLNLo",
       "title": "Lesson 1: Deep Learning 2018",
       "views": 413000
     },
     {
+      "id": "JNxcznsrRb8",
       "title": "Lesson 2: Deep Learning 2018",
       "views": 160000
     },
     {
+      "id": "9C06ZPF8Uuc",
       "title": "Lesson 3: Deep Learning 2018",
       "views": 104000
     },
     {
+      "id": "gbceqO8PpBg",
       "title": "Lesson 4: Deep Learning 2018",
       "views": 95000
     },
     {
+      "id": "J99NV9Cr75I",
       "title": "Lesson 5: Deep Learning 2018",
       "views": 63000
     },
     {
+      "id": "sHcLkfRrgoQ",
       "title": "Lesson 6: Deep Learning 2018",
       "views": 54000
     },
     {
+      "id": "H3g26EVADgY",
       "title": "Lesson 7: Deep Learning 2",
       "views": 42000
     }

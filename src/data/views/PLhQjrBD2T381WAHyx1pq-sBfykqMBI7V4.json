@@ -1,50 +1,62 @@
 {
   "lectures": [
     {
+      "id": "3LPJfIKxwWc",
       "title": "CS50x 2024 - Lecture 0 - Scratch",
       "views": 2100000
     },
     {
+      "id": "cwtpLIWylAw",
       "title": "CS50x 2024 - Lecture 1 - C",
       "views": 1400000
     },
     {
+      "id": "4vU4aEFmTSo",
       "title": "CS50x 2024 - Lecture 2 - Arrays",
       "views": 618000
     },
     {
+      "id": "jZzyERW7h1A",
       "title": "CS50x 2024 - Lecture 3 - Algorithms",
       "views": 459000
     },
     {
+      "id": "F9-yqoS7b8w",
       "title": "CS50x 2024 - Lecture 4 - Memory",
       "views": 397000
     },
     {
+      "id": "0euvEdPwQnQ",
       "title": "CS50x 2024 - Lecture 5 - Data Structures",
       "views": 575000
     },
     {
+      "id": "EHi0RDZ31VA",
       "title": "CS50x 2024 - Lecture 6 - Python",
       "views": 489000
     },
     {
+      "id": "6X58aP7yXC4",
       "title": "CS50x 2024 - Artificial Intelligence",
-      "views": 222000
+      "views": 223000
     },
     {
+      "id": "1RCMYG8RUSE",
       "title": "CS50x 2024 - Lecture 7 - SQL",
       "views": 618000
     },
     {
+      "id": "ciz2UaifaNM",
       "title": "CS50x 2024 - Lecture 8 - HTML, CSS, JavaScript",
       "views": 303000
     },
     {
+      "id": "-aqUek49iL8",
       "title": "CS50x 2024 - Lecture 9 - Flask",
       "views": 245000
     },
     {
+      "id": "EKof-cJiTG8",
       "title": "CS50x 2024 - Cybersecurity",
       "views": 178000
     }

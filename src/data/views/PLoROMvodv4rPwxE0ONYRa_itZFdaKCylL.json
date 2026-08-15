@@ -1,78 +1,97 @@
 {
   "lectures": [
     {
+      "id": "EvHRQhMX7_w",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 1: Class Intro",
-      "views": 127000
+      "views": 129000
     },
     {
+      "id": "WxRDyObrm_M",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 2: Imitation Learning",
       "views": 31000
     },
     {
+      "id": "KCAOXd4IO9o",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 3: Policy Gradients",
-      "views": 21000
+      "views": 22000
     },
     {
+      "id": "oejFZShW9hU",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 4: Actor-Critic Methods",
-      "views": 17000
+      "views": 18000
     },
     {
+      "id": "cRGKc-nAWho",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 5: Off-Policy Actor Critic",
       "views": 13000
     },
     {
+      "id": "-7kv6jf0isQ",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 6: Q-Learning",
       "views": 10000
     },
     {
+      "id": "lRDaXnPIzks",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 7: Offline RL",
-      "views": 8500
+      "views": 8700
     },
     {
+      "id": "PDIxDhA9Z6Y",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 8: Reward Learning",
-      "views": 7100
+      "views": 7300
     },
     {
+      "id": "XKLGuwvSKvI",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 9: RL for LLMs",
-      "views": 6900
+      "views": 7000
     },
     {
+      "id": "O2VpNnwB4lM",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 10: RL for LLM Reasoning",
-      "views": 6300
+      "views": 6400
     },
     {
+      "id": "PvqyGnOirgA",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 11: Model-Based RL",
-      "views": 5400
+      "views": 5500
     },
     {
+      "id": "qNdsI_4AQJw",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 12: Multi-Task RL",
-      "views": 4500
+      "views": 4600
     },
     {
+      "id": "wSiyEpvoGkA",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 13: Meta RL",
-      "views": 4100
+      "views": 4200
     },
     {
+      "id": "4tlSKdi8teU",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 14: Exploration",
-      "views": 3600
+      "views": 3700
     },
     {
+      "id": "iKWYLSVAtfM",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 15: Hierarchical RL and IL",
       "views": 4600
     },
     {
+      "id": "rbaWQQLrzl0",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 16: RL for Robots",
       "views": 19000
     },
     {
+      "id": "Hp1WBWghrak",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 17: Advancing Robot Intelligence",
       "views": 11000
     },
     {
+      "id": "FacJ_1tTSx4",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Lecture 18: Frontiers",
-      "views": 5100
+      "views": 5200
     },
     {
+      "id": "07MQNMcxhZU",
       "title": "Stanford CS224R Deep Reinforcement Learning | Spring 2025 | Tutorial Session: Review of Q-Learning",
       "views": 4800
     }

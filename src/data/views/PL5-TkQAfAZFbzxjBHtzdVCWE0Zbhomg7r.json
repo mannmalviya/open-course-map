@@ -1,90 +1,112 @@
 {
   "lectures": [
     {
+      "id": "dJYGatp4SvA",
       "title": "Lecture 1: Introduction to Deep Learning for Computer Vision",
-      "views": 296000
+      "views": 297000
     },
     {
+      "id": "0nqvO3AM2Vw",
       "title": "Lecture 2: Image Classification",
       "views": 101000
     },
     {
+      "id": "qcSEP17uKKY",
       "title": "Lecture 3: Linear Classifiers",
       "views": 100000
     },
     {
+      "id": "YnQJTfbwBM8",
       "title": "Lecture 4: Optimization",
       "views": 68000
     },
     {
+      "id": "g6InpdhUblE",
       "title": "Lecture 5: Neural Networks",
       "views": 56000
     },
     {
+      "id": "dB-u77Y5a6A",
       "title": "Lecture 6: Backpropagation",
       "views": 145000
     },
     {
+      "id": "ANyxBVxmdZ0",
       "title": "Lecture 7: Convolutional Networks",
       "views": 80000
     },
     {
+      "id": "XaZIlVrIO-Q",
       "title": "Lecture 8: CNN Architectures",
       "views": 62000
     },
     {
+      "id": "oXPX8GIOiU4",
       "title": "Lecture 9: Hardware and Software",
       "views": 34000
     },
     {
+      "id": "lGbQlr1Ts7w",
       "title": "Lecture 10: Training Neural Networks I",
       "views": 43000
     },
     {
+      "id": "WUazOtlti0g",
       "title": "Lecture 11: Training Neural Networks II",
       "views": 34000
     },
     {
+      "id": "dUzLD91Sj-o",
       "title": "Lecture 12: Recurrent Networks",
       "views": 49000
     },
     {
+      "id": "YAgjfMR9R_M",
       "title": "Lecture 13: Attention",
       "views": 87000
     },
     {
+      "id": "G1hGwHVykDU",
       "title": "Lecture 14: Visualizing and Understanding",
       "views": 31000
     },
     {
+      "id": "TB-fdISzpHQ",
       "title": "Lecture 15: Object Detection",
       "views": 76000
     },
     {
+      "id": "9AyMR4IhSWQ",
       "title": "Lecture 16: Detection and Segmentation",
       "views": 43000
     },
     {
+      "id": "S1_nCdLUQQ8",
       "title": "Lecture 17: 3D Vision",
       "views": 43000
     },
     {
+      "id": "A9D6NXBJdwU",
       "title": "Lecture 18: Videos",
       "views": 27000
     },
     {
+      "id": "Q3HU2vEhD5Y",
       "title": "Lecture 19: Generative Models I",
       "views": 46000
     },
     {
+      "id": "igP03FXZqgo",
       "title": "Lecture 20: Generative Models II",
       "views": 26000
     },
     {
+      "id": "Qex3XzcFKP4",
       "title": "Lecture 21: Reinforcement Learning",
       "views": 20000
     },
     {
+      "id": "s3Ky_Ls4YSY",
       "title": "Lecture 22: Conclusion",
       "views": 12000
     }

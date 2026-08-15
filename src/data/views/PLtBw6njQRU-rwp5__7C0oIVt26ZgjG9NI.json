@@ -1,362 +1,452 @@
 {
   "lectures": [
     {
+      "id": "II4giR4vOOo",
       "title": "MIT Introduction to Deep Learning | 6.S191",
-      "views": 234000
+      "views": 240000
     },
     {
+      "id": "d02VkQ9MP44",
       "title": "MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention",
-      "views": 68000
+      "views": 70000
     },
     {
+      "id": "pqIcoskUuWs",
       "title": "MIT 6.S191: Convolutional Neural Networks",
-      "views": 45000
+      "views": 47000
     },
     {
+      "id": "R8V8CbuxryI",
       "title": "MIT 6.S191: Deep Generative Modeling",
-      "views": 25000
+      "views": 26000
     },
     {
+      "id": "1ij3dweHu-0",
       "title": "MIT 6.S191: Reinforcement Learning",
-      "views": 17000
+      "views": 18000
     },
     {
+      "id": "ev7cLSd-ySE",
       "title": "MIT 6.S191: Language Models and New Frontiers",
       "views": 15000
     },
     {
+      "id": "XKOpA7iaJvg",
       "title": "MIT 6.S191: The Three Laws of AI",
-      "views": 9700
+      "views": 10000
     },
     {
+      "id": "rZACoZD8AG8",
       "title": "MIT 6.S191: AI for Science",
-      "views": 26000
+      "views": 27000
     },
     {
+      "id": "UZZD9d9YqnQ",
       "title": "MIT 6.S191: Secrets of Massively Parallel Training",
       "views": 10000
     },
     {
+      "id": "alfdI7S6wCY",
       "title": "MIT Introduction to Deep Learning (2025) | 6.S191",
       "views": 1000000
     },
     {
+      "id": "GvezxUdLrEk",
       "title": "MIT 6.S191 (2025): Recurrent Neural Networks, Transformers, and Attention",
-      "views": 299000
+      "views": 300000
     },
     {
+      "id": "oGpzWAlP5p0",
       "title": "MIT 6.S191 (2025): Convolutional Neural Networks",
       "views": 220000
     },
     {
+      "id": "SdTZAMDKrNY",
       "title": "MIT 6.S191 (2025): Deep Generative Modeling",
       "views": 120000
     },
     {
+      "id": "to-lHJfK4pw",
       "title": "MIT 6.S191 (2025): Reinforcement Learning",
-      "views": 122000
+      "views": 123000
     },
     {
+      "id": "HLKo4fJx_7k",
       "title": "MIT 6.S191 (2025): Language Models and New Frontiers",
       "views": 62000
     },
     {
+      "id": "ZNodOsz94cc",
       "title": "MIT 6.S191 (2025): Large Language Models (Google)",
       "views": 83000
     },
     {
+      "id": "_HfdncCbMOE",
       "title": "MIT 6.S191 (2025): Large Language Models (Liquid AI)",
-      "views": 60000
+      "views": 61000
     },
     {
+      "id": "CyCUZAf8xSU",
       "title": "MIT 6.S191 (2025): A Hipocratic Oath, for *your* AI (Comet ML)",
       "views": 17000
     },
     {
+      "id": "SSzSOeGP87I",
       "title": "MIT 6.S191 (2025): AI for Biology (Microsoft)",
       "views": 38000
     },
     {
+      "id": "ErnWZxJovaM",
       "title": "MIT Introduction to Deep Learning (2024) | 6.S191",
       "views": 1000000
     },
     {
+      "id": "dqoEU9Ac3ek",
       "title": "MIT 6.S191 (2024): Recurrent Neural Networks, Transformers, and Attention",
       "views": 306000
     },
     {
+      "id": "2xqkSUhmmXU",
       "title": "MIT 6.S191 (2024): Convolutional Neural Networks",
-      "views": 162000
+      "views": 163000
     },
     {
+      "id": "Dmm4UG-6jxA",
       "title": "MIT 6.S191 (2024): Deep Generative Modeling",
       "views": 103000
     },
     {
+      "id": "8JVRbHAVCws",
       "title": "MIT 6.S191 (2024): Reinforcement Learning",
       "views": 127000
     },
     {
+      "id": "N1fbskTpwZ0",
       "title": "MIT 6.S191 (2024): Language Models and New Frontiers",
       "views": 56000
     },
     {
+      "id": "P7Hkh2zOGQ0",
       "title": "MIT 6.S191 (2024): Google - Generative AI for Media",
       "views": 48000
     },
     {
+      "id": "ZAGiinWiFsE",
       "title": "MIT 6.S191 (2024): Building AI Models in the Wild",
       "views": 36000
     },
     {
+      "id": "QDX-1M5Nj7s",
       "title": "MIT Introduction to Deep Learning (2023) | 6.S191",
       "views": 2000000
     },
     {
+      "id": "ySEx_Bqxvvo",
       "title": "MIT 6.S191 (2023): Recurrent Neural Networks, Transformers, and Attention",
       "views": 697000
     },
     {
+      "id": "NmLK_WQBxB4",
       "title": "MIT 6.S191 (2023): Convolutional Neural Networks",
       "views": 276000
     },
     {
+      "id": "3G5hWM6jqPk",
       "title": "MIT 6.S191 (2023): Deep Generative Modeling",
       "views": 322000
     },
     {
+      "id": "kIiO4VSrivU",
       "title": "MIT 6.S191 (2023): Robust and Trustworthy Deep Learning",
       "views": 97000
     },
     {
+      "id": "AhyznRSDjw8",
       "title": "MIT 6.S191 (2023): Reinforcement Learning",
       "views": 151000
     },
     {
+      "id": "FHeCmnNe0P8",
       "title": "MIT 6.S191 (2023): Deep Learning New Frontiers",
       "views": 91000
     },
     {
+      "id": "SA-v6Op2kL4",
       "title": "MIT 6.S191 (2023): Text-to-Image Generation",
       "views": 53000
     },
     {
+      "id": "p1NpGC8K-vs",
       "title": "MIT 6.S191 (2023): The Modern Era of Statistics",
       "views": 88000
     },
     {
+      "id": "WHvWSYKGMDQ",
       "title": "MIT 6.S191 (2023): The Future of Robot Learning",
       "views": 54000
     },
     {
+      "id": "7sB052Pz0sQ",
       "title": "MIT Introduction to Deep Learning (2022) | 6.S191",
       "views": 632000
     },
     {
+      "id": "QvkQ1B3FBqA",
       "title": "MIT 6.S191 (2022): Recurrent Neural Networks and Transformers",
       "views": 259000
     },
     {
+      "id": "uapdILWYTzE",
       "title": "MIT 6.S191 (2022): Convolutional Neural Networks",
       "views": 124000
     },
     {
+      "id": "QcLlc9lj2hk",
       "title": "MIT 6.S191 (2022): Deep Generative Modeling",
       "views": 83000
     },
     {
+      "id": "-WbN61qtTGQ",
       "title": "MIT 6.S191 (2022): Reinforcement Learning",
       "views": 91000
     },
     {
+      "id": "wySXLRTxAGQ",
       "title": "MIT 6.S191 (2022): Deep Learning New Frontiers",
       "views": 39000
     },
     {
+      "id": "NHZMfSMAHlo",
       "title": "MIT 6.S191: LiDAR for Autonomous Driving",
       "views": 35000
     },
     {
+      "id": "sR6_bZ6VkAg",
       "title": "MIT 6.S191: Automatic Speech Recognition",
       "views": 36000
     },
     {
+      "id": "QZxcTZj0L-M",
       "title": "MIT 6.S191: AI for Science",
       "views": 40000
     },
     {
+      "id": "veYq6EWZyVc",
       "title": "MIT 6.S191: Uncertainty in Deep Learning",
       "views": 37000
     },
     {
+      "id": "5tvmMX8r_OM",
       "title": "MIT 6.S191 (2021): Introduction to Deep Learning",
       "views": 566000
     },
     {
+      "id": "qjrad0V0uJE",
       "title": "MIT 6.S191 (2021): Recurrent Neural Networks",
       "views": 301000
     },
     {
+      "id": "AjtX1N_VT9E",
       "title": "MIT 6.S191 (2021): Convolutional Neural Networks",
       "views": 164000
     },
     {
+      "id": "BUNl0To1IVw",
       "title": "MIT 6.S191 (2021): Deep Generative Modeling",
       "views": 109000
     },
     {
+      "id": "93M1l_nrhpQ",
       "title": "MIT 6.S191 (2021): Reinforcement Learning",
       "views": 105000
     },
     {
+      "id": "-boCMDouF2g",
       "title": "MIT 6.S191 (2021): Deep Learning New Frontiers",
       "views": 64000
     },
     {
+      "id": "toTcf7tZK8c",
       "title": "MIT 6.S191: Evidential Deep Learning and Uncertainty",
       "views": 66000
     },
     {
+      "id": "wmyVODy_WD8",
       "title": "MIT 6.S191: AI Bias and Fairness",
       "views": 55000
     },
     {
+      "id": "WkUYsVC3hKI",
       "title": "MIT 6.S191: Deep CPCFG for Information Extraction",
       "views": 22000
     },
     {
+      "id": "eS-OHAHOqU0",
       "title": "MIT 6.S191: Taming Dataset Bias via Domain Adaptation",
       "views": 25000
     },
     {
+      "id": "lkkFcg9k9ho",
       "title": "MIT 6.S191: Towards AI for 3D Content Creation",
       "views": 22000
     },
     {
+      "id": "cvXVK8oqU4Q",
       "title": "MIT 6.S191: AI in Healthcare",
       "views": 35000
     },
     {
+      "id": "njKP3FqW3Sk",
       "title": "MIT 6.S191 (2020): Introduction to Deep Learning",
       "views": 1200000
     },
     {
+      "id": "SEnXr6v2ifU",
       "title": "MIT 6.S191 (2020): Recurrent Neural Networks",
       "views": 400000
     },
     {
+      "id": "iaSUYvmCekI",
       "title": "MIT 6.S191 (2020): Convolutional Neural Networks",
       "views": 318000
     },
     {
+      "id": "rZufA635dq4",
       "title": "MIT 6.S191 (2020): Deep Generative Modeling",
-      "views": 179000
+      "views": 180000
     },
     {
+      "id": "nZfaHIxDD5w",
       "title": "MIT 6.S191 (2020): Reinforcement Learning",
       "views": 110000
     },
     {
+      "id": "tfM_DdbGTLs",
       "title": "MIT 6.S191 (2020): Deep Learning New Frontiers",
       "views": 120000
     },
     {
+      "id": "4PuuziOgSU4",
       "title": "MIT 6.S191 (2020): Neurosymbolic AI",
       "views": 93000
     },
     {
+      "id": "8Kn4Gi8iSYQ",
       "title": "MIT 6.S191 (2020): Generalizable Autonomy for Robot Manipulation",
       "views": 37000
     },
     {
+      "id": "BCZ56MU-KhQ",
       "title": "MIT 6.S191 (2020): Neural Rendering",
       "views": 35000
     },
     {
+      "id": "Z5Pw5eWItiw",
       "title": "MIT 6.S191 (2020): Machine Learning for Scent",
       "views": 43000
     },
     {
+      "id": "l82PxsKHxYc",
       "title": "Barack Obama: Intro to Deep Learning | MIT 6.S191",
       "views": 620000
     },
     {
+      "id": "5v1JnYv_yWs",
       "title": "MIT 6.S191 (2019): Introduction to Deep Learning",
       "views": 234000
     },
     {
+      "id": "_h66BW-xNgk",
       "title": "MIT 6.S191 (2019): Recurrent Neural Networks",
       "views": 123000
     },
     {
+      "id": "H-HVZJ7kGI0",
       "title": "MIT 6.S191 (2019): Convolutional Neural Networks",
       "views": 149000
     },
     {
+      "id": "yFBFl1cLYx8",
       "title": "MIT 6.S191 (2019): Deep Generative Modeling",
       "views": 63000
     },
     {
+      "id": "i6Mi2_QM3rA",
       "title": "MIT 6.S191 (2019): Deep Reinforcement Learning",
       "views": 106000
     },
     {
+      "id": "INja7C5_vqk",
       "title": "MIT 6.S191 (2019): Deep Learning Limitations and New Frontiers",
       "views": 35000
     },
     {
+      "id": "ulLx2iPTIcs",
       "title": "MIT 6.S191 (2019): Visualization for Machine Learning (Google Brain)",
       "views": 67000
     },
     {
+      "id": "4lY-oAY0aQU",
       "title": "MIT 6.S191 (2019): Biologically Inspired Neural Networks (IBM)",
       "views": 35000
     },
     {
+      "id": "_MzaThb_jno",
       "title": "MIT 6.S191 (2019): Image Domain Transfer (NVIDIA)",
       "views": 22000
     },
     {
+      "id": "JN6H4rQvwgY",
       "title": "MIT 6.S191 (2018): Introduction to Deep Learning",
       "views": 530000
     },
     {
+      "id": "CznICCPa63Q",
       "title": "MIT 6.S191 (2018): Sequence Modeling with Neural Networks",
       "views": 88000
     },
     {
+      "id": "NVH8EYPHi30",
       "title": "MIT 6.S191 (2018): Convolutional Neural Networks",
       "views": 65000
     },
     {
+      "id": "JVb54xhEw6Y",
       "title": "MIT 6.S191 (2018): Deep Generative Modeling",
       "views": 32000
     },
     {
+      "id": "s5qqjyGiBdc",
       "title": "MIT 6.S191 (2018): Deep Reinforcement Learning",
       "views": 28000
     },
     {
+      "id": "l_yWLAQg7LU",
       "title": "MIT 6.S191 (2018): Deep Learning Limitations and New Frontiers",
       "views": 20000
     },
     {
+      "id": "QYwESy6isuc",
       "title": "MIT 6.S191 (2018): Issues in Image Classification",
       "views": 17000
     },
     {
+      "id": "FkHWKq86tSw",
       "title": "MIT 6.S191 (2018): Faster ML Development with TensorFlow",
       "views": 25000
     },
     {
+      "id": "Z7YMDwzUTds",
       "title": "MIT 6.S191 (2018): Deep Learning - A Personal Perspective",
       "views": 19000
     },
     {
+      "id": "mNqVGB2HkXg",
       "title": "MIT 6.S191 (2018): Beyond Deep Learning: Learning+Reasoning",
       "views": 30000
     },
     {
+      "id": "aFEnWHxUd7s",
       "title": "MIT 6.S191 (2018): Computer Vision Meets Social Networks",
       "views": 33000
     }

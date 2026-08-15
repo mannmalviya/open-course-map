@@ -1,82 +1,102 @@
 {
   "lectures": [
     {
+      "id": "r6eHgE2nDNw",
       "title": "CSE201, Lec 1:The Breadth First Search (BFS) invariant",
       "views": 1400
     },
     {
+      "id": "32lKj7DWuYM",
       "title": "CSE201, Lec 2: More on the BFS invariant, and using BFS for 2-coloring/bipartiteness",
       "views": 372
     },
     {
+      "id": "7pP6HcZDYcw",
       "title": "CSE201, Lec 3: Depth First Search (DFS) and the concept of finishing times",
       "views": 562
     },
     {
+      "id": "mURNg2BukXA",
       "title": "CSE201, Lec 4: More on Depth-First Search, Topologically sorting a DAG",
       "views": 256
     },
     {
+      "id": "OrIChnHsBmo",
       "title": "CSE201, Lec 5: Using Depth-First Search to find Strongly Connected Components",
       "views": 236
     },
     {
+      "id": "xJpT3baS0AY",
       "title": "CSE201, Lec 6: Intro to Dynamic Programming",
       "views": 353
     },
     {
+      "id": "IIInJ2lPFnY",
       "title": "CSE201, Lec 7: Dynamic Programming for the Longest Common Subsequence and Optimal BST problems",
       "views": 252
     },
     {
+      "id": "CRSkj4a8Obw",
       "title": "CSE201, Lec 8: Greedy Algorithms; the Fractional Knapsack Problem and introduction to Huffman Coding",
       "views": 617
     },
     {
+      "id": "EDxGZGze1lE",
       "title": "CSE201, Lec 9: Huffman coding",
       "views": 218
     },
     {
+      "id": "hQV5YJlYhRE",
       "title": "CSE201, Lec 10: Minimum Spanning Trees",
       "views": 226
     },
     {
+      "id": "l8M-e01-yc0",
       "title": "CSE201, Lec 11: Single source shortest paths and the Bellman-Ford algorithm",
       "views": 211
     },
     {
+      "id": "aMmB1egjCS4",
       "title": "CSE201, Lec 12: Dijkstra's algorithms, All Pairs Shortest Paths, and matrix multiplication",
       "views": 307
     },
     {
+      "id": "vPAbKHcBYXo",
       "title": "CSE201, Lec 13: Introduction to divide and conquer, Mergesort and the stock market problem",
       "views": 483
     },
     {
+      "id": "hBqJuQnlAEA",
       "title": "CSE201, Lec 14: Linear time selection using divide and conquer",
       "views": 599
     },
     {
+      "id": "cLzBMGa6ss8",
       "title": "CSE201, Lec 15: Karatsuba multiplication and Strassen's matrix multiplication",
       "views": 328
     },
     {
+      "id": "Vu8E5Cnbs9s",
       "title": "CSE201, Lec 16: The nlog n lower bound for comparison based sorters",
       "views": 162
     },
     {
+      "id": "Evv1B_5DBnE",
       "title": "CSE201, Lec 17: An introduction to NP-completeness and the connection with optimization problems",
       "views": 158
     },
     {
+      "id": "rYYlMBuHskI",
       "title": "CSE201, Lec 19: The Fast Fourier Transform",
       "views": 314
     },
     {
+      "id": "y47JGpFYwbM",
       "title": "CSE201, Lec 18: Cuts and flows",
       "views": 151
     },
     {
+      "id": "urZ6S6ManDI",
       "title": "CSE201, Winter 2025, Lec10: Greedy algorithms and scheduling",
       "views": 90
     }

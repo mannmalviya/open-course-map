@@ -1,74 +1,92 @@
 {
   "lectures": [
     {
+      "id": "qw2c6ffSVOM",
       "title": "Lecture 1: Course Overview (2019)",
       "views": 50000
     },
     {
+      "id": "LJ9ki5zq6Ik",
       "title": "Lecture 2: Virtual Machines and Containers (2019)",
       "views": 25000
     },
     {
+      "id": "dbDRfmH5uSI",
       "title": "Lecture 3.5: Shell and Scripting (re-recording) (2019)",
       "views": 21000
     },
     {
+      "id": "Gn_zGUywz-Q",
       "title": "Lecture 3: Shell and Scripting (2019)",
       "views": 8900
     },
     {
+      "id": "i0rf1gpKL1E",
       "title": "Lecture 4: Command-line Environment (2019)",
       "views": 7800
     },
     {
+      "id": "VW2jn9Okjhw",
       "title": "Lecture 5: Data Wrangling (2019)",
       "views": 5900
     },
     {
+      "id": "1vLcusYSrI4",
       "title": "Lecture 6: Editors (2019)",
       "views": 6600
     },
     {
+      "id": "3fig2Vz8QXs",
       "title": "Lecture 7: Version Control (2019)",
       "views": 6000
     },
     {
+      "id": "YSZBWWJw3mI",
       "title": "Lecture 8: Dotfiles (2019)",
       "views": 8300
     },
     {
+      "id": "lrpqYF8tcYQ",
       "title": "Lecture 9: Backups (2019)",
       "views": 4300
     },
     {
+      "id": "BaLlAaHz-1k",
       "title": "Lecture 10: Automation (2019)",
       "views": 5000
     },
     {
+      "id": "eNYT2Oq3PF8",
       "title": "Lecture 11: Machine Introspection (2019)",
       "views": 4000
     },
     {
+      "id": "74MhV-7hYzg",
       "title": "Lecture 12: Program Introspection (2019)",
       "views": 3000
     },
     {
+      "id": "tgvt473T8xA",
       "title": "Lecture 13: Package and Dependency Management (2019)",
       "views": 4100
     },
     {
+      "id": "epSRVqQzeDo",
       "title": "Lecture 14: OS Customization (2019)",
       "views": 6800
     },
     {
+      "id": "X5c2Y8BCowM",
       "title": "Lecture 15: Remote Machines (2019)",
       "views": 5000
     },
     {
+      "id": "XpZO3S8odec",
       "title": "Lecture 16: Web and Browsers (2019)",
       "views": 8300
     },
     {
+      "id": "OBx_c-i-M8s",
       "title": "Lecture 17: Security and Privacy (2019)",
       "views": 6200
     }

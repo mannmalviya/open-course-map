@@ -75,6 +75,8 @@ export interface SubjectFile {
 }
 
 export interface Lecture {
+  /** YouTube video id — absent in snapshots taken before ids were recorded */
+  id?: string;
   title: string;
   views: number;
 }

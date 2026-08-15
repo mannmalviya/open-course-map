@@ -1,94 +1,117 @@
 {
   "lectures": [
     {
+      "id": "ANCN7vr9FVk",
       "title": "1. Inflationary Cosmology: Is Our Universe Part of a Multiverse? Part I",
-      "views": 400000
+      "views": 401000
     },
     {
+      "id": "4OinSH6sAUo",
       "title": "2. Inflationary Cosmology: Is Our Universe Part of a Multiverse, Part II",
       "views": 112000
     },
     {
+      "id": "tJ2AJJMcQXs",
       "title": "3. The Doppler Effect and Special Relativity",
       "views": 115000
     },
     {
+      "id": "wuPEmfon9lg",
       "title": "4. The Kinematics of the Homogeneous Expanding Universe",
       "views": 49000
     },
     {
+      "id": "45RQrWHzovU",
       "title": "5. Cosmological Redshift and the Dynamics of Homogeneous Expansion, Part I",
       "views": 39000
     },
     {
+      "id": "vKLqWj0FRyc",
       "title": "6. The Dynamics of Homogeneous Expansion, Part II",
       "views": 27000
     },
     {
+      "id": "m00PjHTq6jU",
       "title": "7. The Dynamics of Homogeneous Expansion, Part III",
       "views": 18000
     },
     {
+      "id": "OtJFD9HNnoc",
       "title": "8. The Dynamics of Homogeneous Expansion, Part IV",
       "views": 15000
     },
     {
+      "id": "U9n-Y_ZC-2M",
       "title": "9. The Dynamics of Homogeneous Expansion, Part V",
       "views": 13000
     },
     {
+      "id": "YfbXB_MSkSY",
       "title": "10. Introduction to Non-Euclidean Spaces",
       "views": 44000
     },
     {
+      "id": "ARuzDX55Xnk",
       "title": "11. Non-Euclidean Spaces: Closed Universes",
       "views": 25000
     },
     {
+      "id": "dBhMcn7UDs0",
       "title": "12. Non-Euclidean Spaces: Open Universes and the Spacetime Metric",
       "views": 21000
     },
     {
+      "id": "eUYIcR1VGns",
       "title": "13. Non-Euclidean Spaces: Spacetime Metric and Geodesic Equation",
       "views": 18000
     },
     {
+      "id": "-yIKKST-_Mw",
       "title": "14. The Geodesic Equation",
       "views": 53000
     },
     {
+      "id": "moyD_yeviMY",
       "title": "15. Black-Body Radiation and the Early History of the Universe, Part I",
       "views": 73000
     },
     {
+      "id": "6b83DypBeYg",
       "title": "16. Black-Body Radiation and the Early History of the Universe, Part II",
       "views": 15000
     },
     {
+      "id": "KY91PsqCy_8",
       "title": "17. Black-Body Radiation and the Early History of the Universe, Part III",
       "views": 11000
     },
     {
+      "id": "MKPswx4hjec",
       "title": "18. Cosmic Microwave Background Spectrum and the Cosmological Constant, Part I",
       "views": 29000
     },
     {
+      "id": "U_Ot1PTuUv4",
       "title": "19. The Cosmological Constant, Part II",
       "views": 19000
     },
     {
+      "id": "RgScJ20EnW8",
       "title": "20. Supernovae Ia and Vacuum Energy Density",
       "views": 15000
     },
     {
+      "id": "PK1KNojfvMQ",
       "title": "21. Problems of the Conventional (Non-inflationary) Hot Big Bang Model",
       "views": 13000
     },
     {
+      "id": "seBwiL9InII",
       "title": "22. The Higgs Field and the Cosmological Magnetic Monopole Problem",
       "views": 26000
     },
     {
+      "id": "PsfyE1-s9Rs",
       "title": "23. Inflation",
       "views": 55000
     }

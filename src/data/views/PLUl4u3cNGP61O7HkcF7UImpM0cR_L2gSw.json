@@ -1,104 +1,129 @@
 {
   "lectures": [
     {
+      "id": "LY7YmuDbuW0",
       "title": "Lecture 1: Sets, Set Operations and Mathematical Induction",
-      "views": 571000
+      "views": 573000
     },
     {
+      "id": "9_xG0AGRa-w",
       "title": "Lecture 2: Cantor's Theory of Cardinality (Size)",
-      "views": 136000
+      "views": 137000
     },
     {
+      "id": "nbENJ-Ce7Nc",
       "title": "Lecture 3: Cantor's Remarkable Theorem and the Rationals' Lack of the Least Upper Bound Property",
       "views": 78000
     },
     {
+      "id": "mlPLLXHZ8_U",
       "title": "Lecture 4: The Characterization of the Real Numbers",
       "views": 53000
     },
     {
+      "id": "M2d4HsBsu8Y",
       "title": "Lecture 5: The Archimedian Property, Density of the Rationals, and Absolute Value",
       "views": 47000
     },
     {
+      "id": "PnDtMfyZSIE",
       "title": "Lecture 6: The Uncountabality of the Real Numbers",
       "views": 33000
     },
     {
+      "id": "49Ro2zf9hAc",
       "title": "Lecture 7: Convergent Sequences of Real Numbers",
       "views": 40000
     },
     {
+      "id": "os_XGBNPllM",
       "title": "Lecture 8: The Squeeze Theorem and Operations Involving Convergent Sequences",
       "views": 23000
     },
     {
+      "id": "Xn8wL2ItzZw",
       "title": "Lecture 9: Limsup, Liminf, and the Bolzano-Weierstrass Theorem",
       "views": 34000
     },
     {
+      "id": "0_w-R_g5lRA",
       "title": "Lecture 10: The Completeness of the Real Numbers and Basic Properties of Infinite Series",
       "views": 22000
     },
     {
+      "id": "RzSp9nIFnbo",
       "title": "Lecture 11: Absolute Convergence and the Comparison Test for Series",
       "views": 16000
     },
     {
+      "id": "ZjjpLMKs7Tc",
       "title": "Lecture 12: The Ratio, Root, and Alternating Series Tests",
       "views": 13000
     },
     {
+      "id": "cjeXg5rJ9D8",
       "title": "Lecture 13: Limits of Functions",
       "views": 77000
     },
     {
+      "id": "bBESL68iX6s",
       "title": "Lecture 14: Limits of Functions in Terms of Sequences and Continuity",
       "views": 18000
     },
     {
+      "id": "smIcuRZybsA",
       "title": "Lecture 15: The Continuity of Sine and Cosine and the Many Discontinuities of Dirichlet's Function",
       "views": 12000
     },
     {
+      "id": "dcUKdwHRSD8",
       "title": "Lecture 16: The Min/Max Theorem and Bolzano's Intermediate Value Theorem",
       "views": 14000
     },
     {
+      "id": "f_sNWn7zujU",
       "title": "Lecture 17: Uniform Continuity and the Definition of the Derivative",
       "views": 15000
     },
     {
+      "id": "PuRJ9IgUW-M",
       "title": "Lecture 18: Weierstrass's Example of a Continuous and Nowhere Differentiable Function",
       "views": 18000
     },
     {
+      "id": "V3Wg_jrMSQY",
       "title": "Lecture 19: Differentiation Rules, Rolle's Theorem, and the Mean Value Theorem",
       "views": 38000
     },
     {
+      "id": "ImHAGH_OEow",
       "title": "Lecture 20: Taylor's Theorem and the Definition of Riemann Sums",
       "views": 14000
     },
     {
+      "id": "QeYUHA0UMVg",
       "title": "Lecture 21: The Riemann Integral of a Continuous Function",
       "views": 17000
     },
     {
+      "id": "WWZ_CeiRnIo",
       "title": "Lecture 22: Fundamental Theorem of Calculus, Integration by Parts, and Change of Variable Formula",
       "views": 12000
     },
     {
+      "id": "_HRTdXJgZ0Q",
       "title": "Lecture 23: Pointwise and Uniform Convergence of Sequences of Functions",
       "views": 17000
     },
     {
+      "id": "gXPX29KfEc4",
       "title": "Lecture 24: Uniform Convergence, the Weierstrass M-Test, and Interchanging Limits",
       "views": 13000
     },
     {
+      "id": "u4qQ1oIQcW8",
       "title": "Lecture 25: Power Series and the Weierstrass Approximation Theorem",
-      "views": 20000
+      "views": 21000
     }
   ]
 }

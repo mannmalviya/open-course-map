@@ -1,158 +1,197 @@
 {
   "lectures": [
     {
+      "id": "ziMRjDlLEwo",
       "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2024)",
       "views": 36000
     },
     {
+      "id": "mEt-hhLHBG4",
       "title": "Computer Architecture - Lecture 2: Memory Systems and Course Logistics (Fall 2024)",
       "views": 8400
     },
     {
+      "id": "M8xBlSGpzVc",
       "title": "Computer Architecture - Lecture 3: Memory-Centric Computing (Fall 2024)",
-      "views": 4500
+      "views": 4600
     },
     {
+      "id": "1FzXPkBTMW4",
       "title": "Computer Architecture - Lecture 4: Memory Centric Computing II and Memory Robustness (Fall 2024)",
       "views": 2900
     },
     {
+      "id": "jzzeaZi0muE",
       "title": "Computer Architecture - Lecture 5: Memory Robustness II (Fall 2024)",
       "views": 1500
     },
     {
+      "id": "_mbfYG_pLqU",
       "title": "Computer Architecture - Lecture 6: Cutting-Edge Research on Memory Systems (Fall 2024)",
       "views": 1500
     },
     {
+      "id": "7k2w7EZdS7E",
       "title": "Computer Architecture - Lecture 7: RowHammer Retrospective & Data Retention in Memory (Fall 2024)",
       "views": 1100
     },
     {
+      "id": "HAatWu4pZAc",
       "title": "Computer Architecture - Lecture 8: Data Retention in Memory II & Memory Latency (Fall 2024)",
       "views": 1900
     },
     {
+      "id": "ywsJm7nh6lI",
       "title": "Computer Architecture - Lecture 9: Memory Latency II  (Fall 2024)",
       "views": 1200
     },
     {
+      "id": "vETvhqU_VMY",
       "title": "Computer Architecture - Lecture 10: Memory Controllers (Fall 2024)",
-      "views": 3800
+      "views": 3900
     },
     {
+      "id": "4Fzn_nbxGnE",
       "title": "Computer Architecture - Lecture 11: Memory Controllers: Service Quality and Performance (Fall 2024)",
       "views": 1700
     },
     {
+      "id": "HeBucbIi4kw",
       "title": "Computer Architecture - Lecture 12: Memory-Centric Computing III (Fall 2024)",
       "views": 1300
     },
     {
+      "id": "LLDqUpXM4KE",
       "title": "Computer Architecture - Lecture 13: Memory Controllers and Emerging Memory Technologies (Fall 2024)",
       "views": 1200
     },
     {
+      "id": "X4bXNW42ez0",
       "title": "Computer Architecture - Lecture 14: Genome Analysis (Fall 2024)",
-      "views": 795
+      "views": 797
     },
     {
+      "id": "BSVz4vbxucY",
       "title": "Computer Architecture - Lecture 15: Flash Memory and Solid-State Drives (Fall 2024)",
-      "views": 1400
+      "views": 1500
     },
     {
+      "id": "c6ZlPFPZMBE",
       "title": "Computer Architecture - Lecture 16: Flash Memory and Solid-State Drives II (Fall 2024)",
       "views": 1100
     },
     {
+      "id": "oh8JhsCKxXk",
       "title": "Computer Architecture - Lecture 17: Prefetching and Prefetcher Design (Fall 2024)",
       "views": 2200
     },
     {
+      "id": "Dhxe4JKFMfY",
       "title": "Computer Architecture - Lecture 18: Prefetching & Prefetcher Design II and Simulation (Fall 2024)",
       "views": 1500
     },
     {
+      "id": "pPh5T3ZR6_k",
       "title": "Computer Architecture - Lecture 19: Parallelism, Heterogeneity and Bottleneck Acceleration",
       "views": 1900
     },
     {
+      "id": "W103KdeX8kg",
       "title": "Computer Architecture - Lecture 20: Bottleneck Acceleration II & Multiprocessors (Fall 2024)",
       "views": 1200
     },
     {
+      "id": "IjHmVoTcJs4",
       "title": "Computer Architecture - Lecture 21: Memory Ordering and Cache Coherence (Fall 2024)",
       "views": 2100
     },
     {
+      "id": "fTHwFe0yjTg",
       "title": "Computer Architecture - Lecture 22: Interconnects (Fall 2024)",
-      "views": 2400
+      "views": 2500
     },
     {
+      "id": "16LoY0nPGLk",
       "title": "Computer Architecture - Lecture 23: On-Chip Networks (Fall 2024)",
       "views": 3200
     },
     {
+      "id": "c6FldbyQvoQ",
       "title": "Computer Architecture - Lecture 24: Simulation (Fall 2024)",
       "views": 1300
     },
     {
+      "id": "wfRC74MKMHw",
       "title": "Computer Architecture - D1: Discussion Session I (Fall 2024)",
       "views": 1100
     },
     {
+      "id": "dx1xkbb5QDc",
       "title": "Computer Architecture - Lecture 25: Cutting-Edge Research in Computer Architecture I (Fall 2024)",
       "views": 1200
     },
     {
+      "id": "tFEGUzEnRwI",
       "title": "Computer Architecture - Lecture 26: Cutting-Edge Research in Computer Architecture II (Fall 2024)",
       "views": 1000
     },
     {
+      "id": "1mAN3iD8iac",
       "title": "Computer Architecture - Lecture 27: Cutting-Edge Research in Computer Architecture III (Fall 2024)",
       "views": 886
     },
     {
+      "id": "sZyupx9u3bs",
       "title": "Computer Architecture - D2: Discussion Session II (Fall 2024)",
-      "views": 538
+      "views": 540
     },
     {
+      "id": "vAAJKZG8vB4",
       "title": "Computer Architecture - D3: Discussion Session III (Fall 2024)",
       "views": 762
     },
     {
+      "id": "5TtXOOfWGdY",
       "title": "Computer Architecture - D4: Discussion Session IV (Fall 2024)",
       "views": 705
     },
     {
+      "id": "aFeJv9tQ3-4",
       "title": "Computer Architecture - D5: Discussion Session V (Fall 2024)",
       "views": 780
     },
     {
+      "id": "RPkzCoehKrU",
       "title": "Computer Architecture - Lecture 28: VLIW Architectures (Fall 2024)",
       "views": 1600
     },
     {
+      "id": "waqM1JM9GU0",
       "title": "Computer Architecture - Lecture 29: Systolic Array Architectures (Fall 2024)",
       "views": 5800
     },
     {
+      "id": "8B-Pqa2_LP0",
       "title": "Computer Architecture - Lecture 30: SIMD and GPU Architectures (Fall 2024)",
       "views": 4600
     },
     {
+      "id": "MmeRl5RZQSQ",
       "title": "Computer Architecture - Lecture 31: GPU Programming (Fall 2024)",
       "views": 3300
     },
     {
+      "id": "m0pQ075Brn4",
       "title": "Computer Architecture - Lecture 32: Virtual Memory (Fall 2024)",
       "views": 2800
     },
     {
+      "id": "slzGz5qTwM4",
       "title": "Computer Architecture - Lecture 33: Cache Design and Management (Fall 2024)",
       "views": 2500
     },
     {
+      "id": "w_1fa_cPQ8g",
       "title": "Computer Architecture - Lecture 34: Speculation (Fall 2024)",
       "views": 1700
     }

@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "SdW5RKUboKc",
       "title": "01 - History of Databases (CMU Databases / Spring 2020)",
       "views": 111000
     },
     {
+      "id": "a70jRWLjQFk",
       "title": "02 - In-Memory Databases (CMU Databases / Spring 2020)",
       "views": 31000
     },
     {
+      "id": "1Od_SuOQshM",
       "title": "03 - Multi-Version Concurrency Control [Design Decisions] (CMU Databases / Spring 2020)",
       "views": 19000
     },
     {
+      "id": "DjWo8ixF9QY",
       "title": "04 - Multi-Version Concurrency Control [Protocols] (CMU Databases / Spring 2020)",
       "views": 9100
     },
     {
+      "id": "8cwokv2y-c4",
       "title": "05 - Multi-Version Concurrency Control [Garbage Collection] (CMU Databases / Spring 2020)",
       "views": 5800
     },
     {
+      "id": "asyvZHhpMOY",
       "title": "06 - OLTP Indexes [Part I] (CMU Databases / Spring 2020)",
       "views": 7100
     },
     {
+      "id": "N6rhECUjdaI",
       "title": "07 - OLTP Indexes [Part II] (CMU Databases / Spring 2020)",
       "views": 5200
     },
     {
+      "id": "y6qFHu0YKMM",
       "title": "08 - Database Storage Models & Layout (CMU Databases / Spring 2020)",
       "views": 6600
     },
     {
+      "id": "V8qQcx_9rts",
       "title": "09 - Database Compression (CMU Databases / Spring 2020)",
       "views": 4300
     },
     {
+      "id": "r0qZKOVByi4",
       "title": "10 - Recovery Protocols (CMU Databases / Spring 2020)",
       "views": 3900
     },
     {
+      "id": "b86yEXSh9wA",
       "title": "11 - Networking (CMU Databases / Spring 2020)",
       "views": 4300
     },
     {
+      "id": "pjE_NNqEz6E",
       "title": "12 - Scheduling (CMU Databases / Spring 2020)",
       "views": 3900
     },
     {
+      "id": "SERwFknJYAo",
       "title": "13 - Query Execution & Processing (CMU Databases / Spring 2020)",
       "views": 5800
     },
     {
+      "id": "DvhqgmRQuAk",
       "title": "14 - Query Compilation & Code Generation (CMU Databases / Spring 2020)",
       "views": 5100
     },
     {
+      "id": "Hn4l8XC3-PQ",
       "title": "15 - Vectorized Execution (CMU Databases / Spring 2020)",
       "views": 5100
     },
     {
+      "id": "Fr0CkACLBM4",
       "title": "16 - Vectorization vs. Compilation (CMU Databases / Spring 2020)",
       "views": 3900
     },
     {
+      "id": "J0nbgXIarhc",
       "title": "17 - Hash Join Algorithms (CMU Databases / Spring 2020)",
       "views": 5500
     },
     {
+      "id": "HeFwVNHsDzc",
       "title": "18 - Parallel Sort-Merge / Sorting Algorithms (CMU Databases / Spring 2020)",
       "views": 3400
     },
     {
+      "id": "q4NeEGMoKmc",
       "title": "19 - Query Optimizer Implementation I (CMU Databases / Spring 2020)",
       "views": 7700
     },
     {
+      "id": "AywssLlkF1U",
       "title": "20 - Query Optimizer Implementation II (CMU Databases / Spring 2020)",
       "views": 4800
     },
     {
+      "id": "7pBYKI7BCAo",
       "title": "21 - Query Optimizer Implementation III (CMU Databases / Spring 2020)",
       "views": 3200
     },
     {
+      "id": "TunjBbjKHvs",
       "title": "22 - Query Optimizer Cost Models (CMU Databases / Spring 2020)",
       "views": 4100
     },
     {
+      "id": "oVro2uEzQ9s",
       "title": "23 - Larger-than-Memory Database Architectures (CMU Databases / Spring 2020)",
       "views": 3900
     },
     {
+      "id": "rAR_lBP2tgY",
       "title": "24 - Server-Side Logic Execution (CMU Databases / Spring 2020)",
       "views": 3200
     },
     {
+      "id": "YgCqS6AQG_E",
       "title": "25 - Databases on New Hardware (CMU Databases / Spring 2020)",
       "views": 4200
     }

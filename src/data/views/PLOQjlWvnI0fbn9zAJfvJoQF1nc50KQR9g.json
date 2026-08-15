@@ -1,76 +1,94 @@
 {
   "lectures": [
     {
+      "id": "DpanmE7Nzy8",
       "title": "CSE202, Lec 1: Bipartite matching",
       "views": 1600
     },
     {
+      "id": "znLprRdvxII",
       "title": "CSE202, Lec 2: Edmond's blossom algorithm",
       "views": 3600
     },
     {
+      "id": "Ho-j_8wPBrA",
       "title": "CSE 202, Lec 3: Max flow and the Edmonds-Karp algorithm",
       "views": 861
     },
     {
+      "id": "USOFFhiWokk",
       "title": "CSE202, Lec 4: Linear programming",
       "views": 305
     },
     {
+      "id": "x-yWqBL9pxo",
       "title": "CSE 202, Lec 5: LP duality",
       "views": 262
     },
     {
+      "id": "kSU9_pG22EQ",
       "title": "CSE202, Lec 6: Proof of the max-flow-mincut theorem, introduction to Min cost flow",
       "views": 363
     },
     {
+      "id": "hw6SUK0pmsE",
       "title": "CSE202, Lec 7: A deeper look at min cost flow",
       "views": 287
     },
     {
+      "id": "-cGJvkO6hU8",
       "title": "CSE202, Lec 8: Primal dual algorithms for mincost flow",
       "views": 530
     },
     {
+      "id": "ey6CzFGVCuM",
       "title": "CSE202, Lec 9: The Hungarian algorithm for min weight perfect bipartite matching",
       "views": 1200
     },
     {
+      "id": "4-oOQ5cSm1o",
       "title": "CSE202, Lec 10: Solving LPs",
       "views": 129
     },
     {
+      "id": "6dSRugZfdDA",
       "title": "CSE202, Lec 11: More on the ellipsoid algorithm",
       "views": 192
     },
     {
+      "id": "EkIr_CLYpY4",
       "title": "CSE202, Lec 12: Integrality of polyhedra, totally unimodular matrices",
       "views": 258
     },
     {
+      "id": "vDQ53Kf4xy0",
       "title": "CSE202, Lec 13: Rounding of LPs, integrality gaps, and an analysis of set cover",
       "views": 326
     },
     {
+      "id": "9l-m2ay2RNM",
       "title": "CSE202, Lec 14: Introduction to multiway cut and 2-approximations",
-      "views": 537
+      "views": 538
     },
     {
+      "id": "YbXAukYxUXE",
       "title": "CSE202, Lec 15: The Calinescu-Karloff-Rabani relaxation for multiway cut, and the 3/2-approximation",
       "views": 173
     },
     {
+      "id": "AH_Ed7VC7qY",
       "title": "CSE202, Lec 16: The conductance of graphs, the normalized Laplacian and the spectral gap",
       "views": 486
     },
     {
+      "id": "C4t4y92zw18",
       "title": "CSE202, Lec 17: Conductance and spectral gap, the Cheeger inequality",
       "views": 277
     },
     {
+      "id": "vC9-auOJXD0",
       "title": "CSE202, Lec 18: Maxcut and the Goemans-Williamson SDP relaxation",
-      "views": 643
+      "views": 644
     }
   ]
 }

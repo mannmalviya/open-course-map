@@ -1,122 +1,152 @@
 {
   "lectures": [
     {
+      "id": "TjZBTDzGeGg",
       "title": "1. Introduction and Scope",
       "views": 2000000
     },
     {
+      "id": "PNKj529yY5c",
       "title": "2. Reasoning: Goal Trees and Problem Solving",
       "views": 543000
     },
     {
+      "id": "leXa7EKUPFk",
       "title": "3. Reasoning: Goal Trees and Rule-Based Expert Systems",
       "views": 340000
     },
     {
+      "id": "j1H3jAAGlEA",
       "title": "4. Search: Depth-First, Hill Climbing, Beam",
       "views": 361000
     },
     {
+      "id": "gGQ-vAmdAOI",
       "title": "5. Search: Optimal, Branch and Bound, A*",
       "views": 277000
     },
     {
+      "id": "STjW3eH0Cik",
       "title": "6. Search: Games, Minimax, and Alpha-Beta",
-      "views": 496000
+      "views": 497000
     },
     {
+      "id": "l-tzjenXrvI",
       "title": "7. Constraints: Interpreting Line Drawings",
       "views": 145000
     },
     {
+      "id": "dARl_gGrS4o",
       "title": "8. Constraints: Search, Domain Reduction",
       "views": 37000
     },
     {
+      "id": "gvmfbePC2pc",
       "title": "9. Constraints: Visual Object Recognition",
       "views": 146000
     },
     {
+      "id": "09mb78oiPkA",
       "title": "10. Introduction to Learning, Nearest Neighbors",
       "views": 280000
     },
     {
+      "id": "SXBG3RGr_Rc",
       "title": "11. Learning: Identification Trees, Disorder",
       "views": 129000
     },
     {
+      "id": "uXt8qF2Zzfo",
       "title": "12a: Neural Nets",
       "views": 567000
     },
     {
+      "id": "VrMHA3yX_QI",
       "title": "12b: Deep Neural Nets",
       "views": 195000
     },
     {
+      "id": "kHyNqSnzP8Y",
       "title": "13. Learning: Genetic Algorithms",
-      "views": 548000
+      "views": 549000
     },
     {
+      "id": "L73hY1pBcQI",
       "title": "14. Learning: Sparse Spaces, Phonology",
       "views": 84000
     },
     {
+      "id": "sh3EPjhhd40",
       "title": "15. Learning: Near Misses, Felicity Conditions",
       "views": 74000
     },
     {
+      "id": "_PwhiWxHK8o",
       "title": "16. Learning: Support Vector Machines",
       "views": 2100000
     },
     {
+      "id": "UHBmv7qCey4",
       "title": "17. Learning: Boosting",
       "views": 336000
     },
     {
+      "id": "bQI0OmJPby4",
       "title": "18. Representations: Classes, Trajectories, Transitions",
       "views": 61000
     },
     {
+      "id": "PimSbFGrwXM",
       "title": "19. Architectures: GPS, SOAR, Subsumption, Society of Mind",
       "views": 64000
     },
     {
+      "id": "A6Ud6oUCRak",
       "title": "21. Probabilistic Inference I",
       "views": 99000
     },
     {
+      "id": "EC6bf8JCpDQ",
       "title": "22. Probabilistic Inference II",
       "views": 58000
     },
     {
+      "id": "XPEJg_6Cg6o",
       "title": "23. Model Merging, Cross-Modal Coupling, Course Summary",
       "views": 44000
     },
     {
+      "id": "iusTmgQyZ44",
       "title": "Mega-R1. Rule-Based Systems",
       "views": 52000
     },
     {
+      "id": "Tl_p5pgBsyM",
       "title": "Mega-R2. Basic Search, Optimal Search",
       "views": 22000
     },
     {
+      "id": "hM2EAvMkhtk",
       "title": "Mega-R3. Games, Minimax, Alpha-Beta",
       "views": 90000
     },
     {
+      "id": "JMrFgnqSS0w",
       "title": "Mega-R4. Neural Nets",
       "views": 30000
     },
     {
+      "id": "6nDqY8MPLDM",
       "title": "Mega-R5. Support Vector Machines",
       "views": 62000
     },
     {
+      "id": "ZZmzMJB-tow",
       "title": "Mega-R6. Boosting",
       "views": 23000
     },
     {
+      "id": "J-ocRQCjcwE",
       "title": "Mega-R7. Near Misses, Arch Learning",
       "views": 22000
     }

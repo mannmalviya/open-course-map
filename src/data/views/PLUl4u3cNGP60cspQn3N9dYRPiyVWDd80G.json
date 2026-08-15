@@ -1,402 +1,502 @@
 {
   "lectures": [
     {
+      "id": "jANZxzetPaQ",
       "title": "Quantum mechanics as a framework. Defining linearity",
       "views": 1400000
     },
     {
+      "id": "kiuwtaprFjk",
       "title": "Linearity and nonlinear theories. Schrödinger's equation",
-      "views": 435000
+      "views": 436000
     },
     {
+      "id": "f079K1f2WQk",
       "title": "Necessity of complex numbers",
       "views": 4000000
     },
     {
+      "id": "8OsUQ1yXCcI",
       "title": "Photons and the loss of determinism",
       "views": 1200000
     },
     {
+      "id": "CR-eOhdxbes",
       "title": "The nature of superposition. Mach-Zehnder interferometer",
       "views": 377000
     },
     {
+      "id": "0xNmc2tJ-YM",
       "title": "More on superposition. General state of a photon and spin states",
       "views": 245000
     },
     {
+      "id": "G3HSP3qMgKI",
       "title": "Entanglement",
-      "views": 257000
+      "views": 258000
     },
     {
+      "id": "0USje5vTIKs",
       "title": "Mach-Zehnder interferometers and beam splitters",
       "views": 224000
     },
     {
+      "id": "37-GdFJGSXs",
       "title": "Interferometer and interference",
       "views": 130000
     },
     {
+      "id": "vFZeh8bMx58",
       "title": "Elitzur-Vaidman bombs",
       "views": 147000
     },
     {
+      "id": "byEaU9ILHmw",
       "title": "The photoelectric effect",
       "views": 259000
     },
     {
+      "id": "S9RjSQro2e0",
       "title": "Units of h and Compton wavelength of particles",
       "views": 110000
     },
     {
+      "id": "WR88_Vzfcx4",
       "title": "Compton Scattering",
       "views": 202000
     },
     {
+      "id": "dnuZx9fZHsU",
       "title": "de Broglie’s proposal",
       "views": 163000
     },
     {
+      "id": "8x94EgM2Mpg",
       "title": "de Broglie wavelength in different frames",
-      "views": 120000
+      "views": 121000
     },
     {
+      "id": "YdtHAIh-kas",
       "title": "Galilean transformation of ordinary waves",
       "views": 91000
     },
     {
+      "id": "3_qvO8bKGus",
       "title": "The frequency of a matter wave",
       "views": 92000
     },
     {
+      "id": "-UgQEHHXTRM",
       "title": "Group velocity and stationary phase approximation",
-      "views": 109000
+      "views": 110000
     },
     {
+      "id": "i81OpQJIH8U",
       "title": "Motion of a wave-packet",
       "views": 91000
     },
     {
+      "id": "T6TQHNXy5Wg",
       "title": "The wave for a free particle",
       "views": 108000
     },
     {
+      "id": "ELBh60GU5yE",
       "title": "Momentum operator, energy operator, and a differential equation",
       "views": 109000
     },
     {
+      "id": "7euh_iwzSGo",
       "title": "Free Schrödinger equation",
       "views": 77000
     },
     {
+      "id": "rwzg8iEOc8s",
       "title": "The general Schrödinger equation. x, p commutator",
       "views": 72000
     },
     {
+      "id": "m7UT2Hr465o",
       "title": "Commutators, matrices, and 3-dimensional Schrödinger equation",
       "views": 62000
     },
     {
+      "id": "R-5hjmV-bdY",
       "title": "Interpretation of the wavefunction",
       "views": 114000
     },
     {
+      "id": "d4skxu7MpFI",
       "title": "Normalizable wavefunctions and the question of time evolution",
       "views": 75000
     },
     {
+      "id": "5L4QfjbK87M",
       "title": "Is probability conserved? Hermiticity of the Hamiltonian",
       "views": 64000
     },
     {
+      "id": "J2ltXyByPJA",
       "title": "Probability current and current conservation",
       "views": 66000
     },
     {
+      "id": "Ex_fFlwZoM0",
       "title": "Three dimensional current and conservation",
       "views": 49000
     },
     {
+      "id": "dzI5PddY6eE",
       "title": "Wavepackets and Fourier representation",
       "views": 95000
     },
     {
+      "id": "DvFb-D1zJTA",
       "title": "Reality condition in Fourier transforms",
       "views": 45000
     },
     {
+      "id": "vWGP5dogNm8",
       "title": "Widths and uncertainties",
       "views": 47000
     },
     {
+      "id": "50Tla309i7o",
       "title": "Shape changes in a wave",
       "views": 40000
     },
     {
+      "id": "ipXNYnO7yRk",
       "title": "Time evolution of a free particle wavepacket",
       "views": 48000
     },
     {
+      "id": "8abBLKEZLaI",
       "title": "Fourier transforms and delta functions",
       "views": 93000
     },
     {
+      "id": "i-bP2OkQxUI",
       "title": "Parseval identity",
-      "views": 45000
+      "views": 46000
     },
     {
+      "id": "MJM1AzpB6Y4",
       "title": "Three-dimensional Fourier transforms",
       "views": 37000
     },
     {
+      "id": "XQKV-hpsurs",
       "title": "Expectation values of operators",
       "views": 90000
     },
     {
+      "id": "AnzhigYawy8",
       "title": "Time dependence of expectation values",
       "views": 37000
     },
     {
+      "id": "qP6y2edM6Ms",
       "title": "Expectation value of Hermitian operators",
       "views": 51000
     },
     {
+      "id": "K3WI62VJqVo",
       "title": "Eigenfunctions of a Hermitian operator",
       "views": 53000
     },
     {
+      "id": "XF6FAEi_54I",
       "title": "Completeness of eigenvectors and measurement postulate",
       "views": 39000
     },
     {
+      "id": "_jPVD45YYlk",
       "title": "Consistency condition. Particle on a circle",
       "views": 28000
     },
     {
+      "id": "rCRH9CTThlo",
       "title": "Defining uncertainty",
       "views": 26000
     },
     {
+      "id": "1D4VPbhDy_A",
       "title": "Uncertainty and eigenstates",
-      "views": 30000
+      "views": 31000
     },
     {
+      "id": "8KQ-yK2xm60",
       "title": "Stationary states: key equations",
-      "views": 43000
+      "views": 44000
     },
     {
+      "id": "M2i8R6kMXKA",
       "title": "Expectation values on stationary states",
       "views": 25000
     },
     {
+      "id": "gMnQ21-pjOA",
       "title": "Comments on the spectrum and continuity conditions",
       "views": 22000
     },
     {
+      "id": "2EV1vJAAo8M",
       "title": "Solving particle on a circle",
       "views": 41000
     },
     {
+      "id": "e0C1Bkcjrdc",
       "title": "Energy eigenstates for particle on a circle",
       "views": 36000
     },
     {
+      "id": "gMHkf-107Sw",
       "title": "Infinite square well energy eigenstates",
       "views": 120000
     },
     {
+      "id": "x_ngaeI00qU",
       "title": "Nodes and symmetries of the infinite square well eigenstates",
       "views": 35000
     },
     {
+      "id": "CdAKFagtXpQ",
       "title": "Finite square well. Setting up the problem",
       "views": 124000
     },
     {
+      "id": "jd4es6Bo600",
       "title": "Finite square well energy eigenstates",
       "views": 47000
     },
     {
+      "id": "EdXaUfRynx8",
       "title": "Nondegeneracy of bound states in 1D. Real solutions",
       "views": 31000
     },
     {
+      "id": "AtjMKPzNIXQ",
       "title": "Potentials that satisfy V(-x) = V(x)",
       "views": 22000
     },
     {
+      "id": "QMeKIiufg5s",
       "title": "Qualitative insights: Local de Broglie wavelength",
       "views": 20000
     },
     {
+      "id": "79GY-hI_emE",
       "title": "Correspondence principle: amplitude as a function of position",
-      "views": 20000
+      "views": 21000
     },
     {
+      "id": "fWCGM2auQPs",
       "title": "Local picture of the wavefunction",
       "views": 28000
     },
     {
+      "id": "45M-BtYAcwg",
       "title": "Energy eigenstates on a generic symmetric potential. Shooting method",
       "views": 21000
     },
     {
+      "id": "vcuY46RwoV0",
       "title": "Delta function potential I: Preliminaries",
       "views": 56000
     },
     {
+      "id": "1dW_izzvfOk",
       "title": "Delta function potential I: Solving for the bound state",
       "views": 42000
     },
     {
+      "id": "NwPOhzDPHKc",
       "title": "Node Theorem",
       "views": 28000
     },
     {
+      "id": "sxzFpOsvfgU",
       "title": "Harmonic oscillator: Differential equation",
       "views": 89000
     },
     {
+      "id": "eNf8nH1yEYc",
       "title": "Behavior of the differential equation",
       "views": 28000
     },
     {
+      "id": "RxWfrE3o-9k",
       "title": "Recursion relation for the solution",
       "views": 29000
     },
     {
+      "id": "Y6Ma-zn4Olk",
       "title": "Quantization of the energy",
       "views": 30000
     },
     {
+      "id": "8CCFPgd_P1w",
       "title": "Algebraic solution of the harmonic oscillator",
       "views": 40000
     },
     {
+      "id": "vnyxYtj0mfE",
       "title": "Ground state wavefunction",
       "views": 29000
     },
     {
+      "id": "kefsxztSX74",
       "title": "Number operator and commutators",
       "views": 36000
     },
     {
+      "id": "xmjvqbYvY9o",
       "title": "Excited states of the harmonic oscillator",
       "views": 23000
     },
     {
+      "id": "BRFekCz4XQY",
       "title": "Creation and annihilation operators acting on energy eigenstates",
       "views": 38000
     },
     {
+      "id": "0ABYYJSvkVk",
       "title": "Scattering states and the step potential",
       "views": 48000
     },
     {
+      "id": "z79v39lMR3k",
       "title": "Step potential probability current",
       "views": 32000
     },
     {
+      "id": "bX-k26w-tsU",
       "title": "Reflection and transmission coefficients",
       "views": 43000
     },
     {
+      "id": "EkpbxgEslE4",
       "title": "Energy below the barrier and phase shift",
       "views": 20000
     },
     {
+      "id": "NXPvXI603RA",
       "title": "Wavepackets",
-      "views": 21000
+      "views": 22000
     },
     {
+      "id": "yqrMAZkQOwI",
       "title": "Wavepackets with energy below the barrier",
       "views": 12000
     },
     {
+      "id": "lA8-N_ARHTw",
       "title": "Particle on the forbidden region",
       "views": 16000
     },
     {
+      "id": "EdRkQmmq7vk",
       "title": "Waves on the finite square well",
       "views": 28000
     },
     {
+      "id": "KkSr0SvXfNY",
       "title": "Resonant transmission",
       "views": 18000
     },
     {
+      "id": "5u-9lFhCl5w",
       "title": "Ramsauer-Townsend phenomenology",
       "views": 17000
     },
     {
+      "id": "twdF0EIbFds",
       "title": "Scattering in 1D. Incoming and outgoing waves",
       "views": 25000
     },
     {
+      "id": "w49WAat6ymk",
       "title": "Scattered wave and phase shift",
       "views": 24000
     },
     {
+      "id": "EJWG9-etPFw",
       "title": "Incident packet and delay for reflection",
       "views": 15000
     },
     {
+      "id": "sWmY5KME7oo",
       "title": "Phase shift for a potential well",
       "views": 13000
     },
     {
+      "id": "Cb_3sOYLjUI",
       "title": "Excursion of the phase shift",
       "views": 11000
     },
     {
+      "id": "GyukKStk6Ls",
       "title": "Levinson's theorem, part 1",
       "views": 15000
     },
     {
+      "id": "yhI3jTX4dY4",
       "title": "Levinson's theorem, part 2",
-      "views": 9800
+      "views": 9900
     },
     {
+      "id": "mnvYIEbJXlM",
       "title": "Time delay and resonances",
       "views": 14000
     },
     {
+      "id": "VY-_xLxHQbA",
       "title": "Effects of resonance on phase shifts, wave amplitude and time delay",
       "views": 13000
     },
     {
+      "id": "8Dxo4LPK_9w",
       "title": "Modelling a resonance",
       "views": 13000
     },
     {
+      "id": "OQMczXtDnpU",
       "title": "Half-width and time delay",
       "views": 8500
     },
     {
+      "id": "0T83-47Vi-M",
       "title": "Resonances in the complex k plane",
       "views": 9300
     },
     {
+      "id": "sPsDI0dICtc",
       "title": "Translation operator. Central potentials",
       "views": 30000
     },
     {
+      "id": "xoCHe0mtxu0",
       "title": "Angular momentum operators and their algebra",
       "views": 80000
     },
     {
+      "id": "Mh8vUEStCQ8",
       "title": "Commuting observables for angular momentum",
       "views": 38000
     },
     {
+      "id": "lWTUcojZ_gQ",
       "title": "Simultaneous eigenstates and quantization of angular momentum",
       "views": 35000
     },
     {
+      "id": "Lt2Y6fLJ09Q",
       "title": "Associated Legendre functions and spherical harmonics",
       "views": 99000
     },
     {
+      "id": "gKSRrTik1SA",
       "title": "Orthonormality of spherical harmonics",
       "views": 35000
     }

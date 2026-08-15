@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "QI13S04w8dM",
       "title": "1. Wave Mechanics",
-      "views": 390000
+      "views": 391000
     },
     {
+      "id": "lnZR0TVNh2k",
       "title": "2. Wave Mechanics (continued)",
       "views": 73000
     },
     {
+      "id": "AX9769eQV24",
       "title": "3. Wave Mechanics (continued) and Stern-Gerlach Experiment",
       "views": 141000
     },
     {
+      "id": "BWM0RXg-uvI",
       "title": "4. Spin One-half, Bras, Kets, and Operators",
       "views": 178000
     },
     {
+      "id": "eZzBK3oy-08",
       "title": "5. Linear Algebra: Vector Spaces and Operators",
-      "views": 135000
+      "views": 136000
     },
     {
+      "id": "8yvmHBGcNbg",
       "title": "6. Linear Algebra: Vector Spaces and Operators (continued)",
       "views": 56000
     },
     {
+      "id": "jjZM88ku-7k",
       "title": "7. Linear Algebra: Vector Spaces and Operators (continued)",
       "views": 39000
     },
     {
+      "id": "a9FHHS6n-r4",
       "title": "8. Linear Algebra: Vector Spaces and Operators (continued)",
       "views": 42000
     },
     {
+      "id": "r2NMWEsNcTs",
       "title": "9. Dirac's Bra and Ket Notation",
       "views": 167000
     },
     {
+      "id": "8rAQBnhbjms",
       "title": "10. Uncertainty Principle and Compatible Observables",
       "views": 56000
     },
     {
+      "id": "Oi-JCJePLlc",
       "title": "11. Uncertainty Principle and Compatible Observables (continued)",
       "views": 34000
     },
     {
+      "id": "7Nrymx1ULis",
       "title": "12. Quantum Dynamics",
-      "views": 71000
+      "views": 72000
     },
     {
+      "id": "zOZw3zCLzyE",
       "title": "13. Quantum Dynamics (continued) | Heisenberg Picture",
       "views": 59000
     },
     {
+      "id": "4WsMeqCKpgI",
       "title": "14.  Quantum Dynamics (continued)",
       "views": 44000
     },
     {
+      "id": "NXgobnaBN7U",
       "title": "15.  Quantum Dynamics (continued)",
       "views": 32000
     },
     {
+      "id": "TUenwZezzdk",
       "title": "16.  Quantum Dynamics (continued) and Two State Systems",
       "views": 41000
     },
     {
+      "id": "t3r9j7YUFrs",
       "title": "17. Two State Systems (continued)",
       "views": 37000
     },
     {
+      "id": "xieyFMfX-Ao",
       "title": "18. Two State Systems (continued), Multiparticle States and Tensor Products",
       "views": 36000
     },
     {
+      "id": "RTKvGmiT-9Q",
       "title": "19. Multiparticle States and Tensor Products (continued)",
       "views": 36000
     },
     {
+      "id": "LYXIUtVzPAM",
       "title": "20. Multiparticle States and Tensor Products (continued) and Angular Momentum",
       "views": 33000
     },
     {
+      "id": "JjoqYkq4J6k",
       "title": "21. Angular Momentum (continued)",
       "views": 41000
     },
     {
+      "id": "v3dkStu-tMc",
       "title": "22. Angular Momentum (continued)",
       "views": 25000
     },
     {
+      "id": "YDRMLCuNteY",
       "title": "23. Angular Momentum (continued)",
       "views": 24000
     },
     {
+      "id": "ZTNip78TUvA",
       "title": "24. Addition of Angular Momentum",
       "views": 77000
     },
     {
+      "id": "65XkZ_SRxBk",
       "title": "25. Addition of Angular Momentum (continued)",
       "views": 30000
     },
     {
+      "id": "WFQ-UcH4jMM",
       "title": "26. Addition of Angular Momentum (continued)",
       "views": 26000
     }

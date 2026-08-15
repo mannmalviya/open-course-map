@@ -1,110 +1,137 @@
 {
   "lectures": [
     {
+      "id": "0U2OMvvsyl8",
       "title": "Digital Design & Computer Architecture - Lecture 1: Introduction & Basics (Spring 2024)",
       "views": 23000
     },
     {
+      "id": "7DWHFBb4sJk",
       "title": "Digital Design and Comp. Arch. - L2: Electrical Engin. Perspective and Binary Numbers (Spring 2024)",
       "views": 5900
     },
     {
+      "id": "U0ofhGyQhHU",
       "title": "Digital Design and Comp. Arch. - L3: Combinational Circuits (Spring 2024)",
       "views": 4000
     },
     {
+      "id": "DAleEqUTcMg",
       "title": "Digital Design and Comp. Arch. - L4: Combinational Circuits II and Intro. to Verilog (Spring 2024)",
       "views": 3600
     },
     {
+      "id": "rViLXJHKtt0",
       "title": "Digital Design and Comp. Arch. - L5: Verilog for Combinational Circuits (Spring 2024)",
       "views": 2800
     },
     {
+      "id": "PW1BUdnvybg",
       "title": "Digital Design and Comp. Arch. - L6: Combinational Circuits in Processors and ALU (Spring 2024)",
       "views": 3100
     },
     {
+      "id": "cWWO4TVzkcY",
       "title": "Digital Design and Comp. Arch. - L7: Sequential Circuits (Spring 2024)",
       "views": 2700
     },
     {
+      "id": "CmzUKBaGCro",
       "title": "Digital Design and Comp. Arch. - L8: Verilog for Sequential Circuits (Spring 2024)",
       "views": 2500
     },
     {
+      "id": "WGtS6V-LLUY",
       "title": "Digital Design and Comp. Arch. - L9: Open Source Hardware & Sequential Circuit Timing (Spring 2024)",
       "views": 2400
     },
     {
+      "id": "WS_vIyjPp_I",
       "title": "Digital Design and Comp. Arch. - L10: Number Systems and Verification (Spring 2024)",
       "views": 2300
     },
     {
+      "id": "_-LLCmzSMFo",
       "title": "Digital Design and Comp. Arch. - L11: Verilog for Testbenches (Spring 2024)",
       "views": 1900
     },
     {
+      "id": "C09YyKYvaO8",
       "title": "Digital Design and Comp. Arch. - L12: MIPS Assembly (Spring 2024)",
       "views": 2500
     },
     {
+      "id": "M_BZOQLw6KU",
       "title": "Digital Design and Comp. Arch. - L13: MIPS Assembly II & Memories (Spring 2024)",
       "views": 2200
     },
     {
+      "id": "3ESl5uwmkbQ",
       "title": "Digital Design and Comp. Arch. - L14: MIPS Programming I (Spring 2024)",
       "views": 1900
     },
     {
+      "id": "j581FqLbrbg",
       "title": "Digital Design and Comp. Arch. - L15: MIPS Programming II (Spring 2024)",
       "views": 1800
     },
     {
+      "id": "vtDqtI9KC1o",
       "title": "Digital Design and Comp. Arch. - L16: Single-Cycle Microarchitecture (Spring 2024)",
       "views": 2700
     },
     {
+      "id": "oBlc5j8TQM8",
       "title": "Digital Design and Comp. Arch. - L17: Single-Cycle Microarchitecture II (Spring 2024)",
       "views": 2600
     },
     {
+      "id": "nHkZGoS1YcE",
       "title": "Digital Design and Comp. Arch. - L18: Pipelined Processor Architecture (Spring 2024)",
       "views": 2300
     },
     {
+      "id": "tKgQtLntd9M",
       "title": "Digital Design and Comp. Arch. - L19: Pipelined Processor Architecture II (Spring 2024)",
       "views": 2700
     },
     {
+      "id": "h6RQi6y5iTI",
       "title": "Digital Design and Comp. Arch. - L20: Out-of-Order Execution (Spring 2024)",
       "views": 2800
     },
     {
+      "id": "VMSOiShtPx0",
       "title": "Digital Design and Comp. Arch. - L21: SIMD/GPU Architectures (Spring 2024)",
       "views": 2400
     },
     {
+      "id": "QbwMBXt44OE",
       "title": "Digital Design and Comp. Arch. - L22: GPU Arch. II & Memory Overview, Org., and Tech. (Spring 2024)",
       "views": 2400
     },
     {
+      "id": "LZOFTsxka2U",
       "title": "Digital Design and Comp. Arch. - L23: Memory Hierarchies and RowHammer (Spring 2024)",
       "views": 1500
     },
     {
+      "id": "LmIa15tL4Ng",
       "title": "Digital Design and Comp. Arch. - L24: Caches (Spring 2024)",
       "views": 1800
     },
     {
+      "id": "3lkHGb1NvaE",
       "title": "Digital Design and Comp. Arch. - L25: Caches II and Prefetching (Spring 2024)",
       "views": 1400
     },
     {
+      "id": "HOXcSOT1zOM",
       "title": "Digital Design and Comp. Arch. - L26: Virtual Memory (Spring 2024)",
       "views": 1500
     },
     {
+      "id": "vjGqd0Vr9O4",
       "title": "Digital Design and Comp. Arch. - L27: Problem-Solving Session (Spring 2024)",
       "views": 2100
     }

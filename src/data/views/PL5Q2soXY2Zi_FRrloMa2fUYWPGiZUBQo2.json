@@ -1,154 +1,192 @@
 {
   "lectures": [
     {
+      "id": "AJBmIaUneB0",
       "title": "Digital Design & Computer Architecture: Lecture 1: Introduction and Basics (ETH Zürich, Spring 2020)",
       "views": 179000
     },
     {
+      "id": "44B6YmSuk0I",
       "title": "Digital Design & Computer Arch. - Lecture 2a: Course Goals & Logistics (ETH Zürich, Spring 2020)",
       "views": 27000
     },
     {
+      "id": "3YnSjuhMhS0",
       "title": "Digital Design & Computer Arch. - Lecture 2b: Mysteries in Comp. Arch. (ETH Zürich, Spring 2020)",
       "views": 29000
     },
     {
+      "id": "0qHENXs7RzI",
       "title": "Digital Design & Computer Arch. - Lecture 3a: Mysteries in Computer Arch. (ETH Zürich, Spring 2020)",
       "views": 19000
     },
     {
+      "id": "hnSkaJ3CdDQ",
       "title": "Digital Design & Computer Arch. - Lecture 3b: Intro. to the Labs & FPGAs (ETH Zürich, Spring 2020)",
       "views": 14000
     },
     {
+      "id": "bIihv4dn6n0",
       "title": "Digital Design & Computer Architecture - Lecture 4: Combinational Logic I (ETH Zürich, Spring 2020)",
       "views": 36000
     },
     {
+      "id": "wWtfeKJRuVM",
       "title": "Digital Design & Computer Architecture - Lecture 5: Combinational Logic II (ETH Zürich, Spring 2020)",
       "views": 20000
     },
     {
+      "id": "7iAJPT2SdBQ",
       "title": "Digital Design & Comp. Arch. - Lecture 6: Sequential Logic Design (ETH Zürich, Spring 2020)",
       "views": 19000
     },
     {
+      "id": "LZHZJ4VHD6w",
       "title": "Digital Design & Comp. Arch. - Lecture 7a: Sequential Logic Design II (ETH Zürich, Spring 2020)",
       "views": 9400
     },
     {
+      "id": "c7aAtG0qBHw",
       "title": "Digital Design & Comp. Arch. - Lecture 7b: HW Description Lang. & Verilog (ETH Zürich, Spring 2020)",
       "views": 13000
     },
     {
+      "id": "YoCGX2XgsPo",
       "title": "Digital Design & Computer Architecture - Lecture 8: Timing & Verification (ETH Zürich, Spring 2020)",
       "views": 14000
     },
     {
+      "id": "RwQdPdGN9l0",
       "title": "Digital Design & Comp. Arch. - Lecture 9: Von Neumann Model ISA LC3 MIPS (ETH Zürich, Spring 2020)",
       "views": 18000
     },
     {
+      "id": "FUleWv4_rOg",
       "title": "Digital Design & Comp. Arch. - Lecture 10a: Instruction Set Architecture (ETH Zürich, Spring 2020)",
       "views": 11000
     },
     {
+      "id": "hIou97MUv9I",
       "title": "Digital Design & Computer Architecture - Lecture 10b: Assembly Programming (ETH Zürich, Spring 2020)",
       "views": 8700
     },
     {
+      "id": "uKchSidT_Uo",
       "title": "Digital Design & Computer Architecture - Lecture 11: Microarchitecture I (ETH Zürich, Spring 2020)",
       "views": 15000
     },
     {
+      "id": "7R-NvVms3uY",
       "title": "Digital Design & Computer Architecture - Lecture 12: Microarchitecture II (ETH Zürich, Spring 2020)",
       "views": 10000
     },
     {
+      "id": "_WNdzZB0RJA",
       "title": "Digital Design & Computer Architecture - Lecture 13: Pipelining (ETH Zürich, Spring 2020)",
       "views": 12000
     },
     {
+      "id": "Q7CBJrXirdA",
       "title": "Digital Design & Computer Architecture - Lecture 14: Pipelining Issues (ETH Zürich, Spring 2020)",
       "views": 10000
     },
     {
+      "id": "EdYAKfx9JEA",
       "title": "Digital Design & Computer Arch. - Lecture 15a: Out-of-Order Execution (ETH Zürich, Spring 2020)",
       "views": 17000
     },
     {
+      "id": "WExCvQAuTxo",
       "title": "Digital Design & Comp. Arch. - Lecture 15b: OoO, DataFlow & LD/ST Handling (ETH Zürich, Spring 2020)",
       "views": 10000
     },
     {
+      "id": "3FmWv3qjQF8",
       "title": "Digital Design & Comp. Arch. - Lecture 16a: Dataflow & Superscalar Exec. (ETH Zürich, Spring 2020)",
       "views": 5100
     },
     {
+      "id": "h6l9yYSyZHM",
       "title": "Digital Design & Computer Architecture - Lecture 16b: Branch Prediction I (ETH Zürich, Spring 2020)",
       "views": 7600
     },
     {
+      "id": "z77VpggShvg",
       "title": "Digital Design & Computer Architecture - Lecture 17: Branch Prediction II (ETH Zürich, Spring 2020)",
       "views": 9300
     },
     {
+      "id": "B9e6m5Raqkk",
       "title": "Digital Design & Computer Architecture - Lecture 18a: VLIW (ETH Zürich, Spring 2020)",
       "views": 6600
     },
     {
+      "id": "5RqDe1_qZSo",
       "title": "Digital Design & Computer Arch. - Lecture 18b: Systolic Arrays and Beyond (ETH Zürich, Spring 2020)",
       "views": 5700
     },
     {
+      "id": "bu5dxKTvQVs",
       "title": "Digital Design & Computer Arch. - Lecture 18c: Fine-Grained Multithreading (ETH Zürich, Spring 2020)",
       "views": 5500
     },
     {
+      "id": "2XZ3ik6xSzM",
       "title": "Digital Design & Computer Architecture - Lecture 19: SIMD Processors (ETH Zürich, Spring 2020)",
       "views": 6200
     },
     {
+      "id": "dg0VN-XCGKQ",
       "title": "Digital Design & Computer Arch. - Lecture 20: Graphics Processing Units (ETH Zürich, Spring 2020)",
       "views": 6800
     },
     {
+      "id": "SdIt2seT_z0",
       "title": "Digital Design & Comp. Arch. - Lecture 21a: Memory Organization & Techn. (ETH Zürich, Spring 2020)",
       "views": 6400
     },
     {
+      "id": "mZ7CPJKzwfM",
       "title": "Digital Design & Computer Arch. - Lecture 21b: Memory Hierarchy and Caches (ETH Zürich, Spring 2020)",
       "views": 11000
     },
     {
+      "id": "TsxQPLMXT60",
       "title": "Digital Design & Computer Architecture - Lecture 22: More Caches (ETH Zürich, Spring 2020)",
       "views": 7000
     },
     {
+      "id": "OUk96_Bz708",
       "title": "Digital Design & Computer Architecture - Lecture 23a: Multiprocessor Caches(ETH Zürich, Spring 2020)",
       "views": 5200
     },
     {
+      "id": "0mGI4btwI_k",
       "title": "Digital Design & Computer Architecture - Lecture 23b: Virtual Memory (ETH Zürich, Spring 2020)",
       "views": 5700
     },
     {
+      "id": "0WuUAAxUaOI",
       "title": "Digital Design & Computer Architecture - Lecture 24: Virtual Memory II (ETH Zürich, Spring 2020)",
       "views": 7100
     },
     {
+      "id": "_ILEe86Oxmo",
       "title": "Digital Design & Computer Architecture - Lecture 25: Epilogue (ETH Zürich, Spring 2020)",
       "views": 3600
     },
     {
+      "id": "tAgqUbR3VJc",
       "title": "Digital Design & Computer Architecture - Discussion Session I (ETH Zürich, Spring 2020)",
       "views": 5300
     },
     {
+      "id": "egOrgRZRjAk",
       "title": "Digital Design & Computer Architecture - Discussion Session II (ETH Zürich, Spring 2020)",
       "views": 4800
     },
     {
+      "id": "-6pHWd7IWeE",
       "title": "Digital Design & Computer Architecture - Preparing for the Final Exam (ETH Zürich, Spring 2020)",
       "views": 3200
     }

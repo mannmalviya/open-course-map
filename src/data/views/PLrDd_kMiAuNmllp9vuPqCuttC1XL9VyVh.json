@@ -1,290 +1,362 @@
 {
   "lectures": [
     {
+      "id": "KBTg0ju4rxM",
       "title": "[Part 2] Unit 1.0 - The Road Ahead",
       "views": 60000
     },
     {
+      "id": "E28KczysecE",
       "title": "[Part 2] Unit 1.1 - Program Compilation Preview",
       "views": 12000
     },
     {
+      "id": "zldqSN7YfY8",
       "title": "[Part 2] Unit 1.2  - VM Abstraction - The Stack",
       "views": 14000
     },
     {
+      "id": "HKpLKqIMf5g",
       "title": "[Part 2] Unit 1.3 - VM Abstraction - Memory Segments",
       "views": 11000
     },
     {
+      "id": "Iq9KA6qRqXo",
       "title": "[Part 2] Unit 1.4 - VM Implementation - The Stack",
       "views": 13000
     },
     {
+      "id": "GE8X15K7ReI",
       "title": "[Part 2] Unit 1.5 - VM Implementation - Memory Segments",
       "views": 14000
     },
     {
+      "id": "I2-AQweprWQ",
       "title": "[Part 2] Unit 1.6 - The VM Emulator",
       "views": 9700
     },
     {
+      "id": "LeJsvUUOuOQ",
       "title": "[Part 2] Unit 1.7 - The VM Implementation on the Hack Platform",
       "views": 8900
     },
     {
+      "id": "-ah0p72Kbz8",
       "title": "[Part 2] Unit 1.9 - Project 7 - Building the VM Translator Part 1",
       "views": 13000
     },
     {
+      "id": "j0qDp2iq3LA",
       "title": "[Part 2] Unit 1.10 - Perspective",
       "views": 4200
     },
     {
+      "id": "UhC20aAl8IM",
       "title": "[Part 2] Unit 2.1 - Program Control",
       "views": 8400
     },
     {
+      "id": "0fWjbGza6TI",
       "title": "[Part 2] Unit 2.2 - Branching",
       "views": 7200
     },
     {
+      "id": "mhTLP4iQqrs",
       "title": "[Part 2] Unit 2.3 - Functions - Abstraction",
-      "views": 8900
+      "views": 9000
     },
     {
+      "id": "IjWMYSVSi9Q",
       "title": "[Part 2] Unit 2.4 - Function Call and Return - Implementation Preview",
       "views": 9200
     },
     {
+      "id": "5eka-MrsxS0",
       "title": "[Part 2] Unit 2.5 - Function Call and Return - Runtime Simulation",
       "views": 7100
     },
     {
+      "id": "5gPSmDwdKSU",
       "title": "[Part 2] Unit 2.6 - Function Call and Return - Implementation",
       "views": 9300
     },
     {
+      "id": "RcjpvXfeugE",
       "title": "[Part 2] Unit 2.7 - VM Implementation on the Hack Platform",
       "views": 6300
     },
     {
+      "id": "P6YcKvpi8CE",
       "title": "[Part 2] Unit 2.8 - VM Translator - Proposed Implementation",
       "views": 5000
     },
     {
+      "id": "J9AwAgPME5Q",
       "title": "[Part 2] Unit 2.9 - Project 8 - Building the VM Translator Part 2",
-      "views": 6500
+      "views": 6600
     },
     {
+      "id": "HoLgUZyLPEg",
       "title": "[Part 2] Unit 2.10 - Perspective",
       "views": 2300
     },
     {
+      "id": "Z-D0swtp64g",
       "title": "[Part 2] Unit 1.8 - The VM Translator - Proposed Implementation",
       "views": 3900
     },
     {
+      "id": "YKkG97oqpxw",
       "title": "[Part 2] Unit 3.1 - The Jack Language in a Nutshell",
       "views": 8800
     },
     {
+      "id": "0LYovergElE",
       "title": "[Part 2] Unit 3.2 - Object Based Programming",
       "views": 6700
     },
     {
+      "id": "NrWxzQxiFHI",
       "title": "[Part 2] Unit 3.3 - List Processing",
       "views": 5700
     },
     {
+      "id": "odFE_1uCKc8",
       "title": "[Part 2] Unit 3.4 - Jack Language Specification - Syntax",
       "views": 5200
     },
     {
+      "id": "ewGTC_V1Qfo",
       "title": "[Part 2] Unit 3.5 - Jack Language Specification - Data Types",
       "views": 4700
     },
     {
+      "id": "1zR4hIrnEUg",
       "title": "[Part 2] Unit 3.6 - Jack Language Specification - Classes",
       "views": 4600
     },
     {
+      "id": "ul283ijUjHM",
       "title": "[Part 2] Unit 3.7 - Jack Language Specification - Methods",
       "views": 4400
     },
     {
+      "id": "J93KxfdRQzU",
       "title": "[Part 2] Unit 3.8 - Developing Apps Using the Jack Language and OS",
       "views": 4300
     },
     {
+      "id": "O35jFp6Oe9I",
       "title": "[Part 2] Unit 3.9 - A Sample Jack App - Square Dance",
       "views": 4000
     },
     {
+      "id": "7Z1QoahPrBg",
       "title": "[Part 2] Unit 3.10 - Graphics Optimization",
       "views": 3500
     },
     {
+      "id": "YuNWwK7TRuQ",
       "title": "[Part 2] Unit 3.11 - Perspective",
       "views": 3900
     },
     {
+      "id": "S-6pdViiezU",
       "title": "[Part 2] Unit 4.1 - Syntax Analysis",
       "views": 6300
     },
     {
+      "id": "8MVWOBF-7Mg",
       "title": "[Part 2] Unit 4.2 - Lexical Analysis",
       "views": 5200
     },
     {
+      "id": "d74ZTSHfK5Y",
       "title": "[Part 2] Unit 4.3 - Grammars",
       "views": 5100
     },
     {
+      "id": "OmAUAmEVadI",
       "title": "[Part 2] Unit 4.4 - Parse Trees",
       "views": 4600
     },
     {
+      "id": "gHXMXzNhpVc",
       "title": "[Part 2] Unit 4.5 - Parse Logic",
-      "views": 5200
+      "views": 5300
     },
     {
+      "id": "k_SkdUALb2E",
       "title": "[Part 2] Unit 4.6 - The Jack Grammar",
       "views": 5100
     },
     {
+      "id": "8YBhNJQTtQs",
       "title": "[Part 2] Unit 4.7 - The Jack Analyzer",
       "views": 4000
     },
     {
+      "id": "bDOwnb-sb8w",
       "title": "[Part 2] Unit 4.8 - The Jack Analyzer - Proposed Implementation",
       "views": 4100
     },
     {
+      "id": "KgzpIIAvPpk",
       "title": "[Part 2] Unit 4.9 - The Jack Analyzer - Project 10 - Building a Syntax Analyzer",
       "views": 3800
     },
     {
+      "id": "QM-4Z16Yus4",
       "title": "[Part 2] Unit 4.10 - Perspective",
-      "views": 1700
+      "views": 1800
     },
     {
+      "id": "X0NWLeitY80",
       "title": "[Part 2] Unit 5.1 - Code Generation",
       "views": 5300
     },
     {
+      "id": "eU2ZrJQI5vE",
       "title": "[Part 2] Unit 5.2 - Handling Variables",
       "views": 5200
     },
     {
+      "id": "s7Vz8YtLZdY",
       "title": "[Part 2] Unit 5.3 - Handling Expressions",
       "views": 4600
     },
     {
+      "id": "yO3_wv8dNxY",
       "title": "[Part 2] Unit 5.4 - Handling Flow Control",
       "views": 4200
     },
     {
+      "id": "CaHPwqCyHlA",
       "title": "[Part 2] Unit 5.5 - Handling Objects - Low-Level Aspects",
-      "views": 4100
+      "views": 4200
     },
     {
+      "id": "AefEoEqnZLw",
       "title": "[Part 2] Unit 5.6 - Handling Objects - Construction",
       "views": 4500
     },
     {
+      "id": "ICvMffaFRwU",
       "title": "[Part 2] Unit 5.7 - Handling Objects - Manipulation",
       "views": 3900
     },
     {
+      "id": "hMOu4_2VyUk",
       "title": "[Part 2] Unit 5.8 - Handling Arrays",
       "views": 3600
     },
     {
+      "id": "_PZBT4lU2tI",
       "title": "[Part 2] Unit 5.9 - Standard Mapping Over the Virtual Machine",
       "views": 3100
     },
     {
+      "id": "mbSmhACFqr0",
       "title": "[Part 2] Unit 5.10 - Completing the Compiler - Proposed Implementation",
       "views": 2700
     },
     {
+      "id": "SAVh9tDBAPc",
       "title": "[Part 2] Unit 5.11 - Project 11",
       "views": 3200
     },
     {
+      "id": "NP1LyrNKzMg",
       "title": "[Part 2] Unit 5.12 - Perspective",
       "views": 1200
     },
     {
+      "id": "IC7f-lEhfes",
       "title": "[Part 2] Unit 6.1 - Operating System",
       "views": 4200
     },
     {
+      "id": "7lWjTKWK8D8",
       "title": "[Part 2] Unit 6.2 - Efficiency Matters",
       "views": 3300
     },
     {
+      "id": "7fkEpfthJxg",
       "title": "[Part 2] Unit 6.3 - Mathematical Operations",
       "views": 4000
     },
     {
+      "id": "hX88V_Xy3SE",
       "title": "[Part 2] Unit 6.4 - Memory Access",
       "views": 4100
     },
     {
+      "id": "E961cpQMYKA",
       "title": "[Part 2] Unit 6.5 - Heap Management",
       "views": 4900
     },
     {
+      "id": "lr2VJNpM4ro",
       "title": "[Part 2] Unit 6.6 - Graphics",
       "views": 3300
     },
     {
+      "id": "kl2wRmD1Dwc",
       "title": "[Part 2] Unit 6.7 - Line Drawing",
       "views": 3000
     },
     {
+      "id": "xJxsQgzSpaE",
       "title": "[Part 2] Unit 6.8 - Handling Textual Output",
       "views": 2500
     },
     {
+      "id": "QTh7z6tX4ME",
       "title": "[Part 2] Unit 6.9 - Input",
       "views": 2100
     },
     {
+      "id": "U8YQke5WJOE",
       "title": "[Part 2] Unit 6.10 - String Processing",
       "views": 2200
     },
     {
+      "id": "nYC11ayrD54",
       "title": "[Part 2] Unit 6.11 - Array Processing",
       "views": 1900
     },
     {
+      "id": "jCckAI0-shI",
       "title": "[Part 2] Unit 6.12 - The Sys Class",
       "views": 2100
     },
     {
+      "id": "SqPk51suWEk",
       "title": "[Part 2] Unit 6.13 - Project 12 - Building the OS",
       "views": 4700
     },
     {
+      "id": "t1tyx27dDHk",
       "title": "[Part 2] Unit 6.14 - Perspectives",
       "views": 2100
     },
     {
+      "id": "Sbw2UuIaohI",
       "title": "[Part 2] Unit 7.1 - More Fun To Go",
       "views": 2800
     },
     {
+      "id": "jFW4EstOB8g",
       "title": "[Part 2] Unit 7.2 - More Fun To Go",
       "views": 1800
     },
     {
+      "id": "1ZmHE0Alfvs",
       "title": "[Part 2] Unit 7.3 - More Fun To Go",
       "views": 2000
     },
     {
+      "id": "xDVeVTCEEIo",
       "title": "[Part 2] Unit 7.4 - More Fun To Go",
       "views": 4100
     }

@@ -1,192 +1,239 @@
 {
   "lectures": [
     {
+      "id": "JAB_plj2rbA",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs",
-      "views": 609000
+      "views": 610000
     },
     {
+      "id": "aBHC6xzx9YI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML",
       "views": 190000
     },
     {
+      "id": "P-m1Qv6-8cI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.3 - Choice of Graph Representation​",
       "views": 146000
     },
     {
+      "id": "3IS7UhNMQ3U",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node",
       "views": 158000
     },
     {
+      "id": "4dVwlE9jYxY",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 2.2 - Traditional Feature-based Methods: Link",
       "views": 110000
     },
     {
+      "id": "buzsHTa4Hgs",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph",
-      "views": 98000
+      "views": 99000
     },
     {
+      "id": "rMq21iY61SE",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 3.1 - Node Embeddings",
       "views": 104000
     },
     {
+      "id": "Xv0wRy66Big",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 3.2-Random Walk Approaches for Node Embeddings",
       "views": 99000
     },
     {
+      "id": "eliMLfJeu7A",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 3.3 - Embedding Entire Graphs",
       "views": 69000
     },
     {
+      "id": "TU0ankRcHmo",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank",
       "views": 72000
     },
     {
+      "id": "rK2ZBmQHVVs",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.2 - PageRank: How to Solve?",
       "views": 47000
     },
     {
+      "id": "HbzQzUaJ_9I",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.3 - Random Walk with Restarts",
       "views": 47000
     },
     {
+      "id": "r12qJZZVtqc",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 4.4 - Matrix Factorization and Node Embeddings",
       "views": 47000
     },
     {
+      "id": "ZfK4FDk9uy8",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Graph Neural Networks",
       "views": 35000
     },
     {
+      "id": "RU9uTa_-ZOw",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.1 - A general Perspective on GNNs",
       "views": 55000
     },
     {
+      "id": "247Mkqj_wRM",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.2 - A Single Layer of a GNN",
       "views": 67000
     },
     {
+      "id": "ew1cnUjRgl4",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.3 - Stacking layers of a GNN",
-      "views": 43000
+      "views": 44000
     },
     {
+      "id": "1A6VoEkQnhQ",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.1 - Graph Augmentation for GNNs",
       "views": 45000
     },
     {
+      "id": "eXIIH8YVxKI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.2 - Training Graph Neural Networks",
       "views": 47000
     },
     {
+      "id": "ewEW_EMzRuo",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.3 - Setting up GNN Prediction Tasks",
       "views": 37000
     },
     {
+      "id": "5vMEgYbka0A",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 9.1 - How Expressive are Graph Neural Networks",
       "views": 33000
     },
     {
+      "id": "B5y47gWt3co",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 9.2 - Designing the Most Powerful GNNs",
       "views": 33000
     },
     {
+      "id": "1E8fie5KSl0",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Label Propagation on Graphs",
       "views": 6800
     },
     {
+      "id": "uvrlKxj8HVU",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Machine Learning with Heterogeneous Graphs",
-      "views": 7200
+      "views": 7300
     },
     {
+      "id": "isI_TUMoP60",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Knowledge Graph Embeddings",
       "views": 14000
     },
     {
+      "id": "X9yl0pTP9fY",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.1 - Reasoning in Knowledge Graphs",
       "views": 26000
     },
     {
+      "id": "qaRIBNE-4Ho",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.2 - Answering Predictive Queries",
       "views": 18000
     },
     {
+      "id": "Nt66M2OsbCw",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.3 - Query2box: Reasoning over KGs",
       "views": 21000
     },
     {
+      "id": "lRCDpfJoMiE",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 12.1-Fast Neural Subgraph Matching & Counting",
       "views": 21000
     },
     {
+      "id": "4Ia5QzQ_QNI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 12.2 - Neural Subgraph Matching",
       "views": 16000
     },
     {
+      "id": "kUv4gY5e0hg",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 12.3 - Finding Frequent Subgraphs",
       "views": 16000
     },
     {
+      "id": "KXi4ha79o3s",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 13.1 - Community Detection in Networks",
       "views": 25000
     },
     {
+      "id": "mJQrtXZT5pw",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 13.2 - Network Communities",
       "views": 16000
     },
     {
+      "id": "0zuiLBOIcsw",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 13.3 - Louvain Algorithm",
       "views": 39000
     },
     {
+      "id": "SHcVHrsgj8w",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 13.4 - Detecting Overlapping Communities",
       "views": 15000
     },
     {
+      "id": "OV2VUApLUio",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I GNNs for Recommender Systems",
       "views": 16000
     },
     {
+      "id": "IMpkHvQ0LA4",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 15.1 - Deep Generative Models for Graphs",
       "views": 16000
     },
     {
+      "id": "xGDUYQGvRac",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 15.2 - Graph RNN: Generating Realistic Graphs",
       "views": 16000
     },
     {
+      "id": "kDu5YY9d1TM",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 15.3 - Scaling Up & Evaluating Graph Gen",
       "views": 11000
     },
     {
+      "id": "SdBk8fMmwUU",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 15.4 - Applications of Deep Graph Generation",
       "views": 12000
     },
     {
+      "id": "xVQN2aSNQhU",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Advanced Topics in GNNs",
       "views": 4700
     },
     {
+      "id": "2nPCw3yHlnI",
       "title": "Stanford CS224W: ML with Graphs | 2021 | Lecture 17.1 - Scaling up Graph Neural Networks",
       "views": 11000
     },
     {
+      "id": "LLUxwHc7O4A",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.2 - GraphSAGE Neighbor Sampling",
       "views": 24000
     },
     {
+      "id": "RJkR8Ig6dXI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.3 - Cluster GCN: Scaling up GNNs",
       "views": 14000
     },
     {
+      "id": "iTRW9Gh7yKI",
       "title": "Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.4 - Scaling up by Simplifying GNNs",
       "views": 12000
     },
     {
+      "id": "hDnlfTx4dZs",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Geometric Graph Learning, Minkai Xu",
       "views": 10000
     },
     {
+      "id": "O6eTvxWy07A",
       "title": "Stanford CS224W: Machine Learning w/ Graphs I 2023 I Trustworthy Graph AI,  Rex Ying",
-      "views": 6500
+      "views": 6600
     }
   ]
 }

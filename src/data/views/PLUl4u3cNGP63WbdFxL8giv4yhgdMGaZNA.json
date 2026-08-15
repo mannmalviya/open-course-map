@@ -1,154 +1,192 @@
 {
   "lectures": [
     {
+      "id": "nykOeWgQcHM",
       "title": "1. What is Computation?",
       "views": 2200000
     },
     {
+      "id": "Y6J8I056Ffw",
       "title": "Shell vs. Editor",
       "views": 297000
     },
     {
+      "id": "F-_PKUUM-qY",
       "title": "Python vs. Math",
       "views": 268000
     },
     {
+      "id": "EFCdr_43qmU",
       "title": "Bindings",
       "views": 185000
     },
     {
+      "id": "0jljZRnHwOI",
       "title": "2. Branching and Iteration",
       "views": 646000
     },
     {
+      "id": "w4uxYDPsjbw",
       "title": "Strings",
       "views": 102000
     },
     {
+      "id": "lniF6ys2CIk",
       "title": "Comparisons",
       "views": 84000
     },
     {
+      "id": "jjbWNcIjmzc",
       "title": "Branching",
       "views": 79000
     },
     {
+      "id": "P-0w8xWcnDQ",
       "title": "While Loops",
       "views": 96000
     },
     {
+      "id": "mrvBnZIEsZY",
       "title": "For Loops",
       "views": 97000
     },
     {
+      "id": "SE4P7IVCunE",
       "title": "3. String Manipulation, Guess and Check, Approximations, Bisection",
       "views": 418000
     },
     {
+      "id": "-jjUoTiaSHw",
       "title": "String Manipulations",
       "views": 68000
     },
     {
+      "id": "4WtaFLayz_w",
       "title": "For Loops With Strings",
       "views": 68000
     },
     {
+      "id": "MjbuarJ7SE0",
       "title": "4. Decomposition, Abstraction, and Functions",
-      "views": 258000
+      "views": 259000
     },
     {
+      "id": "4gPwo38MNss",
       "title": "Function Calls",
       "views": 64000
     },
     {
+      "id": "QaOHeMnpnmU",
       "title": "Functions as Arguments",
       "views": 60000
     },
     {
+      "id": "RvRKT-jXvko",
       "title": "5. Tuples, Lists, Aliasing, Mutability, and Cloning",
       "views": 251000
     },
     {
+      "id": "ncpb4wIsQu8",
       "title": "Tuples",
       "views": 62000
     },
     {
+      "id": "zYVWQpCitKQ",
       "title": "Simple Lists",
       "views": 34000
     },
     {
+      "id": "SrkqbLOQcEo",
       "title": "List Operations",
       "views": 32000
     },
     {
+      "id": "FKp-6sojt9A",
       "title": "List Aliasing/Mutation",
       "views": 34000
     },
     {
+      "id": "WPSeyjX1-4s",
       "title": "6. Recursion and Dictionaries",
       "views": 409000
     },
     {
+      "id": "9H6muyZjms0",
       "title": "7. Testing, Debugging, Exceptions, and Assertions",
       "views": 197000
     },
     {
+      "id": "5McjE8e5gIg",
       "title": "Black Box and Glass Box Testing",
       "views": 41000
     },
     {
+      "id": "-wz4iU2V-Yo",
       "title": "Errors",
       "views": 24000
     },
     {
+      "id": "0Whyfs88TYE",
       "title": "Exceptions",
       "views": 26000
     },
     {
+      "id": "-DP1i2ZU9gk",
       "title": "8. Object Oriented Programming",
       "views": 695000
     },
     {
+      "id": "vqn_yk5aFcI",
       "title": "Class Definition",
       "views": 42000
     },
     {
+      "id": "2__KumJsGXc",
       "title": "Class Instance",
       "views": 41000
     },
     {
+      "id": "goalLDamePE",
       "title": "Methods",
-      "views": 26000
+      "views": 27000
     },
     {
+      "id": "_ax4eNMI9Dw",
       "title": "Method Call",
       "views": 27000
     },
     {
+      "id": "qq7I2MQNrtU",
       "title": "Special Methods",
       "views": 28000
     },
     {
+      "id": "FlGjISF3l78",
       "title": "9. Python Classes and Inheritance",
       "views": 222000
     },
     {
+      "id": "C_pgH5QhIZ8",
       "title": "Getters and Setters",
       "views": 40000
     },
     {
+      "id": "8s0d87sjy1A",
       "title": "Subclass",
       "views": 28000
     },
     {
+      "id": "o9nW0uBqvEo",
       "title": "10. Understanding Program Efficiency, Part 1",
       "views": 254000
     },
     {
+      "id": "7lQXYl_L28w",
       "title": "11. Understanding Program Efficiency, Part 2",
-      "views": 125000
+      "views": 126000
     },
     {
+      "id": "6LOwPhPDwVc",
       "title": "12. Searching and Sorting",
       "views": 194000
     }

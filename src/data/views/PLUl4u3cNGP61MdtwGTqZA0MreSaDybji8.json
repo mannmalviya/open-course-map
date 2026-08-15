@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "j9WZyLZCBzs",
       "title": "1. Probability Models and Axioms",
       "views": 1400000
     },
     {
+      "id": "TluTv5V0RmE",
       "title": "2. Conditioning and Bayes' Rule",
       "views": 444000
     },
     {
+      "id": "19Ql_Q3l0GA",
       "title": "3. Independence",
       "views": 238000
     },
     {
+      "id": "6oV3pKLgW2I",
       "title": "4. Counting",
-      "views": 261000
+      "views": 262000
     },
     {
+      "id": "3MOahpLxj6A",
       "title": "5. Discrete Random Variables I",
-      "views": 318000
+      "views": 319000
     },
     {
+      "id": "-qCEoqpwjf4",
       "title": "6. Discrete Random Variables II",
       "views": 194000
     },
     {
+      "id": "EObHWIEKGjA",
       "title": "7. Discrete Random Variables III",
-      "views": 148000
+      "views": 149000
     },
     {
+      "id": "mHfn_7ym6to",
       "title": "8. Continuous Random Variables",
-      "views": 183000
+      "views": 184000
     },
     {
+      "id": "CadZXGNauY0",
       "title": "9. Multiple Continuous Random Variables",
       "views": 125000
     },
     {
+      "id": "H_k1w3cfny8",
       "title": "10. Continuous Bayes' Rule; Derived Distributions",
       "views": 117000
     },
     {
+      "id": "l4NoMKEHQwM",
       "title": "11. Derived Distributions (ctd.); Covariance",
       "views": 88000
     },
     {
+      "id": "P7a4bjE6Crk",
       "title": "12. Iterated Expectations",
       "views": 79000
     },
     {
+      "id": "gMTiAeE0NCw",
       "title": "13. Bernoulli Process",
       "views": 121000
     },
     {
+      "id": "jsqSScywvMc",
       "title": "14. Poisson Process I",
-      "views": 165000
+      "views": 166000
     },
     {
+      "id": "XsYXACeIklU",
       "title": "15. Poisson Process II",
       "views": 78000
     },
     {
+      "id": "IkbkEtOOC1Y",
       "title": "16. Markov Chains I",
       "views": 402000
     },
     {
+      "id": "ZulMqrvP-Pk",
       "title": "17. Markov Chains II",
       "views": 126000
     },
     {
+      "id": "HIMxdWDLEK8",
       "title": "18. Markov Chains III",
       "views": 93000
     },
     {
+      "id": "3eiio3Tw7UQ",
       "title": "19. Weak Law of Large Numbers",
       "views": 90000
     },
     {
+      "id": "Tx7zzD4aeiA",
       "title": "20. Central Limit Theorem",
       "views": 94000
     },
     {
+      "id": "1jDBM9UM9xk",
       "title": "21. Bayesian Statistical Inference I",
       "views": 191000
     },
     {
+      "id": "XtNXQJkgkhI",
       "title": "22. Bayesian Statistical Inference II",
       "views": 66000
     },
     {
+      "id": "4UJc0S8APm4",
       "title": "23. Classical Statistical Inference I",
       "views": 85000
     },
     {
+      "id": "tBUHRpFZy0s",
       "title": "24. Classical Inference II",
       "views": 40000
     },
     {
+      "id": "rYefUsYuEp0",
       "title": "25. Classical Inference III",
       "views": 52000
     }

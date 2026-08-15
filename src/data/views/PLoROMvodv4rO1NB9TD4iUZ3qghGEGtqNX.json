@@ -1,78 +1,97 @@
 {
   "lectures": [
     {
+      "id": "J8Eh7RqggsU",
       "title": "Overview Artificial Intelligence Course | Stanford CS221: Learn AI (Autumn 2019)",
-      "views": 749000
+      "views": 750000
     },
     {
+      "id": "zrT2qETJilw",
       "title": "Machine Learning 1 - Linear Classifiers, SGD | Stanford CS221: AI (Autumn 2019)",
-      "views": 469000
+      "views": 470000
     },
     {
+      "id": "BRgKyNdD9qU",
       "title": "Machine Learning 2 - Features, Neural Networks | Stanford CS221: AI (Autumn 2019)",
       "views": 80000
     },
     {
+      "id": "O9vCb30sHBA",
       "title": "Machine Learning 3 - Generalization, K-means | Stanford CS221: AI (Autumn 2019)",
-      "views": 48000
+      "views": 49000
     },
     {
+      "id": "aIsgJJYrlXk",
       "title": "Search 1 - Dynamic Programming, Uniform Cost Search | Stanford CS221: AI (Autumn 2019)",
       "views": 106000
     },
     {
+      "id": "HEs1ZCvLH2s",
       "title": "Search 2 - A* | Stanford CS221: Artificial Intelligence (Autumn 2019)",
       "views": 56000
     },
     {
+      "id": "9g32v7bK3Co",
       "title": "Markov Decision Processes 1 - Value Iteration | Stanford CS221: AI (Autumn 2019)",
       "views": 506000
     },
     {
+      "id": "HpaHTfY52RQ",
       "title": "Markov Decision Processes 2 - Reinforcement Learning | Stanford CS221: AI (Autumn 2019)",
       "views": 91000
     },
     {
+      "id": "3pU-Hrz_xy4",
       "title": "Game Playing 1 - Minimax, Alpha-beta Pruning | Stanford CS221: AI (Autumn 2019)",
       "views": 50000
     },
     {
+      "id": "WoFwXj4p4Sc",
       "title": "Game Playing 2 - TD Learning, Game Theory | Stanford CS221: Artificial Intelligence (Autumn 2019)",
-      "views": 49000
+      "views": 55000
     },
     {
+      "id": "Yo-xat4cn8M",
       "title": "Factor Graphs 1 - Constraint Satisfaction Problems | Stanford CS221: AI (Autumn 2019)",
       "views": 45000
     },
     {
+      "id": "o0mKSvbMunA",
       "title": "Factor Graphs 2 - Conditional Independence | Stanford CS221: AI (Autumn 2019)",
       "views": 20000
     },
     {
+      "id": "U23yuPEACG0",
       "title": "Bayesian Networks 1 - Inference | Stanford CS221: AI (Autumn 2019)",
       "views": 106000
     },
     {
+      "id": "GPoj3zfX60g",
       "title": "Bayesian Networks 2 - Forward-Backward | Stanford CS221: AI (Autumn 2019)",
       "views": 29000
     },
     {
+      "id": "Fa-rr6AXMwg",
       "title": "Bayesian Networks 3 - Maximum Likelihood | Stanford CS221: AI (Autumn 2019)",
       "views": 22000
     },
     {
+      "id": "xL0kNw5TudI",
       "title": "Logic 1 - Propositional Logic | Stanford CS221: AI (Autumn 2019)",
       "views": 110000
     },
     {
+      "id": "_Iz83hfkFds",
       "title": "Logic 2 - First-order Logic | Stanford CS221: AI (Autumn 2019)",
       "views": 52000
     },
     {
+      "id": "7v933EUdxzU",
       "title": "Deep Learning | Stanford CS221: AI (Autumn 2019)",
       "views": 16000
     },
     {
+      "id": "a0sqE7y53W8",
       "title": "Conclusion | Stanford CS221: AI (Autumn 2019)",
       "views": 17000
     }

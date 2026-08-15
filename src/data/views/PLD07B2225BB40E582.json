@@ -1,104 +1,129 @@
 {
   "lectures": [
     {
+      "id": "NK-BxowMIfg",
       "title": "1. Electrostatics",
       "views": 1300000
     },
     {
+      "id": "xnSc_OWpCuY",
       "title": "2. Electric Fields",
-      "views": 559000
+      "views": 560000
     },
     {
+      "id": "e9c5Wpu4WSI",
       "title": "3. Gauss's Law I",
       "views": 378000
     },
     {
+      "id": "Hlj5vGOSQlY",
       "title": "4. Gauss's Law and Application to Conductors and Insulators",
-      "views": 258000
+      "views": 259000
     },
     {
+      "id": "uA_hXjJ2Ts8",
       "title": "5. The Electric Potential and Conservation of Energy",
       "views": 197000
     },
     {
+      "id": "FLzJ2_DfNX0",
       "title": "6. Capacitors",
       "views": 206000
     },
     {
+      "id": "BvHqgbIVulc",
       "title": "7. Resistance",
       "views": 140000
     },
     {
+      "id": "HXRjSfre6kc",
       "title": "8. Circuits and Magnetism I",
       "views": 175000
     },
     {
+      "id": "kb97TivvK50",
       "title": "9. Magnetism II",
       "views": 156000
     },
     {
+      "id": "d8AIoU8vtzo",
       "title": "10. Ampere's Law",
       "views": 131000
     },
     {
+      "id": "EYYNRubHIno",
       "title": "11. Lenz's and Faraday's Laws",
-      "views": 128000
+      "views": 129000
     },
     {
+      "id": "FYDLG_A2P1I",
       "title": "12. LCR Circuits—DC Voltage",
       "views": 149000
     },
     {
+      "id": "cS83YUpcEsY",
       "title": "13. LCR Circuits—AC Voltage",
       "views": 173000
     },
     {
+      "id": "yINtzw63Knc",
       "title": "14. Maxwell's Equations and Electromagnetic Waves I",
       "views": 856000
     },
     {
+      "id": "JJZkjMRcTD4",
       "title": "15. Maxwell's Equations and Electromagnetic Waves II",
-      "views": 178000
+      "views": 179000
     },
     {
+      "id": "bxGgcgSbQBA",
       "title": "16. Ray or Geometrical Optics I",
       "views": 187000
     },
     {
+      "id": "qm4QR_ycRhY",
       "title": "17. Ray or Geometrical Optics II",
       "views": 72000
     },
     {
+      "id": "5tKPLfZ9JVQ",
       "title": "18. Wave Theory of Light",
       "views": 231000
     },
     {
+      "id": "uK2eFv7ne_Q",
       "title": "19. Quantum Mechanics I: The key experiments and wave-particle duality",
       "views": 1000000
     },
     {
+      "id": "YPHoHv05_Wo",
       "title": "20. Quantum Mechanics II",
       "views": 251000
     },
     {
+      "id": "VE4MnuhMtb4",
       "title": "21. Quantum Mechanics III",
       "views": 167000
     },
     {
+      "id": "qiafeDIGoSI",
       "title": "22. Quantum mechanics IV: Measurement theory, states of definite energy",
       "views": 116000
     },
     {
+      "id": "lGKKdLmRNQw",
       "title": "23. Quantum Mechanics V: Particle in a Box",
-      "views": 110000
+      "views": 111000
     },
     {
+      "id": "Iy6RspNw80E",
       "title": "24. Quantum Mechanics VI: Time-dependent Schrödinger Equation",
       "views": 237000
     },
     {
+      "id": "nVgQBmu-fRQ",
       "title": "25. Quantum Mechanics VII: Summary of postulates and special topics",
-      "views": 92000
+      "views": 93000
     }
   ]
 }

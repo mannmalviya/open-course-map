@@ -1,74 +1,92 @@
 {
   "lectures": [
     {
+      "id": "XZ0PMRWXBEU",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 1 - Introduction",
-      "views": 170000
+      "views": 171000
     },
     {
+      "id": "rNEujZmD2Tg",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 2 - Background",
       "views": 63000
     },
     {
+      "id": "tRArbBf-AbI",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 3 - Autoregressive Models",
       "views": 48000
     },
     {
+      "id": "bt3dqcbMLa0",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 4 - Maximum Likelihood Learning",
       "views": 34000
     },
     {
+      "id": "MAGBUh77bNg",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 5 - VAEs",
-      "views": 32000
+      "views": 33000
     },
     {
+      "id": "8cO61e_8oPY",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 6 - VAEs",
       "views": 25000
     },
     {
+      "id": "m6dKKRsZwBQ",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 7 - Normalizing Flows",
       "views": 26000
     },
     {
+      "id": "qgTvgBCOyn8",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 8 - Normalizing Flows",
       "views": 19000
     },
     {
+      "id": "3Zv-gokhLu8",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 9 - GANs",
       "views": 18000
     },
     {
+      "id": "M3Fkvu78ZXc",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 10 - GANs",
       "views": 15000
     },
     {
+      "id": "m61KiAMCJ5Q",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 11 - Energy Based Models",
       "views": 24000
     },
     {
+      "id": "Nci1Bepcy0g",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 12 - Energy Based Models",
       "views": 17000
     },
     {
+      "id": "8G-OsDs1RLI",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 13 - Score Based Models",
       "views": 35000
     },
     {
+      "id": "E69Lp_T9nVg",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 14 - Energy Based Models",
       "views": 17000
     },
     {
+      "id": "MJt_ahtO-to",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 15 - Evaluation of Generative Models",
       "views": 17000
     },
     {
+      "id": "VsllsC2JMGY",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 16 - Score Based Diffusion Models",
       "views": 29000
     },
     {
+      "id": "vBv7Mf1zsg8",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 17 - Discrete Latent Variable Models",
       "views": 16000
     },
     {
+      "id": "mCaRNnEnYwA",
       "title": "Stanford CS236: Deep Generative Models I 2023 I Lecture 18 - Diffusion Models for Discrete Data",
       "views": 25000
     }

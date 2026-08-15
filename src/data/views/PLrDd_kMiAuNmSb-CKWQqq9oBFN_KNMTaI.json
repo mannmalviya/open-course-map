@@ -1,198 +1,247 @@
 {
   "lectures": [
     {
+      "id": "LqirVc5SlW0",
       "title": "[Part 1] Unit 0.0 - Introduction",
       "views": 195000
     },
     {
+      "id": "RG4IXfTMGSM",
       "title": "[Part 1] Unit 0.1 - The Road Ahead",
       "views": 78000
     },
     {
+      "id": "t7XYsKogTME",
       "title": "[Part 1] Unit 0.2 - From Nand to Hack",
-      "views": 53000
+      "views": 54000
     },
     {
+      "id": "ge2jPjocaxU",
       "title": "[Part 1] Unit 0.3 - From Hack to Tetris",
       "views": 36000
     },
     {
+      "id": "xUFpmKa7f7Y",
       "title": "[Part 1] Unit 0.4 - Project 0 Overview",
       "views": 38000
     },
     {
+      "id": "Noi-lpSSEcE",
       "title": "[Part 1] Unit 1.1 - Boolean Logic",
-      "views": 54000
+      "views": 55000
     },
     {
+      "id": "B69XKPdwDMI",
       "title": "[Part 1] Unit 1.2 - Boolean Functions",
-      "views": 39000
+      "views": 40000
     },
     {
+      "id": "TSGrkNj_OqQ",
       "title": "[Part 1] Unit 1.3 - Logic Gates",
       "views": 38000
     },
     {
+      "id": "rg0FIjUf2OE",
       "title": "[Part 1] Unit 1.4 - Hardware Description Language",
       "views": 46000
     },
     {
+      "id": "q0mQ-A1WXmM",
       "title": "[Part 1] Unit 1.5 - Hardware Simulation",
       "views": 43000
     },
     {
+      "id": "7I9bGG9_BEU",
       "title": "[Part 1] Unit 1.6 - Multi Bit Buses",
       "views": 29000
     },
     {
+      "id": "OZlvyGaRmQQ",
       "title": "[Part 1] Unit 1.7 - Project 1 Overview",
       "views": 35000
     },
     {
+      "id": "aTU8ViDlQN0",
       "title": "[Part 1] Unit 1.8 - Perspectives",
       "views": 15000
     },
     {
+      "id": "kmYQYTqBmEU",
       "title": "[Part 1] Unit 2.1 - Binary Numbers",
       "views": 18000
     },
     {
+      "id": "SZhokNJETWY",
       "title": "[Part 1] Unit 2.2 - Binary Addition",
       "views": 17000
     },
     {
+      "id": "m80TRjRTn9s",
       "title": "[Part 1] Unit 2.3 - Negative Numbers",
       "views": 17000
     },
     {
+      "id": "PEs855FNCOw",
       "title": "[Part 1] Unit 2.4 - Arithmetic Logic Unit",
       "views": 27000
     },
     {
+      "id": "xtcJMxlEFek",
       "title": "[Part 1] Unit 2.5 - Project 2 Overview",
       "views": 17000
     },
     {
+      "id": "OBCWuMM7ZHc",
       "title": "[Part 1] Unit 2.6 - Perspectives",
       "views": 10000
     },
     {
+      "id": "CDjQlw8bRU8",
       "title": "[Part 1] Unit 3.1 - Sequential Logic",
       "views": 21000
     },
     {
+      "id": "lFf5RjTPwC8",
       "title": "[Part 1] Unit 3.2 - Flip Flops",
       "views": 21000
     },
     {
+      "id": "YmBIJ-4Mzv4",
       "title": "[Part 1] Unit 3.3 - Memory Units",
       "views": 21000
     },
     {
+      "id": "AEh0F2CXWHs",
       "title": "[Part 1] Unit 3.4 - Counters",
       "views": 14000
     },
     {
+      "id": "u2O_9sZInU4",
       "title": "[Part 1] Unit 3.5 - Project 3 Overview",
       "views": 14000
     },
     {
+      "id": "WfLidRS4v7M",
       "title": "[Part 1] Unit 3.6 - Perspectives",
       "views": 7600
     },
     {
+      "id": "UzezuWXRRCw",
       "title": "[Part 1] Unit 4.1 - Machine Languages: Overview",
       "views": 21000
     },
     {
+      "id": "lETzuvVlZsA",
       "title": "[Part 1] Unit 4.2 - Machine Languages: Elements",
       "views": 18000
     },
     {
+      "id": "UNwWc3GZcA4",
       "title": "[Part 1] Unit 4.3 - The Hack Computer and Machine Language",
       "views": 21000
     },
     {
+      "id": "Iw97932rzqU",
       "title": "[Part 1] Unit 4.4 - Hack Language Specification",
       "views": 17000
     },
     {
+      "id": "gTOFd80QfBU",
       "title": "[Part 1] Unit 4.5 - Input/Output",
       "views": 18000
     },
     {
+      "id": "fIxCy5XPuIc",
       "title": "[Part 1] Unit 4.6 - Hack Programming Part 1",
       "views": 21000
     },
     {
+      "id": "2pvN0Rtcv0g",
       "title": "[Part 1] Unit 4.7 - Hack Programming Part 2",
       "views": 17000
     },
     {
+      "id": "j3pBYtFP2y8",
       "title": "[Part 1] Unit 4.8 - Hack Programming Part 3",
       "views": 17000
     },
     {
+      "id": "-n3eqsVZN3E",
       "title": "[Part 1] Unit 4.9 - Project 4 Overview",
       "views": 14000
     },
     {
+      "id": "xIeaQSYAFqg",
       "title": "[Part 1] Unit 4.10 - Perspectives",
       "views": 5400
     },
     {
+      "id": "S_QLGkKVSRc",
       "title": "[Part 1] Unit 5.1 - Von Neumann Architecture",
       "views": 13000
     },
     {
+      "id": "5dsLdVGi6hc",
       "title": "[Part 1] Unit 5.2 - The Fetch-Execute Cycle",
       "views": 11000
     },
     {
+      "id": "OXK_vzk7cUU",
       "title": "[Part 1] Unit 5.3 - Central Processing Unit",
       "views": 19000
     },
     {
+      "id": "1_TEVI0YpI0",
       "title": "[Part 1] Unit 5.4 - The Hack Computer",
       "views": 14000
     },
     {
+      "id": "wMxgU7RmETA",
       "title": "[Part 1] Unit 5.5 - Project 5 Overview",
       "views": 11000
     },
     {
+      "id": "CgdemLAIoKU",
       "title": "[Part 1] Unit 5.6 - Perspectives",
       "views": 4700
     },
     {
+      "id": "9Sq94l9fYqw",
       "title": "[Part 1] Unit 6.1 - Assembly Languages and Assemblers",
       "views": 13000
     },
     {
+      "id": "bGxkS4f5i9s",
       "title": "[Part 1] Unit 6.2 - The Hack Assembly Language",
       "views": 15000
     },
     {
+      "id": "bR8U3VanGhk",
       "title": "[Part 1] Unit 6.3 - The Assembly Process: Handling Instructions",
       "views": 10000
     },
     {
+      "id": "45aSOhfYnO4",
       "title": "[Part 1] Unit 6.4 - The Assembly Process: Handling Symbols",
       "views": 10000
     },
     {
+      "id": "zESrb0-u8oo",
       "title": "[Part 1] Unit 6.5 - Developing a Hack Assembler",
       "views": 12000
     },
     {
+      "id": "0y8JPx0ZakY",
       "title": "[Part 1] Unit 6.6A - Project 6 Overview: Programming Option",
       "views": 12000
     },
     {
+      "id": "7gDDvRpFOlI",
       "title": "[Part 1] Unit 6.6B - Project 6 Overview: Without Programming",
-      "views": 7900
+      "views": 8000
     },
     {
+      "id": "iGmTcY5gQxc",
       "title": "[Part 1] Unit 6.7 - Perspectives",
       "views": 9100
     }

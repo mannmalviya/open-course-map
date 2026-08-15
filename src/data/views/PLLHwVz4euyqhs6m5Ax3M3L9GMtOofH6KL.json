@@ -1,50 +1,62 @@
 {
   "lectures": [
     {
+      "id": "bSjkztLmV0k",
       "title": "CSE225 Spring 2025 4/4 - Flip-flops",
-      "views": 151
+      "views": 153
     },
     {
+      "id": "F4V0YaxHdnw",
       "title": "CSE225 Spring 2025 4/7 - always_comb",
       "views": 19
     },
     {
+      "id": "w_lFX1FO_TU",
       "title": "CSE225 Spring 2025 4/9 - More always_comb + CMOS",
       "views": 15
     },
     {
+      "id": "57tT5qG9zXU",
       "title": "CSE225 Spring 2025 4/11 - State Machines",
       "views": 16
     },
     {
+      "id": "82KFhemUKjc",
       "title": "CSE225 Spring 2025 4/14 - ready/valid",
       "views": 18
     },
     {
+      "id": "C29YDHC8n1Q",
       "title": "CSE225 Spring 2025 4/16 - ready/valid buffers",
       "views": 11
     },
     {
+      "id": "SypKy58kbEg",
       "title": "CSE225 Spring 2025 4/21 - ready/valid Pipeline",
       "views": 21
     },
     {
+      "id": "drgc4eBgq5U",
       "title": "CSE225 Spring 2025 4/23 - ready/valid FIFO",
       "views": 35
     },
     {
+      "id": "XJUQiT76beY",
       "title": "CSE225 Spring 2025 4/25 - Simulation+Testbenches",
       "views": 22
     },
     {
+      "id": "ohbQe_CkZrs",
       "title": "CSE225 Spring 2025 4/28 - Simulation+Testbenches continued",
       "views": 24
     },
     {
+      "id": "gULMLdiexIE",
       "title": "CSE225 Spring 2025 4/30 - Testbench Activity",
       "views": 33
     },
     {
+      "id": "KbSOFgSQ4XQ",
       "title": "CSE225 Spring 2025 5/5 - Fixed Point",
       "views": 23
     }

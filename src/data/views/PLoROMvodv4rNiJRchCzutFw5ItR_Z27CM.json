@@ -1,204 +1,254 @@
 {
   "lectures": [
     {
+      "id": "P127jhj-8-Y",
       "title": "Stanford CS25: V1 I Transformers United: DL Models that have revolutionized NLP, CV, RL",
-      "views": 195000
+      "views": 196000
     },
     {
+      "id": "qGkzHFllWDY",
       "title": "Stanford CS25: V1 I Transformers in Language: The development of GPT Models, GPT3",
       "views": 45000
     },
     {
+      "id": "BP5CM0YxbP8",
       "title": "Stanford CS25: V1 I Transformers in Vision: Tackling problems in Computer Vision",
       "views": 57000
     },
     {
+      "id": "w4Bw8WYL8Ps",
       "title": "Stanford CS25: V1 I Decision Transformer: Reinforcement Learning via Sequence Modeling",
       "views": 46000
     },
     {
+      "id": "U8J32Z3qV8s",
       "title": "Stanford CS25: V1 I Mixture of Experts (MoE) paradigm and the Switch Transformer",
       "views": 41000
     },
     {
+      "id": "wTZ3o36lXoQ",
       "title": "Stanford CS25: V1 I DeepMind's Perceiver and Perceiver IO: new data family architecture",
       "views": 18000
     },
     {
+      "id": "zejXBg-2Vpk",
       "title": "Stanford CS25: V1 I Self Attention and Non-parametric transformers (NPTs)",
       "views": 16000
     },
     {
+      "id": "pC4zRb_5noQ",
       "title": "Stanford CS25: V1 I Transformer Circuits, Induction Heads, In-Context Learning",
       "views": 21000
     },
     {
+      "id": "wvE2n8u3drA",
       "title": "Stanford CS25: V1 I Audio Research: Transformers for Applications in Audio, Speech, Music",
       "views": 13000
     },
     {
+      "id": "CYaju6aCMoQ",
       "title": "Stanford CS25: V2 I Represent part-whole hierarchies in a neural network, Geoff Hinton",
       "views": 13000
     },
     {
+      "id": "XfpMkf4rD6E",
       "title": "Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy",
       "views": 1000000
     },
     {
+      "id": "DJ1Yy6Aquug",
       "title": "Stanford CS25: V2 I Language and Human Alignment",
       "views": 15000
     },
     {
+      "id": "tVtOevLrt5U",
       "title": "Stanford CS25: V2 I Emergent Abilities and Scaling in LLMs",
       "views": 13000
     },
     {
+      "id": "phWxl0nkgKk",
       "title": "Stanford CS25: V2 I Strategic Games",
       "views": 6000
     },
     {
+      "id": "ct4tdyyNDY4",
       "title": "Stanford CS25: V2 I Robotics and Imitation Learning",
       "views": 21000
     },
     {
+      "id": "sTQaJyrI-zg",
       "title": "Stanford CS25: V2 I Common Sense Reasoning",
       "views": 7700
     },
     {
+      "id": "nz7_wg5iOlA",
       "title": "Stanford CS25: V2 I Biomedical Transformers",
       "views": 8500
     },
     {
+      "id": "L4DC7e6g2iI",
       "title": "Stanford CS25: V2 I Neuroscience-Inspired Artificial Intelligence",
       "views": 10000
     },
     {
+      "id": "fz8wf9hN20c",
       "title": "Stanford CS25: V3 I Low-level Embodied Intelligence w/ Foundation Models",
       "views": 16000
     },
     {
+      "id": "wwQ1LQA3RCU",
       "title": "Stanford CS25: V3 I Generalist Agents in Open-Ended Worlds",
       "views": 11000
     },
     {
+      "id": "1GbDTTK3aR4",
       "title": "Stanford CS25: V3 I How I Learned to Stop Worrying and Love the Transformer",
       "views": 22000
     },
     {
+      "id": "mcep6W8oB1I",
       "title": "Stanford CS25: V3 I Recipe for Training Helpful Chatbots",
       "views": 8900
     },
     {
+      "id": "ckNMsUuLryM",
       "title": "Stanford CS25: V3 I No Language Left Behind: Scaling Human-Centered Machine Translation",
       "views": 4000
     },
     {
+      "id": "ylEk1TE1uBo",
       "title": "Stanford CS25: V3 I Beyond LLMs: Agents, Emergent Abilities, Intermediate-Guided Reasoning, BabyLM",
       "views": 32000
     },
     {
+      "id": "mE7IDf2SmJg",
       "title": "Stanford CS25: V3 I Retrieval Augmented Language Models",
       "views": 202000
     },
     {
+      "id": "fKMB5UlVY1E",
       "title": "Stanford CS25: V4 I Overview of Transformers",
       "views": 76000
     },
     {
+      "id": "3gb-ZkVRemQ",
       "title": "Stanford CS25: V4 I Jason Wei & Hyung Won Chung of OpenAI",
       "views": 200000
     },
     {
+      "id": "AdLgPmcrXwQ",
       "title": "Stanford CS25: V4 I Aligning Open Language Models",
       "views": 30000
     },
     {
+      "id": "RcJ1YXHLv5o",
       "title": "Stanford CS25: V4 I Demystifying Mixtral of Experts",
       "views": 11000
     },
     {
+      "id": "zL9B3eXq0gY",
       "title": "Stanford CS25: V4 I Transformers that Transform Well Enough to Support Near-Shallow Architectures",
       "views": 15000
     },
     {
+      "id": "cYfKQ6YG9Qo",
       "title": "Stanford CS25: V4 I From Large Language Models to Large Multimodal Models",
       "views": 14000
     },
     {
+      "id": "jm2hyJLFfN8",
       "title": "Stanford CS25: V4 I Behind the Scenes of LLM Pre-training: StarCoder Use Case",
       "views": 18000
     },
     {
+      "id": "orDKvo8h71o",
       "title": "Stanford CS25: V4 I Hyung Won Chung of OpenAI",
       "views": 211000
     },
     {
+      "id": "JKbtWimlzAE",
       "title": "Stanford CS25: V5 I Overview of Transformers",
       "views": 40000
     },
     {
+      "id": "gLwiPrwUDJ8",
       "title": "Stanford CS25: V5 I RL as a Co-Design of Product and Research, Karina Nguyen",
       "views": 21000
     },
     {
+      "id": "nEHNwdrbfGA",
       "title": "Stanford CS25: V5 I The Advent of AGI, Div Garg",
       "views": 7100
     },
     {
+      "id": "ebnX5Ur1hBk",
       "title": "Stanford CS25: V5 I Large Language Model Reasoning, Denny Zhou of Google Deepmind",
       "views": 87000
     },
     {
+      "id": "vRQs7qfIDaU",
       "title": "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic",
       "views": 37000
     },
     {
+      "id": "8kXIaUM3h1E",
       "title": "Stanford CS25: V5 I Multimodal World Models for Drug Discovery,  Eshed Margalit of Noetik.ai",
       "views": 12000
     },
     {
+      "id": "vXtapCFctTI",
       "title": "Stanford CS25: V5 I Transformers in Diffusion Models for Image Generation and Beyond",
       "views": 29000
     },
     {
+      "id": "YGHF8_tf--g",
       "title": "Stanford CS25: V5 I Transformers for Video Generation, Andrew Brown of Meta",
       "views": 16000
     },
     {
+      "id": "bHSDPgZYie0",
       "title": "Stanford CS25: Transformers United V6 I Overview of Transformers",
       "views": 10000
     },
     {
+      "id": "GBd7iuJkW08",
       "title": "Stanford CS25: Transformers United V6 I From Representation Learning to World Modeling",
-      "views": 96000
+      "views": 98000
     },
     {
+      "id": "OyimE74UMF8",
       "title": "Stanford CS25: Transformers United V6 I On the Tradeoffs of State Space Models and Transformers",
       "views": 5800
     },
     {
+      "id": "I5BKi32IEa8",
       "title": "Stanford CS25: Transformers United V6 I The Ultra-Scale Talk: Scaling Training to Thousands of GPUs",
       "views": 1800
     },
     {
+      "id": "e_H_tkpCAK4",
       "title": "Stanford CS25: Transformers United V6 I From Next-Token Prediction to Next-Generation Intelligence",
       "views": 14000
     },
     {
+      "id": "jFdH7n6BAl0",
       "title": "Stanford CS25: Transformers United V6 I Advancing Science and Medicine with Collaborative AI Agents",
       "views": 3300
     },
     {
+      "id": "dJtHauhRasc",
       "title": "Stanford CS25: Transformers United V6 I Distinct Modes of Generalization from Parameters and Context",
-      "views": 3600
+      "views": 3700
     },
     {
+      "id": "ZUdIsRZhWXI",
       "title": "Stanford CS25: Transformers United V6 I Serving Transformers: Lessons from the Trenches",
-      "views": 6600
+      "views": 6700
     },
     {
+      "id": "NDdc39KYqDU",
       "title": "Stanford CS25: Transformers United V6 I From Language Models to Native Multimodal Intelligence",
-      "views": 113000
+      "views": 114000
     }
   ]
 }

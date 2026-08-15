@@ -1,210 +1,262 @@
 {
   "lectures": [
     {
+      "id": "uMc-j5aQTH8",
       "title": "1.1 Course Organization (8.20 Introduction to Special Relativity)",
       "views": 153000
     },
     {
+      "id": "_S1CREXGfvE",
       "title": "1.2. Prof. Klute’s Research",
       "views": 36000
     },
     {
+      "id": "fW9ZyXvdCwE",
       "title": "1.3 History of Special Relativity",
       "views": 30000
     },
     {
+      "id": "EsciE9ws4qw",
       "title": "1.4 Guest Lecture: Space, Time, and Spacetime",
       "views": 41000
     },
     {
+      "id": "24iPsnbS6_0",
       "title": "1.5 Categories of Physics",
       "views": 18000
     },
     {
+      "id": "OCQGydLI5LY",
       "title": "2.1 Events",
       "views": 16000
     },
     {
+      "id": "XAt0dX5M-TA",
       "title": "2.2 Galilean Transformation",
       "views": 27000
     },
     {
+      "id": "ZmKaHSXDbn0",
       "title": "3.1 Light",
       "views": 13000
     },
     {
+      "id": "QP-xHC_naJ4",
       "title": "3.2 Waves",
       "views": 9800
     },
     {
+      "id": "8rbXjIqF3IA",
       "title": "3.3 Michelson-Morley Experiment",
       "views": 15000
     },
     {
+      "id": "Wd5s5uLk7xs",
       "title": "3.4 Stellar Aberration",
       "views": 12000
     },
     {
+      "id": "5QUe51d_22w",
       "title": "4.1 Time Dilation",
       "views": 12000
     },
     {
+      "id": "f08-SYyjMp0",
       "title": "4.2 Muons",
       "views": 7700
     },
     {
+      "id": "96RHvPVlxN8",
       "title": "4.3 Length Contraction",
-      "views": 6800
+      "views": 6900
     },
     {
+      "id": "0lPfTMmyzvk",
       "title": "4.4 Invariance",
       "views": 6100
     },
     {
+      "id": "_naTiUQOq34",
       "title": "4.5 Lorentz Transformation",
-      "views": 9300
+      "views": 9400
     },
     {
+      "id": "2YPu29d8RZY",
       "title": "5.1 Voyager Program",
       "views": 6100
     },
     {
+      "id": "icqwK_WyoII",
       "title": "5.2 Velocity Addition",
       "views": 4700
     },
     {
+      "id": "mBGJOLE7ZUg",
       "title": "5.3 Spacetime Diagrams",
-      "views": 11000
+      "views": 12000
     },
     {
+      "id": "6fFfT7LhtPw",
       "title": "5.4 Regions in Spacetime Diagrams",
       "views": 4800
     },
     {
+      "id": "FscOJbr_bvs",
       "title": "5.5 Causality",
-      "views": 4200
+      "views": 4300
     },
     {
+      "id": "gtQ046Tu2S4",
       "title": "6.1 Pole-in-the-Barn Paradox",
       "views": 6500
     },
     {
+      "id": "rlC8mLGvong",
       "title": "6.2 Twin Paradox",
       "views": 4800
     },
     {
+      "id": "ka99Wu1VlVo",
       "title": "6.3 Spacecraft-on-a-Rope Paradox",
       "views": 10000
     },
     {
+      "id": "Pas_hfAna28",
       "title": "7.1 Introduction to the Doppler Effect",
       "views": 7600
     },
     {
+      "id": "CPaFPYeVKoY",
       "title": "7.2 Relativistic Doppler Effect",
       "views": 11000
     },
     {
+      "id": "lhOaghjCdic",
       "title": "7.3 Redshift",
       "views": 3400
     },
     {
+      "id": "0STE0476EOk",
       "title": "7.4 Galaxy Travel",
       "views": 5900
     },
     {
+      "id": "UQFwsgznP-E",
       "title": "8.1 Algebra of Lorentz transformations",
       "views": 5400
     },
     {
+      "id": "Pf_PvckSdTg",
       "title": "8.2 Introduction to 4-Vector Notation",
       "views": 10000
     },
     {
+      "id": "8ytpmbkqF54",
       "title": "8.3 Proper Velocity",
       "views": 7700
     },
     {
+      "id": "aQAhRAn6ewc",
       "title": "9.1 Momentum Conservation",
       "views": 4200
     },
     {
+      "id": "Tc7g4iF8pHc",
       "title": "9.2 Energy Conservation",
       "views": 3300
     },
     {
+      "id": "2jHK2MxGoio",
       "title": "9.4 Forces and Kinetic Energy",
       "views": 4000
     },
     {
+      "id": "PV6lhcTfSGU",
       "title": "9.3 Collisions",
       "views": 3500
     },
     {
+      "id": "MVJzzWfAwNY",
       "title": "10.1 Tests of Special Relativity",
       "views": 8500
     },
     {
+      "id": "VOlOArfGRqQ",
       "title": "10.2 The Large Electron-Positron Collider",
       "views": 2200
     },
     {
+      "id": "0V93uTCjQKo",
       "title": "10.3 Deuteron Production",
       "views": 2600
     },
     {
+      "id": "ijOnv0DUCPE",
       "title": "10.4 Absorption and Emission of Photons",
       "views": 3700
     },
     {
+      "id": "Ac-0-yaHsAg",
       "title": "10.5 Decay of a Pion",
       "views": 6000
     },
     {
+      "id": "0OnLn3Ito8o",
       "title": "10.6 Creation of Particles",
       "views": 2500
     },
     {
+      "id": "Sa1DMeTf8U8",
       "title": "10.7 Compton Effect",
-      "views": 2900
+      "views": 3000
     },
     {
+      "id": "o-CZeUT_Ud4",
       "title": "10.8 Global Positioning System",
       "views": 4100
     },
     {
+      "id": "LaTbPEKrE-8",
       "title": "11.1 Charge and Current",
       "views": 2300
     },
     {
+      "id": "d8IDtE-Ea0o",
       "title": "11.2 Electric and Magnetic Fields",
       "views": 3200
     },
     {
+      "id": "UxTIYMtNc4g",
       "title": "12.1 Equivalence Principle",
       "views": 5200
     },
     {
+      "id": "eF38136N_4c",
       "title": "12.2 Time Dilation Effect on Earth",
       "views": 2500
     },
     {
+      "id": "hZtjMB3Y9ZA",
       "title": "12.3 Bending of Light",
       "views": 3000
     },
     {
+      "id": "4U9B9YgEqe4",
       "title": "12.4 Redshift Tests",
       "views": 1900
     },
     {
+      "id": "v5jffYzm5pg",
       "title": "12.5 General Relativity",
       "views": 10000
     },
     {
+      "id": "lRSMmxJeaKA",
       "title": "12.6 Experimental Evidence",
       "views": 2900
     },
     {
+      "id": "0YvENlEZwNg",
       "title": "13.2 Course Review",
       "views": 2000
     }

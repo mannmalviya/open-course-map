@@ -1,154 +1,192 @@
 {
   "lectures": [
     {
+      "id": "kd_6bwynBj8",
       "title": "Lecture 1: Introduction to Thermodynamics",
-      "views": 122000
+      "views": 123000
     },
     {
+      "id": "GYae2ir1_Ks",
       "title": "Supplemental Video: Sodium Acetate Demo",
       "views": 11000
     },
     {
+      "id": "Jwr_C_ty3EI",
       "title": "Lecture 2: Scope and Use of Thermodynamics",
       "views": 19000
     },
     {
+      "id": "SP21-5q2uzw",
       "title": "Lecture 3: Process Variables and the First Law",
       "views": 10000
     },
     {
+      "id": "tfY40mAOzn8",
       "title": "Lecture 4: Heat Engines and Energy Conversion Efficiency",
       "views": 7400
     },
     {
+      "id": "BRWxGlreKTs",
       "title": "Lecture 5: Second Law and Entropy Maximization",
       "views": 8000
     },
     {
+      "id": "MnzkhmcYEFI",
       "title": "Lecture 6: Thermodynamic Potentials",
       "views": 5700
     },
     {
+      "id": "OXvG3rq5DHw",
       "title": "Lecture 7: Ideal Gas Processes",
       "views": 3400
     },
     {
+      "id": "8hcWKoPR6DI",
       "title": "Lecture 8: Mathematical Implications of Equilibrium and Spontaneous Processes",
       "views": 2500
     },
     {
+      "id": "TYW02eTlc-8",
       "title": "Lecture 9: Case Studies - Specific Heats and Phase Transformations",
       "views": 2100
     },
     {
+      "id": "oMc0F8cxvNI",
       "title": "Lecture 10: Introduction to Unary Phase Transformations",
       "views": 2200
     },
     {
+      "id": "O06G95nJrQI",
       "title": "Lecture 11: Phase Coexistence in Unary Systems",
       "views": 1700
     },
     {
+      "id": "fTNBcqb_ZeE",
       "title": "Supplemental Video: The Three Dees of Thermodynamics",
       "views": 2600
     },
     {
+      "id": "Csf5TGuEnPs",
       "title": "Lecture 12: Case Studies - Saturation Vapor Pressure",
       "views": 1300
     },
     {
+      "id": "-wDIDaTtRwU",
       "title": "Lecture 13: Introduction to Ideal (Gas) Mixtures",
       "views": 2300
     },
     {
+      "id": "a3_1OFrNMXw",
       "title": "Lecture 14: Reacting Gas Mixtures at Equilibrium",
-      "views": 1400
+      "views": 1500
     },
     {
+      "id": "BKvt4zcQxcA",
       "title": "Lecture 15: Introduction to Solutions, General Case",
-      "views": 4600
+      "views": 4700
     },
     {
+      "id": "xKcqFFTIwYo",
       "title": "Supplemental Video: The Lever Rule",
       "views": 8200
     },
     {
+      "id": "_gqsatXDIJ4",
       "title": "Lecture 16: Partial Molar Properties",
       "views": 1800
     },
     {
+      "id": "nPJRjMh9evk",
       "title": "Lecture 17: Solution Models - Ideal, Dilute, and Regular",
-      "views": 1500
+      "views": 1600
     },
     {
+      "id": "-8kB7xIdKSM",
       "title": "Lecture 18: Case Study in Reacting Gas Mixtures - Introducing the Nernst Equation",
       "views": 1400
     },
     {
+      "id": "cm_0rtDReZU",
       "title": "Lecture 19: Regular Solution Models and Stability",
       "views": 1200
     },
     {
+      "id": "DDUudxi9VVo",
       "title": "Lecture 20: Introduction to Binary Phase Diagrams",
       "views": 1800
     },
     {
+      "id": "2GeecRByQhc",
       "title": "Lecture 21: Phase Coexistence and Separation",
-      "views": 1100
+      "views": 1200
     },
     {
+      "id": "yA515wfRhjg",
       "title": "Lecture 22: Free Energy-Composition Diagrams, General Case",
       "views": 4100
     },
     {
+      "id": "Pv-fEkhscqo",
       "title": "Lecture 23: Building Binary Phase Diagrams, Part I",
       "views": 1400
     },
     {
+      "id": "2tGYGprLuNs",
       "title": "Supplemental Video: Gallium-Indium Eutectic Demo",
       "views": 3300
     },
     {
+      "id": "Zi1VqtFE9Jc",
       "title": "Lecture 24: Building Binary Phase Diagrams, Part II",
       "views": 1000
     },
     {
+      "id": "it2cbR7meZw",
       "title": "Lecture 25: Building Binary Phase Diagrams, Part III",
-      "views": 758
+      "views": 761
     },
     {
+      "id": "AKqq9-c6uMo",
       "title": "Lecture 26: CALPHAD - Case Studies and Guest Lecture",
       "views": 1100
     },
     {
+      "id": "LbposXod0Tw",
       "title": "Lecture 27: Introduction to Statistical Thermodynamics",
       "views": 2700
     },
     {
+      "id": "0opU7I31YfM",
       "title": "Lecture 28: Boltzmann Hypothesis",
       "views": 1300
     },
     {
+      "id": "JYuMimF6bu0",
       "title": "Lecture 29: Boltzmann Distribution",
-      "views": 4700
+      "views": 4800
     },
     {
+      "id": "B8Ek-YHBcn8",
       "title": "Lecture 30: Intermediate Phases and Reactions",
-      "views": 861
+      "views": 865
     },
     {
+      "id": "tm1WI6R6Yoo",
       "title": "Lecture 31: Reacting Multi-phase Systems",
-      "views": 797
+      "views": 799
     },
     {
+      "id": "ZCap6yLxNYA",
       "title": "Lecture 32: Case Study - Reacting, Multi-component, Multi-phase Systems",
-      "views": 977
+      "views": 979
     },
     {
+      "id": "6GnE9UfgMf8",
       "title": "Supplemental Video: Ternary Phase Diagram and Ouzo Demo",
       "views": 2700
     },
     {
+      "id": "2ueFSsK-LCY",
       "title": "Supplemental Video: Ouzo Demo",
       "views": 1100
     }

@@ -1,50 +1,62 @@
 {
   "lectures": [
     {
+      "id": "0MYt0u3CW5I",
       "title": "Lecture 1 – Course Introduction (MIT How to AI Almost Anything, Spring 2025)",
-      "views": 93000
+      "views": 94000
     },
     {
+      "id": "104FX8MYKAM",
       "title": "Lecture 1.2 – Introduction to AI Research (MIT How to AI Almost Anything, Spring 2025)",
       "views": 13000
     },
     {
+      "id": "fLybbXyfN28",
       "title": "Lecture 2 – Data, Structure, Information (MIT How to AI Almost Anything, Spring 2025)",
       "views": 9500
     },
     {
+      "id": "NOSuy0NOe9k",
       "title": "Lecture 2.1 – Practical AI Tools (MIT How to AI Almost Anything, Spring 2025)",
       "views": 5000
     },
     {
+      "id": "V0gRkmu4mFY",
       "title": "Lecture 3 – Common Model Architectures (MIT How to AI Almost Anything, Spring 2025)",
-      "views": 4200
+      "views": 4300
     },
     {
+      "id": "kixc1mh55yY",
       "title": "Lecture 4 – Multimodal Alignment (MIT How to AI Almost Anything, Spring 2025)",
-      "views": 3700
+      "views": 3800
     },
     {
+      "id": "Hsv1mOIZ1Ag",
       "title": "Lecture 5 – Multimodal Fusion (MIT How to AI Almost Anything, Spring 2025)",
       "views": 4100
     },
     {
+      "id": "k4kywHmr3AA",
       "title": "Lecture 6 – Cross-modal Learning (MIT How to AI Almost Anything, Spring 2025)",
-      "views": 1900
+      "views": 2000
     },
     {
+      "id": "ZFLRDEUSX68",
       "title": "Lecture 7 – Large Foundation Models (MIT How to AI Almost Anything, Spring 2025)",
-      "views": 1600
+      "views": 1700
     },
     {
+      "id": "p_GGsKgGxSo",
       "title": "Lecture 8 – Large Multimodal Models (MIT How to AI Almost Anything, Spring 2025)",
       "views": 2700
     },
     {
+      "id": "3SOjOG2oL1w",
       "title": "Lecture 10 – Reinforcement Learning & Interaction (MIT How to AI Almost Anything, Spring 2025)",
       "views": 1800
     },
     {
+      "id": "NrmLjmXU66M",
       "title": "Lecture 11 – Human-AI Interaction (MIT How to AI Almost Anything, Spring 2025)",
       "views": 3000
     }

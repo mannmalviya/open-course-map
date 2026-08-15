@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "oyLUvz9nR6E",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 8 - Trending Topics",
-      "views": 36000
+      "views": 37000
     },
     {
+      "id": "iNaRBp4T57Q",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 7 - Evaluation",
-      "views": 9700
+      "views": 9900
     },
     {
+      "id": "IvXTl3yj-4Y",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 6 - Model Training",
-      "views": 12000
+      "views": 13000
     },
     {
+      "id": "HpFdSlMeXzQ",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 5 - Architectures",
       "views": 13000
     },
     {
+      "id": "WUUq6TVAu8U",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 4 - Latent Space & Guidance",
       "views": 19000
     },
     {
+      "id": "agN3AlfGFrk",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 3 - Flow matching",
       "views": 15000
     },
     {
+      "id": "_WaR2fjZpEQ",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 2 - Score matching",
       "views": 23000
     },
     {
+      "id": "tr-CUpw--ck",
       "title": "Stanford CME296 Diffusion & Large Vision Models | Spring 2026 | Lecture 1 - Diffusion",
-      "views": 115000
+      "views": 116000
     },
     {
+      "id": "Q86qzJ1K1Ss",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 9 - Recap & Current Trends",
-      "views": 204000
+      "views": 206000
     },
     {
+      "id": "8fNP4N46RRo",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 8 - LLM Evaluation",
-      "views": 157000
+      "views": 160000
     },
     {
+      "id": "h-7S6HNq0Vg",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 7 - Agentic LLMs",
-      "views": 114000
+      "views": 117000
     },
     {
+      "id": "k5Fh-UgTuCo",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 6 - LLM Reasoning",
-      "views": 72000
+      "views": 73000
     },
     {
+      "id": "PmW_TMQ3l0I",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 5 - LLM tuning",
-      "views": 63000
+      "views": 64000
     },
     {
+      "id": "VlA_jt_3Qc4",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 4 - LLM Training",
-      "views": 96000
+      "views": 98000
     },
     {
+      "id": "yT84Y5zCnaA",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 2 - Transformer-Based Models & Tricks",
-      "views": 190000
+      "views": 193000
     },
     {
+      "id": "Ub3GoFaUcds",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 1 - Transformer",
-      "views": 905000
+      "views": 918000
     },
     {
+      "id": "Q5baLehv5So",
       "title": "Stanford CME295 Transformers & LLMs | Autumn 2025 | Lecture 3 - Tranformers & Large Language Models",
-      "views": 114000
+      "views": 116000
     },
     {
+      "id": "vRQs7qfIDaU",
       "title": "Stanford CS25: V5 I On the Biology of a Large Language Model, Josh Batson of Anthropic",
       "views": 37000
     },
     {
+      "id": "ebnX5Ur1hBk",
       "title": "Stanford CS25: V5 I Large Language Model Reasoning, Denny Zhou of Google Deepmind",
       "views": 87000
     },
     {
+      "id": "SQ3fZ1sAqXI",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization",
-      "views": 735000
+      "views": 737000
     },
     {
+      "id": "UVX7SYGCKkA",
       "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 12 - Efficient Training, Shikhar Murty",
       "views": 13000
     },
     {
+      "id": "TO0CqzqiArM",
       "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 11 - Benchmarking by Yann Dubois",
       "views": 22000
     },
     {
+      "id": "35X6zlhoCy4",
       "title": "Stanford CS224N: NLP with Deep Learning | Spring 2024 | Lecture 10 - Post-training by Archit Sharma",
       "views": 27000
     },
     {
+      "id": "J7ruSOIzhrE",
       "title": "Stanford CS224N: NLP w/ DL | Spring 2024 | Lecture 7 - Attention, Final Projects and LLM Intro",
       "views": 26000
     },
     {
+      "id": "vRTcE19M-KE",
       "title": "Stanford Webinar - Large Language Models Get the Hype, but Compound Systems Are the Future of AI",
       "views": 144000
     },
     {
+      "id": "9vM4p9NN0Ts",
       "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
       "views": 2600000
     }

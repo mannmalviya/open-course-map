@@ -1,42 +1,52 @@
 {
   "lectures": [
     {
+      "id": "PySo_6S4ZAg",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 1 - Class Introduction & Logistics, Andrew Ng",
       "views": 811000
     },
     {
+      "id": "AwQHqWyHRpU",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 2 - Deep Learning Intuition",
       "views": 218000
     },
     {
+      "id": "JUJNGv_sb4Y",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 3 - Full-Cycle Deep Learning Projects",
       "views": 104000
     },
     {
+      "id": "ANszao6YQuM",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 4 - Adversarial Attacks / GANs",
       "views": 88000
     },
     {
+      "id": "IM9ANAbufYM",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 5 - AI + Healthcare",
       "views": 49000
     },
     {
+      "id": "G5FNYxbW_Qw",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 6 - Deep Learning Project Strategy",
       "views": 41000
     },
     {
+      "id": "gCJCgQW_LKc",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 7 - Interpretability of Neural Network",
       "views": 52000
     },
     {
+      "id": "733m6qBH-jI",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers",
       "views": 280000
     },
     {
+      "id": "NP2XqpgTJyo",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 9 - Deep Reinforcement Learning",
       "views": 51000
     },
     {
+      "id": "IFLstgCNOA4",
       "title": "Stanford CS230: Deep Learning | Autumn 2018 | Lecture 10 - Chatbots / Closing Remarks",
       "views": 36000
     }

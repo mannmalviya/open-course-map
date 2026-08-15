@@ -1,402 +1,502 @@
 {
   "lectures": [
     {
+      "id": "JHrlF10v2Og",
       "title": "CS 285: Lecture 1, Part 1",
       "views": 153000
     },
     {
+      "id": "IoF7D0qec0I",
       "title": "CS 285: Lecture 1, Part 2",
       "views": 38000
     },
     {
+      "id": "BYoKE9yRy8g",
       "title": "CS 285: Lecture 1, Part 3",
       "views": 26000
     },
     {
+      "id": "xRmBEnI55es",
       "title": "CS 285: Lecture 1, Part 4",
       "views": 24000
     },
     {
+      "id": "HUzyjOsd2PA",
       "title": "CS 285: Lecture 2, Part 1",
-      "views": 37000
+      "views": 38000
     },
     {
+      "id": "988gLurg01U",
       "title": "CS 285: Lecture 2, Part 2",
       "views": 25000
     },
     {
+      "id": "H_z7vxGhsQk",
       "title": "CS 285: Lecture 2, Part 3",
       "views": 16000
     },
     {
+      "id": "ajAaM5FMRz4",
       "title": "CS 285: Lecture 2, Part 4",
       "views": 17000
     },
     {
+      "id": "e2PpdPC34kI",
       "title": "CS 285: Lecture 2, Part 5",
       "views": 20000
     },
     {
+      "id": "nM9f-5oQ86Y",
       "title": "CS 285: Lecture 2, Part 6",
       "views": 15000
     },
     {
+      "id": "jds0Wh9jTvE",
       "title": "CS 285: Lecture 4, Part 1",
       "views": 57000
     },
     {
+      "id": "Cip5UeGrCEE",
       "title": "CS 285: Lecture 4, Part 2",
       "views": 30000
     },
     {
+      "id": "Pua9zO_YmKA",
       "title": "CS 285: Lecture 4, Part 3",
       "views": 29000
     },
     {
+      "id": "eG9-F4r5k70",
       "title": "CS 285: Lecture 4, Part 4",
       "views": 24000
     },
     {
+      "id": "dFqoGAyofUQ",
       "title": "CS 285: Lecture 4, Part 5",
       "views": 23000
     },
     {
+      "id": "hfj9mS3nTLU",
       "title": "CS 285: Lecture 4, Part 6",
       "views": 19000
     },
     {
+      "id": "GKoKNYaBvM0",
       "title": "CS 285: Lecture 5, Part 1",
       "views": 44000
     },
     {
+      "id": "VSPYKXm_hMA",
       "title": "CS 285: Lecture 5, Part 2",
       "views": 31000
     },
     {
+      "id": "VgdSubQN35g",
       "title": "CS 285: Lecture 5, Part 3",
       "views": 30000
     },
     {
+      "id": "KZd508qGFt0",
       "title": "CS 285: Lecture 5, Part 4",
       "views": 31000
     },
     {
+      "id": "QRLDAQbWc78",
       "title": "CS 285: Lecture 5, Part 5",
       "views": 24000
     },
     {
+      "id": "PEzuojy8lVo",
       "title": "CS 285: Lecture 5, Part 6",
       "views": 24000
     },
     {
+      "id": "wr00ef_TY6Q",
       "title": "CS 285: Lecture 6, Part 1",
       "views": 41000
     },
     {
+      "id": "KVHtuwVhULA",
       "title": "CS 285: Lecture 6, Part 2",
       "views": 25000
     },
     {
+      "id": "g4_2IfZqDLI",
       "title": "CS 285: Lecture 6, Part 3",
       "views": 5000
     },
     {
+      "id": "quRjnkj-MA0",
       "title": "CS 285: Lecture 6, Part 4",
       "views": 22000
     },
     {
+      "id": "A99gFMZPw7w",
       "title": "CS 285: Lecture 6, Part 5",
       "views": 15000
     },
     {
+      "id": "pP_67mTJbGw",
       "title": "CS 285: Lecture 7, Part 1",
       "views": 28000
     },
     {
+      "id": "QUbuBEY12u0",
       "title": "CS 285: Lecture 7, Part 2",
       "views": 18000
     },
     {
+      "id": "Mz7XweEMCVI",
       "title": "CS 285: Lecture 7, Part 3",
       "views": 15000
     },
     {
+      "id": "9bOurz4aCbA",
       "title": "CS 285: Lecture 7, Part 4",
       "views": 14000
     },
     {
+      "id": "7-D8RL3D6CI",
       "title": "CS 285: Lecture 8, Part 1",
       "views": 21000
     },
     {
+      "id": "lqC9w532erw",
       "title": "CS 285: Lecture 8, Part 2",
       "views": 13000
     },
     {
+      "id": "oKfUMzfpAw0",
       "title": "CS 285: Lecture 8, Part 3",
       "views": 11000
     },
     {
+      "id": "oMUSn1eRm7A",
       "title": "CS 285: Lecture 8, Part 4",
       "views": 13000
     },
     {
+      "id": "Q-Qwjz8Zmh0",
       "title": "CS 285: Lecture 8, Part 5",
       "views": 11000
     },
     {
+      "id": "cmGSnu-PIwU",
       "title": "CS 285: Lecture 8, Part 6",
       "views": 10000
     },
     {
+      "id": "ySenCHPsKJU",
       "title": "CS 285: Lecture 9, Part 1",
       "views": 22000
     },
     {
+      "id": "LtAt5M_a0dI",
       "title": "CS 285: Lecture 9, Part 2",
       "views": 13000
     },
     {
+      "id": "WuPauZgX7BM",
       "title": "CS 285: Lecture 9, Part 3",
       "views": 10000
     },
     {
+      "id": "QWnpF0FaKL4",
       "title": "CS 285: Lecture 9, Part 4",
       "views": 11000
     },
     {
+      "id": "4SL0DnxC1GM",
       "title": "CS 285: Lecture 10, Part 1",
       "views": 19000
     },
     {
+      "id": "pd9mKcH4kkk",
       "title": "CS 285: Lecture 10, Part 2",
       "views": 13000
     },
     {
+      "id": "gqTE8-tH3Iw",
       "title": "CS 285: Lecture 10, Part 3",
       "views": 12000
     },
     {
+      "id": "PHC2dm4E_VQ",
       "title": "CS 285: Lecture 10, Part 4",
-      "views": 12000
+      "views": 13000
     },
     {
+      "id": "4Km05TctgNw",
       "title": "CS 285: Lecture 10, Part 5",
       "views": 8400
     },
     {
+      "id": "LkTmiylbHYk",
       "title": "CS 285: Lecture 11, Part 1",
       "views": 17000
     },
     {
+      "id": "pSvjDO1B9WY",
       "title": "CS 285: Lecture 11, Part 2",
       "views": 11000
     },
     {
+      "id": "zKiyNUSLGbQ",
       "title": "CS 285: Lecture 11, Part 3",
       "views": 10000
     },
     {
+      "id": "7OjR-DSS7dM",
       "title": "CS 285: Lecture 11, Part 4",
       "views": 8500
     },
     {
+      "id": "2EWicx9uP1Q",
       "title": "CS 285: Lecture 11, Part 5",
       "views": 10000
     },
     {
+      "id": "5GJkqMFgADw",
       "title": "CS 285: Lecture 12, Part 1",
       "views": 6200
     },
     {
+      "id": "cVnTRwrY4lE",
       "title": "CS 285: Lecture 12, Part 2",
       "views": 3900
     },
     {
+      "id": "wXcu6xMs9BM",
       "title": "CS 285: Lecture 12, Part 3",
       "views": 3500
     },
     {
+      "id": "DszxsbAl8Eo",
       "title": "CS 285: Lecture 12, Part 4",
       "views": 3800
     },
     {
+      "id": "RTLeJrp5Yp4",
       "title": "CS 285: Lecture 13, Part 1",
       "views": 13000
     },
     {
+      "id": "bb3Aus4R654",
       "title": "CS 285: Lecture 13, Part 2",
       "views": 8000
     },
     {
+      "id": "VR6no95qNts",
       "title": "CS 285: Lecture 13, Part 3",
       "views": 7300
     },
     {
+      "id": "85_0i1Ug1kg",
       "title": "CS 285: Lecture 13, Part 4",
       "views": 6700
     },
     {
+      "id": "9Y9lHFgiJZ0",
       "title": "CS 285: Lecture 13, Part 5",
-      "views": 5800
-    },
-    {
-      "title": "CS 285: Lecture 13, Part 6",
       "views": 5900
     },
     {
+      "id": "40-_EclzZ5Q",
+      "title": "CS 285: Lecture 13, Part 6",
+      "views": 6000
+    },
+    {
+      "id": "HnV3ed8wqPA",
       "title": "CS 285: Lecture 14, Part 1",
       "views": 10000
     },
     {
+      "id": "FxzreFYUkxo",
       "title": "CS 285: Lecture 14, Part 2",
       "views": 6200
     },
     {
+      "id": "N9I0jstOWCc",
       "title": "CS 285: Lecture 14, Part 3",
       "views": 5700
     },
     {
+      "id": "9O3GMntSL80",
       "title": "CS 285: Lecture 14, Part 4",
       "views": 5300
     },
     {
+      "id": "ft1YdOEpAQg",
       "title": "CS 285: Lecture 15, Part 1",
       "views": 3200
     },
     {
+      "id": "B_HuNSjxbKg",
       "title": "CS 285: Lecture 15, Part 2",
       "views": 1900
     },
     {
+      "id": "scYY2Q8ENJs",
       "title": "CS 285: Lecture 15, Part 3",
       "views": 1500
     },
     {
+      "id": "BeWIyptRj9Y",
       "title": "CS 285: Lecture 15, Part 4",
       "views": 1400
     },
     {
+      "id": "VyUvgCNX_Vk",
       "title": "CS 285: Lecture 15, Part 5a",
       "views": 1100
     },
     {
+      "id": "oZ-m7amJiRE",
       "title": "CS 285: Lecture 15, Part 5b",
       "views": 990
     },
     {
+      "id": "Gelfx1FJLu4",
       "title": "CS 285: Lecture 16, Part 1",
       "views": 2500
     },
     {
+      "id": "c22anX3wiSo",
       "title": "CS 285: Lecture 16, Part 2",
       "views": 1300
     },
     {
+      "id": "RsagaGXSN_k",
       "title": "CS 285: Lecture 16, Part 3",
       "views": 1100
     },
     {
+      "id": "IE4kUR3yN8o",
       "title": "CS 285: Lecture 16, Part 4",
       "views": 914
     },
     {
+      "id": "KUDKSxflwYI",
       "title": "CS 285: Lecture 17, Part 1",
       "views": 2500
     },
     {
+      "id": "SlxQhZWQ62o",
       "title": "CS 285: Lecture 17, Part 2",
       "views": 939
     },
     {
+      "id": "nctFgWfN6yA",
       "title": "CS 285: Lecture 17, Part 3",
       "views": 795
     },
     {
+      "id": "UTMpM4orS30",
       "title": "CS 285: Lecture 18, Variational Inference, Part 1",
       "views": 35000
     },
     {
+      "id": "VWb0ZywWpqc",
       "title": "CS 285: Lecture 18, Variational Inference, Part 2",
       "views": 19000
     },
     {
+      "id": "4LuA5m5Hsxc",
       "title": "CS 285: Lecture 18, Variational Inference, Part 3",
       "views": 13000
     },
     {
+      "id": "nRji3pMCCPo",
       "title": "CS 285: Lecture 18, Variational Inference, Part 4",
       "views": 6400
     },
     {
+      "id": "MzVlYYGtg0M",
       "title": "CS 285: Lecture 19, Control as Inference, Part 1",
       "views": 12000
     },
     {
+      "id": "1NgU3EKHlpY",
       "title": "CS 285: Lecture 19, Control as Inference, Part 2",
       "views": 9300
     },
     {
+      "id": "PAvT1Ypvmm4",
       "title": "CS 285: Lecture 19, Control as Inference, Part 3",
       "views": 7100
     },
     {
+      "id": "LyG1lLf1BQc",
       "title": "CS 285: Lecture 19, Control as Inference, Part 4",
       "views": 5100
     },
     {
+      "id": "QYY94MXgmnc",
       "title": "CS 285: Lecture 19, Control as Inference, Part 5",
       "views": 4300
     },
     {
+      "id": "EcxpbhDeuZw",
       "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 1",
       "views": 24000
     },
     {
+      "id": "82Sr9YqeQNc",
       "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 2",
       "views": 12000
     },
     {
+      "id": "OsO2nLfxZVQ",
       "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 3",
       "views": 7800
     },
     {
+      "id": "ubwJh6jx4Dc",
       "title": "CS 285: Lecture 20, Inverse Reinforcement Learning, Part 4",
       "views": 9900
     },
     {
+      "id": "IIFS2u4V7pk",
       "title": "CS 285: Lecture 21, Transfer Learning, Part 1",
       "views": 3900
     },
     {
+      "id": "9a9rKtWF85I",
       "title": "CS 285: Lecture 21, Transfer Learning, Part 2",
       "views": 2800
     },
     {
+      "id": "D3KWk4VaLSs",
       "title": "CS 285: Lecture 21, Transfer Learning, Part 3",
       "views": 1900
     },
     {
+      "id": "gdd7QMBbXNk",
       "title": "CS 285: Lecture 21, Transfer Learning, Part 4",
       "views": 1900
     },
     {
+      "id": "oVEvw_0Qqjc",
       "title": "CS 285: Lecture 21, Transfer Learning, Part 5",
       "views": 2000
     },
     {
+      "id": "mftNApIM1Yc",
       "title": "CS 285: Lecture 22, Meta-Learning, Part 1",
       "views": 3800
     },
     {
+      "id": "tKOnUVhFZ5o",
       "title": "CS 285: Lecture 22, Meta-Learning, Part 2",
       "views": 2200
     },
     {
+      "id": "UY8Az7kcL7Q",
       "title": "CS 285: Lecture 22, Meta-Learning, Part 3",
       "views": 1700
     },
     {
+      "id": "w9KAmvUA9WI",
       "title": "CS 285: Lecture 22, Meta-Learning, Part 4",
       "views": 1800
     }

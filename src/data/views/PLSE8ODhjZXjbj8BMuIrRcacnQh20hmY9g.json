@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "vdPALZ-GCfI",
       "title": "F2023 #00 - Course Overview & Logistics (CMU Intro to Database Systems)",
-      "views": 93000
+      "views": 94000
     },
     {
+      "id": "XGMoq-D_mao",
       "title": "F2023 #01 - Relational Model & Algebra (CMU Intro to Database Systems)",
       "views": 52000
     },
     {
+      "id": "n9S4Ibh5O0E",
       "title": "F2023 #02 - Modern SQL (CMU Intro to Database Systems)",
       "views": 35000
     },
     {
+      "id": "DJ5u5HrbcMk",
       "title": "F2023 #03 - Database Storage Part 1 (CMU Intro to Database Systems)",
       "views": 37000
     },
     {
+      "id": "Ra50bFHkeM8",
       "title": "F2023 #04 - Database Storage Part 2 (CMU Intro to Database Systems)",
       "views": 21000
     },
     {
+      "id": "UuHw3SQMrog",
       "title": "F2023 #05 - Storage Models & Database Compression (CMU Intro to Database Systems)",
       "views": 17000
     },
     {
+      "id": "BS5h8QZHCPk",
       "title": "F2023 #06 - Database Memory & Disk I/O Management (CMU Intro to Database Systems)",
       "views": 16000
     },
     {
+      "id": "eBgKVqFUUlA",
       "title": "F2023 #07 - Hash Tables (CMU Intro to Database Systems)",
       "views": 14000
     },
     {
+      "id": "5gXn5fLkbM0",
       "title": "F2023 #08 - B+Tree Indexes (CMU Intro to Database Systems)",
       "views": 18000
     },
     {
+      "id": "POuQogLy3E8",
       "title": "F2023 #09 - Index Concurrency Control (CMU Intro to Database Systems)",
       "views": 10000
     },
     {
+      "id": "DOu7SVUbuuM",
       "title": "F2023 #10 - Sorting & Aggregation Algorithms (CMU Intro to Database Systems)",
       "views": 8100
     },
     {
+      "id": "RFaOmqxJf_M",
       "title": "F2023 #11 - Join Algorithms (CMU Intro to Database Systems)",
       "views": 9800
     },
     {
+      "id": "3F3FWgujN9Q",
       "title": "F2023 #12 - Query Execution Part 1 (CMU Intro to Database Systems)",
       "views": 9100
     },
     {
+      "id": "MUjS0tIDnEE",
       "title": "F2023 #13 - Query Execution Part 2 (CMU Intro to Database Systems)",
       "views": 5900
     },
     {
+      "id": "ePGPVJCyCAk",
       "title": "F2023 #14 - Query Planning & Optimization (CMU Intro to Database Systems)",
       "views": 7100
     },
     {
+      "id": "NJyisAkDJYI",
       "title": "F2023 #15 - Concurrency Control Theory (CMU Intro to Database Systems)",
       "views": 8400
     },
     {
+      "id": "9uvn9STdKvA",
       "title": "F2023 #16 - Two-Phase Locking Concurrency Control (CMU Intro to Database Systems)",
       "views": 6500
     },
     {
+      "id": "319q3W253Dk",
       "title": "F2023 #17 - Timestamp Ordering Concurrency Control (CMU Intro to Database Systems)",
       "views": 5200
     },
     {
+      "id": "wO0PfAFiK3U",
       "title": "F2023 #18 - Multi-Version Concurrency Control (CMU Intro to Database Systems)",
       "views": 5200
     },
     {
+      "id": "-mY8ALcJVTk",
       "title": "F2023 #19 - Database Logging (CMU Intro to Database Systems)",
       "views": 5400
     },
     {
+      "id": "GEPXvTtf9gE",
       "title": "F2023 #20 - Database Recovery (CMU Intro to Database Systems)",
       "views": 4600
     },
     {
+      "id": "fyDeu_5svbg",
       "title": "F2023 #21 - Intro to Distributed Databases (CMU Intro to Database Systems)",
-      "views": 9800
+      "views": 9900
     },
     {
+      "id": "QRJs_57Pung",
       "title": "F2023 #22 - Distributed Transaction Processing Databases (CMU Intro to Database Systems)",
-      "views": 6000
+      "views": 6100
     },
     {
+      "id": "olpOmddAPhM",
       "title": "F2023 #23 - Distributed Data Warehouse OLAP Databases (CMU Intro to Database Systems)",
       "views": 6200
     },
     {
+      "id": "niQ46NQR2eI",
       "title": "F2023 #24 - SingleStore Database Overview (CMU Intro to Database Systems)",
       "views": 4700
     },
     {
+      "id": "fZbwD1gzjLk",
       "title": "F2023 #25 - Potpourri: Redis, CockroachDB, Snowflake, MangoDB, TabDB (CMU Intro to Database Systems)",
       "views": 11000
     }

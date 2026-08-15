@@ -1,46 +1,57 @@
 {
   "lectures": [
     {
+      "id": "kyQ0CRkYhy4",
       "title": "1: Introduction to Neural Networks and Deep Learning; Training Deep NNs",
-      "views": 343000
+      "views": 347000
     },
     {
+      "id": "3Lr8nVUDCpk",
       "title": "2: Training Deep NNs (cont.); Introduction to Keras/Tensorflow; Application to Tabular Data",
-      "views": 81000
+      "views": 82000
     },
     {
+      "id": "8QuyDcMIdRc",
       "title": "3: Deep Learning for Computer Vision – Building Convolutional Neural Networks from Scratch",
-      "views": 53000
+      "views": 54000
     },
     {
+      "id": "8xh7Y0pBrCE",
       "title": "4: Deep Learning for Computer Vision – Transfer Learning and Fine-Tuning; Intro to HuggingFace",
-      "views": 32000
+      "views": 33000
     },
     {
+      "id": "duBLxHjaecQ",
       "title": "5: Deep Learning for Natural Language – The Basics",
       "views": 27000
     },
     {
+      "id": "LqFc0z-pQTg",
       "title": "6: Deep Learning for Natural Language – Embeddings",
-      "views": 21000
+      "views": 22000
     },
     {
+      "id": "IeF7aATDaw4",
       "title": "7: Deep Learning for Natural Language – Transformers",
       "views": 20000
     },
     {
+      "id": "v-lHsawHyaI",
       "title": "8: Deep Learning for Natural Language – Transformers, Self-Supervised Learning",
       "views": 15000
     },
     {
+      "id": "KGDe1QvfKJ8",
       "title": "9: Generative AI – Large Language Models (LLMs) and Retrieval Augmented Generation (RAG)",
       "views": 18000
     },
     {
+      "id": "d-tngNnaG4U",
       "title": "10: Generative AI – Adapting LLMs with Parameter-Efficient Fine-Tuning",
       "views": 12000
     },
     {
+      "id": "NQBhhRG-Pe4",
       "title": "11: Generative AI – Text-to-Image Models",
       "views": 15000
     }

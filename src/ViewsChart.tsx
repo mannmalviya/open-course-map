@@ -4,6 +4,8 @@ import type { Lecture } from './types';
 
 interface ViewsChartProps {
   lectures: Lecture[];
+  /** Playlist the lectures came from, so a click opens the video in course context */
+  playlistId?: string;
 }
 
 /** Clean y-axis ticks from 0 to the first nice step at or above the max, ~4 divisions. */
@@ -25,7 +27,7 @@ const M = { top: 12, right: 8, bottom: 26, left: 46 };
 let sharedMode: 'bar' | 'line' = 'line';
 
 /** Views per lecture as bars or a line, with a per-lecture hover tooltip. */
-export function ViewsChart({ lectures }: ViewsChartProps) {
+export function ViewsChart({ lectures, playlistId }: ViewsChartProps) {
   const wrapRef = useRef<HTMLDivElement>(null);
   const [width, setWidth] = useState(0);
   const [hover, setHover] = useState<number | null>(null);
@@ -65,7 +67,13 @@ export function ViewsChart({ lectures }: ViewsChartProps) {
     return `M ${x} ${y + h} L ${x} ${y + r} Q ${x} ${y} ${x + r} ${y} L ${x + barW - r} ${y} Q ${x + barW} ${y} ${x + barW} ${y + r} L ${x + barW} ${y + h} Z`;
   };
 
+  /** Centre of lecture i's mark — the bar's midpoint and the line's dot share it. */
   const dotX = (i: number) => M.left + (i + 0.5) * band;
+  /** Clicks only count near the mark, so the gutters between lectures stay inert. */
+  const stripW = Math.min(band, Math.max(barW, 14));
+  const watchUrl = (l: Lecture) =>
+    `https://www.youtube.com/watch?v=${l.id}` + (playlistId ? `&list=${playlistId}` : '');
+
   const linePath = lectures
     .map((l, i) => `${i === 0 ? 'M' : 'L'} ${dotX(i)} ${barY(l.views)}`)
     .join(' ');
@@ -103,7 +111,11 @@ export function ViewsChart({ lectures }: ViewsChartProps) {
         </button>
       </div>
       {width > 0 && (
-        <svg width={width} height={HEIGHT} role="img" aria-label="Views per lecture">
+        <svg
+          width={width} height={HEIGHT}
+          role="img" aria-label="Views per lecture"
+          onPointerLeave={() => setHover(null)}
+        >
           {ticks.map((t) => (
             <g key={t}>
               <line
@@ -153,18 +165,38 @@ export function ViewsChart({ lectures }: ViewsChartProps) {
           <text x={width - M.right} y={HEIGHT - 8} textAnchor="end" className="chart-tick chart-axis-name">
             lecture
           </text>
-          {/* full-height hit targets, wider than the marks */}
+          {/* full-height hover targets, wider than the marks; the svg clears hover on exit
+              so crossing into a click strip below never drops the tooltip */}
           {lectures.map((l, i) => (
             <rect
               key={i}
               x={M.left + i * band} y={M.top} width={band} height={innerH}
               fill="transparent"
               onPointerEnter={() => setHover(i)}
-              onPointerLeave={() => setHover(null)}
             >
               <title>{`${l.title} — ${formatViews(l.views)} views`}</title>
             </rect>
           ))}
+          {/* narrow click strips over the marks — on top, so they win the click */}
+          {lectures.map((l, i) =>
+            l.id ? (
+              <a
+                key={i}
+                href={watchUrl(l)}
+                target="_blank"
+                rel="noreferrer"
+                tabIndex={-1}
+                onPointerEnter={() => setHover(i)}
+              >
+                <rect
+                  x={dotX(i) - stripW / 2} y={M.top} width={stripW} height={innerH}
+                  fill="transparent" className="chart-hit"
+                >
+                  <title>{`${l.title} — ${formatViews(l.views)} views`}</title>
+                </rect>
+              </a>
+            ) : null
+          )}
         </svg>
       )}
       {hovered && hover !== null && (
@@ -175,7 +207,7 @@ export function ViewsChart({ lectures }: ViewsChartProps) {
             top: barY(hovered.views) - 10,
           }}
         >
-          <div className="chart-tooltip-title">{hovered.title}</div>
+          <div className={'chart-tooltip-title' + (hovered.id ? ' linkable' : '')}>{hovered.title}</div>
           <div className="chart-tooltip-value">{formatViews(hovered.views)} views</div>
         </div>
       )}

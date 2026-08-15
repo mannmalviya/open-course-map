@@ -1,98 +1,122 @@
 {
   "lectures": [
     {
+      "id": "sf3XlpPtBo0",
       "title": "8.03 Introduction - Walter Lewin",
       "views": 284000
     },
     {
+      "id": "VuX_UExHa0M",
       "title": "8.03 - Lect 1 - Periodic Phenomena, SHO, Complex Notation, Physical Pendulum",
       "views": 333000
     },
     {
+      "id": "pnfZjGIyKVw",
       "title": "8.03 - Lect 2 - Beats, Damped Free Ocillations, Quality Q",
       "views": 195000
     },
     {
+      "id": "Y_DmzZcQR7A",
       "title": "8.03 - Lect 3 - Driven Oscillations With Damping, Steady State Solutions, Resonance",
-      "views": 250000
+      "views": 251000
     },
     {
+      "id": "rhvBDN1OQJ4",
       "title": "8.03 - Lect 4 - Forced Oscillations, Power, Resonance, Transient Solutions",
       "views": 97000
     },
     {
+      "id": "Ye92jN6FrlU",
       "title": "8.03 - Lect 5 - Coupled Oscillators, Resonance Frequencies, Superposition of  Modes",
       "views": 109000
     },
     {
+      "id": "X_a1au9yW1M",
       "title": "8.03 - Lect 6 - Coupled Oscillators, Steady State & Transient Solutions,  Intial Conditions",
       "views": 69000
     },
     {
+      "id": "c9AePvHDvIo",
       "title": "8.03 - Lect 7 - Many Coupled Oscillators, Wave Equation, Transverse Traveling Waves",
       "views": 98000
     },
     {
+      "id": "hElGpHTo-80",
       "title": "8.03 - Lect 8 - Traveling Waves, Standing Waves, Longitudinal Waves, Energy in Waves",
       "views": 112000
     },
     {
+      "id": "fBymt2p-ALo",
       "title": "8.03 - Lect 9 - Sound Cavities, Resonance Frequencies, Musical Instruments",
       "views": 62000
     },
     {
+      "id": "J2qfKaK3N6Q",
       "title": "8.03 - Lect 10 - First Exam Review, Breaking Wine Glass with Sound",
       "views": 31000
     },
     {
+      "id": "k3byqIaULb8",
       "title": "8.03 - Lect 11 - Fourier Analysis, Time Evolution of Pulses on Strings",
       "views": 82000
     },
     {
+      "id": "YEDUCl9t1m0",
       "title": "8.03 - Lect 12 - Dispersion, Phase Velocity, Group Velocity",
       "views": 66000
     },
     {
+      "id": "nFtNCPUMoYA",
       "title": "8.03 - Lect 13 - Electromagnetic Waves, Solutions to Maxwell's Equations, Polarization",
       "views": 385000
     },
     {
+      "id": "QpGBs307qYs",
       "title": "8.03 - Lect 14 - Accelerated Charges, Poynting Vector, Power, Rayleigh Scattering",
       "views": 81000
     },
     {
+      "id": "RkAMYLcj17I",
       "title": "8.03 - Lect 15 - Doppler Effect, Big Bang Cosmology, Neutron Stars & Black Holes",
       "views": 81000
     },
     {
+      "id": "dYXjlqwdy44",
       "title": "8.03 - Lect 16 - Standing EM Waves, Reflection, Transmission Lines, Rad. Pressure",
       "views": 101000
     },
     {
+      "id": "NOW8Bgx-CU0",
       "title": "8.03 - Lect 17 - Wave Guides, Resonance Cavities, Great Sound Demo in Closed Box",
       "views": 45000
     },
     {
+      "id": "_D1z6t2z168",
       "title": "8.03 - Lect 18 - Index of Refraction, Reflection, Fresnel Equations, Brewster Angle",
       "views": 104000
     },
     {
+      "id": "ZiHySunCdvc",
       "title": "8.03 - Lect 19 - Second Exam Review",
       "views": 22000
     },
     {
+      "id": "LnJIZ_lwSBM",
       "title": "8.03 - Lect 20 - Interference, Huygen's Principle, Thin Films, Double Slit Demo",
       "views": 101000
     },
     {
+      "id": "4Lkg3RgQcHc",
       "title": "8.03 - Lect 21 - Diffraction, Gratings, Spectral & Angular Resolution, Human Eye",
       "views": 62000
     },
     {
+      "id": "aF6auqBCPnY",
       "title": "8.03 - Lect 22 - Rainbows, Coronae, Glories, Glass Bow, Great Demos",
       "views": 31000
     },
     {
+      "id": "6y9PXaddPT4",
       "title": "8.03 - Lect 23 - Farewell Special, My Early Years at MIT, Balloon Astrophysics",
       "views": 24000
     }

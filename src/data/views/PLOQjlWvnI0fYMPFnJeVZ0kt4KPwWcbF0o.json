@@ -1,56 +1,69 @@
 {
   "lectures": [
     {
+      "id": "xVYqNjlIsuE",
       "title": "CSE204, Lec 2: NP-completeness and the Cook-Levin Theorem",
       "views": 589
     },
     {
+      "id": "HWk81nu0U6g",
       "title": "CSE204, Lec 3: 3SAT is NP-complete, and the class co-NP",
       "views": 143
     },
     {
+      "id": "vPkTr08Tee0",
       "title": "CSE204, Lec 9: Equivalences of definitions of the polynomial hierarchy",
       "views": 86
     },
     {
+      "id": "DBXIzFZYlog",
       "title": "CSE204, Lec 10, Part 2: Introduction to circuit complexity",
       "views": 173
     },
     {
+      "id": "891X_qz1deI",
       "title": "CSE 204, Lec 10, Part 1: Complete languages for the polynomial hierarchy",
       "views": 110
     },
     {
+      "id": "iVylYA7to6w",
       "title": "CSE2014, Lec 12: Introduction to randomized complexity classes and BPP",
       "views": 113
     },
     {
+      "id": "6tSmVC1BV2o",
       "title": "CSE204, Lec 13: Relating BPP to other complexity classes",
       "views": 109
     },
     {
+      "id": "7qDkrVj84HY",
       "title": "CSE204, Lec 14: Introduction to Interactive Protocols",
       "views": 95
     },
     {
+      "id": "SE_e0ZnUDAU",
       "title": "CSE204, Lec 15: Arthur-Merlin protocols and the Goldwasser-Sipser set lower bound protocol",
       "views": 290
     },
     {
+      "id": "O7iLfZMPU5E",
       "title": "CSE204, Lec 16: Proving the set lower bound protocol, and starting the proof that IP = PSPACE",
       "views": 157
     },
     {
+      "id": "rq6YwVNkQEY",
       "title": "CSE204, Lec 18: The PCP theorem and hardness of approximation",
       "views": 223
     },
     {
+      "id": "rcjSwjdMogQ",
       "title": "CSE204, Lec 17: Proving the Sumcheck protocol for #SAT, a short discussion about MIP",
       "views": 115
     },
     {
+      "id": "B7k5wI3b6jE",
       "title": "CSE204, Lec 19: Basic of cryptography, from a complexity perspective",
-      "views": 185
+      "views": 187
     }
   ]
 }

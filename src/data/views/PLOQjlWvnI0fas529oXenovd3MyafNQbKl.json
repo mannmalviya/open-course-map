@@ -1,74 +1,92 @@
 {
   "lectures": [
     {
+      "id": "0FwTO7mT0G8",
       "title": "CSE104, Computational Complexity: Lec 1, Cantor's diagonalization",
       "views": 1100
     },
     {
+      "id": "2bVu4ida1dU",
       "title": "CSE104, Lec 2: Turing machine simulations",
-      "views": 822
+      "views": 823
     },
     {
+      "id": "RriB4MaA5E4",
       "title": "CSE104: Lec 3, the definitions of P and NP",
-      "views": 235
+      "views": 236
     },
     {
+      "id": "8Tea7eKK5w4",
       "title": "CSE104: Lec 4, NP-completeness, the Cook-Levin Theorem",
       "views": 187
     },
     {
+      "id": "vW9ynqCdFQc",
       "title": "CSE104, Lec 5: The proof of the Cook-Levin theorem and the NP-completeness of 3SAT",
-      "views": 430
+      "views": 431
     },
     {
+      "id": "5__hSGGPtVg",
       "title": "CSE104, Lec 7: co-NP and the factoring problem",
       "views": 201
     },
     {
+      "id": "zDyPAGXTzmQ",
       "title": "CSE104, Lec 8: EXP vs NEXP and the time hierarchy theorem",
       "views": 457
     },
     {
+      "id": "3-jMWdLimRo",
       "title": "CSE104, Lec 9: Savitch's theorem, PSPACE = NPSPACE",
       "views": 938
     },
     {
+      "id": "K6tHFAFXsPU",
       "title": "CSE104, Lec 10: QBF is PSPACE-complete, the notion of logspace reductions",
       "views": 483
     },
     {
+      "id": "xdr5xKOjOHw",
       "title": "CSE104, Lec 11: Logspace reductions and NL-completeness",
       "views": 405
     },
     {
+      "id": "0UAy0pO-8FQ",
       "title": "CSE104, Lec 12: Read-once certificates for NL, starting NL=co-NL",
       "views": 142
     },
     {
+      "id": "FrmW4h8bfdQ",
       "title": "CSE104, Lec 13: NL = co-NL, the Immerman-Szelepcsenyi theorem",
-      "views": 392
+      "views": 393
     },
     {
+      "id": "p6Jx5C_mOrs",
       "title": "CSE104, Lec 14: The polynomial hierarchy",
       "views": 292
     },
     {
+      "id": "WoSgBFD5EiA",
       "title": "CSE104, Lec 15: More on the polynomial hierarchy",
       "views": 246
     },
     {
+      "id": "wAJqr4oqy8A",
       "title": "CSE104, Lec 16: Introduction to circuit complexity",
       "views": 539
     },
     {
+      "id": "QL6pNjmjYog",
       "title": "CSE104, Lec 17: The Karp-Lipton theorem",
       "views": 345
     },
     {
+      "id": "EX-QEWht9Bo",
       "title": "CSE104, Lec 18: Randomized computation, the class BPP",
       "views": 380
     },
     {
+      "id": "8LHOR9xyJ1c",
       "title": "CSE104, Lec 19: Theorems on BPP",
       "views": 286
     }

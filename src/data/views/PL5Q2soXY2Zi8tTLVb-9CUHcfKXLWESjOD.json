@@ -1,148 +1,184 @@
 {
   "lectures": [
     {
+      "id": "7I-JOd51ctA",
       "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2025)",
       "views": 35000
     },
     {
+      "id": "VWj2Krqxrnw",
       "title": "Computer Architecture - Lecture 2: Memory Systems and Course Logistics (Fall 2025)",
-      "views": 9400
+      "views": 9600
     },
     {
+      "id": "GhcInKOsDqk",
       "title": "Computer Architecture - Lecture 3: Memory Systems: Challenges and Opportunities (Fall 2025)",
-      "views": 4900
+      "views": 5000
     },
     {
+      "id": "3P_ZkIwRgLE",
       "title": "Computer Architecture - Lecture 4: Memory-Centric Computing I (Fall 2025)",
-      "views": 3800
+      "views": 3900
     },
     {
+      "id": "XUZHVrlmCCU",
       "title": "Computer Architecture - Lecture 5: Memory-Centric Computing II (Fall 2025)",
       "views": 1800
     },
     {
+      "id": "I5nm_h-GaWQ",
       "title": "Computer Architecture - Lecture 6: Memory-Centric Computing III (Fall 2025)",
       "views": 1400
     },
     {
+      "id": "EHt3M3s2y40",
       "title": "Computer Architecture - Lecture 7: Data Retention in Memory (Fall 2025)",
       "views": 1200
     },
     {
+      "id": "SxHLh0UD5xE",
       "title": "Computer Architecture - Lecture 8: Memory Latency (Fall 2025)",
-      "views": 1300
+      "views": 1400
     },
     {
+      "id": "q-rBRYTKPwc",
       "title": "Computer Architecture - Lecture 9: Memory Latency II and Memory Controllers (Fall 2025)",
-      "views": 1000
+      "views": 1100
     },
     {
+      "id": "PL9i3PgYpnw",
       "title": "Comp. Arch. - Lecture 10: Memory Controllers II, Service Quality and Performance (Fall 2025)",
       "views": 1000
     },
     {
+      "id": "N82rlxiRfYM",
       "title": "Comp. Arch. - Lecture 11: Memory Controllers: Service Quality and Performance II (Fall 2025)",
-      "views": 741
+      "views": 745
     },
     {
+      "id": "uqV-43ysc44",
       "title": "Comp. Arch. - Lecture 12: Memory Robustness I (Fall 2025)",
-      "views": 852
+      "views": 855
     },
     {
+      "id": "7KMJU3TJ44o",
       "title": "Comp. Arch. - Lecture 13: Memory Robustness II (Fall 2025)",
-      "views": 645
+      "views": 649
     },
     {
+      "id": "KKGRhwfcq48",
       "title": "Comp. Arch. - Lecture 14: Cutting-Edge Research in Memory Robustness & Security (Fall 2025)",
-      "views": 932
+      "views": 939
     },
     {
+      "id": "D89ae39HwOY",
       "title": "Comp. Arch. - Lecture 15: Emerging Memory Technologies (Fall 2025)",
-      "views": 704
+      "views": 706
     },
     {
+      "id": "3QxunKWbNiI",
       "title": "Comp. Arch. - Lecture 16: Flash Memory and Solid-State Drives (Fall 2025)",
       "views": 1200
     },
     {
+      "id": "gaGmNeD5pns",
       "title": "Comp. Arch. - Lecture 17: Flash Memory and Solid-State Drives II (Fall 2025)",
       "views": 1000
     },
     {
+      "id": "lJ5UpGvdm4Y",
       "title": "Comp. Arch. - Lecture 18: Simulation and Prefetching (Fall 2025)",
       "views": 1600
     },
     {
+      "id": "ZmlBbyTEm9U",
       "title": "Comp. Arch. - Lecture 19: Prefetching and Prefetcher Design II (Fall 2025)",
-      "views": 1400
+      "views": 1500
     },
     {
+      "id": "vN8xRnjT8wA",
       "title": "Comp. Arch. - Lecture 20: Prefetching III and Multiprocessors (Fall 2025)",
       "views": 1200
     },
     {
+      "id": "T2LxWfefhsc",
       "title": "Comp. Arch. - Lecture 21: Multiprocessors II, Memory Ordering and Cache Coherence (Fall 2025)",
       "views": 1400
     },
     {
+      "id": "oEo_kCDwKtE",
       "title": "Comp. Arch. - Lecture 22: Virtual Memory (Fall 2025)",
-      "views": 1500
+      "views": 1600
     },
     {
+      "id": "urL-gLwQWKM",
       "title": "Computer Architecture - D1: Discussion Session I (Fall 2025)",
-      "views": 649
+      "views": 657
     },
     {
+      "id": "jaTIx1NhDzU",
       "title": "Computer Architecture - D5: Discussion Session V (Fall 2025)",
-      "views": 373
+      "views": 379
     },
     {
+      "id": "ugIZM_ZoDmw",
       "title": "Computer Architecture - D4: Discussion Session IV (Fall 2025)",
-      "views": 338
+      "views": 340
     },
     {
+      "id": "O8-x5QR3M74",
       "title": "Computer Architecture - D3: Discussion Session III (Fall 2025)",
-      "views": 269
+      "views": 273
     },
     {
+      "id": "eudHO9nki9I",
       "title": "Computer Architecture - D2: Discussion Session II (Fall 2025)",
-      "views": 314
+      "views": 316
     },
     {
+      "id": "yDnAJfiPY-E",
       "title": "Comp. Arch. - Lecture 23: Interconnects (Fall 2025)",
       "views": 3200
     },
     {
+      "id": "Kduwu_soNuU",
       "title": "Comp. Arch. - Lecture 24: On-Chip Networks & Router Design (Fall 2025)",
       "views": 2800
     },
     {
+      "id": "9SJ2hQWU9A0",
       "title": "Comp. Arch. - Lecture 25: Accelerating Biological Sequence Analysis (Fall 2025)",
-      "views": 662
+      "views": 666
     },
     {
+      "id": "_iltf2OC_K0",
       "title": "Comp. Arch. - Lecture 26: Parallelism, Heterogeneity, and Bottleneck Acceleration (Fall 2025)",
       "views": 1300
     },
     {
+      "id": "XIVPdSkLbT4",
       "title": "Comp. Arch. - Lecture 27: VLIW Architectures (Fall 2025)",
-      "views": 915
+      "views": 930
     },
     {
+      "id": "jll-Xc9Gpnw",
       "title": "Comp. Arch. - Lecture 28: Systolic Array Architectures (Fall 2025)",
-      "views": 3400
+      "views": 3500
     },
     {
+      "id": "S2pWIB7KO-A",
       "title": "Comp. Arch. - Lecture 29: SIMD and GPU Architectures (Fall 2025)",
-      "views": 3900
+      "views": 4000
     },
     {
+      "id": "tS9LuF6-1-c",
       "title": "Comp. Arch. - Lecture 30: GPU Programming (Fall 2025)",
       "views": 1500
     },
     {
+      "id": "tyYOsCpbK0E",
       "title": "Comp. Arch. - Lecture 31:  Speculation (Fall 2025)",
-      "views": 754
+      "views": 765
     }
   ]
 }

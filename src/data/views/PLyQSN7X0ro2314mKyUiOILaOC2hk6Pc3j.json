@@ -1,162 +1,202 @@
 {
   "lectures": [
     {
+      "id": "rtlJoXxlSFE",
       "title": "8.02x - Introduction",
       "views": 1500000
     },
     {
+      "id": "x1-SibwIPM4",
       "title": "8.02x - Lect 1 - Electric Charges and Forces - Coulomb's Law - Polarization",
       "views": 4500000
     },
     {
+      "id": "Pd9HY8iLiCA",
       "title": "8.02x - Lect 2 - Electric Field Lines, Superposition, Inductive Charging, Induced Dipoles",
       "views": 1300000
     },
     {
+      "id": "Zu2gomaDqnM",
       "title": "8.02x - Lect 3 - Electric Flux, Gauss' Law, Examples",
       "views": 1200000
     },
     {
+      "id": "QpVxj3XrLgk",
       "title": "8.02x - Lect 4 - Electrostatic Potential, Electric Energy, Equipotential Surfaces",
       "views": 1400000
     },
     {
+      "id": "JhV-GOS4y8g",
       "title": "8.02x - Lect 5 - E= - grad V, Conductors, Electrostatic Shielding (Faraday Cage)",
       "views": 502000
     },
     {
+      "id": "ww0XJUqFHXU",
       "title": "8.02x - Lect 6 - High-voltage Breakdown, Lightning, Sparks, St-Elmo's Fire",
       "views": 451000
     },
     {
+      "id": "qyP1xZCB62E",
       "title": "8.02x - Lect 7 - Capacitance, Electric Field Energy",
       "views": 399000
     },
     {
+      "id": "GAtAG938AQc",
       "title": "8.02x - Lect 8 - Polarization, Dielectrics, Van de Graaff Generator, Capacitors",
-      "views": 316000
+      "views": 317000
     },
     {
+      "id": "PJqOaHBgr30",
       "title": "8.02x - Lect 9 - Electric Currents, Resistivity, Conductivity, Ohm's Law",
       "views": 379000
     },
     {
+      "id": "ViwSDL657L4",
       "title": "8.02x - Lect 10 - Batteries, Power, Kirchhoff's Rules, Circuits, Kelvin Water Dropper",
       "views": 358000
     },
     {
+      "id": "0y9x7CS5Vrk",
       "title": "8.02x - Lect 11 - Magnetic Fields, Lorentz Force, Torques, Electric Motors (DC)",
       "views": 385000
     },
     {
+      "id": "08WJDvgr2Zc",
       "title": "8.02x - Lect 12 - First Exam Review",
       "views": 178000
     },
     {
+      "id": "sDnG1JhZ2N4",
       "title": "8.02x - Lect 13 - Moving charges in B-fields, Cyclotrons, Mass Spectrometers, LHC",
       "views": 285000
     },
     {
+      "id": "By2ogrSwgVo",
       "title": "8.02x - Lect 14 - Biot-Savart, div B = 0, High-voltage Power Lines, Leyden Jar revisited",
       "views": 270000
     },
     {
+      "id": "MXuZ1SRjpqk",
       "title": "8.02x - Lect 15 - Ampere's Law, Solenoids, Kelvin Water Dropper (revisited)",
       "views": 263000
     },
     {
+      "id": "nGQbA2jwkWI",
       "title": "8.02x - Lect 16 - Electromagnetic Induction, Faraday's Law, Lenz Law, SUPER DEMO",
       "views": 4800000
     },
     {
+      "id": "MzAPu_p2wI4",
       "title": "8.02x - Lect 17 - Motional EMF, Dynamos, Eddy Currents, Magnetic Braking",
       "views": 320000
     },
     {
+      "id": "3sP9kh4xtKo",
       "title": "8.02x - Lect 18 - Displacement Current, Synchronous Motors, Explanation Secret Top",
       "views": 196000
     },
     {
+      "id": "rLZLa-fyt1w",
       "title": "8.02x - Lect 19 - Magnetic Levitation, Human ❤, Superconductivity, Aurora Borealis",
       "views": 1100000
     },
     {
+      "id": "t2micky_3uI",
       "title": "8.02x - Lect 20 - Inductance, RL Circuits, Magnetic Field Energy",
       "views": 249000
     },
     {
+      "id": "1xFRtdN5IJA",
       "title": "8.02x - Lect 21 - Magnetic Materials, Dia- Para- & Ferromagnetism",
       "views": 350000
     },
     {
+      "id": "ckUyN5XNG0Y",
       "title": "8.02x - Lect 22 - Maxwell's Equations - 600 Daffodil Ceremony",
       "views": 209000
     },
     {
+      "id": "KrXbnIohemY",
       "title": "8.02x - Lect 23 - Second Exam Review",
       "views": 94000
     },
     {
+      "id": "6w3SzI_s5Sg",
       "title": "8.02x - Lect 24 - Transformers, Car Coils, RC Circuits",
       "views": 127000
     },
     {
+      "id": "FWMhk6x785Q",
       "title": "8.02x - Lect 25 - Driven LRC Circuits, Metal Detectors",
       "views": 127000
     },
     {
+      "id": "D_RIzl1uCxY",
       "title": "8.02x - Lect 26 Traveling Waves, Standing Waves, Musical Instruments",
       "views": 224000
     },
     {
+      "id": "D3tnZzhSISo",
       "title": "8.02x - Lect 27 - Destructive Resonance, Electromagnetic Waves, Speed of Light",
       "views": 156000
     },
     {
+      "id": "6lb040GCs2M",
       "title": "8.02x - Lect 28 - Poynting Vector, Oscillating Charges, Polarization, Radiation Pressure",
       "views": 145000
     },
     {
+      "id": "irpjwXpa4xU",
       "title": "8.02x - Lect 29 - Snell's Law, Index of Refraction, Huygen's Principle, Illusion of Color",
       "views": 161000
     },
     {
+      "id": "ESAPg7w3wm8",
       "title": "8.02x - Lect 30 - Polarizers, Malus' Law, Light Scattering, Blue Skies, Red Sunsets",
       "views": 102000
     },
     {
+      "id": "pj0wXRLXai8",
       "title": "8.02x - Lect 31 - Rainbows, Fog Bows, Haloes, Glories, Sun Dogs",
-      "views": 70000
+      "views": 71000
     },
     {
+      "id": "94dV7ucEEkY",
       "title": "8.02x - Lect 32 - Third Exam Review",
       "views": 50000
     },
     {
+      "id": "1rYF72PXVks",
       "title": "8.02x - Lect 33 - Double-slit Interference, Interferometers",
       "views": 94000
     },
     {
+      "id": "sKO8n_-xtDc",
       "title": "8.02x - Lect 34 - Diffraction, Gratings, Resolving Power, Angular Resolution",
       "views": 190000
     },
     {
+      "id": "tDC2UDhRGkA",
       "title": "8.02x - Lect 35 - Doppler Effect, Big Bang, Cosmology",
       "views": 85000
     },
     {
+      "id": "lFTUtK6xBCU",
       "title": "8.02x - Lect 36 - Farewell Special, My Early Days in Astrophysics, Huge Balloons",
       "views": 114000
     },
     {
+      "id": "LzT_YZ0xCFY",
       "title": "Kirchhoff's Loop Rule Is For The Birds",
       "views": 203000
     },
     {
+      "id": "5be3zpj_eCY",
       "title": "Is Kirchhoff's Loop Rule for the Birds?",
       "views": 85000
     },
     {
+      "id": "wz_GqO-Urk4",
       "title": "Believing and Science are Very Different",
       "views": 62000
     }

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { groupChain, lecturesFor, logoFor, map, prereqsOf, thumbUrl, unlocksOf } from './model';
+import { groupChain, lecturesFor, logoFor, map, playlistId, prereqsOf, thumbUrl, unlocksOf } from './model';
 import type { Version } from './types';
 import { ViewsChart } from './ViewsChart';
 
@@ -77,7 +77,8 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
   const unlocks = unlocksOf(courseId);
   const hero = versions[primaryIdx];
   const rest = versions.filter((_, i) => i !== primaryIdx);
-  const lectures = lecturesFor(versions[chartIdx] ?? hero);
+  const chartVersion = versions[chartIdx] ?? hero;
+  const lectures = lecturesFor(chartVersion);
 
   return (
     <main className="course-page">
@@ -183,7 +184,7 @@ export function CoursePage({ courseId, onJumpToNode }: CoursePageProps) {
                 ))}
               </div>
             )}
-            <ViewsChart lectures={lectures} />
+            <ViewsChart lectures={lectures} playlistId={playlistId(chartVersion)} />
             <div className="chart-note">YouTube views per lecture</div>
           </>
         )}

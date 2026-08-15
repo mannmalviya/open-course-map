@@ -1,66 +1,82 @@
 {
   "lectures": [
     {
+      "id": "fQZFlwEPrNQ",
       "title": "CSE101, Lec 2: Linked lists",
       "views": 2200
     },
     {
+      "id": "FwnSp27EHXo",
       "title": "CSE101: Lec 4, stacks",
       "views": 708
     },
     {
+      "id": "8Ib3UY4V-B4",
       "title": "CSE101: Lec 5, more on recursion, asymptotic analysis",
       "views": 448
     },
     {
+      "id": "p2At4_lRBQ4",
       "title": "CSE101, Lec 6: More discussion of asymptotic analysis, selection sort and insertion sort",
       "views": 218
     },
     {
+      "id": "pyrbGDiQ84E",
       "title": "CSE101, Lec 7: Analysis of binary search",
       "views": 246
     },
     {
+      "id": "K0m2wMF-aF8",
       "title": "CSE101, Lec 9: Binary Search Trees",
       "views": 243
     },
     {
+      "id": "WBzK6LBuXIo",
       "title": "CSE101, Lec 10: Tree traversals and self-balancing trees",
       "views": 202
     },
     {
+      "id": "7SHxRUpsM9Y",
       "title": "CSE101, Lec 11: AVL trees",
       "views": 281
     },
     {
+      "id": "ofi1AMYuVVI",
       "title": "CSE101, Lec 12: Hash tables",
       "views": 232
     },
     {
+      "id": "6H63slA-2us",
       "title": "CSE101, Lec 13: Mergesort and the O(nlog n) run time analysis, and quicksort",
       "views": 170
     },
     {
+      "id": "iB310-tARl0",
       "title": "CSE101, Lec 14: Solving basic algorithms questions with runtime analysis",
       "views": 301
     },
     {
+      "id": "eciIqV6TNTI",
       "title": "CSE101, Lec 15: Solving algorithms questions, Part II",
       "views": 284
     },
     {
+      "id": "pG0HC0FksnE",
       "title": "CSE101, Lec 16: Graphs and BFS",
       "views": 408
     },
     {
+      "id": "rljULbgalo0",
       "title": "CSE101, Lec 17: Loop invariants and the BFS invariant",
       "views": 726
     },
     {
+      "id": "bjuxCnZpaeQ",
       "title": "CSE101, Lec 18: Single-Source Shortest Paths",
       "views": 465
     },
     {
+      "id": "scvabyHJS0Q",
       "title": "CSE101, Lec 7: Binary Heaps",
       "views": 399
     }

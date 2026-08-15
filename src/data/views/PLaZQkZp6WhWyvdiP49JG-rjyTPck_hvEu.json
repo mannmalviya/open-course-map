@@ -1,322 +1,402 @@
 {
   "lectures": [
     {
+      "id": "808M7q8QX0E",
       "title": "1   1   Regular Expressions 11 25",
       "views": 71000
     },
     {
+      "id": "1CSVy9JbbK0",
       "title": "1 2 Regular Expression Substitutions",
       "views": 17000
     },
     {
+      "id": "xsIDTmo1NOg",
       "title": "1 3 Words and Corpora",
-      "views": 16000
+      "views": 17000
     },
     {
+      "id": "7yFZHf8mzGk",
       "title": "1 4 Word Tokenization",
       "views": 15000
     },
     {
+      "id": "tOMjTCO0htA",
       "title": "1 5 Byte Pair Encoding",
       "views": 60000
     },
     {
+      "id": "bFfWbQoVmIA",
       "title": "1 6 Word Normalization",
-      "views": 14000
+      "views": 15000
     },
     {
+      "id": "V14ikwzaLds",
       "title": "2 1 Defining Minimum Edit Distance 7 04",
       "views": 31000
     },
     {
+      "id": "NlGoRN1C13w",
       "title": "2 2 Computing Minimum Edit Distance 5 54",
       "views": 18000
     },
     {
+      "id": "quDUYXXLZsM",
       "title": "2 3 Backtrace for Computing Alignments 5 55",
-      "views": 14000
+      "views": 15000
     },
     {
+      "id": "gx7Fkf1n_5w",
       "title": "2 4 Weighted Minimum Edit Distance 2 47",
       "views": 10000
     },
     {
+      "id": "gVe8SAE-O1s",
       "title": "2 5 Minimum Edit Distance in Computational Biology 9 29",
       "views": 7500
     },
     {
+      "id": "hM49MPmakNI",
       "title": "3 1 Introduction to N grams 8 41",
       "views": 37000
     },
     {
+      "id": "UyC0bBiZY-A",
       "title": "3 2 Estimating N gram Probabilities 9 38",
       "views": 35000
     },
     {
+      "id": "B_2bntDYano",
       "title": "3 3 Evaluation and Perplexity",
       "views": 27000
     },
     {
+      "id": "XjwVAMWrmrw",
       "title": "3 4 Generalization and Zeros 5 15",
       "views": 12000
     },
     {
+      "id": "Hr6UWRwAIEQ",
       "title": "3 5 Smoothing Add One 6 30",
       "views": 14000
     },
     {
+      "id": "JpOZqXsop3Q",
       "title": "3 6 Interpolation 10 25",
       "views": 14000
     },
     {
+      "id": "8BxqdxXT2M8",
       "title": "3 8 Kneser Ney Smoothing 8 59",
       "views": 8600
     },
     {
+      "id": "Y1j_J53k7fo",
       "title": "5 1 What is Text Classification  8 12",
       "views": 27000
     },
     {
+      "id": "OhLosjXM-Fg",
       "title": "Naive Bayes Lecture 2 The Naive Bayes Classifier",
       "views": 19000
     },
     {
+      "id": "Ge612JZGBMU",
       "title": "Naive Bayes 3 Learning in Naive Bayes",
       "views": 12000
     },
     {
+      "id": "tjDceq0qH10",
       "title": "Naive Bayes 4 Sentiment and Binary NB",
       "views": 25000
     },
     {
+      "id": "B36xM0YJayA",
       "title": "4 5 More on Sentiment Classification",
       "views": 9000
     },
     {
+      "id": "s-A60cl0YIY",
       "title": "5 2 Naive Bayes Relationship to Language Modeling 4 35",
       "views": 10000
     },
     {
+      "id": "mjOgb4T7yyo",
       "title": "5 7 Precision, Recall, and the F measure 16 16",
       "views": 11000
     },
     {
+      "id": "NjhVTN19JDI",
       "title": "5 8 Text Classification Evaluation 7 17",
       "views": 9300
     },
     {
+      "id": "qZSqcu2D7zQ",
       "title": "Logistic Regression 1 Generative and Discriminative Classifiers",
       "views": 15000
     },
     {
+      "id": "F0Sc_gjDRDA",
       "title": "Logistic Regression 2 Classification",
       "views": 8100
     },
     {
+      "id": "u_PiPYi4s7E",
       "title": "Logistic Regression 3 A Sentiment Example",
       "views": 11000
     },
     {
+      "id": "TDOCw0L-qz0",
       "title": "Logistic Regression 4 Cross Entropy Loss",
       "views": 13000
     },
     {
+      "id": "gPab8n1QK1M",
       "title": "Logistic Regression 5 Stochastic Gradient Descent",
       "views": 9300
     },
     {
+      "id": "UP7tehNv-iI",
       "title": "Logistic Regression 6 A worked example of gradient descent",
       "views": 15000
     },
     {
+      "id": "kNkCfaH2rxc",
       "title": "7 1 Introduction to Information Retrieval 9 16",
       "views": 79000
     },
     {
+      "id": "e81nC0LO0A8",
       "title": "7 2 Term Document Incidence Matrices 8 59",
       "views": 33000
     },
     {
+      "id": "Wf6HbY2PQDw",
       "title": "7 3 The Inverted Index 10 42",
       "views": 27000
     },
     {
+      "id": "5KbynCj7yRQ",
       "title": "7 4 Query Processing with the Inverted Index 6 43",
       "views": 22000
     },
     {
+      "id": "TIN_02pJU-Y",
       "title": "7 5 The Boolean Retrieval Model 14 06",
       "views": 30000
     },
     {
+      "id": "QVVvx_Csd2I",
       "title": "7 6 Phrase Queries and Positional Indexes 19 45",
       "views": 30000
     },
     {
+      "id": "ZrNmCtSrL48",
       "title": "8 1 Introducing Ranked Retrieval 4 27",
       "views": 18000
     },
     {
+      "id": "MiX8_JVP6PE",
       "title": "8 2 Scoring with the Jaccard Coefficient 5 06",
       "views": 32000
     },
     {
+      "id": "9UXM2NXVYY0",
       "title": "8 3 Term Frequency Weighting 5 59",
       "views": 23000
     },
     {
+      "id": "7nWlI_TVid0",
       "title": "8 4 Inverse Document Frequency Weighting 10 16",
       "views": 20000
     },
     {
+      "id": "4-P3ckZprBk",
       "title": "8 5 TF IDF Weighting 3 42",
       "views": 21000
     },
     {
+      "id": "o5nflzfX5tw",
       "title": "8 6 The Vector Space Model 16 22",
       "views": 29000
     },
     {
+      "id": "k1tD7pYKWuM",
       "title": "8 7 Calculating TF IDF Cosine Scores 12 47",
       "views": 38000
     },
     {
+      "id": "b7pfLpVBN84",
       "title": "8 8 Evaluating Search Engines 9 02",
       "views": 18000
     },
     {
+      "id": "7CRyqwCZFY0",
       "title": "Introduction to Named Entity Tagging",
       "views": 16000
     },
     {
+      "id": "WQYt3DRLpuQ",
       "title": "Introduction to Part of Speech Tagging",
       "views": 21000
     },
     {
+      "id": "EsfNYiLVtHI",
       "title": "Vector 1 Word Meaning",
       "views": 27000
     },
     {
+      "id": "lrPxo-92GC0",
       "title": "Vector 2 Vector Semantics",
       "views": 16000
     },
     {
+      "id": "xtD47WHNhxk",
       "title": "Vector 3 Words and Vectors",
       "views": 12000
     },
     {
+      "id": "-_i9Cg81rXA",
       "title": "Vector 4 Cosine Similarity",
       "views": 12000
     },
     {
+      "id": "TBUpxFw8oIA",
       "title": "Vector 5 TF IDF",
       "views": 24000
     },
     {
+      "id": "FHhKmf1iPvw",
       "title": "Vector 6 Word2vec",
       "views": 14000
     },
     {
+      "id": "MGhVvEwFB9o",
       "title": "Vector 7 Learning in Word2vec",
       "views": 10000
     },
     {
+      "id": "QvFNqBRaCis",
       "title": "Vector 8 Properties of Embeddings",
       "views": 7800
     },
     {
+      "id": "BtmsIy0j_dY",
       "title": "Neural Networks 1 Neural Units",
       "views": 13000
     },
     {
+      "id": "s7nRWh_3BtA",
       "title": "Neural Networks 2 XOR",
       "views": 81000
     },
     {
+      "id": "RMvTgWl6xog",
       "title": "Neural Networks 3 Feedforward Neural Networks",
       "views": 12000
     },
     {
+      "id": "y88qwovkBws",
       "title": "Neural Networks 4 Applying Feedforward Networks to NLP",
       "views": 9500
     },
     {
+      "id": "IOS6y6nQKWM",
       "title": "Neural Networks 5 Overview of Training",
       "views": 5400
     },
     {
+      "id": "hM74RH82LyI",
       "title": "Neural Networks 6 Computation Graphs and Backward Differentiation",
       "views": 49000
     },
     {
+      "id": "2zCfh3o88K8",
       "title": "Dialog 1 Overview",
       "views": 4800
     },
     {
+      "id": "n0MpIyqZjZU",
       "title": "Dialogue 2 Human Conversation",
       "views": 2100
     },
     {
+      "id": "veyhOF4xFUo",
       "title": "Dialogue 3 ELIZA",
       "views": 2000
     },
     {
+      "id": "GB3dOuV6f4s",
       "title": "Dialogue 4 Corpus Chatbots",
       "views": 2100
     },
     {
+      "id": "A4JndTnxoqE",
       "title": "Dialogue 5 Frame Based Dialogue",
       "views": 1900
     },
     {
+      "id": "nQKMKzMXZks",
       "title": "Dialogue 6 Dialogue State Architecture",
       "views": 2700
     },
     {
+      "id": "ptVx38To1yM",
       "title": "Dialogue 7 Dialogue State Architecture Policy and Generation",
       "views": 1300
     },
     {
+      "id": "iJet3n3gAso",
       "title": "Dialogue 8 Evaluation",
       "views": 1200
     },
     {
+      "id": "bX06GTiK3lQ",
       "title": "Dialogue 9 Design and Ethical Issues",
       "views": 1000
     },
     {
+      "id": "4xYYkQxTpEc",
       "title": "Recommender Systems 1 Introduction",
       "views": 5000
     },
     {
+      "id": "4sy2tpzlgg4",
       "title": "Recommender Systems 2 Content Based",
       "views": 8500
     },
     {
+      "id": "qEur4Xi8dks",
       "title": "Recommender Systems 3 User User Collaborative Filtering",
       "views": 12000
     },
     {
+      "id": "FFi0iPY5fko",
       "title": "Recommender Systems 4 Item Item Collaborative Filtering",
       "views": 25000
     },
     {
+      "id": "KUxRszeRPDc",
       "title": "Recommender Systems 5 Simplified version for PA6",
       "views": 2100
     },
     {
+      "id": "-rfVrRAgzHM",
       "title": "14 1 Anchor Text 3 39",
       "views": 4500
     },
     {
+      "id": "29Tx-s0ybiQ",
       "title": "14 2 PageRank Overview and Markov Chains 12 10",
       "views": 12000
     },
     {
+      "id": "TlVs9nMyZyQ",
       "title": "14 3 Computing PageRank 8 09",
       "views": 3800
     },
     {
+      "id": "oOizd6Xs4eM",
       "title": "Social Networks 1 Networks",
       "views": 1800
     }

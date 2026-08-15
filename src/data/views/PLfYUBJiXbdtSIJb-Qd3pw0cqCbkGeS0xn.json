@@ -1,30 +1,37 @@
 {
   "lectures": [
     {
+      "id": "XfoYk_Z5AkI",
       "title": "Lesson 1: Deep Learning 2019 - Image classification",
       "views": 423000
     },
     {
+      "id": "ccMHJeQU4Qw",
       "title": "Lesson 2: Deep Learning 2019 - Data cleaning and production; SGD from scratch",
       "views": 187000
     },
     {
+      "id": "MpZxV6DVsmM",
       "title": "Lesson 3: Deep Learning 2019 - Data blocks; Multi-label classification; Segmentation",
       "views": 156000
     },
     {
+      "id": "qqt3aMPB81c",
       "title": "Lesson 4: Deep Learning 2019 - NLP; Tabular data; Collaborative filtering; Embeddings",
       "views": 117000
     },
     {
+      "id": "CJKnDu2dxOE",
       "title": "Lesson 5: Deep Learning 2019 - Back propagation; Accelerated SGD; Neural net from scratch",
       "views": 88000
     },
     {
+      "id": "hkBa9pU-H48",
       "title": "Lesson 6: Deep Learning 2019 - Regularization; Convolutions; Data ethics",
       "views": 72000
     },
     {
+      "id": "9spwoDYwW_I",
       "title": "Lesson 7: Deep Learning 2019 - Resnets from scratch; U-net; Generative (adversarial) networks",
       "views": 80000
     }

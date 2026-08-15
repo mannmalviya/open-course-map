@@ -1,42 +1,52 @@
 {
   "lectures": [
     {
+      "id": "ISk80iLhdfU",
       "title": "Reinforcement Learning 1: Introduction to Reinforcement Learning",
       "views": 195000
     },
     {
+      "id": "eM6IBYVqXEA",
       "title": "Reinforcement Learning 2: Exploration and Exploitation",
       "views": 57000
     },
     {
+      "id": "hMbxmRyDw5M",
       "title": "Reinforcement Learning 3: Markov Decision Processes and Dynamic Programming",
       "views": 48000
     },
     {
+      "id": "nnxHlg-2WgA",
       "title": "Reinforcement Learning 4: Model-Free Prediction and Control",
       "views": 30000
     },
     {
+      "id": "wAk1lxmiW4c",
       "title": "Reinforcement Learning 5: Function Approximation and Deep Reinforcement Learning",
       "views": 33000
     },
     {
+      "id": "bRfUxQs6xIM",
       "title": "Reinforcement Learning 6: Policy Gradients and Actor Critics",
       "views": 95000
     },
     {
+      "id": "Xrxrd8nl4YI",
       "title": "Reinforcement Learning 7: Planning and Models",
       "views": 20000
     },
     {
+      "id": "L6xaQ501jEs",
       "title": "Reinforcement Learning 8: Advanced Topics in Deep RL",
       "views": 19000
     },
     {
+      "id": "-mhBD8Frkc4",
       "title": "Reinforcement Learning 9: A Brief Tour of Deep RL Agents",
       "views": 17000
     },
     {
+      "id": "ld28AU7DDB4",
       "title": "Reinforcement Learning 10: Classic Games Case Study",
       "views": 44000
     }

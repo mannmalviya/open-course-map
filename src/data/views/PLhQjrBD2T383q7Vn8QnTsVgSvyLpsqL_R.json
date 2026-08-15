@@ -1,54 +1,67 @@
 {
   "lectures": [
     {
+      "id": "h6lqxDwUmJQ",
       "title": "CS50x 2025 - Introduction",
-      "views": 757000
+      "views": 761000
     },
     {
+      "id": "2WtPyqwTLKM",
       "title": "CS50x 2025 - Lecture 0 - Scratch",
       "views": 1400000
     },
     {
+      "id": "89cbCbWrM4U",
       "title": "CS50x 2025 - Lecture 1 - C",
-      "views": 988000
+      "views": 990000
     },
     {
+      "id": "Y8qnryVy5sQ",
       "title": "CS50x 2025 - Lecture 2 - Arrays",
-      "views": 461000
+      "views": 462000
     },
     {
+      "id": "iCx3zwK8Ms8",
       "title": "CS50x 2025 - Lecture 3 - Algorithms",
-      "views": 353000
+      "views": 354000
     },
     {
+      "id": "kcRdFGbzR1I",
       "title": "CS50x 2025 - Lecture 4 - Memory",
-      "views": 293000
+      "views": 294000
     },
     {
+      "id": "aV8LlSmd1E8",
       "title": "CS50x 2025 - Lecture 5 - Data Structures",
       "views": 257000
     },
     {
+      "id": "0eNc5lJfZFM",
       "title": "CS50x 2025 - Lecture 6 - Python",
-      "views": 263000
+      "views": 264000
     },
     {
+      "id": "1HuD2ryeOLg",
       "title": "CS50x 2025 - Artificial Intelligence",
-      "views": 308000
+      "views": 309000
     },
     {
+      "id": "ZA25WHO62ZA",
       "title": "CS50x 2025 - Lecture 7 - SQL",
       "views": 204000
     },
     {
+      "id": "xiWUL3M9D8c",
       "title": "CS50x 2025 - Lecture 8 - HTML, CSS, JavaScript",
-      "views": 268000
+      "views": 269000
     },
     {
+      "id": "1r-dFbPQ7Z8",
       "title": "CS50x 2025 - Lecture 9 - Flask",
-      "views": 162000
+      "views": 163000
     },
     {
+      "id": "WGEy-Bu5Hos",
       "title": "CS50x 2025 - Lecture 10 - The End",
       "views": 83000
     }

@@ -1,94 +1,117 @@
 {
   "lectures": [
     {
+      "id": "QlrRb7X4JvA",
       "title": "Lecture 1: MIT 6.4210/6.4212 Robotic Manipulation (Fall 2022) | \"Anatomy of a manipulation system\"",
       "views": 26000
     },
     {
+      "id": "5i98L-Vp9g4",
       "title": "Lecture 2: MIT 6.4210/6.4212 Robotic Manipulation (Fall 2022) | \"Let's get you a robot\"",
       "views": 13000
     },
     {
+      "id": "hoE1wUKm950",
       "title": "Lecture 3: MIT 6.4210/6.4212 Robotic Manipulation (Fall 2022) | \"Basic pick and place (Part 1)\"",
       "views": 5600
     },
     {
+      "id": "Etz66TkErsU",
       "title": "Fall 2022 6.4210/2 Lecture 4: Basic pick and place - Differential kinematics via optimization",
       "views": 5200
     },
     {
+      "id": "Nx-qeuXKb_0",
       "title": "Fall 2022 6.4210/2 Lecture 5 (Audio fixed): Geometric perception (part 1)",
       "views": 2800
     },
     {
+      "id": "2k7AkPsjvFo",
       "title": "Fall 2022 6.4210/2 Lecture 6: Geometric perception (part 2)",
       "views": 3900
     },
     {
+      "id": "ztEQHJUQ-wo",
       "title": "Fall 2022 6.4210/2 Lecture 7: Geometric perception (part 3)",
       "views": 2200
     },
     {
+      "id": "N19SU7vgX7c",
       "title": "Fall 2022 6.4210/2 Lecture 8: Simulation basics",
       "views": 26000
     },
     {
+      "id": "ft8X3lYdHmA",
       "title": "Fall 2022 6.4210/2 Lecture 9: Grasp selection",
       "views": 2600
     },
     {
+      "id": "dpCSVzAISe8",
       "title": "Fall 2022 6.4210/2 Lecture 10: Programming tasks",
       "views": 4200
     },
     {
+      "id": "gpYmqtRSO9Q",
       "title": "Fall 2022 6.4210/2 Lecture 11: Deep perception for manipulation (part 1)",
       "views": 3100
     },
     {
+      "id": "jRqYULiBios",
       "title": "Fall 2022 6.4210/2 Lecture 12: Deep perception for manipulation (part 2)",
       "views": 2200
     },
     {
+      "id": "OjB1fYU-Pvo",
       "title": "Fall 2022 6.4210/2 Lecture 13: Motion planning (part 1)",
       "views": 9600
     },
     {
+      "id": "r-BLU57lVn0",
       "title": "Fall 2022 6.4210/2 Lecture 14: Motion planning (part 2)",
       "views": 2500
     },
     {
+      "id": "jYp4ssjCS84",
       "title": "Fall 2022 6.4210/2 Lecture 15: Force control",
       "views": 2300
     },
     {
+      "id": "vc-tcp_BdSM",
       "title": "Fall 2022 6.4210/2 Lecture 16: Manipulator control",
       "views": 2200
     },
     {
+      "id": "nRSaz8IDRQk",
       "title": "Fall 2022 6.4210/2 Lecture 17: Visuomotor policies (behavior cloning)",
       "views": 6400
     },
     {
+      "id": "7-gMToygK1w",
       "title": "Fall 2022 6.4210/2 Lecture 18: Reinforcement learning (part 1)",
       "views": 3700
     },
     {
+      "id": "SOHzc050qkI",
       "title": "Fall 2022 6.4210/2 Lecture 19: Intuitive physics (part 1)",
       "views": 3400
     },
     {
+      "id": "SaQp2jUtiDs",
       "title": "Fall 2022 6.4210/2 Lecture 20: Intuitive physics (part 2)",
       "views": 1200
     },
     {
+      "id": "y_3IN2J_kIo",
       "title": "Fall 2022 6.4210/2 Lecture 21: Task and Motion Planning",
       "views": 3000
     },
     {
+      "id": "Q8V0ig1jOlU",
       "title": "Fall 2022 6.4210/2 Lecture 22: Planning under uncertainty + wrap-up",
       "views": 692
     },
     {
+      "id": "AW_VLz3AqAw",
       "title": "Fall 2022 6.4210/2 Lecture 23: Final Presentations",
       "views": 1000
     }

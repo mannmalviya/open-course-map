@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "otE2WvX3XdQ",
       "title": "#00 - Course Overview & Logistics (CMU Intro to Database Systems)",
       "views": 99000
     },
     {
+      "id": "APqWIjtzNGE",
       "title": "#01 - Relational Model & Algebra (CMU Intro to Database Systems)",
       "views": 84000
     },
     {
+      "id": "MzigBKf84aY",
       "title": "#02 - Modern SQL (CMU Intro to Database Systems)",
       "views": 39000
     },
     {
+      "id": "dSxV5Sob5V8",
       "title": "#03 - Database Storage: Files & Pages ✸ Neon Database Talk (CMU Intro to Database Systems)",
       "views": 46000
     },
     {
+      "id": "IHtVWGhG0Xg",
       "title": "#04 - Database Storage: Log-Structured Merge Trees & Tuples (CMU Intro to Database Systems)",
       "views": 32000
     },
     {
+      "id": "nhlpwmOBEiE",
       "title": "#05 - Row vs. Column Storage + Compression ✸ StarTree Database Talk (CMU Intro to Database Systems)",
       "views": 21000
     },
     {
+      "id": "aoewwZwVmv4",
       "title": "#06 - Memory & Disk I/O Management (CMU Intro to Database Systems)",
       "views": 18000
     },
     {
+      "id": "VkP_yLM5KBU",
       "title": "#07 - Hash Tables ✸ RelationalAI Database Talk (CMU Intro to Database Systems)",
       "views": 14000
     },
     {
+      "id": "scUtG_6M_lU",
       "title": "#08 - Tree Indexes: B+Trees (CMU Intro to Database Systems)",
       "views": 17000
     },
     {
+      "id": "foMMYyycRgk",
       "title": "#09 - Vector Indexes, Inverted Indexes, Filters, Tries ✸ TiDB Talk (CMU Intro to Database Systems)",
       "views": 12000
     },
     {
+      "id": "lgUNTj0Q54M",
       "title": "#10 - Index Concurrency Control (CMU Intro to Database Systems)",
       "views": 9600
     },
     {
+      "id": "mM3sFwSuGNY",
       "title": "#11 - Sorting & Aggregation Algorithms ✸ dbt Database Talk (CMU Intro to Database Systems)",
       "views": 9700
     },
     {
+      "id": "MFazkaZKs1s",
       "title": "#12 - Join Algorithms: Hash, Sort-Merge, Nested Loop Joins (CMU Intro to Database Systems)",
       "views": 10000
     },
     {
+      "id": "HNtlew7mCc4",
       "title": "#13 - Query Execution Part 1 (CMU Intro to Database Systems)",
       "views": 10000
     },
     {
+      "id": "Vy2t_wZx4Is",
       "title": "#14 - Query Execution Part 2 ✸ ClickHouse Database Talk (CMU Intro to Database Systems)",
-      "views": 9400
+      "views": 9500
     },
     {
+      "id": "X8EHO8VLeG0",
       "title": "#15 - Query Planning & Optimization (CMU Intro to Database Systems)",
       "views": 8800
     },
     {
+      "id": "4y656idl8ZU",
       "title": "#16 - Concurrency Control Theory ✸ Firebolt Database Talk (CMU Intro to Database Systems)",
       "views": 8800
     },
     {
+      "id": "bXpkEt5P_Js",
       "title": "#17 - Two-Phase Locking Concurrency Control (CMU Intro to Database Systems)",
       "views": 6500
     },
     {
+      "id": "-TA0QIwFUnU",
       "title": "#18 - Optimistic Concurrency Control ✸ Weaviate Database Talk (CMU Intro to Database Systems)",
       "views": 7200
     },
     {
+      "id": "niLwbfE3V9Q",
       "title": "#19 - Multi-Version Concurrency Control (CMU Intro to Database Systems)",
       "views": 8600
     },
     {
+      "id": "mbelzgz-97s",
       "title": "#20 - Database Logging ✸ Confluent Database Talk (CMU Intro to Database Systems)",
       "views": 5800
     },
     {
+      "id": "yVpzHdAP0TY",
       "title": "#21 - Database Recovery with ARIES (CMU Intro to Database Systems)",
       "views": 5200
     },
     {
+      "id": "o7bjRUcDMx0",
       "title": "#22 - Distributed Database Architectures ✸ DataStax Database Talk (CMU Intro to Database Systems)",
-      "views": 5800
+      "views": 5900
     },
     {
+      "id": "3wNmpE6DsSs",
       "title": "#23 - Distributed Transactional Databases (CMU Intro to Database Systems)",
       "views": 5800
     },
     {
+      "id": "L6E75IyBgpk",
       "title": "#24 - Distributed Analytical Databases (CMU Intro to Database Systems)",
       "views": 4700
     },
     {
+      "id": "fr5lIchF6pw",
       "title": "#25 - BigQuery + Snowflake + Redshift + Databricks + DuckDB (CMU Intro to Database Systems)",
       "views": 8900
     }

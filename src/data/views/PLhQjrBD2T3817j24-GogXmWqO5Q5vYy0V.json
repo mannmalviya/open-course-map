@@ -1,48 +1,59 @@
 {
   "lectures": [
     {
+      "id": "OvKCESUCWII",
       "title": "CS50P - Introduction",
       "views": 2200000
     },
     {
+      "id": "JP7ITIXGpHk",
       "title": "CS50P - Lecture 0 - Functions, Variables",
-      "views": 2700000
+      "views": 2800000
     },
     {
+      "id": "_b6NgY_pMdw",
       "title": "CS50P - Lecture 1 - Conditionals",
-      "views": 907000
+      "views": 914000
     },
     {
+      "id": "-7xg8pGcP6w",
       "title": "CS50P - Lecture 2 - Loops",
-      "views": 889000
+      "views": 895000
     },
     {
+      "id": "LW7g1169v7w",
       "title": "CS50P - Lecture 3 - Exceptions",
-      "views": 540000
+      "views": 543000
     },
     {
+      "id": "MztLZWibctI",
       "title": "CS50P - Lecture 4 - Libraries",
-      "views": 545000
+      "views": 549000
     },
     {
+      "id": "tIrcxwLqzjQ",
       "title": "CS50P - Lecture 5 - Unit Tests",
-      "views": 426000
+      "views": 429000
     },
     {
+      "id": "KD-Yoel6EVQ",
       "title": "CS50P - Lecture 6 - File I/O",
-      "views": 525000
+      "views": 528000
     },
     {
+      "id": "hy3sd9MOAcc",
       "title": "CS50P - Lecture 7 - Regular Expressions",
-      "views": 452000
+      "views": 454000
     },
     {
+      "id": "e4fwY9ZsxPw",
       "title": "CS50P - Lecture 8 - Object-Oriented Programming",
-      "views": 864000
+      "views": 867000
     },
     {
+      "id": "6pgodt1mezg",
       "title": "CS50P - Lecture 9 - Et Cetera",
-      "views": 358000
+      "views": 360000
     }
   ]
 }

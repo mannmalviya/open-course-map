@@ -1,104 +1,129 @@
 {
   "lectures": [
     {
+      "id": "0JUN9aDxVmI",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 1",
       "views": 21000000
     },
     {
+      "id": "3_o0-zPRQqw",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 2",
       "views": 1200000
     },
     {
+      "id": "WqBc0ZCU4Uw",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 3",
       "views": 372000
     },
     {
+      "id": "edOWKZE1t84",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 4",
       "views": 88000
     },
     {
+      "id": "rLMikQTOVnI",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 5",
       "views": 64000
     },
     {
+      "id": "gxp_FrgTkQI",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 6",
       "views": 63000
     },
     {
+      "id": "LbX51mey3vo",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 7",
       "views": 44000
     },
     {
+      "id": "aHW6HKVC-SY",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 8",
       "views": 34000
     },
     {
+      "id": "KBVkri8k3Ao",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 9",
       "views": 28000
     },
     {
+      "id": "Jsg9TwLRTbM",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 10",
       "views": 29000
     },
     {
+      "id": "vnS9_NKoEKI",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 11",
       "views": 25000
     },
     {
+      "id": "2Gl-yNso0_0",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 12",
       "views": 23000
     },
     {
+      "id": "VuM1WnwEMRQ",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 13",
       "views": 113000
     },
     {
+      "id": "U7158Q-2rJc",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 15",
       "views": 31000
     },
     {
+      "id": "4A5LiJpPDRw",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 16",
       "views": 20000
     },
     {
+      "id": "PPCnYiTpbCo",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 17",
       "views": 75000
     },
     {
+      "id": "kqt1YV9dEoE",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 18",
       "views": 19000
     },
     {
+      "id": "R9mT5CtdHLg",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 19",
       "views": 24000
     },
     {
+      "id": "TdTFYVjzs1I",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 20",
       "views": 16000
     },
     {
+      "id": "rfTt7k6Nv-I",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 21",
       "views": 17000
     },
     {
+      "id": "HFqO_8Eoc1U",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 22",
       "views": 23000
     },
     {
+      "id": "nDLe6_sPSfs",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 23",
-      "views": 19000
+      "views": 20000
     },
     {
+      "id": "GAKpnKLnJtc",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 24",
       "views": 26000
     },
     {
+      "id": "M42rQM0vC4g",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 25",
       "views": 25000
     },
     {
+      "id": "DpxNW0T8CWg",
       "title": "Advanced Algorithms (COMPSCI 224), Lecture 26",
-      "views": 137000
+      "views": 138000
     }
   ]
 }

@@ -1,76 +1,94 @@
 {
   "lectures": [
     {
+      "id": "kV1ru-Inzl4",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 1",
-      "views": 180000
+      "views": 181000
     },
     {
+      "id": "2H4_7izio9Y",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 2",
-      "views": 71000
+      "views": 72000
     },
     {
+      "id": "1menqhfNzzo",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 3",
-      "views": 45000
+      "views": 46000
     },
     {
+      "id": "U2HRwA7XePU",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 4",
       "views": 28000
     },
     {
+      "id": "AAjG1TQcL7c",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 5",
       "views": 24000
     },
     {
+      "id": "d2jF3SXcFQ8",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 6",
       "views": 19000
     },
     {
+      "id": "P_SuSVZnrT0",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 7",
-      "views": 16000
+      "views": 17000
     },
     {
+      "id": "wsRznzNgTS0",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 8",
       "views": 15000
     },
     {
+      "id": "whE03c84ahA",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 9",
-      "views": 11000
+      "views": 12000
     },
     {
+      "id": "N3V2AdTImJE",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 10",
-      "views": 9500
+      "views": 9600
     },
     {
+      "id": "trs0RI39uWI",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 11",
       "views": 7600
     },
     {
+      "id": "t8sp9rv-Dqo",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 12",
       "views": 7400
     },
     {
+      "id": "ankx1lGi5jI",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 13",
       "views": 7800
     },
     {
+      "id": "dAvxvA4_Euo",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 14",
       "views": 7800
     },
     {
+      "id": "zVO4ccvrwrI",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 15",
       "views": 7200
     },
     {
+      "id": "Sx7TKDFJjmk",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 16",
       "views": 7800
     },
     {
+      "id": "vcTIA2X0UVk",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 17",
       "views": 6000
     },
     {
+      "id": "4A5opemjRW4",
       "title": "Stanford EE364A Convex Optimization I Stephen Boyd I 2023 I Lecture 18",
-      "views": 8400
+      "views": 8500
     }
   ]
 }

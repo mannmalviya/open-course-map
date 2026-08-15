@@ -1,86 +1,107 @@
 {
   "lectures": [
     {
+      "id": "jGwO_UgTS7I",
       "title": "Stanford CS229: Machine Learning Lecture 1 - Andrew Ng (Autumn 2018)",
       "views": 4600000
     },
     {
+      "id": "4b4MUYve_U8",
       "title": "Stanford CS229: Machine Learning - Linear Regression and Gradient Descent |  Lecture 2 (Autumn 2018)",
       "views": 2000000
     },
     {
+      "id": "het9HFqo1TQ",
       "title": "Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning - Lecture 3 (Autumn 2018)",
-      "views": 896000
+      "views": 898000
     },
     {
+      "id": "iZTeva0WSTQ",
       "title": "Lecture 4 - Perceptron & Generalized Linear Model | Stanford CS229: Machine Learning (Autumn 2018)",
-      "views": 466000
+      "views": 467000
     },
     {
+      "id": "nt63k3bfXS0",
       "title": "Lecture 5 - GDA & Naive Bayes | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
-      "views": 418000
+      "views": 419000
     },
     {
+      "id": "lDwow4aOrtg",
       "title": "Lecture 6 - Support Vector Machines | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
       "views": 366000
     },
     {
+      "id": "8NYoQiRANpg",
       "title": "Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)",
       "views": 267000
     },
     {
+      "id": "rjbkWSTjHzM",
       "title": "Lecture 8 - Data Splits, Models & Cross-Validation | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 184000
     },
     {
+      "id": "iVOxMcumR4A",
       "title": "Discussion Section: Learning Theory | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 125000
     },
     {
+      "id": "wr9gUr-eWdA",
       "title": "Lecture 9 - Decision Trees and Ensemble Methods | Stanford CS229: Machine Learning (Autumn 2018)",
-      "views": 256000
+      "views": 257000
     },
     {
+      "id": "MfIjxPh6Pys",
       "title": "Lecture 10 - Introduction to Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
-      "views": 304000
+      "views": 305000
     },
     {
+      "id": "zUazLXZZA2U",
       "title": "Lecture 11 - Backprop & Improving Neural Networks | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 135000
     },
     {
+      "id": "ORrStCArmP4",
       "title": "Lecture 12 - Debugging ML Models and Error Analysis | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 122000
     },
     {
+      "id": "rVfZHWTwXSA",
       "title": "Lecture 13 - Expectation-Maximization Algorithms | Stanford CS229: Machine Learning (Autumn 2018)",
-      "views": 204000
+      "views": 205000
     },
     {
+      "id": "tw6cmL5STuY",
       "title": "Lecture 14 - EM Algorithm & Factor Analysis | Stanford CS229: Machine Learning Andrew Ng -Autumn2018",
       "views": 96000
     },
     {
+      "id": "dyb_cFywuik",
       "title": "Lecture 15 - PCA and ICA | Stanford CS229: Machine Learning Andrew Ng - Autumn 2018",
       "views": 13000
     },
     {
+      "id": "YQA9lLdLig8",
       "title": "Lecture 16 - Independent Component Analysis & RL | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 99000
     },
     {
+      "id": "d5gaWTo6kDM",
       "title": "Lecture 17 - MDPs & Value/Policy Iteration | Stanford CS229: Machine Learning Andrew Ng (Autumn2018)",
       "views": 119000
     },
     {
+      "id": "QFu5nuc-S0s",
       "title": "Lecture 18 - Continous State MDP & Model Simulation | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 65000
     },
     {
+      "id": "0rt2CsEQv6U",
       "title": "Lecture 19 - Reward Model & Linear Dynamical System | Stanford CS229: Machine Learning (Autumn 2018)",
       "views": 82000
     },
     {
+      "id": "pLhPQynL0tY",
       "title": "RL Debugging and Diagnostics | Stanford CS229: Machine Learning Andrew Ng - Lecture 20 (Autumn 2018)",
       "views": 86000
     }

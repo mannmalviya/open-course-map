@@ -1,102 +1,127 @@
 {
   "lectures": [
     {
+      "id": "7NPIENPr-zk",
       "title": "#01 - Relational Model & Algebra (CMU Intro to Database Systems)",
-      "views": 69000
+      "views": 70000
     },
     {
+      "id": "O5gU9NQjCAs",
       "title": "#02 - Modern SQL ✸ dbt Database Talk (CMU Intro to Database Systems)",
       "views": 23000
     },
     {
+      "id": "PRLXdIMJhOg",
       "title": "#03 - Database Storage: Files, Pages, Tuples (CMU Intro to Database Systems)",
       "views": 19000
     },
     {
+      "id": "8-2yv4z0VZc",
       "title": "#04 - Memory Management & Buffer Pools (CMU Intro to Database Systems)",
       "views": 14000
     },
     {
+      "id": "2_sTdS4h-bY",
       "title": "#05 - Log-Structured Database Storage ✸ SingleStore Database Talk (CMU Intro to Database Systems)",
       "views": 11000
     },
     {
+      "id": "yWnToWrskXE",
       "title": "#06 - Column-Store Databases (CMU Intro to Database Systems)",
-      "views": 7800
+      "views": 7900
     },
     {
+      "id": "nuNW8IfgPNU",
       "title": "#07 - Database Hash Tables ✸ YugabyteDB Database Talk (CMU Intro to Database Systems)",
-      "views": 6700
+      "views": 6800
     },
     {
+      "id": "u7ii_Lvm9rM",
       "title": "#08 - B+Trees: The Best Data Structure in the World (CMU Intro to Database Systems)",
       "views": 10000
     },
     {
+      "id": "PjST2n7abAY",
       "title": "#09 - Vector Indexes + Inverted Indexes + Skip Lists + Bloom Filters (CMU Intro to Database Systems)",
-      "views": 6500
+      "views": 6600
     },
     {
+      "id": "YgOvfXl6pss",
       "title": "#10 - Latching in Data Structures (CMU Intro to Database Systems)",
-      "views": 5000
+      "views": 5100
     },
     {
+      "id": "LzyKTpeIgts",
       "title": "#11 - Sorting & Aggregation Algorithms ✸ MotherDuck Database Talk (CMU Intro to Database Systems)",
       "views": 5000
     },
     {
+      "id": "YIdIaPopfpk",
       "title": "#12 - Hash Joins, Sort-Merge Joins, Nested Loop Join Algorithms (CMU Intro to Database Systems)",
-      "views": 5300
+      "views": 5400
     },
     {
+      "id": "E-UUd6cB57w",
       "title": "#13 - Query Execution Part 1 (CMU Intro to Database Systems)",
       "views": 5300
     },
     {
+      "id": "Kzf1hGjtZOU",
       "title": "#14 - Parallel Query Engine Architectures ✸ SpiralDB Database Talk (CMU Intro to Database Systems)",
-      "views": 3700
+      "views": 3800
     },
     {
+      "id": "b53huOGcsZ8",
       "title": "#15 - Database Query Optimizers Part 1 (CMU Intro to Database Systems)",
-      "views": 4300
+      "views": 4400
     },
     {
+      "id": "azTHRpzl10o",
       "title": "#16 - Query Optimization Part 2 (CMU Intro to Database Systems)",
-      "views": 2800
+      "views": 2900
     },
     {
+      "id": "tMFAgvDViAI",
       "title": "#17 - Concurrency Control Theory (CMU Intro to Database Systems)",
-      "views": 4600
+      "views": 4700
     },
     {
+      "id": "drStlhNbfHI",
       "title": "#18 - Transactions with Two-Phase Locking ✸ Firebolt Database Talk (CMU Intro to Database Systems)",
       "views": 3600
     },
     {
+      "id": "risHwKeWbBM",
       "title": "#19 - Timestamp Ordering Concurrency Control (CMU Intro to Database Systems)",
       "views": 2900
     },
     {
+      "id": "tUFha9-DuSk",
       "title": "#20 - MVCC: Multi-Version Concurrency Control (CMU Intro to Database Systems)",
-      "views": 4000
+      "views": 4100
     },
     {
+      "id": "CedEy54pe3g",
       "title": "#21 - Write-Ahead Logging + Shadow Paging (CMU Intro to Database Systems)",
       "views": 3300
     },
     {
+      "id": "X2jc4qalNy0",
       "title": "#22 - Database Crash Recovery ✸ ClickHouse Database Talk (CMU Intro to Database Systems)",
       "views": 2900
     },
     {
+      "id": "IFLQBWY6dlE",
       "title": "#23 - Distributed Databases Pt. 1 (CMU Intro to Database Systems)",
-      "views": 4000
+      "views": 4100
     },
     {
+      "id": "pQh5fka3FC0",
       "title": "#24 - Distributed Databases Pt. 2 (CMU Intro to Database Systems)",
       "views": 2500
     },
     {
+      "id": "qiVUf9X6ItM",
       "title": "#25 - Databricks + Yellowbrick + ClickHouse ✸ RelationalAI DB Talk (CMU Intro to Database Systems)",
       "views": 4100
     }

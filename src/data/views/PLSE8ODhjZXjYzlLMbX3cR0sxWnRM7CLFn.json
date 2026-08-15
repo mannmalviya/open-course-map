@@ -1,94 +1,117 @@
 {
   "lectures": [
     {
+      "id": "LWS8LEQAUVc",
       "title": "01 - History of Databases (CMU Advanced Databases / Spring 2023)",
       "views": 56000
     },
     {
+      "id": "7V1oi_8uvuM",
       "title": "02 - Modern Analytical Database Systems (CMU Advanced Databases / Spring 2023)",
       "views": 19000
     },
     {
+      "id": "oWaeWlvPCyk",
       "title": "03 - Database Storage Models & Data Layout (CMU Advanced Databases / Spring 2023)",
       "views": 14000
     },
     {
+      "id": "lGRAq98ejWs",
       "title": "04 - Analytical Database Indexes (CMU Advanced Databases / Spring 2023)",
       "views": 11000
     },
     {
+      "id": "Bpy5hYyHAuQ",
       "title": "05 - Database Compression (CMU Advanced Databases / Spring 2023)",
       "views": 7400
     },
     {
+      "id": "ck3PkXTOueU",
       "title": "06 - Query Execution & Processing Models (CMU Advanced Databases / Spring 2023)",
       "views": 8300
     },
     {
+      "id": "RtcrbAxtjp8",
       "title": "07 - Query Scheduling (CMU Advanced Databases / Spring 2023)",
       "views": 5900
     },
     {
+      "id": "FrspnYbFSxQ",
       "title": "08 - Vectorized Query Execution with SIMD (CMU Advanced Databases / Spring 2023)",
       "views": 13000
     },
     {
+      "id": "eurwtUhY5fk",
       "title": "09 - Query Compilation & JIT Code Generation (CMU Advanced Databases / Spring 2023)",
       "views": 5000
     },
     {
+      "id": "rhxd_xaeMPU",
       "title": "10 - Query Vectorization vs. Compilation (CMU Advanced Databases / Spring 2023)",
       "views": 4000
     },
     {
+      "id": "pqRV7Mss1Fg",
       "title": "11 - Parallel Hash Join Algorithms (CMU Advanced Databases / Spring 2023)",
       "views": 5900
     },
     {
+      "id": "rn5u0pfWlcs",
       "title": "12 - Parallel Sort-Merge Join Algorithms (CMU Advanced Databases / Spring 2023)",
       "views": 3200
     },
     {
+      "id": "knyIDmbJQno",
       "title": "13 - Multi-Way / Worst-Case Optimal Join Algorithms (CMU Advanced Databases / Spring 2023)",
       "views": 3600
     },
     {
+      "id": "DRFuyLd29eA",
       "title": "14 - Server-side Logic Execution / User-defined Functions (CMU Advanced Databases / Spring 2023)",
       "views": 2900
     },
     {
+      "id": "3NTCjo3cebs",
       "title": "15 - Database Networking (CMU Advanced Databases / Spring 2023)",
       "views": 4500
     },
     {
+      "id": "bXfvmeWsQ78",
       "title": "16 - Query Optimizer Implementations - Part 1 (CMU Advanced Databases / Spring 2023)",
       "views": 6200
     },
     {
+      "id": "PXS49-tFLcI",
       "title": "17 - Query Optimizer Implementations - Part 2 (CMU Advanced Databases / Spring 2023)",
       "views": 4000
     },
     {
+      "id": "JxeITDS-xh0",
       "title": "19 - Google BigQuery / Dremel (CMU Advanced Databases / Spring 2023)",
       "views": 9800
     },
     {
+      "id": "HqZstqwWq5E",
       "title": "20 - Databricks Photon / Spark SQL (CMU Advanced Databases / Spring 2023)",
       "views": 16000
     },
     {
+      "id": "bveqnSk15JQ",
       "title": "21 - Snowflake Data Warehouse Internals (CMU Advanced Databases / Spring 2023)",
       "views": 15000
     },
     {
+      "id": "bZOvAKGkzpQ",
       "title": "22 - DuckDB Internals (CMU Advanced Databases / Spring 2023)",
-      "views": 25000
+      "views": 26000
     },
     {
+      "id": "Zx4caucPF7s",
       "title": "23 - Meta Velox (CMU Advanced Databases / Spring 2023)",
       "views": 7700
     },
     {
+      "id": "Ww8xyjmtg3A",
       "title": "24 - Amazon Redshift Internals (CMU Advanced Databases / Spring 2023)",
       "views": 10000
     }

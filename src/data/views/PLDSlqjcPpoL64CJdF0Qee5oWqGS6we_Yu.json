@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "7P-LGEJS3A8",
       "title": "MIT 6.004 L01: The Digital Abstraction",
       "views": 70000
     },
     {
+      "id": "hJa6mk8apLo",
       "title": "MIT 6.004 L02: Combinational Devices and Boolean Algebra",
       "views": 18000
     },
     {
+      "id": "2gv39yQqK9g",
       "title": "MIT 6.004 L03: Describing Combinational Circuits in BSV",
       "views": 11000
     },
     {
+      "id": "f8xfVVVWXNU",
       "title": "MIT 6.004 L04: Binary Arithmetic",
       "views": 10000
     },
     {
+      "id": "HyXro5fH9g0",
       "title": "MIT 6.004 L05: Complex Combinational Circuits in Bluespec",
       "views": 6700
     },
     {
+      "id": "hf0g3Ccfer8",
       "title": "MIT 6.004 L06: Sequential Circuits",
       "views": 14000
     },
     {
+      "id": "IR92kSm2uEc",
       "title": "MIT 6.004 L07: Sequentail Circuits in BSV",
       "views": 4300
     },
     {
+      "id": "accXeqAQOg4",
       "title": "MIT 6.004 L08: Hardware Synthesis from Bluespec",
       "views": 5200
     },
     {
+      "id": "Q3B4uZ74p8Y",
       "title": "MIT 6.004 L09: Programmable Machines",
       "views": 7300
     },
     {
+      "id": "8Vh-pZDIQ3c",
       "title": "MIT 6.004 L10: Procedures and Stacks",
       "views": 6000
     },
     {
+      "id": "zNol8duWrro",
       "title": "MIT 6.004 L11: Single Cycle Processors",
-      "views": 6000
+      "views": 6100
     },
     {
+      "id": "h2iScfibxfA",
       "title": "MIT 6.004 L12: Multi-Cycle Processors",
       "views": 3600
     },
     {
+      "id": "hg0dTS10uSk",
       "title": "MIT 6.004 L13: Caches",
       "views": 8400
     },
     {
+      "id": "-XqdkA931ag",
       "title": "MIT 6.004 L14: Cache Implementation",
       "views": 5100
     },
     {
+      "id": "5NQkhqZe8_8",
       "title": "MIT 6.004 L15: Introduction to Pipelining",
       "views": 5900
     },
     {
+      "id": "TMpjvAvQCWA",
       "title": "MIT 6.004 L16: Processor Pipelining",
       "views": 4600
     },
     {
+      "id": "Pr3-iFE-nCQ",
       "title": "MIT 6.004 L17: Implementing Pipelining",
       "views": 2900
     },
     {
+      "id": "WdbCaCoOgVY",
       "title": "MIT 6.004 L18: Implementing Pipelined Processors",
       "views": 2400
     },
     {
+      "id": "Dj2hN_pFA8w",
       "title": "MIT 6.004 L19: Operating Systems",
       "views": 68000
     },
     {
+      "id": "W7Scg6LfZhY",
       "title": "MIT 6.004 L20: Virtual Memory",
       "views": 15000
     },
     {
+      "id": "ReRj0Ww0TU4",
       "title": "MIT 6.004 L21: Operating Systems: I/O and System Calls",
       "views": 10000
     },
     {
+      "id": "-4Fg9vMcKJo",
       "title": "MIT 6.004 L22: Complex Pipelines and Branch Prediction",
       "views": 2700
     },
     {
+      "id": "dhJnFvCWw-E",
       "title": "MIT 6.004 L23: Bypassing and EHRs",
       "views": 1800
     },
     {
+      "id": "JzzE7W3ZPXw",
       "title": "MIT 6.004 L24: Synchronization",
       "views": 4100
     },
     {
+      "id": "83jOKVb_HTM",
       "title": "MIT 6.004 L25: Cache Coherence",
       "views": 8700
     },
     {
+      "id": "kxJkWWJ1bbU",
       "title": "MIT 6.004 L26: Early Stored Program Computers and Evolution of Instruction Sets",
       "views": 4300
     }

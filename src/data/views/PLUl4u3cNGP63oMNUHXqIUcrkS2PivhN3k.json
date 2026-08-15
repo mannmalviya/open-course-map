@@ -1,146 +1,182 @@
 {
   "lectures": [
     {
+      "id": "Cx5Z-OslNWE",
       "title": "Course Introduction of 18.065 by Professor Strang",
-      "views": 616000
+      "views": 617000
     },
     {
+      "id": "t36jZG07MYc",
       "title": "An Interview with Gilbert Strang on Teaching Matrix Methods in Data Analysis, Signal Processing,...",
       "views": 93000
     },
     {
+      "id": "YiqIkSHSmyc",
       "title": "Lecture 1: The Column Space of A Contains All Vectors Ax",
-      "views": 378000
+      "views": 379000
     },
     {
+      "id": "or6C4yBk_SY",
       "title": "Lecture 2: Multiplying and Factoring Matrices",
       "views": 180000
     },
     {
+      "id": "Xa2jPbURTjQ",
       "title": "3. Orthonormal Columns in Q Give Q'Q = I",
       "views": 115000
     },
     {
+      "id": "k095NdrHxY4",
       "title": "4. Eigenvalues and Eigenvectors",
       "views": 168000
     },
     {
+      "id": "xsP-S7yKaRA",
       "title": "5. Positive Definite and Semidefinite Matrices",
       "views": 184000
     },
     {
+      "id": "rYz83XPxiZo",
       "title": "6. Singular Value Decomposition (SVD)",
-      "views": 267000
+      "views": 268000
     },
     {
+      "id": "Y4f7K9XF04k",
       "title": "7. Eckart-Young: The Closest Rank k Matrix to A",
       "views": 104000
     },
     {
+      "id": "NcPUI7aPFhA",
       "title": "Lecture 8: Norms of Vectors and Matrices",
       "views": 185000
     },
     {
+      "id": "ZUU57Q3CFOU",
       "title": "9. Four Ways to Solve Least Squares Problems",
       "views": 140000
     },
     {
+      "id": "Z_5uLqcwDgM",
       "title": "Lecture 10: Survey of Difficulties with Ax = b",
       "views": 60000
     },
     {
+      "id": "MuEW9pG9oxE",
       "title": "Lecture 11: Minimizing ‖x‖ Subject to Ax = b",
       "views": 58000
     },
     {
+      "id": "d32WV1rKoVk",
       "title": "12. Computing Eigenvalues and Singular Values",
       "views": 72000
     },
     {
+      "id": "z0ykhV15wLw",
       "title": "Lecture 13: Randomized Matrix Multiplication",
       "views": 42000
     },
     {
+      "id": "XhSk_Lw2X_U",
       "title": "14. Low Rank Changes in A and Its Inverse",
       "views": 40000
     },
     {
+      "id": "z3SmljnD_nQ",
       "title": "15. Matrices A(t) Depending on t, Derivative = dA/dt",
       "views": 50000
     },
     {
+      "id": "AdTvkFsqcDc",
       "title": "16. Derivatives of Inverse and Singular Values",
       "views": 28000
     },
     {
+      "id": "9BYsNpTCZGg",
       "title": "Lecture 17: Rapidly Decreasing Singular Values",
       "views": 35000
     },
     {
+      "id": "xaSL8yFgqig",
       "title": "Lecture 18: Counting Parameters in SVD, LU, QR, Saddle Points",
-      "views": 27000
+      "views": 28000
     },
     {
+      "id": "2K7CvGnebO0",
       "title": "19. Saddle Points Continued, Maxmin Principle",
       "views": 24000
     },
     {
+      "id": "nrDkb2MAwSA",
       "title": "20. Definitions and Inequalities",
       "views": 31000
     },
     {
+      "id": "nvXRJIBOREc",
       "title": "Lecture 21: Minimizing a Function Step by Step",
       "views": 44000
     },
     {
+      "id": "AeRwohPuUHQ",
       "title": "22. Gradient Descent: Downhill to a Minimum",
       "views": 102000
     },
     {
+      "id": "wrEcHhoJxjM",
       "title": "23. Accelerating Gradient Descent (Use Momentum)",
       "views": 62000
     },
     {
+      "id": "feb9j65Iz4w",
       "title": "24. Linear Programming and Two-Person Games",
       "views": 83000
     },
     {
+      "id": "k3AiUhwHQ28",
       "title": "25. Stochastic Gradient Descent",
       "views": 100000
     },
     {
+      "id": "sx00s7nYmRM",
       "title": "26. Structure of Neural Nets for Deep Learning",
       "views": 59000
     },
     {
+      "id": "lZrIPRnoGQQ",
       "title": "27. Backpropagation: Find Partial Derivatives",
       "views": 69000
     },
     {
+      "id": "p-bXJIa7QVI",
       "title": "Lecture 30: Completing a Rank-One Matrix, Circulants!",
       "views": 26000
     },
     {
+      "id": "1pFv7e9xtHo",
       "title": "31. Eigenvectors of Circulant Matrices: Fourier Matrix",
       "views": 42000
     },
     {
+      "id": "hwDRfkPSXng",
       "title": "Lecture 32: ImageNet is a Convolutional Neural Network (CNN), The Convolution Rule",
       "views": 39000
     },
     {
+      "id": "L3-WFKCW-tY",
       "title": "33. Neural Nets and the Learning Function",
       "views": 47000
     },
     {
+      "id": "0Qws8BuK3RQ",
       "title": "34. Distance Matrices, Procrustes Problem",
       "views": 31000
     },
     {
+      "id": "cxTmmasBiC8",
       "title": "35. Finding Clusters in Graphs",
       "views": 107000
     },
     {
+      "id": "rZS2LGiurKY",
       "title": "Lecture 36: Alan Edelman and Julia Language",
       "views": 59000
     }

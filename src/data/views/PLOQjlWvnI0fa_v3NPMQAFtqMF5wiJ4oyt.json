@@ -1,78 +1,97 @@
 {
   "lectures": [
     {
+      "id": "5pwKQ-u7f28",
       "title": "CSE201, Winter 2025, Lec 5: DAGs, topological sort, and DFS",
-      "views": 234
+      "views": 238
     },
     {
+      "id": "EYA7Kf36DSw",
       "title": "CSE201, WInter 2025, Lec 4: Depth First Search",
-      "views": 105
+      "views": 106
     },
     {
+      "id": "r5GeF38cd2E",
       "title": "CSE201, Winter 2025, Lec 3: The BFS loop invariant",
-      "views": 93
+      "views": 95
     },
     {
+      "id": "nsjT-mMUDkA",
       "title": "CSE201, Winter 2025, Lec 2: The BFS Theorem",
-      "views": 76
+      "views": 77
     },
     {
+      "id": "bvsLJaubQJw",
       "title": "CSE 201, Winter 2025: Lec 1, graph traversals",
-      "views": 269
+      "views": 270
     },
     {
+      "id": "DK_0qxKEkXc",
       "title": "CSE201, Winter 2025, Lec6: Dynamic programming, the knapsack problem",
       "views": 172
     },
     {
+      "id": "ENGvz4xG2vs",
       "title": "CSE201, Winter 2025, Lec6, Part 2: Longest Common Subsequence",
-      "views": 120
+      "views": 121
     },
     {
+      "id": "vLRDlQKcOTo",
       "title": "CSE201, Winter 2025, Lec 8: Optimal BSTs",
-      "views": 42
+      "views": 43
     },
     {
+      "id": "eJ012W-dWag",
       "title": "CSE201, Winter 2025, Lec 9: The optimal parentheses for Matrix Multiplication, and DAG optimization",
-      "views": 110
+      "views": 111
     },
     {
+      "id": "xZakmiJu1_o",
       "title": "CSE201, Winter 2025, Lec11: Huffman coding",
       "views": 87
     },
     {
+      "id": "i03YMREtJzg",
       "title": "CSE201, Winter 2025, Lec 7: Longest Common Subsequence",
-      "views": 37
+      "views": 39
     },
     {
+      "id": "N2lsTOY7MqM",
       "title": "CSE201, Winter 2025, Lec 7, Part 2: The optimal binary search tree problem",
       "views": 34
     },
     {
+      "id": "btPs_zXXhSc",
       "title": "CSE201, Winter 2025, Lec 13: Divide and conquer, Karatsuba integer multiplication",
       "views": 92
     },
     {
+      "id": "eRNlhEVQEEM",
       "title": "CSE201, Winter 2025, Lec 14: More divide and conquer, the maximum subarray product problem",
       "views": 83
     },
     {
+      "id": "szaBB_pHMnE",
       "title": "CSE201, Winter 2025, Lec 15: Shortest path algorithms",
-      "views": 91
+      "views": 92
     },
     {
+      "id": "huVnb_UkLkA",
       "title": "CSE201, Winter 2025, Lec 16: All Pairs Shortest Paths",
       "views": 46
     },
     {
+      "id": "bbTRYIp2dKo",
       "title": "CSE201, Winter 2025, Lec 16: An introduction to NP-completeness, Part 1",
-      "views": 67
+      "views": 69
     },
     {
+      "id": "Uls8gdOHHZI",
       "title": "CSE201, Winter 2025, Lec 17: NP-completeness, Part 2",
       "views": 45
     },
     {
+      "id": "ZWlODxvhY4c",
       "title": "CSE201, Winter 2025, Lec12: Minimum Spanning Trees",
       "views": 159
     }

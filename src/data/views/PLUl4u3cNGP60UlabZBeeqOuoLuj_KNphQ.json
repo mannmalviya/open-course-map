@@ -1,402 +1,502 @@
 {
   "lectures": [
     {
+      "id": "wIq4CssPoO0",
       "title": "1.1.1 Welcome to 6.042",
       "views": 327000
     },
     {
+      "id": "GyFVgJZ0hIs",
       "title": "1.1.2 Intro to Proofs: Part 1",
       "views": 162000
     },
     {
+      "id": "wfr4XbR5VP8",
       "title": "1.1.3 Intro to Proofs: Part 2",
       "views": 80000
     },
     {
+      "id": "CpW0ZJ7i0oc",
       "title": "1.2.1 Proof by Contradiction",
       "views": 122000
     },
     {
+      "id": "vzpFQ3uNyPo",
       "title": "1.2.3 Proof by Cases",
       "views": 41000
     },
     {
+      "id": "fV3v6qQ3w4A",
       "title": "1.3.1 Well Ordering Principle 1: Video",
       "views": 115000
     },
     {
+      "id": "I1HpgnWQI7I",
       "title": "1.3.3 Well Ordering Principle 2: Video",
       "views": 44000
     },
     {
+      "id": "hNrtGiCFPGs",
       "title": "1.3.5 Well Ordering Principle 3: Video",
       "views": 34000
     },
     {
+      "id": "0exBzsexUoI",
       "title": "1.4.1 Propositional Operators: Video",
       "views": 25000
     },
     {
+      "id": "eMWG-jTh-GE",
       "title": "1.4.3 Digital Logic: Video",
       "views": 31000
     },
     {
+      "id": "_3WDzxt5p8c",
       "title": "1.4.4 Truth Tables: Video",
       "views": 19000
     },
     {
+      "id": "UroprmQHTLc",
       "title": "1.5.1 Predicate Logic 1: Video",
-      "views": 45000
+      "views": 46000
     },
     {
+      "id": "T1AtlGrCoU8",
       "title": "1.5.2 Predicate Logic 2: Video",
       "views": 19000
     },
     {
+      "id": "L5uBeAGJV1k",
       "title": "1.5.4 Predicate Logic 3: Video",
       "views": 12000
     },
     {
+      "id": "KZ7jjLTQ9r4",
       "title": "1.6.1 Sets Definitions: Video",
       "views": 18000
     },
     {
+      "id": "Mhip1rljvRo",
       "title": "1.6.2 Sets Operations: Video",
       "views": 17000
     },
     {
+      "id": "FkfsmwAtDdY",
       "title": "1.7.1 Relations: Video",
       "views": 18000
     },
     {
+      "id": "gFD1Lp6zK3w",
       "title": "1.7.3 Relational Mappings: Video",
       "views": 11000
     },
     {
+      "id": "fpy5Hsz5t6E",
       "title": "1.7.5 Finite Cardinality: Video",
       "views": 10000
     },
     {
+      "id": "XnV8GAuAqJM",
       "title": "1.8.1 Induction: Video",
       "views": 15000
     },
     {
+      "id": "D3E5CKebKuQ",
       "title": "1.8.2 Bogus Induction: Video",
       "views": 19000
     },
     {
+      "id": "TUueMeRooBk",
       "title": "1.8.4 Strong Induction: Video",
       "views": 64000
     },
     {
+      "id": "K8ZfzNN1miQ",
       "title": "1.8.6 WOP vs Induction: Video [optional]",
       "views": 8700
     },
     {
+      "id": "VuG2JNcRXYg",
       "title": "1.9.1 State Machines Invariants: Video",
       "views": 12000
     },
     {
+      "id": "a7JUH-EtHtI",
       "title": "1.9.3 Derived Variables: Video",
       "views": 8000
     },
     {
+      "id": "TXNXT3oBROw",
       "title": "1.10.1 Recursive Data: Video",
       "views": 10000
     },
     {
+      "id": "VWIDwHCGJDQ",
       "title": "1.10.4 Structural Induction: Video",
       "views": 46000
     },
     {
+      "id": "tOsdeaYDCMk",
       "title": "1.10.7 Recursive Functions: Video",
       "views": 9000
     },
     {
+      "id": "QzSCf62kzjE",
       "title": "1.11.1 Cardinality: Video",
       "views": 8500
     },
     {
+      "id": "AipSRi3CyLg",
       "title": "1.11.3 Countable Sets: Video",
       "views": 33000
     },
     {
+      "id": "4dj1ogUwTEM",
       "title": "1.11.4 Cantor's Theorem: Video",
       "views": 33000
     },
     {
+      "id": "WQHOImO0pX0",
       "title": "1.11.7 The Halting Problem: Video [Optional]",
       "views": 8100
     },
     {
+      "id": "5hETv64GIuE",
       "title": "1.11.9 Russell's Paradox: Video",
       "views": 7300
     },
     {
+      "id": "zcvsyL7GtH4",
       "title": "1.11.11 Set Theory Axioms: Video [Optional]",
       "views": 22000
     },
     {
+      "id": "et3FOZdI6pk",
       "title": "2.1.1 GCDs & Linear Combinations: Video",
       "views": 12000
     },
     {
+      "id": "dW0f62lcCLE",
       "title": "2.1.2 Euclidean Algorithm: Video",
       "views": 10000
     },
     {
+      "id": "yzKPotFLfsc",
       "title": "2.1.4 Pulverizer: Video",
       "views": 11000
     },
     {
+      "id": "c3qNBNl1h8g",
       "title": "2.1.6 Revisiting Die Hard: Video",
       "views": 4900
     },
     {
+      "id": "QsKtEuUyIdw",
       "title": "2.1.7 Prime Factorization: Video",
       "views": 7800
     },
     {
+      "id": "KvtLWgCTwn4",
       "title": "2.2.1 Congruence mod n: Video",
       "views": 156000
     },
     {
+      "id": "CAKSh3M0y8k",
       "title": "2.2.3 Inverses mod n: Video",
       "views": 12000
     },
     {
+      "id": "TeRYL7kkhqs",
       "title": "2.3.1 Modular Exponentiation Euler's Function: Video",
       "views": 15000
     },
     {
+      "id": "dZgI16nMuqE",
       "title": "2.3.3 The Ring Z: Video",
       "views": 6900
     },
     {
+      "id": "ZUZ8VbX1YNQ",
       "title": "2.4.1 RSA Public Key Encryption: Video",
       "views": 50000
     },
     {
+      "id": "yWIQCewgfwY",
       "title": "2.4.3 Reducing Factoring To SAT: Video",
       "views": 5200
     },
     {
+      "id": "MX-mBxt6huU",
       "title": "2.5.1 Digraphs: Walks & Paths: Video",
       "views": 16000
     },
     {
+      "id": "QORX1OUabio",
       "title": "2.5.3 Digraphs: Connected Vertices: Video",
       "views": 5300
     },
     {
+      "id": "Sdw8_0RDZuw",
       "title": "2.6.1 DAGs: Video",
       "views": 9500
     },
     {
+      "id": "1TpzSCMLg08",
       "title": "2.6.3 Scheduling: Video",
       "views": 4700
     },
     {
+      "id": "cUYTlKA8jaw",
       "title": "2.6.5 Time versus Processors: Video",
       "views": 3700
     },
     {
+      "id": "0w9luYcxHrw",
       "title": "2.7.1 Partial Orders: Video",
       "views": 16000
     },
     {
+      "id": "bHvMYZvZp7Y",
       "title": "2.7.3 Representing Partial Orders As Subset Relations: Video",
       "views": 15000
     },
     {
+      "id": "s-E5T3igntw",
       "title": "2.7.4 Equivalence Relations: Video",
       "views": 6400
     },
     {
+      "id": "TIpnudrzvgg",
       "title": "2.8.1 Degree: Video",
       "views": 4000
     },
     {
+      "id": "hVerxuP4cFg",
       "title": "2.8.3 Isomorphism: Video",
       "views": 12000
     },
     {
+      "id": "Penh4mv5gAg",
       "title": "2.9.1 Coloring: Video",
       "views": 7400
     },
     {
+      "id": "TIQ3xN38jgM",
       "title": "2.9.3 Connectivity: Video",
       "views": 3300
     },
     {
+      "id": "5wCZqdCDafc",
       "title": "2.9.4 k-Connectivity: Video",
       "views": 48000
     },
     {
+      "id": "ZEsk64C0fJg",
       "title": "2.10.1 Trees: Video",
       "views": 5400
     },
     {
+      "id": "g2mOvmC1TKc",
       "title": "2.10.3 Tree Coloring: Video",
       "views": 4500
     },
     {
+      "id": "_RqqzyWDVMA",
       "title": "2.10.5 Spanning Trees: Video",
       "views": 5600
     },
     {
+      "id": "RE5PmdGNgj0",
       "title": "2.11.1 Stable Matching: Video",
       "views": 55000
     },
     {
+      "id": "6vgHIImFwHo",
       "title": "2.11.2 Matching Ritual: Video",
       "views": 9100
     },
     {
+      "id": "n4KKgKpp--0",
       "title": "2.11.5 Optimal Stable Matching: Video",
       "views": 8400
     },
     {
+      "id": "HZLKDC9OSaQ",
       "title": "2.11.7 Bipartite Matching",
       "views": 44000
     },
     {
+      "id": "i5AWE-OoOsY",
       "title": "2.11.9 Hall's Theorem",
       "views": 40000
     },
     {
+      "id": "v6axtBS6IF8",
       "title": "3.1.1 Arithmetic Sums: Video",
       "views": 5500
     },
     {
+      "id": "ZDQk45NQbEo",
       "title": "3.1.3 Geometric Sums: Video",
-      "views": 3700
+      "views": 3800
     },
     {
+      "id": "CdhuVhWTSMI",
       "title": "3.1.5 Book Stacking: Video",
       "views": 13000
     },
     {
+      "id": "EegG5TPL29c",
       "title": "3.1.7 Integral Method: Video",
       "views": 4100
     },
     {
+      "id": "lU_QT5GSuxI",
       "title": "3.1.9 Stirling's Formula: Video",
       "views": 22000
     },
     {
+      "id": "CWkh5kb4TGc",
       "title": "3.2.1 Asymptotic Notation: Video",
       "views": 12000
     },
     {
+      "id": "HeyEK0TWiBw",
       "title": "3.2.3 Asymptotic Properties: Video",
       "views": 5700
     },
     {
+      "id": "Y9Blo_G-Mvg",
       "title": "3.2.6 Asymptotic Blunders",
       "views": 3500
     },
     {
+      "id": "yTrtVwKZkwU",
       "title": "3.3.1 Sum And Product Rules: Video",
       "views": 10000
     },
     {
+      "id": "n0lce1dMAh8",
       "title": "3.3.3 Counting with Bijections: Video",
       "views": 20000
     },
     {
+      "id": "iDfyX8WRIyM",
       "title": "3.4.1 Generalized Counting Rules: Video",
       "views": 5500
     },
     {
+      "id": "HswnmlLPGZ4",
       "title": "3.4.3 Two Pair Poker Hands: Video",
       "views": 5500
     },
     {
+      "id": "jwjDj4GoSV0",
       "title": "3.4.4 Binomial Theorem: Video",
       "views": 5700
     },
     {
+      "id": "juGgfHsO-xM",
       "title": "3.4.5 Multinomial Theorem: Video",
       "views": 45000
     },
     {
+      "id": "4Dz4vNUxnZM",
       "title": "3.5.1 The Pigeonhole Principle: Video",
       "views": 54000
     },
     {
+      "id": "51-b2mgZVNY",
       "title": "3.5.3 Inclusion-Exclusion Example: Video",
       "views": 109000
     },
     {
+      "id": "nwpzBE9IwJQ",
       "title": "3.5.4 Inclusion-Exclusion 2 Sets: Video",
       "views": 14000
     },
     {
+      "id": "dEsFEK4vnV4",
       "title": "4.1.1 Tree Model: Video",
       "views": 9000
     },
     {
+      "id": "L30HPgryd6I",
       "title": "4.1.3 Simplified Monty Hall Tree: Video",
       "views": 8600
     },
     {
+      "id": "Amd_bNYzgUw",
       "title": "4.1.5 Sample Spaces: Video",
       "views": 3400
     },
     {
+      "id": "Cu9_LaaWgHo",
       "title": "4.2.1 Conditional Probability Definitions: Video",
       "views": 5400
     },
     {
+      "id": "F3y8qupFfUs",
       "title": "4.2.3 Law of Total Probability: Video",
       "views": 29000
     },
     {
+      "id": "e-yQFC6dACA",
       "title": "4.2.5 Bayes' Theorem: Video",
       "views": 6900
     },
     {
+      "id": "BEAv82FinM0",
       "title": "4.2.7 Monty Hall Problem: Video",
       "views": 3400
     },
     {
+      "id": "1vQ2x5O_xqk",
       "title": "4.3.1 Independence: Video",
       "views": 2800
     },
     {
+      "id": "wJzBU7Do1ls",
       "title": "4.3.3 Mutual Independence: Video",
       "views": 4600
     },
     {
+      "id": "BH4qlkYCLW0",
       "title": "4.4.1 Bigger Number Game: Video",
       "views": 3000
     },
     {
+      "id": "VJzv6WJTtNc",
       "title": "4.4.2 Random Variables: Independence: Video",
       "views": 3100
     },
     {
+      "id": "L2yOSFsMvnc",
       "title": "4.4.4 Random Variables: Uniform & Binomial: Video",
       "views": 3500
     },
     {
+      "id": "YVQdVzSkcmQ",
       "title": "4.5.1 Expectation: Video",
       "views": 3400
     },
     {
+      "id": "D9l-pIg1Ayo",
       "title": "4.5.3 Expected Number Of Heads: Video",
       "views": 4200
     },
     {
+      "id": "mqoDXWrSais",
       "title": "4.5.5 Total Expectation: Video",
       "views": 7400
     },
     {
+      "id": "Dqx56lZ_icg",
       "title": "4.5.7 Mean Time to Failure: Video",
       "views": 11000
     },
     {
+      "id": "KFcodn4qfrQ",
       "title": "4.5.9 Linearity of Expectation: Video",
       "views": 31000
     }

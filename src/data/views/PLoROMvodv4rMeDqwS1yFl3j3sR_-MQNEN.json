@@ -1,82 +1,102 @@
 {
   "lectures": [
     {
+      "id": "yaLEGZuIIgE",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 1: Course Overview and AI Foundations",
-      "views": 52000
+      "views": 53000
     },
     {
+      "id": "ypZJaTqrNdk",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 2: Learning I",
       "views": 10000
     },
     {
+      "id": "Mbe5ICIUw5Q",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 3: Learning II",
-      "views": 4200
+      "views": 4300
     },
     {
+      "id": "89NND-Ca0yY",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 4: Learning III",
-      "views": 3000
+      "views": 3100
     },
     {
+      "id": "fPESauMaJYA",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 5: Search I",
-      "views": 3000
+      "views": 3100
     },
     {
+      "id": "4Iu4KPVbnAY",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 6: Search II",
       "views": 1700
     },
     {
+      "id": "2ZtF1j3n6XE",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 7: Markov Decision Processes",
       "views": 2500
     },
     {
+      "id": "34Hk2v2kwg4",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 8: Reinforcement Learning",
       "views": 1800
     },
     {
+      "id": "lOMNskWVeD8",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 9: Policy Gradient",
       "views": 1200
     },
     {
+      "id": "SMOD_GiRzb8",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 10: Games I",
       "views": 1400
     },
     {
+      "id": "9CKRoKFdS5Y",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 11: Games II",
       "views": 1000
     },
     {
+      "id": "ec2rCf4iIqU",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 12: Bayesian Networks I",
-      "views": 1400
+      "views": 1500
     },
     {
+      "id": "Dk7Kqqehzjk",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 13: Bayesian Networks and Gibbs Sampling",
-      "views": 1100
+      "views": 1200
     },
     {
+      "id": "4d9V6Sxa6gU",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 14: Bayesian Networks and Learning",
       "views": 1300
     },
     {
+      "id": "Q7V13XriJEc",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 15: Logic I",
       "views": 1400
     },
     {
+      "id": "x9Mbqu06OVo",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 16: Logic II",
       "views": 1500
     },
     {
+      "id": "3orP3u2-jcg",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 17: Language Models",
-      "views": 4800
+      "views": 4900
     },
     {
+      "id": "071zJXhvNfM",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 18: AI & Society",
       "views": 2400
     },
     {
+      "id": "lPx5PF1ttkc",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 19: AI Supply Chains",
-      "views": 7000
+      "views": 7100
     },
     {
+      "id": "5u5I5jvWR5k",
       "title": "Stanford CS221 | Autumn 2025 | Lecture 20: Fireside Chat, Conclusion",
       "views": 10000
     }

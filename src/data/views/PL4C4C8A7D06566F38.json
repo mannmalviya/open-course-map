@@ -1,142 +1,177 @@
 {
   "lectures": [
     {
+      "id": "PxCxlsl_YwY",
       "title": "Lec 1: Dot product | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 1900000
     },
     {
+      "id": "9FLItlbBUPY",
       "title": "Lec 2: Determinants; cross product | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 594000
     },
     {
+      "id": "bHdzkFrgRcA",
       "title": "Lec 3: Matrices; inverse matrices | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 437000
+      "views": 438000
     },
     {
+      "id": "YBajUR3EFSM",
       "title": "Lec 4: Square systems; equations of planes | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 344000
+      "views": 345000
     },
     {
+      "id": "57jzPlxf4fk",
       "title": "Lec 5: Parametric equations for lines and curves | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 331000
     },
     {
+      "id": "0D4BbCa4gHo",
       "title": "Lec 6: Velocity, acceleration; Kepler's second law | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 266000
     },
     {
+      "id": "U1EcnfTKXJ0",
       "title": "Lec 7: Review | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 223000
     },
     {
+      "id": "dK3NEf13nPc",
       "title": "Lec 8: Level curves; partial derivatives; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
-      "views": 342000
+      "views": 343000
     },
     {
+      "id": "UYe98CcxPbs",
       "title": "Lec 9: Max-min problems; least squares | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 286000
     },
     {
+      "id": "3_goGnJm5sA",
       "title": "Lec 10: Second derivative test; boundaries & infinity | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 239000
     },
     {
+      "id": "7eZVshlT33Q",
       "title": "Lec 11: Differentials; chain rule | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 237000
     },
     {
+      "id": "2XraaWefBd8",
       "title": "Lec 12: Gradient; directional derivative; tangent plane | MIT 18.02 Multivariable Calculus, Fall 07",
       "views": 276000
     },
     {
+      "id": "15HVevXRsBA",
       "title": "Lec 13: Lagrange multipliers | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 298000
     },
     {
+      "id": "23xbkrpQuAo",
       "title": "Lec 14: Non-independent variables | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 157000
+      "views": 158000
     },
     {
+      "id": "ChiM2-MV-qM",
       "title": "Lec 15: Partial differential equations; review | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 175000
+      "views": 176000
     },
     {
+      "id": "YP_B0AapU0c",
       "title": "Lec 16: Double integrals | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 283000
     },
     {
+      "id": "60e4hdCi1D4",
       "title": "Lec 17: Double integrals in polar coords; applications | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 226000
     },
     {
+      "id": "UZb9hZIAvL4",
       "title": "Lec 18: Change of variables | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 227000
     },
     {
+      "id": "xrypSZU8cBE",
       "title": "Lec 19: Vector fields and line integrals in the plane | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 227000
+      "views": 228000
     },
     {
+      "id": "o7UCBjGsRTE",
       "title": "Lec 20: Path independence and conservative fields | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 178000
     },
     {
+      "id": "z5TPjZrsp2k",
       "title": "Lec 21: Gradient fields and potential functions | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 152000
     },
     {
+      "id": "tYdoS0tkAHA",
       "title": "Lec 22: Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 181000
     },
     {
+      "id": "_CdoRiNSrqI",
       "title": "Lec 23: Flux; normal form of Green's theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
-      "views": 130000
+      "views": 131000
     },
     {
+      "id": "PnPIqh7Frlw",
       "title": "Lec 24: Simply connected regions; review | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 107000
     },
     {
+      "id": "44R5HgbrUmc",
       "title": "Lec 25: Triple integrals in rectangular & cylindrical | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 204000
     },
     {
+      "id": "RMBGQtwkoyU",
       "title": "Lec 26: Spherical coordinates; surface area | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 174000
     },
     {
+      "id": "phk05iSMezA",
       "title": "Lec 27: Vector fields in 3D; surface integrals & flux | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 183000
     },
     {
+      "id": "WfEQabCGAqI",
       "title": "Lec 28: Divergence theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 140000
     },
     {
+      "id": "wu8kXZSAp20",
       "title": "Lec 29: Divergence theorem (cont.): applications & proof | MIT 18.02 Multivariable Calculus, Fall 07",
       "views": 113000
     },
     {
+      "id": "seO7-TwXH_I",
       "title": "Lec 30: Line integrals in space, curl, exactness... | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 105000
     },
     {
+      "id": "tzoYhe3H5dM",
       "title": "Lec 31: Stokes' theorem | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 130000
     },
     {
+      "id": "sr7kCpzAuYw",
       "title": "Lec 32: Stokes' theorem (cont.); review | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 98000
     },
     {
+      "id": "BChhAS1sFvA",
       "title": "Lec 33: Topological considerations; Maxwell's equations | MIT 18.02 Multivariable Calculus, Fall 07",
       "views": 97000
     },
     {
+      "id": "ZwpwmGP5ITM",
       "title": "Lec 34: Final review | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 86000
     },
     {
+      "id": "24v9onS9Kcg",
       "title": "Lec 35: Final review (cont.) | MIT 18.02 Multivariable Calculus, Fall 2007",
       "views": 98000
     }

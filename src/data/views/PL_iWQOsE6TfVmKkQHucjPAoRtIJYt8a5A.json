@@ -1,266 +1,332 @@
 {
   "lectures": [
     {
+      "id": "rSY1pVGdZ4I",
       "title": "CS 182: Lecture 1, Part 1: Introduction",
       "views": 80000
     },
     {
+      "id": "FHsGHxQYxvc",
       "title": "CS 182: Lecture 1, Part 2: Introduction",
       "views": 16000
     },
     {
+      "id": "s2B0c_o_rbw",
       "title": "CS 182: Lecture 1, Part 3: Introduction",
       "views": 11000
     },
     {
+      "id": "aUNnGCxvAg0",
       "title": "CS 182: Lecture 2, Part 1: Machine Learning Basics",
       "views": 14000
     },
     {
+      "id": "oLc822BT-K4",
       "title": "CS 182: Lecture 2, Part 2: Machine Learning Basics",
       "views": 11000
     },
     {
+      "id": "zY2QgvPfSm8",
       "title": "CS 182: Lecture 2, Part 3: Machine Learning Basics",
       "views": 10000
     },
     {
+      "id": "voJ4qSH-uqw",
       "title": "CS 182: Lecture 2, Part 4: Machine Learning Basics",
       "views": 9200
     },
     {
+      "id": "PBYWWM9We-0",
       "title": "CS 182 Lecture 3: Part 1: Error Analysis",
       "views": 11000
     },
     {
+      "id": "U_cpdaJ-adk",
       "title": "CS 182 Lecture 3: Part 2: Error Analysis",
       "views": 7300
     },
     {
+      "id": "-BKfF-odbSQ",
       "title": "CS 182 Lecture 3: Part 3: Error Analysis",
       "views": 5800
     },
     {
+      "id": "RdoZWcXmXhk",
       "title": "CS 182: Lecture 4: Part 1: Optimization",
       "views": 9300
     },
     {
+      "id": "fg3GyrfcclY",
       "title": "CS 182: Lecture 4: Part 2: Optimization",
       "views": 8300
     },
     {
+      "id": "CO3-sFmADfI",
       "title": "CS 182: Lecture 4: Part 3: Optimization",
       "views": 6000
     },
     {
+      "id": "lKRatcD9hEg",
       "title": "CS 182: Lecture 5: Part 1: Backpropagation",
       "views": 10000
     },
     {
+      "id": "hpS8oIEQzcs",
       "title": "CS 182: Lecture 5: Part 2: Backpropagation",
       "views": 9900
     },
     {
+      "id": "JXX5Ea0TXTM",
       "title": "CS 182: Lecture 5: Part 3: Backpropagation",
       "views": 6700
     },
     {
+      "id": "jNW1Hi7Yi4c",
       "title": "CS 182: Lecture 6: Part 1: Convolutional Networks",
       "views": 8500
     },
     {
+      "id": "xAcAWaeUxYs",
       "title": "CS 182: Lecture 6: Part 2: Convolutional Networks",
       "views": 6300
     },
     {
+      "id": "HlJ8rpwKH5c",
       "title": "CS 182: Lecture 6: Part 3: Convolutional Networks",
       "views": 5700
     },
     {
+      "id": "0dNAhN4ypFc",
       "title": "CS 182: Lecture 7: Part 1: Initialization, Batch Normalization",
       "views": 8300
     },
     {
+      "id": "k5uLipr49zQ",
       "title": "CS 182: Lecture 7: Part 2: Initialization, Batch Normalization",
       "views": 5800
     },
     {
+      "id": "Nx48Idc0_68",
       "title": "CS 182: Lecture 7: Part 3: Initialization, Batch Normalization",
       "views": 4800
     },
     {
+      "id": "MgabSQ93IE8",
       "title": "CS 182: Lecture 8: Part 1: Computer Vision",
       "views": 6200
     },
     {
+      "id": "XHrSobup-vU",
       "title": "CS 182: Lecture 8: Part 2: Computer Vision",
       "views": 5200
     },
     {
+      "id": "gAH5dH2uTc0",
       "title": "CS 182: Lecture 8: Part 3: Computer Vision",
       "views": 4500
     },
     {
+      "id": "LACVGqw29J0",
       "title": "CS 182: Lecture 8: Part 4: Computer Vision",
       "views": 13000
     },
     {
+      "id": "VKPkM6jt_P0",
       "title": "CS 182: Lecture 9: Part 1: Visualization and Style Transfer",
       "views": 4700
     },
     {
+      "id": "AsGaxH7vizk",
       "title": "CS 182: Lecture 9: Part 2: Visualization and Style Transfer",
       "views": 2700
     },
     {
+      "id": "vyfq3SgXQyU",
       "title": "CS 182: Lecture 9: Part 3: Visualization and Style Transfer",
       "views": 2800
     },
     {
+      "id": "PyZvbaC5oQY",
       "title": "CS 182: Lecture 10: Part 1: Recurrent Neural Networks",
       "views": 9700
     },
     {
+      "id": "BOyQQbQzKG4",
       "title": "CS 182: Lecture 10: Part 2: Recurrent Neural Networks",
       "views": 5600
     },
     {
+      "id": "EFbKmZdB61g",
       "title": "CS 182: Lecture 10: Part 3: Recurrent Neural Networks",
       "views": 4900
     },
     {
+      "id": "36RjPbbcA28",
       "title": "CS 182: Lecture 11: Part 1: Sequence to Sequence",
       "views": 9000
     },
     {
+      "id": "VX5_uKOUliE",
       "title": "CS 182: Lecture 11: Part 2: Sequence to Sequence",
       "views": 5700
     },
     {
+      "id": "49wn_m7JE-c",
       "title": "CS 182: Lecture 11: Part 3: Sequence to Sequence",
       "views": 6300
     },
     {
+      "id": "VDnEnlYzHOU",
       "title": "CS 182: Lecture 12: Part 1: Transformers",
       "views": 13000
     },
     {
+      "id": "4AzsiCMw_-s",
       "title": "CS 182: Lecture 12: Part 2: Transformers",
-      "views": 14000
+      "views": 15000
     },
     {
+      "id": "DepabjkETSA",
       "title": "CS 182: Lecture 12: Part 3: Transformers",
       "views": 9900
     },
     {
+      "id": "ZmjXgCQvmeA",
       "title": "CS 182: Lecture 13: Part 1: NLP",
       "views": 6500
     },
     {
+      "id": "ea_KVuhNbRI",
       "title": "CS 182: Lecture 13: Part 2: NLP",
       "views": 4700
     },
     {
+      "id": "NyRaYGCFagQ",
       "title": "CS 182: Lecture 13: Part 3: NLP",
       "views": 4300
     },
     {
+      "id": "kGc8jOy5_zY",
       "title": "CS 182: Lecture 14: Part 1: Imitation Learning",
       "views": 20000
     },
     {
+      "id": "06uB13C5pxw",
       "title": "CS 182: Lecture 14: Part 2: Imitation Learning",
       "views": 8900
     },
     {
+      "id": "a5wkzPa4fO4",
       "title": "CS 182: Lecture 14: Part 3: Imitation Learning",
-      "views": 6900
+      "views": 7000
     },
     {
+      "id": "_AYvYUrDohw",
       "title": "CS 182: Lecture 15: Part 1: Policy Gradients",
       "views": 6200
     },
     {
+      "id": "yiXEXmKhICA",
       "title": "CS 182: Lecture 15: Part 2: Policy Gradients",
       "views": 4700
     },
     {
+      "id": "EsDm2K5nKeA",
       "title": "CS 182: Lecture 15: Part 3: Policy Gradients",
       "views": 4500
     },
     {
+      "id": "2XKPLrcfTCo",
       "title": "CS 182: Lecture 16: Part 1: Actor-Critic & Q-Learning",
       "views": 10000
     },
     {
+      "id": "STgJJQEodWE",
       "title": "CS 182: Lecture 16: Part 2: Actor-Critic & Q-Learning",
       "views": 3400
     },
     {
+      "id": "ox16C3F_GbE",
       "title": "CS 182: Lecture 16: Part 3: Actor-Critic & Q-Learning",
       "views": 3000
     },
     {
+      "id": "y380v-Mtvzo",
       "title": "CS 182: Lecture 17: Part 1: Generative Models",
-      "views": 8000
+      "views": 8100
     },
     {
+      "id": "8VZAZKIovuI",
       "title": "CS 182: Lecture 17: Part 2: Generative Models",
       "views": 4000
     },
     {
+      "id": "AX5v5med3Rw",
       "title": "CS 182: Lecture 17: Part 3: Generative Models",
       "views": 4400
     },
     {
+      "id": "9KTrUea1apo",
       "title": "CS 182: Lecture 18: Part 1: Latent Variable Models",
       "views": 12000
     },
     {
+      "id": "dptTrfzSwb8",
       "title": "CS 182: Lecture 18: Part 2: Latent Variable Models",
       "views": 5100
     },
     {
+      "id": "PedRXuVcObg",
       "title": "CS 182: Lecture 18: Part 3: Latent Variable Models",
       "views": 4100
     },
     {
+      "id": "DamPMgZrnSc",
       "title": "CS 182: Lecture 18: Part 4: Latent Variable Models",
       "views": 3200
     },
     {
+      "id": "39CmbTX1S8M",
       "title": "CS 182: Lecture 19: Part 1: GANs",
       "views": 4900
     },
     {
+      "id": "ZQCe3oN9gKI",
       "title": "CS 182: Lecture 19: Part 2: GANs",
       "views": 4100
     },
     {
+      "id": "RdC4XeExDeY",
       "title": "CS 182: Lecture 19: Part 3: GANs",
       "views": 15000
     },
     {
+      "id": "B1IkKpvaZJ0",
       "title": "CS 182: Lecture 20: Part 1: Adversarial Examples",
-      "views": 2600
+      "views": 2700
     },
     {
+      "id": "pKuX9WDU8jY",
       "title": "CS 182: Lecture 20: Part 2: Adversarial Examples",
       "views": 1800
     },
     {
+      "id": "fzRgHXknfFA",
       "title": "CS 182: Lecture 20: Part 3: Adversarial Examples",
       "views": 3100
     },
     {
+      "id": "h7qyQeXKxZE",
       "title": "CS 182: Lecture 21: Part 1: Meta-Learning",
       "views": 38000
     },
     {
+      "id": "YDNrm5vNJSM",
       "title": "CS 182: Lecture 21: Part 2: Meta-Learning",
       "views": 13000
     },
     {
+      "id": "fPVlMLd7Ma4",
       "title": "CS 182: Lecture 21: Part 3: Meta-Learning",
       "views": 5200
     }

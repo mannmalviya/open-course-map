@@ -1,106 +1,132 @@
 {
   "lectures": [
     {
+      "id": "vyVGm_2iFwU",
       "title": "CMU Database Systems - 01 Course introduction & Relational Data Model (Fall 2018)",
       "views": 89000
     },
     {
+      "id": "80atcA6gBU8",
       "title": "CMU Database Systems - 02 Advanced SQL (Fall 2018)",
       "views": 29000
     },
     {
+      "id": "uuX4PQXBeos",
       "title": "CMU Database Systems - 03 Database Storage I (Fall 2018)",
       "views": 19000
     },
     {
+      "id": "NXRgIsH83xE",
       "title": "CMU Database Systems - 04 Database Storage II (Fall 2018)",
       "views": 10000
     },
     {
+      "id": "_vRG1ksPlXs",
       "title": "CMU Database Systems - 05 Buffer Pools (Fall 2018)",
       "views": 11000
     },
     {
+      "id": "ByG1IMM6Ua8",
       "title": "CMU Database Systems - 06 Hash Tables (Fall 2018)",
       "views": 8800
     },
     {
+      "id": "VHSDhMO63ww",
       "title": "CMU Database Systems - 07 Tree Indexes Part I (Fall 2018)",
       "views": 7000
     },
     {
+      "id": "YhHKScosf0I",
       "title": "CMU Database Systems - 08 Tree Indexes Part II (Fall 2018)",
       "views": 4500
     },
     {
+      "id": "6AiAR_giC6A",
       "title": "CMU Database Systems - 09 Index Concurrency Control (Fall 2018)",
       "views": 5400
     },
     {
+      "id": "vmI72W-vgYI",
       "title": "CMU Database Systems - 10 Query Processing (Fall 2018)",
       "views": 9000
     },
     {
+      "id": "9wv-ZzClKks",
       "title": "CMU Database Systems - 11 Sorting & Aggregation Algorithms (Fall 2018)",
       "views": 4200
     },
     {
+      "id": "9W8HnmSXE4s",
       "title": "CMU Database Systems - 12 Join Algorithms (Fall 2018)",
       "views": 7200
     },
     {
+      "id": "uLKzlSO6O1M",
       "title": "CMU Database Systems - 13 Query Optimization (Fall 2018)",
       "views": 22000
     },
     {
+      "id": "FPQPRiVFPfA",
       "title": "CMU Database Systems - 14 Parallel Execution (Fall 2018)",
       "views": 3000
     },
     {
+      "id": "dednJSoYZMM",
       "title": "CMU Database Systems - 15 Embedded Logic (Fall 2018)",
       "views": 2700
     },
     {
+      "id": "r0nI_yV9KCo",
       "title": "CMU Database Systems - 16 Concurrency Control Theory (Fall 2018)",
       "views": 8200
     },
     {
+      "id": "E0zvyYkdXbU",
       "title": "CMU Database Systems - 17 Two-Phase Locking Concurrency Control (Fall 2018)",
       "views": 11000
     },
     {
+      "id": "TB_hfpQleAc",
       "title": "CMU Database Systems - 18 Timestamp Ordering Concurrency Control (Fall 2018)",
       "views": 8100
     },
     {
+      "id": "GILqZvxD6_g",
       "title": "CMU Database Systems - 19 Multi-Version Concurrency Control (Fall 2018)",
       "views": 10000
     },
     {
+      "id": "GUqC-PVfm-c",
       "title": "CMU Database Systems - 20 Logging Schemes (Fall 2018)",
       "views": 3500
     },
     {
+      "id": "De7X0NMAaUI",
       "title": "CMU Database Systems - 21 Database Recovery (Fall 2018)",
       "views": 4200
     },
     {
+      "id": "FijDo-sEx5c",
       "title": "CMU Database Systems - 22 Distributed OLTP Databases Part I (Fall 2018)",
       "views": 3800
     },
     {
+      "id": "swgT4huBvN0",
       "title": "CMU Database Systems - 23 Distributed OLTP Databases Part II (Fall 2018)",
       "views": 2700
     },
     {
+      "id": "RLFXFrA8NCA",
       "title": "CMU Database Systems - 24 Distributed OLAP Databases (Fall 2018)",
       "views": 2600
     },
     {
+      "id": "MOdpjfhxRZU",
       "title": "CMU Database Systems - 25 Ethan Zhang [VoltDB] (Fall 2018)",
       "views": 3600
     },
     {
+      "id": "n75Mcv5iF7s",
       "title": "CMU Database Systems - 26 Systems Potpourri [CockroachDB, Spanner, MongoDB] (Fall 2018)",
       "views": 4500
     }

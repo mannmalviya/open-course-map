@@ -1,146 +1,182 @@
 {
   "lectures": [
     {
+      "id": "cpXdE3HwvK0",
       "title": "Digital Design and Computer Architecture - Lecture 1: Introduction and Basics (Spring 2022)",
       "views": 39000
     },
     {
+      "id": "pvk-AeBzCms",
       "title": "Digital Design and Comp. Arch. - Lecture 2: Tradeoffs, Metrics, Mysteries in Comp Arch (Spring 2022)",
       "views": 12000
     },
     {
+      "id": "JTRCPMkusu4",
       "title": "Digital Design & Computer Arch. - Lecture 3: Mysteries in Comp Arch., FPGAs, Labs (Spring 2022)",
       "views": 9100
     },
     {
+      "id": "YEsmMLkbdfE",
       "title": "Digital Design & Computer Architecture - Lecture 4: Combinational Logic I (Spring 2022)",
       "views": 8500
     },
     {
+      "id": "6i2P9vx6FpY",
       "title": "Digital Design & Computer Architecture - Lecture 5: Combinational Logic II (Spring 2022)",
       "views": 7100
     },
     {
+      "id": "QcFP4kNdKt0",
       "title": "Digital Design & Computer Architecture - Lecture 6: Sequential Logic Design (Spring 2022)",
       "views": 6900
     },
     {
+      "id": "VocUMeCy65w",
       "title": "Digital Design & Computer Arch - Lecture 7: Hardware Description Languages and Verilog (Spring 2022)",
       "views": 6700
     },
     {
+      "id": "AXneKzWyipc",
       "title": "Digital Design & Computer Architecture - Lecture 8: Timing and Verification (Spring 2022)",
       "views": 6700
     },
     {
+      "id": "KkyLRjbDyes",
       "title": "Digital Design & Computer Architecture - Lecture 9: Von Neumann Model & ISAs (Spring 2022)",
       "views": 8400
     },
     {
+      "id": "z5gBqOLGISo",
       "title": "Digital Design & Computer Architecture - Lecture 10: Instruction Set Architectures II (Spring 2022)",
       "views": 6100
     },
     {
+      "id": "CnFbLu6akAM",
       "title": "Digital Design & Computer Architecture - Lecture 10b: Assembly Programming (Spring 2022)",
       "views": 3800
     },
     {
+      "id": "A5Uq5COaEG4",
       "title": "Digital Design & Computer Architecture - Lecture 11: Microarchitecture Fundamentals (Spring 2022)",
       "views": 5800
     },
     {
+      "id": "oRXK2OlIswE",
       "title": "Digital Design & Computer Architecture - Lecture 12: Microarchitecture Fundamentals II (Spring 2022)",
       "views": 4900
     },
     {
+      "id": "YKb-l4R5iu4",
       "title": "Digital Design & Computer Architecture - Lecture 13: Pipelining (Spring 2022)",
       "views": 4900
     },
     {
+      "id": "XaW_O9nKPe0",
       "title": "Digital Design & Computer Architecture - Lecture 14: Pipelined Processor Design (Spring 2022)",
       "views": 6700
     },
     {
+      "id": "_oq6cRfm9sU",
       "title": "Digital Design & Computer Architecture - Lecture 15: Precise Exceptions (Spring 2022)",
       "views": 5300
     },
     {
+      "id": "4b9i2Ndxr7I",
       "title": "Digital Design & Computer Architecture - Lecture 16: Out-of-Order Execution (Spring 2022)",
       "views": 5300
     },
     {
+      "id": "vulgJ3N1rlg",
       "title": "Digital Design & Comp. Arch. - Lecture 16b: Load-Store Handling in Out-of-Order Execution (S'22)",
       "views": 3100
     },
     {
+      "id": "GE15v__4x58",
       "title": "Digital Design & Computer Architecture - Lecture 17: Superscalar & Branch Prediction I (Spring 2022)",
       "views": 5700
     },
     {
+      "id": "pZjzcwZ2w7g",
       "title": "Digital Design & Computer Architecture - Lecture 18: Branch Prediction II (Spring 2022)",
       "views": 6700
     },
     {
+      "id": "1SSqV7Y75oU",
       "title": "Digital Design & Computer Arch. - Lecture 19: VLIW and Systolic Array Architectures (Spring 2022)",
       "views": 5100
     },
     {
+      "id": "1UdXDFPSpOs",
       "title": "Digital Design & Computer Architecture - Lecture 19c: Decoupled Access-Execute Arch. (Spring 2022)",
       "views": 2100
     },
     {
+      "id": "YPLPVadgw-E",
       "title": "Digital Design & Computer Arch. - Lecture 20: SIMD Processing (Vector and Array Processors) (S 2022)",
       "views": 3000
     },
     {
+      "id": "q5yYttNd768",
       "title": "Digital Design & Computer Architecture - Lecture 21: Graphics Processing Units (Spring 2022)",
       "views": 3300
     },
     {
+      "id": "yOFBiX-Ekrg",
       "title": "Digital Design & Computer Architecture - Lecture 22: Memory Organization & Technology (Spring 2022)",
       "views": 6000
     },
     {
+      "id": "jys92_j627A",
       "title": "Digital Design & Computer Architecture - Lecture 23: Memory Hierarchy and Caches (Spring 2022)",
       "views": 5900
     },
     {
+      "id": "VxEGcEXiFj4",
       "title": "Digital Design & Computer Architecture - Lecture 24: Advanced Caches (Spring 2022)",
       "views": 3900
     },
     {
+      "id": "wROQS7LIbjU",
       "title": "Digital Design & Computer Architecture - Lecture 24a: Multi-Core Caches (Spring 2022)",
       "views": 2300
     },
     {
+      "id": "lBZerzg8IsE",
       "title": "Digital Design & Computer Architecture - Lecture 25: Prefetching (Spring 2022)",
       "views": 4400
     },
     {
+      "id": "RoS9Jt51MA0",
       "title": "Digital Design & Comp. Arch. - Lecture 26: Virtual Memory (Spring 2022)",
       "views": 5000
     },
     {
+      "id": "1nfJiCRrBjM",
       "title": "Digital Design & Computer Architecture - Lecture 26a: Virtual Memory II (Spring 2022)",
       "views": 2300
     },
     {
+      "id": "_wIsh5_yFkc",
       "title": "Digital Design & Computer Architecture - Lecture 27: Epilogue (Spring 2022)",
       "views": 1800
     },
     {
+      "id": "4Uj_Bdetm7E",
       "title": "Digital Design & Computer Architecture - Problem Solving I (Spring 2022)",
       "views": 3400
     },
     {
+      "id": "y5pkJ0lnv-o",
       "title": "Digital Design & Computer Architecture - Problem Solving II (ETH Zürich, Spring 2022)",
       "views": 3500
     },
     {
+      "id": "XUwXeFWujAE",
       "title": "Digital Design & Computer Architecture - Problem Solving III (Spring 2022)",
-      "views": 4000
+      "views": 4100
     },
     {
+      "id": "mDOFtTfG1GQ",
       "title": "Digital Design & Computer Architecture - Problem Solving IV (Spring 2022)",
       "views": 3100
     }

@@ -1,94 +1,117 @@
 {
   "lectures": [
     {
+      "id": "iRVfaR3N5K4",
       "title": "1. Introduction and the geometric viewpoint on physics.",
-      "views": 494000
+      "views": 495000
     },
     {
+      "id": "TiHHz3sKDbY",
       "title": "2. Introduction to tensors.",
       "views": 318000
     },
     {
+      "id": "H6eR3sG524M",
       "title": "3. Tensors continued.",
       "views": 80000
     },
     {
+      "id": "h9xaoGkyHwg",
       "title": "4. Volumes and volume elements; conservation laws.",
       "views": 54000
     },
     {
+      "id": "OOmZkNa72t4",
       "title": "5. The stress energy tensor and the Christoffel symbol.",
       "views": 51000
     },
     {
+      "id": "6MssatXXAzc",
       "title": "6. The principle of equivalence.",
       "views": 38000
     },
     {
+      "id": "gnWKpHUj11w",
       "title": "7. Principle of equivalence continued; parallel transport.",
       "views": 27000
     },
     {
+      "id": "LoIq6KElVxs",
       "title": "8. Lie transport, Killing vectors, tensor densities.",
       "views": 33000
     },
     {
+      "id": "4QPKWFme0k4",
       "title": "9. Geodesics.",
       "views": 28000
     },
     {
+      "id": "JWSdeg4jkoY",
       "title": "10. Spacetime curvature.",
       "views": 28000
     },
     {
+      "id": "d1dtqw7f6pw",
       "title": "11. More on spacetime curvature.",
       "views": 16000
     },
     {
+      "id": "OIjLUzS6SQA",
       "title": "12. The Einstein field equation.",
       "views": 57000
     },
     {
+      "id": "JNWXzIFcf3g",
       "title": "13. The Einstein field equation (variant derivation).",
       "views": 22000
     },
     {
+      "id": "9lIgAPvppk0",
       "title": "14. Linearized gravity I: Principles and static limit.",
-      "views": 15000
+      "views": 16000
     },
     {
+      "id": "Oxk2nnuC130",
       "title": "15. Linearized gravity II: Dynamic sources",
       "views": 11000
     },
     {
+      "id": "R2vL2wLqGYg",
       "title": "16. Gravitational radiation I",
       "views": 14000
     },
     {
+      "id": "pUqA_iHLBWQ",
       "title": "17. Gravitational radiation II",
-      "views": 9300
+      "views": 9400
     },
     {
+      "id": "wBvXOb59l-k",
       "title": "18. Cosmology I",
       "views": 17000
     },
     {
+      "id": "p_10lgn2BiI",
       "title": "19. Cosmology II",
       "views": 8200
     },
     {
+      "id": "PVYTNKZDHBo",
       "title": "20. Spherical compact sources I",
       "views": 8000
     },
     {
+      "id": "K1vpc9YwlQI",
       "title": "21. Spherical compact sources II",
       "views": 6600
     },
     {
+      "id": "ZqF-7bjnzCU",
       "title": "22. Black holes I",
       "views": 23000
     },
     {
+      "id": "_uNWqE3LS1E",
       "title": "23. Black holes II",
       "views": 12000
     }

@@ -1,96 +1,119 @@
 {
   "lectures": [
     {
+      "id": "uKgMFj1eQQc",
       "title": "Fundamentals of Computer Architecture: Lecture 1: Modern Microprocessor Design (Spring 2025)",
       "views": 19000
     },
     {
+      "id": "DY7Bftw1r2I",
       "title": "Fundamentals of Comp. Arch.: L2: Pipelined and Out-of-Order Microprocessor Design (Spring 2025)",
-      "views": 5100
+      "views": 5200
     },
     {
+      "id": "dfikxn-L96I",
       "title": "Fundamentals of Computer Architecture: L3: Out-of-Order Microprocessor Design II & Branch Prediction",
       "views": 3100
     },
     {
+      "id": "FYJ_KB_MV-I",
       "title": "Fundamentals of Computer Architecture -- Lecture 4: Branch Prediction II & Prefetching (Spring 2025)",
       "views": 3200
     },
     {
+      "id": "x2Vkw8p90NU",
       "title": "Fundamentals of Computer Architecture -- Lecture 5: Prefetching II (Spring 2025)",
       "views": 1700
     },
     {
+      "id": "jwGUJhRup3E",
       "title": "Fundamentals of Computer Architecture -- Lecture 6: Dataflow, Superscalar, VLIW (Spring 2025)",
       "views": 2200
     },
     {
+      "id": "rMAzYZ0eWN4",
       "title": "Fundamentals of Computer Architecture -- Lecture 7: SIMD Architectures (Spring 2025)",
       "views": 2200
     },
     {
+      "id": "VNHNGVCT4Pg",
       "title": "Fundamentals of Computer Architecture -- Lecture 8: GPU Architectures (Spring 2025)",
-      "views": 2400
+      "views": 2500
     },
     {
+      "id": "LecZfREuWvk",
       "title": "Fundamentals of Computer Architecture -- Lecture 9: Systolic Arrays and Simulation (Spring 2025)",
-      "views": 2100
+      "views": 2200
     },
     {
+      "id": "a-xufoPu3LI",
       "title": "Fundamentals of Computer Architecture -- Lecture 9c: Decoupled Access-Execute (Spring 2025)",
-      "views": 812
+      "views": 816
     },
     {
+      "id": "ikNoMPQHtfU",
       "title": "Fundamentals of Computer Architecture -- Lecture 10: Virtual Memory (Spring 2025)",
       "views": 1500
     },
     {
+      "id": "7Q7B6cZwAkM",
       "title": "Fundamentals of Computer Architecture -- Lecture 11: Memory-Centric Computing (Spring 2025)",
       "views": 1100
     },
     {
+      "id": "m8_k_INKoH8",
       "title": "Fundamentals of Computer Architecture -- Lecture 12: Memory Robustness (Spring 2025)",
-      "views": 902
+      "views": 906
     },
     {
+      "id": "oCJc29gHGoM",
       "title": "Fundamentals of Comp. Architecture -- Lecture 13: Flash Memory and Solid-State Drives (Spring 2025)",
-      "views": 786
+      "views": 790
     },
     {
+      "id": "3AzVswnOH5w",
       "title": "Fundamentals of Comp. Architecture -- Lecture 14: Interconnects (Spring 2025)",
       "views": 2000
     },
     {
+      "id": "laoOhBe9k9c",
       "title": "Fundamentals of Comp. Arch. - L15: Parallelism, Heterogeneity & Bottleneck Acceleration (Spr 2025)",
-      "views": 886
+      "views": 892
     },
     {
+      "id": "JNRfN2u1CAY",
       "title": "Fundamentals of Comp. Arch. - L16: Multiprocessors, Memory Ordering & Cache Coherence (Spr. 2025)",
-      "views": 1100
+      "views": 1200
     },
     {
+      "id": "3_3dIv4b1Po",
       "title": "Fundamentals of Comp. Architecture - Lecture 17: On-Chip Networks (Spring 2025)",
       "views": 1300
     },
     {
+      "id": "HEmT1bAv3Ko",
       "title": "Fundamentals of Comp. Arch. -- Lecture 18: Emerging Memory Technologies (Spring 2025)",
       "views": 536
     },
     {
+      "id": "bfKCN_8ZyGA",
       "title": "Fundamentals of Comp. Arch. -- Lecture 20: Enabling Memory-Centric Computing (Spring 2025)",
-      "views": 774
+      "views": 777
     },
     {
+      "id": "3OP-8yjZyYk",
       "title": "Fundamentals of Comp. Arch. -- Lecture 21: Cutting-Edge Research on Memory Robustness (Spring 2025)",
       "views": 578
     },
     {
+      "id": "D0Pt5vcpzuc",
       "title": "Fundamentals of Comp. Arch. -- Lecture 22: Speculation (Spring 2025)",
-      "views": 862
+      "views": 864
     },
     {
+      "id": "C--DejhYbsU",
       "title": "Fundamentals of Comp. Arch. -- Lecture 19: Genome Analysis (Spring 2025)",
-      "views": 618
+      "views": 619
     }
   ]
 }

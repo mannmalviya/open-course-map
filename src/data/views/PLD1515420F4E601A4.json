@@ -1,118 +1,147 @@
 {
   "lectures": [
     {
+      "id": "nzmFc2gjUo4",
       "title": "1. Introduction",
-      "views": 306000
+      "views": 307000
     },
     {
+      "id": "ZiK4lg3Tzfs",
       "title": "2. Planetary Orbits",
       "views": 101000
     },
     {
+      "id": "psGVZRhemCg",
       "title": "3. Our Solar System and the Pluto Problem",
       "views": 68000
     },
     {
+      "id": "wxZ4cOxQqMQ",
       "title": "4. Discovering Exoplanets: Hot Jupiters",
       "views": 39000
     },
     {
+      "id": "aXvkfXcBLzk",
       "title": "5. Planetary Transits",
       "views": 29000
     },
     {
+      "id": "r7QJyOYnmXs",
       "title": "6. Microlensing, Astrometry and Other Methods",
       "views": 26000
     },
     {
+      "id": "dVvYa138qJE",
       "title": "7. Direct Imaging of Exoplanets",
       "views": 22000
     },
     {
+      "id": "1UeSeRpGYoo",
       "title": "8. Introduction to Black Holes",
       "views": 48000
     },
     {
+      "id": "D6fXiW3oEws",
       "title": "9.  Special and General Relativity",
       "views": 46000
     },
     {
+      "id": "dII3mcnwycs",
       "title": "10. Tests of Relativity",
       "views": 30000
     },
     {
+      "id": "9Gz-MyUGF7k",
       "title": "11. Special and General Relativity (cont.)",
       "views": 30000
     },
     {
+      "id": "rIUxvzJzPYw",
       "title": "12. Stellar Mass Black Holes",
       "views": 24000
     },
     {
+      "id": "hMgBUcP6RBc",
       "title": "13. Stellar Mass Black Holes (cont.)",
       "views": 17000
     },
     {
+      "id": "OJwlgdgC3s0",
       "title": "14. Pulsars",
       "views": 24000
     },
     {
+      "id": "IlcE7QwGoMU",
       "title": "15.  Supermassive Black Holes",
-      "views": 23000
+      "views": 24000
     },
     {
+      "id": "4Jsr_24D6Eo",
       "title": "16.  Hubble's Law and the Big Bang",
       "views": 23000
     },
     {
+      "id": "7Lz-Lj5sa3I",
       "title": "17.  Hubble's Law and the Big Bang (cont.)",
       "views": 16000
     },
     {
+      "id": "E9bjdR_k5qg",
       "title": "18.  Hubble's Law and the Big Bang (cont.)",
       "views": 15000
     },
     {
+      "id": "UaD1a25gbxk",
       "title": "19. Omega and the End of the Universe",
       "views": 20000
     },
     {
+      "id": "QF1Lcx1ciTE",
       "title": "20. Dark Matter",
       "views": 22000
     },
     {
+      "id": "40OQdPbeM0c",
       "title": "21.  Dark Energy and the Accelerating Universe and the Big Rip",
       "views": 41000
     },
     {
+      "id": "LME94GCyD4Y",
       "title": "22. Supernovae",
       "views": 15000
     },
     {
+      "id": "Jgoyk2UzgEA",
       "title": "23. Other Constraints: The Cosmic Microwave Background",
       "views": 14000
     },
     {
+      "id": "YAxwmiKrjgU",
       "title": "24. The Multiverse and Theories of Everything",
       "views": 42000
     },
     {
+      "id": "XdJhHHcMOaE",
       "title": "Frontiers and Controversies in Astrophysics update 02",
       "views": 1100
     },
     {
+      "id": "kY0KzVP_-R0",
       "title": "Frontiers and Controversies in Astrophysics update 04",
-      "views": 902
+      "views": 904
     },
     {
+      "id": "HQK4HgVyYtM",
       "title": "Frontiers and Controversies in Astrophysics update 05",
-      "views": 886
+      "views": 887
     },
     {
+      "id": "fZ7p2-166R0",
       "title": "Frontiers and Controversies in Astrophysics update 01",
       "views": 2000
     },
     {
+      "id": "keVcly-TkhE",
       "title": "Frontiers and Controversies in Astrophysics update 03",
       "views": 1900
     }

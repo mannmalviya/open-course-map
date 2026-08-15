@@ -1,42 +1,52 @@
 {
   "lectures": [
     {
+      "id": "2pWv7GOvuf0",
       "title": "RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning",
       "views": 1800000
     },
     {
+      "id": "lfHX2hHRMVQ",
       "title": "RL Course by David Silver - Lecture 2: Markov Decision Process",
-      "views": 758000
+      "views": 759000
     },
     {
+      "id": "Nd1-UUMVfz4",
       "title": "RL Course by David Silver - Lecture 3: Planning by Dynamic Programming",
-      "views": 468000
+      "views": 469000
     },
     {
+      "id": "PnHCvfgC_ZA",
       "title": "RL Course by David Silver - Lecture 4: Model-Free Prediction",
-      "views": 392000
+      "views": 393000
     },
     {
+      "id": "0g4j2k_Ggc4",
       "title": "RL Course by David Silver - Lecture 5: Model Free Control",
       "views": 314000
     },
     {
+      "id": "UoPei5o4fps",
       "title": "RL Course by David Silver - Lecture 6: Value Function Approximation",
       "views": 299000
     },
     {
+      "id": "KHZVXao4qXs",
       "title": "RL Course by David Silver - Lecture 7: Policy Gradient Methods",
       "views": 314000
     },
     {
+      "id": "ItMutbeOHtc",
       "title": "RL Course by David Silver - Lecture 8: Integrating Learning and Planning",
       "views": 151000
     },
     {
+      "id": "sGuiWX07sKw",
       "title": "RL Course by David Silver - Lecture 9: Exploration and Exploitation",
-      "views": 130000
+      "views": 131000
     },
     {
+      "id": "kZ_AUmFcZtk",
       "title": "RL Course by David Silver - Lecture 10: Classic Games",
       "views": 86000
     }

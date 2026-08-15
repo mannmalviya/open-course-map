@@ -1,58 +1,72 @@
 {
   "lectures": [
     {
+      "id": "0xaLT4Svzgo",
       "title": "Test Lecture 1",
-      "views": 72000
+      "views": 73000
     },
     {
+      "id": "A3obZhw7Jc4",
       "title": "MIT: Machine Learning 6.036, Lecture 2: Perceptrons (Fall 2020)",
       "views": 25000
     },
     {
+      "id": "WZVNvfMdk-E",
       "title": "MIT: Machine Learning 6.036, Lecture 3: Features (Fall 2020)",
       "views": 12000
     },
     {
+      "id": "abB3fwfPy14",
       "title": "MIT: Machine Learning 6.036, Lecture 4: Logistic regression (Fall 2020)",
       "views": 23000
     },
     {
+      "id": "OpvrwhWEUmY",
       "title": "MIT: Machine Learning 6.036, Lecture 5: Regression (Fall 2020)",
       "views": 10000
     },
     {
+      "id": "N0uGnAfXUes",
       "title": "MIT: Machine Learning 6.036, Lecture 6: Neural networks (Fall 2020)",
       "views": 9500
     },
     {
+      "id": "QJY342H8LOo",
       "title": "MIT: Machine Learning 6.036, Lecture 7: Brief intermission (Fall 2020)",
-      "views": 2900
+      "views": 3000
     },
     {
+      "id": "sFEZ180RvTI",
       "title": "MIT: Machine Learning 6.036, Lecture 8: Convolutional neural networks (Fall 2020)",
       "views": 6300
     },
     {
+      "id": "O5hkIfUR_uA",
       "title": "MIT: Machine Learning 6.036, Lecture 9: State machines and Markov decision processes (Fall 2020)",
       "views": 6100
     },
     {
+      "id": "Ir93m9OmOHo",
       "title": "MIT: Machine Learning 6.036, Lecture 10: Reinforcement learning (Fall 2020)",
       "views": 4800
     },
     {
+      "id": "JZ0WVuk4mt8",
       "title": "MIT: Machine Learning 6.036, Lecture 11: Recurrent neural networks (Fall 2020)",
       "views": 3900
     },
     {
+      "id": "ZOiBe-nrmc4",
       "title": "MIT: Machine Learning 6.036, Lecture 12: Decision trees and random forests (Fall 2020)",
       "views": 30000
     },
     {
+      "id": "BaZWcSq3IuI",
       "title": "MIT: Machine Learning 6.036, Lecture 13: Clustering (Fall 2020)",
       "views": 10000
     },
     {
+      "id": "kZWPuZV9Qkc",
       "title": "MIT: Machine Learning 6.036, Lecture 14: Guest lecture (David Sontag) (Fall 2020)",
       "views": 3500
     }

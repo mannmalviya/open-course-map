@@ -1,82 +1,102 @@
 {
   "lectures": [
     {
+      "id": "UzxYlbK2c7E",
       "title": "Lecture 1 | Machine Learning (Stanford)",
       "views": 2600000
     },
     {
+      "id": "5u4G23_OohI",
       "title": "Lecture 2 | Machine Learning (Stanford)",
-      "views": 849000
+      "views": 850000
     },
     {
+      "id": "HZ4cvaztQEs",
       "title": "Lecture 3 | Machine Learning (Stanford)",
       "views": 460000
     },
     {
+      "id": "nLKOQfKLUks",
       "title": "Lecture 4 | Machine Learning (Stanford)",
       "views": 328000
     },
     {
+      "id": "qRJ3GKMOFrE",
       "title": "Lecture 5 | Machine Learning (Stanford)",
       "views": 261000
     },
     {
+      "id": "qyyJKd-zXRE",
       "title": "Lecture 6 | Machine Learning (Stanford)",
       "views": 212000
     },
     {
+      "id": "s8B4A5ubw6c",
       "title": "Lecture 7 | Machine Learning (Stanford)",
       "views": 183000
     },
     {
+      "id": "bUv9bfMPMb4",
       "title": "Lecture 8 | Machine Learning (Stanford)",
       "views": 147000
     },
     {
+      "id": "tojaGtMPo5U",
       "title": "Lecture 9 | Machine Learning (Stanford)",
       "views": 123000
     },
     {
+      "id": "0kWZoyNRxTY",
       "title": "Lecture 10 | Machine Learning (Stanford)",
       "views": 106000
     },
     {
+      "id": "sQ8T9b-uGVE",
       "title": "Lecture 11 | Machine Learning (Stanford)",
       "views": 102000
     },
     {
+      "id": "ZZGTuAkF-Hw",
       "title": "Lecture 12 | Machine Learning (Stanford)",
       "views": 148000
     },
     {
+      "id": "LBtuYU-HfUg",
       "title": "Lecture 13 | Machine Learning (Stanford)",
       "views": 95000
     },
     {
+      "id": "ey2PE5xi9-A",
       "title": "Lecture 14 | Machine Learning (Stanford)",
       "views": 115000
     },
     {
+      "id": "QGd06MTRMHs",
       "title": "Lecture 15 | Machine Learning (Stanford)",
       "views": 110000
     },
     {
+      "id": "RtxI449ZjSc",
       "title": "Lecture 16 | Machine Learning (Stanford)",
       "views": 118000
     },
     {
+      "id": "LKdFTsM3hl4",
       "title": "Lecture 17 | Machine Learning (Stanford)",
       "views": 77000
     },
     {
+      "id": "-ff6l5D8-j8",
       "title": "Lecture 18 | Machine Learning (Stanford)",
       "views": 76000
     },
     {
+      "id": "UFH5ibWnA7g",
       "title": "Lecture 19 | Machine Learning (Stanford)",
       "views": 71000
     },
     {
+      "id": "yCqPMD6coO8",
       "title": "Lecture 20 | Machine Learning (Stanford)",
       "views": 87000
     }

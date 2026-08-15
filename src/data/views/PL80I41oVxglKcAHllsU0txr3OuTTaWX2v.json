@@ -1,130 +1,162 @@
 {
   "lectures": [
     {
+      "id": "0bMe_vCZo30",
       "title": "Week 1 – Lecture: History, motivation, and evolution of Deep Learning",
       "views": 277000
     },
     {
+      "id": "5_qrxVq1kvc",
       "title": "Week 1 – Practicum: Classification, linear algebra, and visualisation",
       "views": 67000
     },
     {
+      "id": "d9vdh3b787Y",
       "title": "Week 2 – Lecture: Stochastic gradient descent and backpropagation",
       "views": 59000
     },
     {
+      "id": "WAn6lip5oWk",
       "title": "Week 2 – Practicum: Training a neural network",
       "views": 28000
     },
     {
+      "id": "FW5gFiJb-ig",
       "title": "Week 3 – Lecture: Convolutional neural networks",
       "views": 31000
     },
     {
+      "id": "kwPWpVverkw",
       "title": "Week 3 – Practicum: Natural signals properties and CNNs",
       "views": 15000
     },
     {
+      "id": "OrBEon3VlQg",
       "title": "Week 4 – Practicum: Listening to convolutions",
       "views": 13000
     },
     {
+      "id": "--NZb480zlg",
       "title": "Week 5 – Lecture: Optimisation",
       "views": 19000
     },
     {
+      "id": "eEzCZnOFU1w",
       "title": "Week 5 – Practicum: 1D multi-channel convolution and autograd",
       "views": 11000
     },
     {
+      "id": "ycbMGyCPzvE",
       "title": "Week 6 – Lecture: CNN applications, RNN, and attention",
       "views": 21000
     },
     {
+      "id": "8cAffg2jaT0",
       "title": "Week 6 – Practicum: RNN and LSTM architectures",
       "views": 11000
     },
     {
+      "id": "bggWQ14DD9M",
       "title": "Week 7 – Practicum: Under- and over-complete autoencoders",
       "views": 11000
     },
     {
+      "id": "tVwV14YkbYs",
       "title": "Week 7 – Lecture: Energy based models and self-supervised learning",
       "views": 35000
     },
     {
+      "id": "ZaVP2SY23nc",
       "title": "Week 8 – Lecture: Contrastive methods and regularised latent variable models",
       "views": 15000
     },
     {
+      "id": "7Rb4s9wNOmc",
       "title": "Week 8 – Practicum: Variational autoencoders",
       "views": 23000
     },
     {
+      "id": "Pgct8PKV7iw",
       "title": "Week 9 – Lecture: Group sparsity, world model, and generative adversarial networks (GANs)",
       "views": 10000
     },
     {
+      "id": "xYc11zyZ26M",
       "title": "Week 9 – Practicum: (Energy-based) Generative adversarial networks",
       "views": 7700
     },
     {
+      "id": "A3klBqEWR-I",
       "title": "Week 10 – Practicum: The Truck Backer-Upper",
       "views": 5000
     },
     {
+      "id": "0KeR6i1_56g",
       "title": "Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)",
       "views": 19000
     },
     {
+      "id": "VcrCr-KNBHc",
       "title": "Week 11 – Practicum: Prediction and Policy learning Under Uncertainty (PPUU)",
       "views": 5100
     },
     {
+      "id": "bj1fh3BvqSU",
       "title": "Week 11 – Lecture: PyTorch activation and loss functions",
       "views": 12000
     },
     {
+      "id": "f01J0Dri-6k",
       "title": "Week 12 – Practicum: Attention and the Transformer",
       "views": 13000
     },
     {
+      "id": "6D4EWKJgNn0",
       "title": "Week 12 – Lecture: Deep Learning for Natural Language Processing (NLP)",
       "views": 10000
     },
     {
+      "id": "2aKXWqkbpWg",
       "title": "Week 13 – Practicum: Graph Convolutional Neural Networks (GCN)",
       "views": 11000
     },
     {
+      "id": "Iiv9R6BjxHM",
       "title": "Week 13 – Lecture: Graph Convolutional Networks (GCNs)",
       "views": 62000
     },
     {
+      "id": "gYayCG6YyO8",
       "title": "Week 14 – Lecture: Structured prediction with energy based models",
       "views": 10000
     },
     {
+      "id": "DL7iew823c0",
       "title": "Week 14 – Practicum: Overfitting and regularization, and Bayesian neural nets",
       "views": 5300
     },
     {
+      "id": "sbhr2wjU1-I",
       "title": "Week 15 – Practicum part A: Inference for latent variable energy based models (EBMs)",
       "views": 4900
     },
     {
+      "id": "XLSb1Cs1Jao",
       "title": "Week 15 – Practicum part B: Training latent variable energy based models (EBMs)",
       "views": 4200
     },
     {
+      "id": "d2GixptaHjk",
       "title": "Matrix multiplication, signals, and convolutions",
       "views": 5800
     },
     {
+      "id": "nCq_vy9qE-k",
       "title": "Supervised and self-supervised transfer learning (with PyTorch Lightning)",
       "views": 14000
     },
     {
+      "id": "LHDq2PkebD4",
       "title": "Four decades in Machine Learning: a Personal Journey by Yann LeCun",
       "views": 12000
     }

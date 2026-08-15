@@ -1,84 +1,104 @@
 {
   "lectures": [
     {
+      "id": "Z1zgrgstVAw",
       "title": "Lecture 1: Pigeonhole Principle",
-      "views": 50000
+      "views": 51000
     },
     {
+      "id": "DxpSDeG7lL4",
       "title": "Lecture 2: Independence and Conditioning",
-      "views": 5900
+      "views": 6000
     },
     {
+      "id": "cqPcQ3QqYnE",
       "title": "Lecture 3: Inclusion-Exclusion",
-      "views": 5200
+      "views": 5300
     },
     {
+      "id": "H-Ix7gIt9i4",
       "title": "Lecture 4: Counting",
-      "views": 4400
+      "views": 4500
     },
     {
+      "id": "HpQUVd1MGso",
       "title": "Lecture 5: More Counting and Generating Functions",
-      "views": 8400
+      "views": 8500
     },
     {
+      "id": "XfRe9i3FR1U",
       "title": "Lecture 6: More on Generating Functions",
       "views": 1800
     },
     {
+      "id": "JNSyyOAeMOc",
       "title": "Lecture 7: Generating Functions for Catalan Numbers",
       "views": 4000
     },
     {
+      "id": "HC54KcgvReg",
       "title": "Lecture 8: Tail Bounds",
-      "views": 1600
+      "views": 1700
     },
     {
+      "id": "FPj3OOM6DEc",
       "title": "Lecture 9: Chernoff Bounds",
       "views": 1700
     },
     {
+      "id": "wkmDtvO222A",
       "title": "Lecture 10: Modular Arithmetic",
-      "views": 4300
+      "views": 4400
     },
     {
+      "id": "hUtdHAeyY6Y",
       "title": "Lecture 11: Basic Group Theory",
-      "views": 6900
+      "views": 7000
     },
     {
+      "id": "qKNkP6IfjvY",
       "title": "Lecture 12: Introduction to Linear Programming",
-      "views": 6600
+      "views": 6800
     },
     {
+      "id": "oyVZ3rao6M4",
       "title": "Lecture 13: Duality in Linear Programming",
       "views": 2800
     },
     {
+      "id": "o6blhvYXfq4",
       "title": "Lecture 14: Zero-Sum Games",
       "views": 2800
     },
     {
+      "id": "pX-HnYwO454",
       "title": "Lecture 15: Max-Flow Min-Cut Theorem",
       "views": 1600
     },
     {
+      "id": "4OpiI5NLjIE",
       "title": "Lecture 16: Data Compression and Shannon’s Noiseless Coding Theorem",
       "views": 6600
     },
     {
+      "id": "zZN1A0Ufb8E",
       "title": "Lecture 17: Huffman Coding",
-      "views": 3500
+      "views": 3600
     },
     {
+      "id": "kWsJ_JDuFaI",
       "title": "Lecture 18: Transmitting Information Reliably over a Noisy Channel & Shannon’s Noisy Coding Theorem",
       "views": 1400
     },
     {
+      "id": "N81pBt3KUWI",
       "title": "Lecture 19: Error-Correcting Codes—Hamming Codes",
-      "views": 1500
+      "views": 1600
     },
     {
+      "id": "OapnQzIDBM0",
       "title": "Lecture 20: Reed-Solomon Codes",
-      "views": 2900
+      "views": 3000
     }
   ]
 }

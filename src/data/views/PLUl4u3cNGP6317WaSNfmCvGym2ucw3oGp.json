@@ -1,138 +1,172 @@
 {
   "lectures": [
     {
+      "id": "2P-yW7LQr08",
       "title": "1. Course Overview, Interval Scheduling",
-      "views": 689000
+      "views": 690000
     },
     {
+      "id": "EzeYI7p9MjU",
       "title": "2. Divide & Conquer: Convex Hull, Median Finding",
-      "views": 227000
+      "views": 228000
     },
     {
+      "id": "09vU-wVwW3U",
       "title": "R1. Matrix Multiplication and the Master Theorem",
       "views": 82000
     },
     {
+      "id": "iTMn0Kt18tg",
       "title": "3. Divide & Conquer: FFT",
       "views": 368000
     },
     {
+      "id": "TOb1tuEZ2X4",
       "title": "R2. 2-3 Trees and B-Trees",
       "views": 244000
     },
     {
+      "id": "hmReJCupbNU",
       "title": "4. Divide & Conquer: van Emde Boas Trees",
       "views": 86000
     },
     {
+      "id": "3MpzavN3Mco",
       "title": "5. Amortization: Amortized Analysis",
       "views": 144000
     },
     {
+      "id": "cNB2lADK3_s",
       "title": "6. Randomization: Matrix Multiply, Quicksort",
       "views": 69000
     },
     {
+      "id": "QPk8MUtq5yA",
       "title": "R4. Randomized Select and Randomized Quicksort",
       "views": 47000
     },
     {
+      "id": "2g9OSRKJuzM",
       "title": "7. Randomization: Skip Lists",
       "views": 97000
     },
     {
+      "id": "z0lJ2k0sl1g",
       "title": "8. Randomization: Universal & Perfect Hashing",
       "views": 98000
     },
     {
+      "id": "krZI60lKPek",
       "title": "R5. Dynamic Programming",
       "views": 118000
     },
     {
+      "id": "xVka6z1hu-I",
       "title": "9. Augmentation: Range Trees",
       "views": 67000
     },
     {
+      "id": "Tw1k46ywN6E",
       "title": "10. Dynamic Programming: Advanced DP",
       "views": 124000
     },
     {
+      "id": "NzgFUwOaoIw",
       "title": "11. Dynamic Programming: All-Pairs Shortest Paths",
-      "views": 116000
+      "views": 117000
     },
     {
+      "id": "tKwnms5iRBU",
       "title": "12. Greedy Algorithms: Minimum Spanning Tree",
       "views": 253000
     },
     {
+      "id": "-QcPo_DWJk4",
       "title": "R6. Greedy Algorithms",
       "views": 91000
     },
     {
+      "id": "VYZGlgzr_As",
       "title": "13. Incremental Improvement: Max Flow, Min Cut",
       "views": 172000
     },
     {
+      "id": "8C_T4iTzPCU",
       "title": "14. Incremental Improvement: Matching",
       "views": 59000
     },
     {
+      "id": "0CdxkgAjsDA",
       "title": "R7. Network Flow and Matching",
       "views": 40000
     },
     {
+      "id": "WwMz2fJwUCg",
       "title": "15. Linear Programming: LP, reductions, Simplex",
       "views": 233000
     },
     {
+      "id": "eHZifpgyH_4",
       "title": "16. Complexity: P, NP, NP-completeness, Reductions",
-      "views": 493000
+      "views": 494000
     },
     {
+      "id": "G7mqtB6npfE",
       "title": "R8. NP-Complete Problems",
       "views": 141000
     },
     {
+      "id": "MEz1J9wY2iM",
       "title": "17. Complexity: Approximation Algorithms",
       "views": 93000
     },
     {
+      "id": "4q-jmGrmxKs",
       "title": "18. Complexity: Fixed-Parameter Algorithms",
       "views": 38000
     },
     {
+      "id": "zM5MW5NKZJg",
       "title": "R9. Approximation Algorithms: Traveling Salesman Problem",
       "views": 143000
     },
     {
+      "id": "mUBmcbbJNf4",
       "title": "19. Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees",
       "views": 32000
     },
     {
+      "id": "EQjwWn-WrdI",
       "title": "20. Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees",
       "views": 60000
     },
     {
+      "id": "w_-SX4vR53M",
       "title": "R10. Distributed Algorithms",
       "views": 35000
     },
     {
+      "id": "KqqOXndnvic",
       "title": "21. Cryptography: Hash Functions",
-      "views": 195000
+      "views": 196000
     },
     {
+      "id": "9TNI2wHmaeI",
       "title": "22. Cryptography: Encryption",
       "views": 62000
     },
     {
+      "id": "ZLOhV4XQ_tI",
       "title": "R11. Cryptography: More Primitives",
       "views": 10000
     },
     {
+      "id": "CSqbjfCCLrU",
       "title": "23. Cache-Oblivious Algorithms: Medians & Matrices",
       "views": 23000
     },
     {
+      "id": "C6EWVBNCxsc",
       "title": "24. Cache-Oblivious Algorithms: Searching & Sorting",
       "views": 21000
     }

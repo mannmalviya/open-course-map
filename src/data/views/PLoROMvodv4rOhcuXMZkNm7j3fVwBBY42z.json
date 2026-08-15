@@ -1,90 +1,112 @@
 {
   "lectures": [
     {
+      "id": "8rXD5-xhemo",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors",
       "views": 835000
     },
     {
+      "id": "kEMJRjEdNzM",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 2 – Word Vectors and Word Senses",
       "views": 226000
     },
     {
+      "id": "8CWyBNX6eDo",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 3 – Neural Networks",
       "views": 131000
     },
     {
+      "id": "yLYHDSv-288",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation",
       "views": 90000
     },
     {
+      "id": "nC9_RfjYwqA",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 5 – Dependency Parsing",
       "views": 91000
     },
     {
+      "id": "iWea12EAu6U",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 6 – Language Models and RNNs",
       "views": 118000
     },
     {
+      "id": "QEw0qEa0E50",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs",
       "views": 86000
     },
     {
+      "id": "XXtpJxZBa2c",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention",
       "views": 124000
     },
     {
+      "id": "fyqm8fRDgl0",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 9 – Practical Tips for Projects",
       "views": 50000
     },
     {
+      "id": "yIdF-17HwSk",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 10 – Question Answering",
       "views": 73000
     },
     {
+      "id": "EAJoRA0KX7I",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 11 – Convolutional Networks for NLP",
       "views": 63000
     },
     {
+      "id": "9oTHFx0Gg3Q",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 12 – Subword Models",
       "views": 52000
     },
     {
+      "id": "S-CspeZ8FHc",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 13 – Contextual Word Embeddings",
       "views": 72000
     },
     {
+      "id": "5vcj8kSwBCY",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention",
       "views": 162000
     },
     {
+      "id": "4uG1NMKNWCU",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 15 – Natural Language Generation",
       "views": 54000
     },
     {
+      "id": "i19m4GzBhfc",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 16 – Coreference Resolution",
       "views": 34000
     },
     {
+      "id": "M8dsZsEtEsg",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 17 – Multitask Learning",
       "views": 36000
     },
     {
+      "id": "6Z4A3RSf-HY",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 18 – Constituency Parsing, TreeRNNs",
       "views": 28000
     },
     {
+      "id": "XR8YSRcuVLE",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI",
       "views": 30000
     },
     {
+      "id": "3wWZBGN-iX8",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 20 – Future of NLP + Deep Learning",
       "views": 36000
     },
     {
+      "id": "mp95Z5yM92c",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation",
       "views": 30000
     },
     {
+      "id": "knTc-NQSjKA",
       "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models",
       "views": 81000
     }

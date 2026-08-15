@@ -1,108 +1,134 @@
 {
   "lectures": [
     {
+      "id": "w8h_AWHTcK4",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 0",
       "views": 4900
     },
     {
+      "id": "qQtfKayFdfM",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 1",
       "views": 5000
     },
     {
+      "id": "gUt3rsT5_-8",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 2",
       "views": 3000
     },
     {
+      "id": "j0as9k7qnck",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 3",
       "views": 1800
     },
     {
+      "id": "OJpR7J8MPgA",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 4",
       "views": 1600
     },
     {
+      "id": "I3BjsU-QukA",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 6",
       "views": 1200
     },
     {
+      "id": "2RdQ7kiJgIo",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 8",
-      "views": 835
+      "views": 839
     },
     {
+      "id": "qt5r69AIIKE",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 9",
-      "views": 811
+      "views": 812
     },
     {
+      "id": "oNu0KCzjc9I",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 10",
-      "views": 705
+      "views": 711
     },
     {
+      "id": "vFCeU6IhxDQ",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 9",
-      "views": 799
+      "views": 802
     },
     {
+      "id": "TR_ovddIwCU",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 11",
       "views": 606
     },
     {
+      "id": "bPzYScY3CHM",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 12",
       "views": 647
     },
     {
+      "id": "DHSQ0RYdab8",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 13",
       "views": 1100
     },
     {
+      "id": "j78_efCyMxU",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 15",
-      "views": 491
+      "views": 493
     },
     {
+      "id": "1KRcs8XYUWo",
       "title": "CMU Introduction to Deep Learning 11-785: Lecture 16",
-      "views": 631
+      "views": 634
     },
     {
+      "id": "RMBXmlot6Jo",
       "title": "11-785 CMU Intro to Deep Learning - Lec 17: Language Models & Translation",
-      "views": 486
+      "views": 487
     },
     {
+      "id": "RjI7bGMJZV0",
       "title": "11-785 CMU Intro to Deep Learning - Lec 18: Attention Models & Transformers",
       "views": 1100
     },
     {
+      "id": "oB6Vbk3-Hao",
       "title": "CMU Introduction To Deep Learning, Fall 2025: Lecture 19, Transformers and Newer Architectures",
       "views": 1300
     },
     {
+      "id": "1EoMZNywIR8",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 21",
-      "views": 493
-    },
-    {
-      "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 22",
       "views": 498
     },
     {
-      "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 23",
-      "views": 590
+      "id": "2MWWkJVF7bQ",
+      "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 22",
+      "views": 505
     },
     {
+      "id": "mN3c7_E524w",
+      "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 23",
+      "views": 595
+    },
+    {
+      "id": "wrwYoiqyn68",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 24",
       "views": 343
     },
     {
+      "id": "B7hu_r3TgP0",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 25",
       "views": 499
     },
     {
+      "id": "JVeCYzQAO-E",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 26",
       "views": 665
     },
     {
+      "id": "V4coYgcdIuE",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 27",
-      "views": 401
+      "views": 403
     },
     {
+      "id": "WkLKBkozoII",
       "title": "CMU Introduction To Deep Learning 11-785, Fall 2025: Lecture 28",
-      "views": 680
+      "views": 681
     }
   ]
 }

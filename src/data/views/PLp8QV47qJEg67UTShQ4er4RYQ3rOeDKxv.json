@@ -1,110 +1,137 @@
 {
   "lectures": [
     {
+      "id": "NG3MHjcvk2A",
       "title": "[CS188 SP24] LEC01 - Intro to AI, Rational Agents",
       "views": 41000
     },
     {
+      "id": "PU6VQbV49_g",
       "title": "[CS188 SP24] LEC02 - Search: State Spaces, Uninformed Search",
-      "views": 14000
+      "views": 15000
     },
     {
+      "id": "zRFZwAUQT8U",
       "title": "[CS188 SP24] LEC03 - Search: Informed Search, A*, Heuristics",
       "views": 9600
     },
     {
+      "id": "Wqmd_i0coLc",
       "title": "[CS188 SP24] LEC04 - Search: Local Search",
       "views": 9900
     },
     {
+      "id": "h8Tz4knj-vM",
       "title": "[CS188 SP24] LEC05 - Games: Trees, Minimax, Pruning",
-      "views": 8400
+      "views": 8500
     },
     {
+      "id": "_-xH1CAfoxM",
       "title": "[CS188 SP24] LEC06 - Games: Expectimax, Monte Carlo Tree Search",
       "views": 8500
     },
     {
+      "id": "WVaBk3ldQIo",
       "title": "[CS188 SP24] LEC07 - Logic: Propositional Logic and Planning",
       "views": 6400
     },
     {
+      "id": "09RkMHtqUP0",
       "title": "[CS188 SP24] LEC08 - Logic: Logical Inference, Theorem Proving, Boolean Satisfiability, DPLL",
       "views": 3900
     },
     {
+      "id": "fiE-oT3FPms",
       "title": "[CS188 SP24] LEC09 - Logic: First Order Logic",
       "views": 3000
     },
     {
+      "id": "rzcZqPAeWVs",
       "title": "[CS188 SP24] LEC10 - Intro to Probability",
       "views": 4800
     },
     {
+      "id": "lJ7nHubyahw",
       "title": "[CS188 SP24] LEC11 - Bayes Nets",
       "views": 5800
     },
     {
+      "id": "FW9XbSGcR4Q",
       "title": "[CS188 SP24] LEC12 - Bayes Nets: Inference",
       "views": 4500
     },
     {
+      "id": "DkgxBR_43AI",
       "title": "[CS188 SP24] LEC13 - Bayes Nets: Sampling",
       "views": 3200
     },
     {
+      "id": "Hw8uDHUPhWE",
       "title": "[CS188 SP24] LEC14 - HMMs: Markov Chains, HMMs",
       "views": 3900
     },
     {
+      "id": "U5eAXW7LsMI",
       "title": "[CS188 SP24] LEC15 - HMMs: Forward & Viterbi Algorithms, Dynamic Bayes Nets, Particle Filtering",
       "views": 2400
     },
     {
+      "id": "hY3JEKiCcOU",
       "title": "[CS188 SP24] LEC16 - Utility Theory, Rationality, Decision Networks, VPI",
       "views": 2600
     },
     {
+      "id": "i2hHZRhzy-k",
       "title": "[CS188 SP24] LEC17 - MDPs: States, Values, Policies, Q-values",
       "views": 4300
     },
     {
+      "id": "JAado8hvJI0",
       "title": "[CS188 SP24] LEC18 - MDPs: Dynamic Programming",
       "views": 3000
     },
     {
+      "id": "wCSP8VF4d08",
       "title": "[CS188 SP24] LEC19 - ML: Machine Learning I",
       "views": 3700
     },
     {
+      "id": "En7O-JQoYGw",
       "title": "[CS188 SP24] LEC20 - ML: Machine Learning II",
       "views": 2500
     },
     {
+      "id": "QTRcQflmp5s",
       "title": "[CS188 SP24] LEC21 - ML: Machine Learning III",
       "views": 2000
     },
     {
+      "id": "VtHxqXiQF8g",
       "title": "[CS188 SP24] LEC22 - ML: Neural Networks",
-      "views": 2200
+      "views": 2300
     },
     {
+      "id": "u65uDsdMBwo",
       "title": "[CS188 SP24] LEC23 - RL: Bandits & Recommendation Systems",
       "views": 1600
     },
     {
+      "id": "zB2zrBG9Ox0",
       "title": "[CS188 SP24] LEC24 - RL: Reinforcement Learning I",
       "views": 4100
     },
     {
+      "id": "nNsOyTWxcXA",
       "title": "[CS188 SP24] LEC25 - RL: Reinforcement Learning II",
       "views": 3100
     },
     {
+      "id": "vZBurv4uPoI",
       "title": "[CS188 SP24] LEC26 - AI Existential Safety",
       "views": 1100
     },
     {
+      "id": "EEMP1AlPpaI",
       "title": "[CS188 SP24] LEC27 - Large Language Models",
       "views": 1600
     }

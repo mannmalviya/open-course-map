@@ -1,90 +1,112 @@
 {
   "lectures": [
     {
+      "id": "0jWOZoTsYzI",
       "title": "Deep Learning in Life Sciences - Lecture 01 - Course Intro, AI, ML (Spring 2021)",
       "views": 44000
     },
     {
+      "id": "QyFrYUCXbgI",
       "title": "Machine Learning Foundations - Deep Learning in Life Sciences Lecture 02 (Spring 2021)",
       "views": 15000
     },
     {
+      "id": "r5nXYc2wYvI",
       "title": "CNNs Convolutional Neural Networks - Deep Learning in Life Sciences - Lecture 03 (Spring 2021)",
       "views": 11000
     },
     {
+      "id": "tpeqHeqpmT0",
       "title": "Recurrent Neural Networks RNNs, Graph Neural Networks GNNs, Long Short Term Memory LSTMs",
       "views": 7900
     },
     {
+      "id": "5fIy19GXAxI",
       "title": "Interpretable Deep Learning - Deep Learning in Life Sciences - Lecture 05 (Spring 2021)",
       "views": 9100
     },
     {
+      "id": "XEN5VfFScSg",
       "title": "Generative Models, Adversarial Networks GANs, Variational Autoencoders VAEs, Representation Learning",
       "views": 5800
     },
     {
+      "id": "5usrA2yWQjw",
       "title": "Regulatory Genomics - Deep Learning in Life Sciences - Lecture 07 (Spring 2021)",
       "views": 10000
     },
     {
+      "id": "iHOgKx1mqEw",
       "title": "Deep Learning for Regulatory Genomics - Regulator binding, Transcription Factors TFs",
       "views": 7300
     },
     {
+      "id": "6ArtsTQ0eiM",
       "title": "Gene Expression Prediction - Lecture 09 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 9500
     },
     {
+      "id": "NNOkdgE4jNM",
       "title": "Single Cell Genomics - Lecture 10 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 13000
     },
     {
+      "id": "0byf2OF6AT0",
       "title": "Dimensionality Reduction - Lecture 11 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 4000
     },
     {
+      "id": "j3l1RpBimjU",
       "title": "Disease Circuitry Dissection GWAS - Lecture 12 - Deep Learning in Life Science (Spring 2021)",
       "views": 4300
     },
     {
+      "id": "8tfTSLvQvsw",
       "title": "GWAS mechanism - Lecture 13 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 3800
     },
     {
+      "id": "r-c6uJcsCdg",
       "title": "Systems Genetics - Lecture 14 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 3100
     },
     {
+      "id": "mv2Df-_p7EQ",
       "title": "Graph Neural Networks - Lecture 15 -  Learning in Life Sciences (Spring 2021)",
       "views": 8300
     },
     {
+      "id": "AHVJv5RNqKs",
       "title": "AI for Drug Design - Lecture 16 - Deep Learning in the Life Sciences (Spring 2021)",
       "views": 68000
     },
     {
+      "id": "1YHsSFWn5OA",
       "title": "Deep Learning for Protein Folding - Lecture 17 - MIT Deep Learning in Life Sciences (Spring 2021)",
       "views": 13000
     },
     {
+      "id": "dhMm5uGLzG4",
       "title": "Machine Learning for Pathology - Lecture 19 - MIT Deep Learning in the Life Sciences (Spring 2021)",
       "views": 5500
     },
     {
+      "id": "MVDUnbVXMGM",
       "title": "Deep Learning for Cell Imaging Segmentation - Lecture 20 - MIT ML in Life Sciences (Spring 2021)",
       "views": 9300
     },
     {
+      "id": "c4dvyTBvysQ",
       "title": "Deep Learning Image Registration and Analysis - Lecture 21 - MIT ML in Life Sciences (Spring 2021)",
       "views": 15000
     },
     {
+      "id": "KKX589Jt2bA",
       "title": "Electronic health records - Lecture 22 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 3100
     },
     {
+      "id": "Jj9BbKhZSYM",
       "title": "Deep Learning and Neuroscience - Lecture 23 - Deep Learning in Life Sciences (Spring 2021)",
       "views": 4000
     }

@@ -1,46 +1,57 @@
 {
   "lectures": [
     {
+      "id": "Z56Jmr9Z34Q",
       "title": "Lecture 1: Course Overview + The Shell (2020)",
-      "views": 879000
+      "views": 880000
     },
     {
+      "id": "kgII-YWo3Zw",
       "title": "Lecture 2: Shell Tools and Scripting (2020)",
       "views": 348000
     },
     {
+      "id": "a6Q8Na575qc",
       "title": "Lecture 3: Editors (Vim) (2020)",
       "views": 422000
     },
     {
+      "id": "sz_dsktIjt4",
       "title": "Lecture 4: Data Wrangling (2020)",
-      "views": 183000
+      "views": 184000
     },
     {
+      "id": "e8BO_dYxk5c",
       "title": "Lecture 5: Command-line Environment (2020)",
       "views": 125000
     },
     {
+      "id": "2sjqTHE0zok",
       "title": "Lecture 6: Version Control (git) (2020)",
       "views": 745000
     },
     {
+      "id": "l812pUnKxME",
       "title": "Lecture 7: Debugging and Profiling (2020)",
       "views": 103000
     },
     {
+      "id": "_Ms1Z4xfqv4",
       "title": "Lecture 8: Metaprogramming (2020)",
       "views": 118000
     },
     {
+      "id": "tjwobAmnKTo",
       "title": "Lecture 9: Security and Cryptography (2020)",
       "views": 77000
     },
     {
+      "id": "JZDt-PRq0uo",
       "title": "Lecture 10: Potpourri (2020)",
       "views": 63000
     },
     {
+      "id": "Wz50FvGG6xU",
       "title": "Lecture 11: Q&A (2020)",
       "views": 49000
     }

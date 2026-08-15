@@ -1,110 +1,137 @@
 {
   "lectures": [
     {
+      "id": "4yfkM_5EFgo",
       "title": "Computer Architecture - Lecture 1: Introduction and Basics (Fall 2021)",
       "views": 48000
     },
     {
+      "id": "vQ2WLNwledQ",
       "title": "Computer Architecture - Lecture 2: Trends, Tradeoffs and Design Fundamentals (Fall 2021)",
       "views": 10000
     },
     {
+      "id": "W6tDBt0prAM",
       "title": "Computer Architecture - Lecture 3: Memory Systems: Trends, Challenges, Opportunities (Fall 2021)",
       "views": 7900
     },
     {
+      "id": "G8nj6etQdEw",
       "title": "Comp. Arch.- Lecture 4: Major Issues in Memory: Energy, Perf., Reliability, Security, Predictability",
       "views": 4500
     },
     {
+      "id": "7wVKnPj3NVw",
       "title": "Computer Architecture - Lecture 5: RowHammer & Secure and Reliable Memory (Fall 2021)",
       "views": 3500
     },
     {
+      "id": "HNd4skQrt6I",
       "title": "Computer Architecture - Lecture 6: Processing using Memory (Fall 2021)",
       "views": 4100
     },
     {
+      "id": "k56x2qcaXWY",
       "title": "Computer Architecture - Lecture 7: Processing using Memory II (Fall 2021)",
       "views": 2500
     },
     {
+      "id": "kpgLmX9sdcI",
       "title": "Computer Architecture - Lecture 8: Processing near Memory (Fall 2021)",
-      "views": 2800
+      "views": 2900
     },
     {
+      "id": "TuVw_SKaTCo",
       "title": "Computer Architecture - Lecture 9: Real PIM Systems: UPMEM Case Study (Fall 2021)",
       "views": 1600
     },
     {
+      "id": "tm-IRYa14qs",
       "title": "Computer Architecture - Lecture 10: Intelligent Genome Analysis (Fall 2021)",
       "views": 1600
     },
     {
+      "id": "LjWerPli8Sw",
       "title": "Computer Architecture - Lecture 11: Low-Latency Memory (Fall 2021)",
       "views": 2600
     },
     {
+      "id": "mjiabRzGchI",
       "title": "Computer Arch. - Lecture 12: Memory Controllers: Performance, Energy, Quality of Service (Fall 2021)",
       "views": 4700
     },
     {
+      "id": "PDT0lqjftGg",
       "title": "Computer Architecture - Lecture 13: Memory Controllers: Performance & Service Quality (Fall 2021)",
       "views": 2500
     },
     {
+      "id": "4OP2PftkgYg",
       "title": "Computer Architecture - Lecture 14: Emerging Memory Technologies (Fall 2021)",
       "views": 2000
     },
     {
+      "id": "KPPfRRPENgQ",
       "title": "Computer Architecture - Lecture 15: Cutting-edge Research in Computer Architecture I (Fall 2021)",
       "views": 2200
     },
     {
+      "id": "MMO7PHTaBY0",
       "title": "Computer Architecture - Lecture 16: Cutting-edge Research in Computer Architecture II (Fall 2021)",
       "views": 2300
     },
     {
+      "id": "TUnCDAsKjW0",
       "title": "Computer Architecture - Discussion Session 1 (Fall 2021)",
       "views": 669
     },
     {
+      "id": "GLzG_rEDn9A",
       "title": "Computer Architecture - Lecture 17: Parallelism & Heterogeneity (Fall 2021)",
       "views": 2600
     },
     {
+      "id": "P8l3SMAbyYw",
       "title": "Computer Architecture - Lecture 18: Parallelism & Heterogeneity II (Fall 2021)",
       "views": 2800
     },
     {
+      "id": "vcC7v4Uh1ro",
       "title": "Computer Architecture - Lecture 19: Multiprocessors & Memory Ordering (Fall 2021)",
       "views": 4400
     },
     {
+      "id": "9k6UMsIDvBk",
       "title": "Computer Architecture - Lecture 20: Cache Coherence (Fall 2021)",
       "views": 6500
     },
     {
+      "id": "YA4ZdrJkVIw",
       "title": "Computer Architecture - Discussion Session 2 (Fall 2021)",
       "views": 1400
     },
     {
+      "id": "YcIOZ6uYV90",
       "title": "Computer Architecture -Discussion Session 3 (Fall 2021)",
       "views": 706
     },
     {
+      "id": "P_57FZSnrO4",
       "title": "Computer Architecture - Lecture 21: Interconnects (Fall 2021)",
       "views": 7500
     },
     {
+      "id": "paW4oCVLvd8",
       "title": "Computer Architecture - Lecture 22: On-Chip Networks & Efficient Router Design (Fall 2021)",
       "views": 5200
     },
     {
+      "id": "f3IU9IX990o",
       "title": "Computer Architecture - Lecture 23: SIMD Processors and GPUs (Fall 2021)",
       "views": 5700
     },
     {
+      "id": "dyjTB2CYcdY",
       "title": "Computer Architecture - Lecture 24: Cutting-edge Research in Computer Architecture III (Fall 2021)",
       "views": 2300
     }

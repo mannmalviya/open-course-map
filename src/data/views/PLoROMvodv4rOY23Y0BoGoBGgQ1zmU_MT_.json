@@ -1,70 +1,87 @@
 {
   "lectures": [
     {
+      "id": "SQ3fZ1sAqXI",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 1: Overview and Tokenization",
-      "views": 735000
+      "views": 737000
     },
     {
+      "id": "msHyYioAyNE",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lec. 2: Pytorch, Resource Accounting",
       "views": 155000
     },
     {
+      "id": "ptFiH_bHnJw",
       "title": "Stanford CS336 Lang. Modeling from Scratch | Spring 2025 | Lec. 3: Architectures, Hyperparameters",
-      "views": 119000
+      "views": 120000
     },
     {
+      "id": "LPv1KfUXLCo",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 4: Mixture of experts",
       "views": 82000
     },
     {
+      "id": "6OBtO9niT00",
       "title": "Stanford CS336 I Language Modeling from Scratch | Spring 2025 | Lecture 5: GPUs",
       "views": 67000
     },
     {
+      "id": "E8Mju53VB00",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 6: Kernels, Triton",
       "views": 49000
     },
     {
+      "id": "l1RJcDjzK8M",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 7: Parallelism 1",
-      "views": 45000
+      "views": 46000
     },
     {
+      "id": "LHpr5ytssLo",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 8: Parallelism 2",
       "views": 28000
     },
     {
+      "id": "6Q-ESEmDf4Q",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 9: Scaling laws 1",
       "views": 33000
     },
     {
+      "id": "fcgPYo3OtV0",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 10: Inference",
       "views": 33000
     },
     {
+      "id": "OSYuUqGBQxw",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 11: Scaling laws 2",
       "views": 23000
     },
     {
+      "id": "x-R5l2HsXqM",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 12: Evaluation",
       "views": 24000
     },
     {
+      "id": "WePxmeXU1xg",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 13: Data 1",
       "views": 25000
     },
     {
+      "id": "9Cd0THLS1t0",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 14: Data 2",
       "views": 23000
     },
     {
+      "id": "Dfu7vC9jo4w",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 15: Alignment - SFT/RLHF",
       "views": 36000
     },
     {
+      "id": "46f2QTDB08Q",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 16: Alignment - RL 1",
       "views": 38000
     },
     {
+      "id": "JdGFdViaOJk",
       "title": "Stanford CS336 Language Modeling from Scratch | Spring 2025 | Lecture 17: Alignment - RL 2",
       "views": 40000
     }

@@ -1,6 +1,6 @@
 import { BackgroundLayer, type Background } from './Canvas';
 import { GroupNode } from './nodes';
-import { SketchBox } from './sketch';
+import { SketchBox, SketchRule } from './sketch';
 import {
   childGroups, map, PATHWAYS_GROUP, pathways, pathwaySchools, pathwayStepCount,
   schoolsByCourseCount, wordmarkFor,
@@ -28,7 +28,9 @@ function subjects() {
 
 export function Landing({ background, onOpen }: LandingProps) {
   const courseCount = Object.keys(map.courses).length;
-  const schools = schoolsByCourseCount();
+  // The wall is universities in their own marks, so a school with no logo file
+  // (fast.ai, which is not a university anyway) sits this one out
+  const schools = schoolsByCourseCount().filter((school) => wordmarkFor(school));
   const paths = pathways();
 
   return (
@@ -120,22 +122,15 @@ export function Landing({ background, onOpen }: LandingProps) {
           })}
         </div>
 
-        {/* Schools without a logo file keep their name as a wordmark rather than vanish */}
         <div className="logo-wall">
-          <span className="logo-wall-label">Lectures from</span>
+          <SketchRule seedKey="rule:wall" />
+          <h2>Lectures from</h2>
           <ul className="logo-row">
-            {schools.map((school) => {
-              const logo = wordmarkFor(school);
-              return (
-                <li key={school} className="logo-item" title={school}>
-                  {logo ? (
-                    <img className="school-logo" src={logo} alt={school} />
-                  ) : (
-                    <span className="school-wordmark">{school}</span>
-                  )}
-                </li>
-              );
-            })}
+            {schools.map((school) => (
+              <li key={school} className="logo-item" title={school}>
+                <img className="school-logo" src={wordmarkFor(school)} alt={school} />
+              </li>
+            ))}
           </ul>
         </div>
       </div>

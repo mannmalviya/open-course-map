@@ -10,13 +10,18 @@ this directory:
   scaled to a row of type turns into a blob, which is why Harvard, Stanford,
   Berkeley and UC Santa Cruz carry a separate `-wordmark` file.
 
-A school with no file at all still appears — as its name set in type — so
-logos can be filled in a few at a time.
+A school with no file at all is left out of the logo row — it is a wall of
+marks, and a name set in type among them looks like a mistake. fast.ai is the
+one such school today. Course cards are unaffected: they fall back to the
+school's name.
 
 The row inks every mark flat (black in light theme, white in dark) and returns
-it to its own colours on hover, so mismatched brand palettes and transparent
-backgrounds sort themselves out. What matters in a new file is the shape: a
-transparent background, tight cropping, and no baked-in white box.
+it to its own colours on hover — in dark theme by flipping luminance and
+putting the hue back, since navy and black straight from a brand book are
+invisible on a near-black page. What matters in a new file is the shape: a
+transparent background, tight cropping, and no baked-in white box. Marks that
+still land heavy or small next to the others are nudged in `styles.css`, where
+a handful of `.school-logo[src*='…']` rules do the optical sizing.
 
 Sources: the marks are the schools' own, taken from Wikimedia Commons and used
 to identify whose lectures a course is. They are trademarks of their

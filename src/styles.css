@@ -1133,85 +1133,82 @@ body {
    clashing brand palettes read as one row. Hover returns a logo to its colours. */
 /* Closing the page, so it gets room to breathe and marks big enough to read */
 .logo-wall {
-  margin-top: 88px;
-  padding-top: 44px;
-  border-top: 1px solid var(--rule);
+  margin-top: 80px;
 }
 
-.logo-wall-label {
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--muted);
+.logo-wall h2 {
+  margin-top: 34px;
 }
 
+.sketch-rule {
+  width: 100%;
+  line-height: 0;
+  color: var(--ink);
+}
+
+/* Equal cells rather than spacing sized to each mark: the row scans as a grid,
+   and a short last row still centres under the ones above it. */
 .logo-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: center;
-  gap: 40px 64px;
-  margin: 34px auto 0;
+  gap: 8px;
+  margin: 30px auto 0;
   list-style: none;
 }
 
+/* The cell is spacing only — nothing is drawn around a mark, hovered or not */
 .logo-item {
   display: flex;
   align-items: center;
-  height: 46px;
+  justify-content: center;
+  width: 196px;
+  height: 80px;
 }
 
 .school-logo {
-  height: 100%;
+  max-height: 40px;
+  max-width: 152px;
   width: auto;
-  max-width: 220px;
-  object-fit: contain;
+  height: auto;
   opacity: 0.55;
   filter: brightness(0);
-  transition: opacity 0.25s ease, filter 0.25s ease;
+  transition: opacity 0.25s ease, filter 0.25s ease, transform 0.25s ease;
 }
 
 :root[data-theme='dark'] .school-logo {
-  opacity: 0.6;
+  opacity: 0.62;
   filter: brightness(0) invert(1);
 }
 
+/* Hover brings a mark up to full strength and its own colours, and leans in
+   slightly — enough to feel live without drawing anything around it */
 .logo-item:hover .school-logo {
   opacity: 1;
   filter: none;
+  transform: scale(1.07);
 }
 
-/* Dark theme keeps the inversion on hover — Yale navy and Harvard crimson
-   would all but vanish against the page if their own colours came back. */
+/* Dark theme flips luminance and puts the hue back, so a mark hovers in its own
+   colours — lightened, since Yale navy or a black wordmark straight from the
+   brand book would be invisible on a near-black page. */
 :root[data-theme='dark'] .logo-item:hover .school-logo {
   opacity: 1;
-  filter: brightness(0) invert(1);
+  filter: invert(1) hue-rotate(180deg);
 }
 
 /* Optical sizing: matched cap heights leave heavy marks shouting and monograms
    whispering, so the outliers are nudged until the row reads evenly. */
 .school-logo[src*='nyu'] {
-  height: 80%;
+  max-height: 32px;
 }
 
 .school-logo[src*='harvard'],
-.school-logo[src*='yale'] {
-  height: 115%;
+.school-logo[src*='yale'],
+.school-logo[src*='umich'] {
+  max-height: 46px;
 }
 
-/* Schools with no logo file — fast.ai is a wordmark anyway, not a crest */
-.school-wordmark {
-  font-size: 30px;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  color: var(--ink);
-  opacity: 0.55;
-  transition: opacity 0.25s ease;
-}
-
-.logo-item:hover .school-wordmark {
-  opacity: 1;
-}
 
 .landing h2 {
   font-family: var(--hand-font);

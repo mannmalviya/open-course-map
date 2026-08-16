@@ -122,6 +122,42 @@ export function SketchBox({
   );
 }
 
+/**
+ * A drawn horizontal divider. A CSS border is the wrong hand for this page, so
+ * the rule is a rough line that spans whatever box it is dropped into.
+ */
+export function SketchRule({ seedKey }: { seedKey: string }) {
+  const ref = useRef<HTMLDivElement>(null);
+  const [w, setW] = useState(0);
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const measure = () => setW(el.clientWidth);
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    measure();
+    return () => ro.disconnect();
+  }, []);
+
+  const paths = useMemo(
+    () => gen.toPaths(gen.line(1, 3, w - 1, 3, { seed: seedFor(seedKey), roughness: 1.1, strokeWidth: 1.4 })),
+    [w, seedKey]
+  );
+
+  return (
+    <div ref={ref} className="sketch-rule">
+      {w > 0 && (
+        <svg width={w} height={7} aria-hidden="true">
+          {paths.map((p, i) => (
+            <path key={i} d={p.d} style={{ fill: 'none', stroke: 'var(--ink)', strokeWidth: 1.4 }} strokeLinecap="round" />
+          ))}
+        </svg>
+      )}
+    </div>
+  );
+}
+
 interface SketchArrowProps {
   x1: number;
   y1: number;

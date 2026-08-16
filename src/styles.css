@@ -501,6 +501,11 @@ body {
   pointer-events: none;
 }
 
+/* Boxes that take --sketch-ink / --sketch-fill can be recoloured on hover */
+.sketch-box-frame path {
+  transition: fill 0.2s ease, stroke 0.2s ease;
+}
+
 .sketch-box-body {
   position: relative;
 }
@@ -1052,6 +1057,13 @@ body {
 /* The drawn frame wanders past the box, so the button needs room around it */
 .cta-box {
   margin: 4px;
+  transition: transform 0.2s ease;
+}
+
+.cta-box:hover,
+.cta-box:focus-within {
+  --sketch-fill: var(--hover-bg);
+  transform: translateY(-2px);
 }
 
 .cta {
@@ -1063,11 +1075,6 @@ body {
   font-size: 21px;
   color: var(--accent);
   cursor: pointer;
-  border-radius: 8px;
-}
-
-.cta:hover {
-  background: var(--hover-bg);
 }
 
 .landing-stats {
@@ -1142,6 +1149,15 @@ body {
 /* The drawn frame wanders outside the box, so cards need room not to collide */
 .pathway-card {
   margin: 4px;
+  transition: transform 0.2s ease;
+}
+
+/* Hover tints the drawn shape itself — see --sketch-fill on .sketch-box-frame */
+.pathway-card:hover,
+.pathway-card:focus-within {
+  --sketch-ink: var(--accent);
+  --sketch-fill: var(--hover-bg);
+  transform: translateY(-2px);
 }
 
 .pathway-card > .sketch-box-body {
@@ -1162,11 +1178,6 @@ body {
   font: inherit;
   text-align: left;
   cursor: pointer;
-  border-radius: 10px;
-}
-
-.pathway-hit:hover {
-  background: var(--hover-bg);
 }
 
 /* Kind and field share one line — two facts, one row of chrome */

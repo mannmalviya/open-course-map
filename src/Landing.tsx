@@ -1,3 +1,4 @@
+import { BackgroundLayer, type Background } from './Canvas';
 import { GroupNode } from './nodes';
 import { SketchBox } from './sketch';
 import {
@@ -6,6 +7,7 @@ import {
 } from './model';
 
 interface LandingProps {
+  background: Background;
   onOpen: (groupId: string) => void;
 }
 
@@ -24,13 +26,14 @@ function subjects() {
   return childGroups('root').filter((id) => id !== PATHWAYS_GROUP);
 }
 
-export function Landing({ onOpen }: LandingProps) {
+export function Landing({ background, onOpen }: LandingProps) {
   const courseCount = Object.keys(map.courses).length;
   const schools = schoolsByCourseCount();
   const paths = pathways();
 
   return (
     <main className="landing">
+      <BackgroundLayer background={background} />
       <div className="landing-inner">
         <h1>Open Course Map</h1>
         <p className="landing-tagline">
@@ -43,6 +46,7 @@ export function Landing({ onOpen }: LandingProps) {
             seedKey="cta:map"
             className="cta-box"
             stroke="var(--accent)"
+            fill="var(--sketch-fill, var(--node-fill))"
             strokeWidth={1.8}
           >
             <button className="cta" onClick={() => onOpen('root')}>
@@ -94,7 +98,13 @@ export function Landing({ onOpen }: LandingProps) {
             const steps = pathwayStepCount(id);
             const schools = pathwaySchools(id);
             return (
-              <SketchBox key={id} seedKey={'pathway:' + id} className="pathway-card">
+              <SketchBox
+                key={id}
+                seedKey={'pathway:' + id}
+                className="pathway-card"
+                stroke="var(--sketch-ink, var(--ink))"
+                fill="var(--sketch-fill, var(--node-fill))"
+              >
                 <button className="pathway-hit" onClick={() => onOpen(id)}>
                   <span className="pathway-tags">
                     <span className={'pathway-kind kind-' + group.kind}>

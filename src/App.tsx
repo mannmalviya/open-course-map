@@ -215,7 +215,7 @@ export default function App() {
   return (
     <div className="app">
       {route.landing ? (
-        <Landing onOpen={(id) => navigate(id)} />
+        <Landing background={background} onOpen={(id) => navigate(id)} />
       ) : route.courseId ? (
         <CoursePage courseId={route.courseId} background={background} onJumpToNode={jumpToNode} />
       ) : (

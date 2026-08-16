@@ -3,7 +3,7 @@ import { GroupNode } from './nodes';
 import { SketchBox } from './sketch';
 import {
   childGroups, map, PATHWAYS_GROUP, pathways, pathwaySchools, pathwayStepCount,
-  schoolsByCourseCount,
+  schoolsByCourseCount, wordmarkFor,
 } from './model';
 
 interface LandingProps {
@@ -53,10 +53,13 @@ export function Landing({ background, onOpen }: LandingProps) {
               Open the map →
             </button>
           </SketchBox>
-          <span className="landing-stats">
-            {courseCount} courses · all free, all on YouTube
-          </span>
         </div>
+
+        {/* The whole point of the project, stated once and set apart */}
+        <p className="landing-free">Always free</p>
+        <p className="landing-stats">
+          {courseCount} courses · {schools.length} universities · every lecture on YouTube
+        </p>
 
         {/* The map's own boxes, drawn straight into the page — click one to go there */}
         <div className="landing-band">
@@ -79,13 +82,6 @@ export function Landing({ background, onOpen }: LandingProps) {
             );
           })}
         </div>
-
-        <p className="landing-schools">
-          <span className="landing-schools-label">Lectures from</span>
-          {schools.map((school) => (
-            <span key={school} className="school">{school}</span>
-          ))}
-        </p>
 
         <h2>Or follow a pathway</h2>
         <p className="landing-sub">
@@ -122,6 +118,25 @@ export function Landing({ background, onOpen }: LandingProps) {
               </SketchBox>
             );
           })}
+        </div>
+
+        {/* Schools without a logo file keep their name as a wordmark rather than vanish */}
+        <div className="logo-wall">
+          <span className="logo-wall-label">Lectures from</span>
+          <ul className="logo-row">
+            {schools.map((school) => {
+              const logo = wordmarkFor(school);
+              return (
+                <li key={school} className="logo-item" title={school}>
+                  {logo ? (
+                    <img className="school-logo" src={logo} alt={school} />
+                  ) : (
+                    <span className="school-wordmark">{school}</span>
+                  )}
+                </li>
+              );
+            })}
+          </ul>
         </div>
       </div>
     </main>

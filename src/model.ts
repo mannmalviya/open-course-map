@@ -97,10 +97,32 @@ const LOGOS: Record<string, string> = {
   Yale: '/logos/yale.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz.svg',
   'UC Berkeley': '/logos/uc-berkeley.svg',
+  CMU: '/logos/cmu.svg',
+  Caltech: '/logos/caltech.svg',
+  'ETH Zürich': '/logos/eth-zurich.svg',
+  UMich: '/logos/umich.svg',
+  NYU: '/logos/nyu.png',
+  'DeepMind x UCL': '/logos/deepmind.svg',
 };
 
 export function logoFor(university?: string): string | undefined {
   return university ? LOGOS[university] : undefined;
+}
+
+/**
+ * Marks for the landing page's logo row. Crests turn to mush at a row's size,
+ * so schools whose main logo is a seal get a wordmark here instead — the square
+ * mark is still the right one in the 22px slot a course card gives a school.
+ */
+const WORDMARKS: Record<string, string> = {
+  Harvard: '/logos/harvard-wordmark.png',
+  Stanford: '/logos/stanford-wordmark.svg',
+  'UC Berkeley': '/logos/uc-berkeley-wordmark.svg',
+  'UC Santa Cruz': '/logos/uc-santa-cruz-wordmark.svg',
+};
+
+export function wordmarkFor(university: string): string | undefined {
+  return WORDMARKS[university] ?? LOGOS[university];
 }
 
 /** Book covers live in public/covers/ as <slug>.png — drop a file in and it appears. */

@@ -215,22 +215,31 @@ function MiniMap({ groupId, x, y, w, h }: MiniMapProps) {
   );
 }
 
-/** Up to `limit` course thumbnail urls from a group's subtree, in data order. */
+/**
+ * Salt fixed for the life of the page, so a group's collage draws a different
+ * four courses on every refresh but stays put while you are looking at it.
+ */
+const COLLAGE_SALT = String(Math.random());
+
+/**
+ * `limit` course thumbnails from a group's subtree, picked at random per page
+ * load. Ordering by a hash keeps the pick a pure function of what is visible,
+ * so hiding a school reshuffles honestly instead of leaving a stale cache.
+ */
 function collectThumbs(groupId: string, limit = 4): string[] {
-  const out: string[] = [];
+  const found: string[] = [];
   const walk = (gid: string) => {
     for (const id of coursesIn(gid)) {
-      if (out.length >= limit) return;
       const t = thumbUrl(primaryVersion(map.courses[id]));
-      if (t) out.push(t);
+      if (t) found.push(id);
     }
-    for (const cid of childGroups(gid)) {
-      if (out.length >= limit) return;
-      walk(cid);
-    }
+    for (const cid of childGroups(gid)) walk(cid);
   };
   walk(groupId);
-  return out;
+  return found
+    .sort((a, b) => seedFor(COLLAGE_SALT + a) - seedFor(COLLAGE_SALT + b))
+    .slice(0, limit)
+    .map((id) => thumbUrl(primaryVersion(map.courses[id])) as string);
 }
 
 interface CollageProps {

@@ -20,6 +20,8 @@
   --island-border: rgba(0, 0, 0, 0.08);
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.09);
   --hover-bg: #f1f0ff;
+  /* hairline for typographic rules — heavier than a border, lighter than ink */
+  --rule: rgba(0, 0, 0, 0.16);
   --star-gold: #d4a72c;
   /* form controls */
   --control-border: rgba(0, 0, 0, 0.22);
@@ -44,6 +46,7 @@
   --island-border: rgba(255, 255, 255, 0.08);
   --island-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
   --hover-bg: #2e2d39;
+  --rule: rgba(255, 255, 255, 0.16);
   --star-gold: #e3b341;
   /* The accent is a pale lavender here, so ticks are drawn in ink, not white */
   --control-border: rgba(255, 255, 255, 0.28);
@@ -1077,7 +1080,36 @@ body {
   cursor: pointer;
 }
 
+/* Set apart by rules rather than a badge — a sticker would cheapen the claim */
+.landing-free {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  margin-top: 30px;
+  font-family: var(--hand-font);
+  font-size: 20px;
+  color: var(--ink);
+}
+
+.landing-free::before,
+.landing-free::after {
+  content: '';
+  width: 72px;
+  height: 1px;
+  background: var(--rule);
+}
+
+.landing-free::before {
+  background: linear-gradient(to right, transparent, var(--rule));
+}
+
+.landing-free::after {
+  background: linear-gradient(to left, transparent, var(--rule));
+}
+
 .landing-stats {
+  margin-top: 10px;
   font-size: 13px;
   color: var(--muted);
 }
@@ -1097,29 +1129,88 @@ body {
   overflow: visible;
 }
 
-.landing-schools {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: baseline;
-  justify-content: center;
-  gap: 4px 9px;
-  margin: 26px auto 0;
-  max-width: 78ch;
-  font-size: 13px;
-  color: var(--ink);
+/* Logo wall: marks normalised to one optical height and inked flat, so a dozen
+   clashing brand palettes read as one row. Hover returns a logo to its colours. */
+/* Closing the page, so it gets room to breathe and marks big enough to read */
+.logo-wall {
+  margin-top: 88px;
+  padding-top: 44px;
+  border-top: 1px solid var(--rule);
 }
 
-.landing-schools-label {
-  font-size: 11px;
-  letter-spacing: 0.08em;
+.logo-wall-label {
+  font-size: 12px;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--muted);
 }
 
-/* Separator rides along with the name so a wrap never starts a line with a dot */
-.school:not(:last-child)::after {
-  content: ' ·';
-  color: var(--muted);
+.logo-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 40px 64px;
+  margin: 34px auto 0;
+  list-style: none;
+}
+
+.logo-item {
+  display: flex;
+  align-items: center;
+  height: 46px;
+}
+
+.school-logo {
+  height: 100%;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
+  opacity: 0.55;
+  filter: brightness(0);
+  transition: opacity 0.25s ease, filter 0.25s ease;
+}
+
+:root[data-theme='dark'] .school-logo {
+  opacity: 0.6;
+  filter: brightness(0) invert(1);
+}
+
+.logo-item:hover .school-logo {
+  opacity: 1;
+  filter: none;
+}
+
+/* Dark theme keeps the inversion on hover — Yale navy and Harvard crimson
+   would all but vanish against the page if their own colours came back. */
+:root[data-theme='dark'] .logo-item:hover .school-logo {
+  opacity: 1;
+  filter: brightness(0) invert(1);
+}
+
+/* Optical sizing: matched cap heights leave heavy marks shouting and monograms
+   whispering, so the outliers are nudged until the row reads evenly. */
+.school-logo[src*='nyu'] {
+  height: 80%;
+}
+
+.school-logo[src*='harvard'],
+.school-logo[src*='yale'] {
+  height: 115%;
+}
+
+/* Schools with no logo file — fast.ai is a wordmark anyway, not a crest */
+.school-wordmark {
+  font-size: 30px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  opacity: 0.55;
+  transition: opacity 0.25s ease;
+}
+
+.logo-item:hover .school-wordmark {
+  opacity: 1;
 }
 
 .landing h2 {

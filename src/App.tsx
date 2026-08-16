@@ -2,9 +2,10 @@ import { useEffect, useState } from 'react';
 import { Canvas, type Background } from './Canvas';
 import { CoursePage } from './CoursePage';
 import { Landing } from './Landing';
+import { Pathways } from './Pathways';
 import {
-  allSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, routeHash,
-  setCompactCourses, setHiddenLevels, setHiddenSchools, setHidePrereqs, type Route,
+  allSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, PATHWAYS_GROUP,
+  routeHash, setCompactCourses, setHiddenLevels, setHiddenSchools, setHidePrereqs, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
@@ -211,6 +212,9 @@ export default function App() {
   };
 
   const chain = groupChain(route.groupId);
+  // Both top levels are named by the tabs, so the trail only carries what sits under them
+  const onPathwaySide = chain.includes(PATHWAYS_GROUP);
+  const trail = chain.filter((id) => id !== 'root' && id !== PATHWAYS_GROUP);
 
   return (
     <div className="app">
@@ -218,6 +222,8 @@ export default function App() {
         <Landing background={background} onOpen={(id) => navigate(id)} />
       ) : route.courseId ? (
         <CoursePage courseId={route.courseId} background={background} onJumpToNode={jumpToNode} />
+      ) : route.groupId === PATHWAYS_GROUP ? (
+        <Pathways background={background} onOpen={(id) => navigate(id)} />
       ) : (
         <Canvas
           groupId={route.groupId}
@@ -230,22 +236,47 @@ export default function App() {
 
       <div className="island breadcrumbs">
         <a className="logo" href={landingHash()}>Open Course Map</a>
-        {!route.landing && chain.map((id, i) => (
-          <span key={id} className="crumb-wrap">
-            {i > 0 && <span className="crumb-sep">›</span>}
-            <button
-              className={'crumb' + (!route.courseId && i === chain.length - 1 ? ' current' : '')}
-              onClick={() => navigate(id)}
-            >
-              {map.groups[id].title}
-            </button>
-          </span>
-        ))}
-        {route.courseId && (
-          <span className="crumb-wrap">
-            <span className="crumb-sep">›</span>
-            <button className="crumb current">{map.courses[route.courseId].title}</button>
-          </span>
+        {!route.landing && (
+          <div className="nav">
+            <div className="tabs">
+              <button
+                className={'tab' + (onPathwaySide ? '' : ' active')}
+                onClick={() => navigate('root')}
+              >
+                Map
+              </button>
+              <button
+                className={'tab' + (onPathwaySide ? ' active' : '')}
+                onClick={() => navigate(PATHWAYS_GROUP)}
+              >
+                Pathways
+              </button>
+            </div>
+            {/* The active tab already names the top level, so the trail starts below it */}
+            {(trail.length > 0 || route.courseId) && (
+              <div className="trail">
+                {trail.map((id, i) => (
+                  <span key={id} className="crumb-wrap">
+                    {i > 0 && <span className="crumb-sep">›</span>}
+                    <button
+                      className={
+                        'crumb' + (!route.courseId && i === trail.length - 1 ? ' current' : '')
+                      }
+                      onClick={() => navigate(id)}
+                    >
+                      {map.groups[id].title}
+                    </button>
+                  </span>
+                ))}
+                {route.courseId && (
+                  <span className="crumb-wrap">
+                    {trail.length > 0 && <span className="crumb-sep">›</span>}
+                    <button className="crumb current">{map.courses[route.courseId].title}</button>
+                  </span>
+                )}
+              </div>
+            )}
+          </div>
         )}
       </div>
 
@@ -401,7 +432,7 @@ export default function App() {
         </div>
       )}
 
-      {!route.courseId && !route.landing && (
+      {!route.courseId && !route.landing && route.groupId !== PATHWAYS_GROUP && (
         <div className="island hint">
           {onPathway
             ? 'scroll to pan · ctrl+scroll to zoom · follow the arrows'

@@ -7,7 +7,7 @@ import {
   edgesOn, gapAltLabel, gapAlternates, gapNoteLines, gapRect, gapsIn, gapTitleLines,
   ghostNoteLines, ghostRect, ghostsIn, ghostTitleLines, ghostWidth,
   isCompact, levelLabel, logoFor, map,
-  PATHWAYS_GROUP, primaryVersion, seedFor, thumbUrl, wrapText,
+  primaryVersion, seedFor, thumbUrl, wrapText,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -310,12 +310,8 @@ export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
   const { x, y } = group.pos;
   const { w, h } = group.size;
   const seed = seedFor(id);
-  // The pathways index holds sequences, not courses of its own, so a course count reads 0 there
-  const isPathwayIndex = id === PATHWAYS_GROUP;
-  const count = isPathwayIndex ? childGroups(id).length : courseCount(id);
-  const countLabel = isPathwayIndex
-    ? `${count} pathway${count === 1 ? '' : 's'}`
-    : `${count} course${count === 1 ? '' : 's'}`;
+  const count = courseCount(id);
+  const countLabel = `${count} course${count === 1 ? '' : 's'}`;
   const thumbs = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
   const hasPreview = thumbs.length > 0 || pageRects(id).length > 0;
 

@@ -1,20 +1,13 @@
 import { BackgroundLayer, type Background } from './Canvas';
 import { GroupNode } from './nodes';
+import { PathwayCards } from './PathwayCards';
 import { SketchBox, SketchRule } from './sketch';
-import {
-  childGroups, map, PATHWAYS_GROUP, pathways, pathwaySchools, pathwayStepCount,
-  schoolsByCourseCount, wordmarkFor,
-} from './model';
+import { childGroups, map, PATHWAYS_GROUP, schoolsByCourseCount, wordmarkFor } from './model';
 
 interface LandingProps {
   background: Background;
   onOpen: (groupId: string) => void;
 }
-
-const KIND_LABEL = {
-  official: 'official',
-  curated: 'curated',
-} as const;
 
 /** GroupNode draws its title above the box, so each tile needs headroom for it. */
 const TITLE_ROOM = 38;
@@ -31,7 +24,6 @@ export function Landing({ background, onOpen }: LandingProps) {
   // The wall is universities in their own marks, so a school with no logo file
   // (fast.ai, which is not a university anyway) sits this one out
   const schools = schoolsByCourseCount().filter((school) => wordmarkFor(school));
-  const paths = pathways();
 
   return (
     <main className="landing">
@@ -91,36 +83,7 @@ export function Landing({ background, onOpen }: LandingProps) {
           a department's own requirements; curated ones are one person's picks.
         </p>
 
-        <div className="pathway-cards">
-          {paths.map(({ id, group }) => {
-            const steps = pathwayStepCount(id);
-            const schools = pathwaySchools(id);
-            return (
-              <SketchBox
-                key={id}
-                seedKey={'pathway:' + id}
-                className="pathway-card"
-                stroke="var(--sketch-ink, var(--ink))"
-                fill="var(--sketch-fill, var(--node-fill))"
-              >
-                <button className="pathway-hit" onClick={() => onOpen(id)}>
-                  <span className="pathway-tags">
-                    <span className={'pathway-kind kind-' + group.kind}>
-                      {KIND_LABEL[group.kind ?? 'curated']}
-                    </span>
-                    <span className="pathway-field">{group.field}</span>
-                  </span>
-                  <span className="pathway-title">{group.title}</span>
-                  <span className="pathway-blurb">{group.blurb}</span>
-                  <span className="pathway-meta">
-                    {steps} steps
-                    {schools.length > 0 && ' · ' + schools.join(', ')}
-                  </span>
-                </button>
-              </SketchBox>
-            );
-          })}
-        </div>
+        <PathwayCards onOpen={onOpen} />
 
         <div className="logo-wall">
           <SketchRule seedKey="rule:wall" />

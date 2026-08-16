@@ -85,6 +85,7 @@ export default function App() {
   const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
   const [noPrereqs, setNoPrereqs] = useState(() => localStorage.getItem('ocm-hide-prereqs') === '1');
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [viewOpen, setViewOpen] = useState(false);
   const [stars, setStars] = useState<number | null>(() => {
     const cached = sessionStorage.getItem('ocm-stars');
     return cached !== null ? Number(cached) : null;
@@ -144,6 +145,7 @@ export default function App() {
     const onKey = (e: KeyboardEvent) => {
       if (e.key !== 'Escape') return;
       if (settingsOpen) setSettingsOpen(false);
+      else if (viewOpen) setViewOpen(false);
       else if (route.courseId) navigate(route.groupId);
     };
     window.addEventListener('keydown', onKey);
@@ -159,6 +161,16 @@ export default function App() {
     window.addEventListener('pointerdown', onDown);
     return () => window.removeEventListener('pointerdown', onDown);
   }, [settingsOpen]);
+
+  useEffect(() => {
+    if (!viewOpen) return;
+    const onDown = (e: PointerEvent) => {
+      const el = e.target as Element;
+      if (!el.closest?.('.view-pop, .gear-button')) setViewOpen(false);
+    };
+    window.addEventListener('pointerdown', onDown);
+    return () => window.removeEventListener('pointerdown', onDown);
+  }, [viewOpen]);
 
   const toggleSchool = (school: string) => {
     setHidden((prev) => {
@@ -305,7 +317,7 @@ export default function App() {
 
       {settingsOpen && (
         <div className="island settings-pop">
-          <div className="settings-title">Settings</div>
+          <div className="settings-title">Filters</div>
           <div className="settings-section">Schools</div>
           {allSchools().map((school) => (
             <label key={school} className="settings-row">
@@ -328,6 +340,33 @@ export default function App() {
               {level.label}
             </label>
           ))}
+        </div>
+      )}
+
+      {!route.landing && (
+        <div className="island view-toggle">
+          <button
+            className="gear-button"
+            onClick={() => setViewOpen((o) => !o)}
+            title="View options"
+            aria-label="View options"
+            aria-expanded={viewOpen}
+          >
+            <svg
+              className="gear" viewBox="0 0 24 24" width="20" height="20"
+              fill="none" stroke="currentColor" strokeWidth="1.8"
+              strokeLinecap="round" strokeLinejoin="round"
+            >
+              <circle cx="12" cy="12" r="3" />
+              <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z" />
+            </svg>
+          </button>
+        </div>
+      )}
+
+      {viewOpen && (
+        <div className="island settings-pop view-pop">
+          <div className="settings-title">View</div>
           <div className="settings-section">Display</div>
           <label className="settings-row">
             <input

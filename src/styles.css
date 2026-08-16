@@ -1264,6 +1264,9 @@ body {
   background: none;
   border: none;
   font: inherit;
+  /* without this the title falls back to the UA's button colour, which is black
+     in either theme — the blurb and meta only escaped it by setting their own */
+  color: inherit;
   text-align: left;
   cursor: pointer;
 }

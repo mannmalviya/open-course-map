@@ -240,6 +240,23 @@ export function allSchools(): string[] {
   return [...schools].sort();
 }
 
+/**
+ * Universities the landing page name-drops, most courses first. Filtered schools
+ * are left out — naming a school whose courses the map is currently hiding would
+ * promise something the visitor can't see.
+ */
+export function schoolsByCourseCount(): string[] {
+  const counts = new Map<string, number>();
+  for (const c of Object.values(map.courses)) {
+    if (c.university && courseVisible(c)) {
+      counts.set(c.university, (counts.get(c.university) ?? 0) + 1);
+    }
+  }
+  return [...counts.entries()]
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .map(([school]) => school);
+}
+
 /** Levels hidden by the settings filter — synced from App state before each render. */
 let hiddenLevels: ReadonlySet<string> = new Set();
 

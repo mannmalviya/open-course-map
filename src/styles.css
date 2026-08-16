@@ -1014,47 +1014,117 @@ body {
   position: absolute;
   inset: 0;
   overflow-y: auto;
-  padding: 96px 24px 64px;
+  padding: 92px 24px 72px;
 }
 
 .landing-inner {
-  max-width: 860px;
+  max-width: 1040px;
   margin: 0 auto;
   position: relative;
   z-index: 1;
+  text-align: center;
 }
 
 .landing h1 {
   font-family: var(--hand-font);
-  font-size: 46px;
+  font-size: 54px;
   font-weight: 400;
   line-height: 1.1;
 }
 
 .landing-tagline {
-  margin-top: 12px;
-  max-width: 60ch;
-  font-size: 16px;
+  margin: 14px auto 0;
+  max-width: 56ch;
+  font-size: 17px;
   line-height: 1.55;
   color: var(--ink);
 }
 
+.landing-cta {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+  margin-top: 28px;
+}
+
+/* The drawn frame wanders past the box, so the button needs room around it */
+.cta-box {
+  margin: 4px;
+}
+
+.cta {
+  display: block;
+  padding: 12px 26px;
+  background: none;
+  border: none;
+  font-family: var(--hand-font);
+  font-size: 21px;
+  color: var(--accent);
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.cta:hover {
+  background: var(--hover-bg);
+}
+
 .landing-stats {
-  margin-top: 10px;
   font-size: 13px;
+  color: var(--muted);
+}
+
+/* The subject boxes, lifted out of the map — one tile each so they can wrap */
+.landing-band {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px 40px;
+  margin-top: 40px;
+}
+
+.subject-tile {
+  display: block;
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+.landing-schools {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 4px 9px;
+  margin: 26px auto 0;
+  max-width: 78ch;
+  font-size: 13px;
+  color: var(--ink);
+}
+
+.landing-schools-label {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* Separator rides along with the name so a wrap never starts a line with a dot */
+.school:not(:last-child)::after {
+  content: ' ·';
   color: var(--muted);
 }
 
 .landing h2 {
   font-family: var(--hand-font);
-  font-size: 26px;
+  font-size: 28px;
   font-weight: 400;
   color: var(--accent);
-  margin-top: 44px;
+  margin-top: 64px;
 }
 
 .landing-sub {
-  margin-top: 8px;
+  margin: 8px auto 0;
   max-width: 62ch;
   font-size: 14px;
   line-height: 1.55;
@@ -1063,9 +1133,10 @@ body {
 
 .pathway-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 22px;
-  margin-top: 26px;
+  margin-top: 28px;
+  text-align: left;
 }
 
 /* The drawn frame wanders outside the box, so cards need room not to collide */
@@ -1098,8 +1169,14 @@ body {
   background: var(--hover-bg);
 }
 
+/* Kind and field share one line — two facts, one row of chrome */
+.pathway-tags {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .pathway-kind {
-  align-self: flex-start;
   padding: 1px 8px;
   border: 1px solid currentColor;
   border-radius: 999px;
@@ -1131,42 +1208,11 @@ body {
   color: var(--ink);
 }
 
-.pathway-source {
-  font-size: 11px;
-  line-height: 1.45;
-  color: var(--muted);
-  font-style: italic;
-}
-
 .pathway-meta {
   margin-top: auto;
   padding-top: 8px;
   font-size: 11px;
   color: var(--muted);
-}
-
-.pathway-gaps {
-  color: var(--accent);
-}
-
-.landing-alt {
-  margin-top: 38px;
-}
-
-.landing-map-link {
-  background: none;
-  border: none;
-  font-family: var(--hand-font);
-  font-size: 18px;
-  color: var(--accent);
-  cursor: pointer;
-  padding: 6px 10px;
-  margin-left: -10px;
-  border-radius: 8px;
-}
-
-.landing-map-link:hover {
-  background: var(--hover-bg);
 }
 
 /* Breadcrumb wordmark doubles as the way back to the landing */

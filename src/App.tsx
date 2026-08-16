@@ -368,34 +368,36 @@ export default function App() {
         <div className="island settings-pop view-pop">
           <div className="settings-title">View</div>
           <div className="settings-section">Display</div>
-          <label className="settings-row">
+          <label className="settings-row switch-row">
+            Collapse thumbnails
             <input
               type="checkbox"
               checked={compact}
               onChange={() => setCompact((c) => !c)}
             />
-            Collapse thumbnails
           </label>
-          <label className="settings-row">
+          <label className="settings-row switch-row">
+            Hide prerequisites
             <input
               type="checkbox"
               checked={noPrereqs}
               onChange={() => setNoPrereqs((v) => !v)}
             />
-            Hide prerequisites
           </label>
           <div className="settings-section">Background</div>
-          {BACKGROUNDS.map(({ id, label }) => (
-            <label key={id} className="settings-row">
-              <input
-                type="radio"
-                name="ocm-bg"
-                checked={background === id}
-                onChange={() => setBackground(id)}
-              />
-              {label}
-            </label>
-          ))}
+          <div className="bg-picker">
+            {BACKGROUNDS.map(({ id, label }) => (
+              <button
+                key={id}
+                className={'bg-option' + (background === id ? ' active' : '')}
+                onClick={() => setBackground(id)}
+                aria-pressed={background === id}
+              >
+                <span className={'bg-swatch bg-' + id} />
+                {label}
+              </button>
+            ))}
+          </div>
         </div>
       )}
 

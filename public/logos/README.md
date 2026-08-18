@@ -25,9 +25,12 @@ The row inks every mark flat (black in light theme, white in dark) and returns
 it to its own colours on hover — in dark theme by flipping luminance and
 putting the hue back, since navy and black straight from a brand book are
 invisible on a near-black page. What matters in a new file is the shape: a
-transparent background, tight cropping, and no baked-in white box. Marks that
-still land heavy or small next to the others are nudged in `styles.css`, where
-a handful of `.school-logo[src*='…']` rules do the optical sizing.
+transparent background, tight cropping, and no baked-in white box — and an
+intrinsic `width` well past the row's 152px cap, since `max-width` only ever
+shrinks a mark, so a file already sized around the cap draws at its natural
+size and no nudge reaches it. Marks that still land heavy or small next to the
+others are nudged in `styles.css`, where a handful of `.school-logo[src*='…']`
+rules do the optical sizing.
 
 Sources: the marks are the schools' own, taken from Wikimedia Commons and used
 to identify whose lectures a course is. They are trademarks of their

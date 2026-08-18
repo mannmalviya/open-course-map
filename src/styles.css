@@ -1244,10 +1244,16 @@ body {
   max-height: 32px;
 }
 
-.school-logo[src*='harvard'],
 .school-logo[src*='yale'],
 .school-logo[src*='umich'] {
   max-height: 46px;
+}
+
+/* Harvard's lockup gives most of its height to the shield, so the wordmark
+   comes out small at the row's height; a wider cell lets it match its neighbours */
+.school-logo[src*='harvard'] {
+  max-height: 46px;
+  max-width: 168px;
 }
 
 

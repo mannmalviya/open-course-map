@@ -118,7 +118,7 @@ export function logoFor(university?: string): string | undefined {
  * the full wordmark.
  */
 const WORDMARKS: Record<string, string> = {
-  Harvard: '/logos/harvard-wordmark.png',
+  Harvard: '/logos/harvard-wordmark.svg',
   Stanford: '/logos/stanford-wordmark.svg',
   'UC Berkeley': '/logos/uc-berkeley-wordmark.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz-wordmark.svg',

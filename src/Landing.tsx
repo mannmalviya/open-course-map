@@ -14,6 +14,9 @@ const TITLE_ROOM = 38;
 /** Rough strokes wander past the rect; the viewBox is padded so they don't clip. */
 const SLOP = 6;
 
+/** Schools that close the logo wall, in this order, whatever their course count. */
+const WALL_TAIL = ['UC Santa Cruz'];
+
 /** The root map's subjects — the same boxes the map draws, one per tile. */
 function subjects() {
   return childGroups('root').filter((id) => id !== PATHWAYS_GROUP);
@@ -23,7 +26,11 @@ export function Landing({ background, onOpen }: LandingProps) {
   const courseCount = Object.keys(map.courses).length;
   // The wall is universities in their own marks, so a school with no logo file
   // (fast.ai, which is not a university anyway) sits this one out
-  const schools = schoolsByCourseCount().filter((school) => wordmarkFor(school));
+  const ranked = schoolsByCourseCount().filter((school) => wordmarkFor(school));
+  const schools = [
+    ...ranked.filter((school) => !WALL_TAIL.includes(school)),
+    ...WALL_TAIL.filter((school) => ranked.includes(school)),
+  ];
 
   return (
     <main className="landing">

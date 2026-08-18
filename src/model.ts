@@ -113,6 +113,8 @@ export function logoFor(university?: string): string | undefined {
  * Marks for the landing page's logo row. Crests turn to mush at a row's size,
  * so schools whose main logo is a seal get a wordmark here instead — the square
  * mark is still the right one in the 22px slot a course card gives a school.
+ * Yale's Y is a monogram rather than a seal, but in a row of names it reads as
+ * a letter, so it gets its wordmark too.
  * DeepMind and CMU are the reverse case: their lockups' text is unreadable at
  * card size, so the card gets the bare swirl / the initials and the row keeps
  * the full wordmark.
@@ -122,6 +124,7 @@ const WORDMARKS: Record<string, string> = {
   Stanford: '/logos/stanford-wordmark.svg',
   'UC Berkeley': '/logos/uc-berkeley-wordmark.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz-wordmark.svg',
+  Yale: '/logos/yale-wordmark.svg',
   'DeepMind x UCL': '/logos/deepmind-wordmark.svg',
   CMU: '/logos/cmu-wordmark.svg',
 };

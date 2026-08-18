@@ -8,7 +8,9 @@ this directory:
 - `WORDMARKS` — the landing page's logo row, 26px tall. Only schools whose main
   logo is a seal need an entry; everything else falls back to `LOGOS`. A crest
   scaled to a row of type turns into a blob, which is why Harvard, Stanford,
-  Berkeley and UC Santa Cruz carry a separate `-wordmark` file.
+  Berkeley and UC Santa Cruz carry a separate `-wordmark` file. DeepMind has
+  one for the opposite reason: its lockup's text vanishes at 22px, so the
+  compact file is the bare swirl and the row keeps the full lockup.
 
 A school with no file at all is left out of the logo row — it is a wall of
 marks, and a name set in type among them looks like a mistake. fast.ai is the

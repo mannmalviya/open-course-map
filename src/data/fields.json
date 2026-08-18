@@ -826,6 +826,10 @@
       "to": "physical-chemistry"
     },
     {
+      "from": "intro-chemistry",
+      "to": "organic-chemistry"
+    },
+    {
       "from": "mit-511",
       "to": "mit-561"
     },

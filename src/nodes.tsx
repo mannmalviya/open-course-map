@@ -8,6 +8,8 @@ import {
   ghostNoteLines, ghostRect, ghostsIn, ghostTitleLines, ghostWidth,
   isCompact, levelLabel, logoFor, map,
   primaryVersion, seedFor, thumbUrl, wrapText,
+  STEP_W, STEP_PAD, STEP_THUMB_TOP, STEP_THUMB_W, STEP_THUMB_H,
+  STEP_TITLE_LINE, STEP_NOTE_TOP, stepNoteLines, stepTitleBase, stepTitleLines,
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
@@ -388,6 +390,97 @@ export function GhostNode({ ghost, onJump }: GhostNodeProps) {
         lines={[`in ${home?.title ?? '?'}`]} size={11} anchor="start"
         fill="var(--ghost-ink, var(--muted))"
       />
+    </g>
+  );
+}
+
+interface PathwayStepNodeProps {
+  ghost: Ghost;
+  onJump: (nodeId: string) => void;
+}
+
+/**
+ * A course step on a pathway page. Steps are the content there, so they draw
+ * like the map's course boxes — thumbnail, title, school — with the step's
+ * note in between, and a solid outline: this is the course, not a pointer to it.
+ */
+export function PathwayStepNode({ ghost, onJump }: PathwayStepNodeProps) {
+  const course = map.courses[ghost.node];
+  const { x, y } = ghost.pos;
+  const { h } = ghostRect(ghost);
+  const seed = seedFor(ghost.node + ghost.inGroup);
+  const compact = isCompact();
+  const thumb = thumbUrl(primaryVersion(course));
+  const logo = logoFor(course.university);
+  const titleLines = stepTitleLines(ghost);
+  const noteLines = stepNoteLines(ghost);
+  const thumbX = x + STEP_PAD;
+  const thumbY = y + STEP_THUMB_TOP;
+  const titleBase = y + stepTitleBase();
+  const noteBase = titleBase + (titleLines.length - 1) * STEP_TITLE_LINE + STEP_NOTE_TOP;
+
+  return (
+    <g
+      className="node course-node"
+      onClick={() => onJump(ghost.node)}
+    >
+      <SketchRect x={x} y={y} w={STEP_W} h={h} seed={seed} fill="var(--node-fill)" />
+      {!compact && (
+        <>
+          {thumb ? (
+            <image
+              href={thumb}
+              x={thumbX} y={thumbY} width={STEP_THUMB_W} height={STEP_THUMB_H}
+              preserveAspectRatio="xMidYMid slice"
+            />
+          ) : logo ? (
+            <image
+              href={logo}
+              x={x + STEP_W / 2 - 24} y={thumbY + STEP_THUMB_H / 2 - 24}
+              width={48} height={48}
+              preserveAspectRatio="xMidYMid meet"
+            />
+          ) : (
+            <SketchText
+              x={x + STEP_W / 2}
+              y={thumbY + STEP_THUMB_H / 2 + 6}
+              lines={[course.university ?? 'Lectures']}
+              size={20}
+              fill="var(--muted)"
+            />
+          )}
+          <SketchRect
+            x={thumbX} y={thumbY} w={STEP_THUMB_W} h={STEP_THUMB_H}
+            seed={seed + 1} strokeWidth={1}
+          />
+        </>
+      )}
+      <SketchText x={x + STEP_W / 2} y={titleBase} lines={titleLines} size={15} />
+      {noteLines.length > 0 && (
+        <SketchText
+          x={x + STEP_PAD} y={noteBase}
+          lines={noteLines} size={12} anchor="start"
+          fill="var(--muted)"
+        />
+      )}
+      {!compact && (logo ? (
+        <image
+          href={logo}
+          x={x + STEP_PAD} y={y + h - 32}
+          width={22} height={22}
+          preserveAspectRatio="xMidYMid meet"
+        >
+          <title>{course.university}</title>
+        </image>
+      ) : (
+        course.university && (
+          <SketchText
+            x={x + STEP_PAD} y={y + h - 14}
+            lines={[course.university]}
+            size={11} fill="var(--muted)" anchor="start"
+          />
+        )
+      ))}
     </g>
   );
 }

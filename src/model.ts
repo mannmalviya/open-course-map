@@ -180,12 +180,59 @@ export function ghostNoteLines(g: Ghost): string[] {
 }
 
 export function ghostRect(g: Ghost): Rect {
+  if (isStepCard(g)) return { x: g.pos.x, y: g.pos.y, w: STEP_W, h: stepHeight(g) };
   const noteLines = ghostNoteLines(g);
   const h =
     GHOST_H +
     (ghostTitleLines(g).length - 1) * 18 +
     (noteLines.length > 0 ? noteLines.length * 15 + 6 : 0);
   return { x: g.pos.x, y: g.pos.y, w: ghostWidth(g), h };
+}
+
+/*
+ * Pathway steps are the page's content, not side references, so a step that
+ * points at a course draws like a course box — thumbnail, title, the step's
+ * note, school — only bigger. Ghosts elsewhere keep the small dashed card.
+ * Layout offsets are shared with the renderer so edges land on the box drawn.
+ */
+export const STEP_W = 300;
+export const STEP_PAD = 14;
+export const STEP_THUMB_TOP = 12;
+export const STEP_THUMB_W = STEP_W - 2 * STEP_PAD;
+/** 16:9 — YouTube's mqdefault is 320×180, so this is close to native size */
+export const STEP_THUMB_H = 153;
+export const STEP_TITLE_TOP = 22;
+export const STEP_TITLE_LINE = 19;
+export const STEP_NOTE_TOP = 20;
+export const STEP_NOTE_LINE = 15;
+/** Room under the last text line for the 22px school logo and its margins */
+export const STEP_FOOTER = 48;
+
+export function isStepCard(g: Ghost): boolean {
+  return isPathway(g.inGroup) && map.courses[g.node] !== undefined;
+}
+
+export function stepTitleLines(g: Ghost): string[] {
+  return wrapText(map.courses[g.node].title, 36);
+}
+
+export function stepNoteLines(g: Ghost): string[] {
+  return g.note ? wrapText(g.note, 42, 4) : [];
+}
+
+/** Title baseline from the card's top: under the thumbnail, or near the top when collapsed. */
+export function stepTitleBase(): number {
+  return compactCourses ? 26 : STEP_THUMB_TOP + STEP_THUMB_H + STEP_TITLE_TOP;
+}
+
+function stepHeight(g: Ghost): number {
+  const notes = stepNoteLines(g).length;
+  const lastBaseline =
+    stepTitleBase() +
+    (stepTitleLines(g).length - 1) * STEP_TITLE_LINE +
+    (notes > 0 ? STEP_NOTE_TOP + (notes - 1) * STEP_NOTE_LINE : 0);
+  // Collapsed cards drop the thumbnail and the school with it, so no footer either
+  return compactCourses ? Math.max(COURSE_H_COMPACT, lastBaseline + 16) : lastBaseline + STEP_FOOTER;
 }
 
 // Gap nodes are wider than ghosts: they carry a reason and a list of alternates

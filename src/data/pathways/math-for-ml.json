@@ -12,22 +12,22 @@
     },
     {
       "course": "mit-1802",
-      "pos": { "x": 320, "y": 0 },
+      "pos": { "x": 380, "y": 0 },
       "note": "You need gradients, Jacobians and the chain rule. You can stop after that."
     },
     {
       "course": "mit-6041",
-      "pos": { "x": 620, "y": 0 },
+      "pos": { "x": 740, "y": 0 },
       "note": "Tsitsiklis is the clearest lecturer on this whole map."
     },
     {
       "course": "mit-18065",
-      "pos": { "x": 320, "y": 230 },
+      "pos": { "x": 380, "y": 380 },
       "note": "The bridge course — linear algebra the way ML actually uses it. Skip it and you'll fake your way through gradients forever."
     },
     {
       "course": "stanford-ee364a",
-      "pos": { "x": 320, "y": 470 },
+      "pos": { "x": 380, "y": 760 },
       "note": "Boyd. Everything after this assumes you can spot a convex problem on sight."
     }
   ],

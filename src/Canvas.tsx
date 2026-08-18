@@ -1,10 +1,10 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import {
   borderPoint, center, childGroups, coursesIn, edgesOn, gapRect, gapsIn, ghostsIn,
-  courseRect, ghostRect, map, seedFor, totalCourseCount,
+  courseRect, ghostRect, isStepCard, map, seedFor, totalCourseCount,
 } from './model';
 import type { Rect } from './types';
-import { CourseNode, GapNode, GhostNode, GroupNode } from './nodes';
+import { CourseNode, GapNode, GhostNode, GroupNode, PathwayStepNode } from './nodes';
 import { SketchArrow, SketchText } from './sketch';
 
 export type Background = 'plain' | 'grid' | 'dots';
@@ -222,9 +222,13 @@ export function Canvas({ groupId, background, onSelectCourse, onOpenGroup, onJum
         {groups.map((id) => (
           <GroupNode key={id} id={id} group={map.groups[id]} onOpen={onOpenGroup} />
         ))}
-        {ghosts.map((g, i) => (
-          <GhostNode key={i} ghost={g} onJump={onJumpToNode} />
-        ))}
+        {ghosts.map((g, i) =>
+          isStepCard(g) ? (
+            <PathwayStepNode key={i} ghost={g} onJump={onJumpToNode} />
+          ) : (
+            <GhostNode key={i} ghost={g} onJump={onJumpToNode} />
+          )
+        )}
         {gaps.map((g) => (
           <GapNode key={g.id} gap={g} onSelectCourse={onSelectCourse} />
         ))}

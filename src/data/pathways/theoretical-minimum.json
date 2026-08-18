@@ -7,32 +7,32 @@
   "steps": [
     {
       "course": "susskind-cm",
-      "pos": { "x": 180, "y": 0 },
+      "pos": { "x": 0, "y": 0 },
       "note": "Stanford lists this first. Everything later assumes the Lagrangian."
     },
     {
       "course": "susskind-qm",
-      "pos": { "x": 180, "y": 160 },
+      "pos": { "x": 360, "y": 0 },
       "note": "Follows Classical Mechanics in Stanford's ordering."
     },
     {
       "course": "susskind-sr",
-      "pos": { "x": 180, "y": 320 },
+      "pos": { "x": 720, "y": 0 },
       "note": "Special relativity and classical field theory, taken together."
     },
     {
       "course": "susskind-gr",
-      "pos": { "x": 180, "y": 480 },
+      "pos": { "x": 1080, "y": 0 },
       "note": "Assumes special relativity and the field-theory material above."
     },
     {
       "course": "susskind-cosmology",
-      "pos": { "x": 180, "y": 640 },
+      "pos": { "x": 1440, "y": 0 },
       "note": "Applies general relativity at the scale of the universe."
     },
     {
       "course": "susskind-sm",
-      "pos": { "x": 180, "y": 800 },
+      "pos": { "x": 1800, "y": 0 },
       "note": "Stanford places statistical mechanics last in the core six."
     }
   ],

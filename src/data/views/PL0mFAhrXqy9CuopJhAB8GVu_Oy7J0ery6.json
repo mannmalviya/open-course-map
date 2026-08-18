@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "id": "66HCPAcimGY",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 0: Introduction",
+      "views": 22000
+    },
+    {
+      "id": "ANg8jZ1qFRg",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 1: DNN Computations",
+      "views": 10000
+    },
+    {
+      "id": "A6R3YuoAsSg",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 2: ML Hardware I (metrics and roofline)",
+      "views": 7300
+    },
+    {
+      "id": "wAxGBkiPd5E",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 3: ML Hardware II (efficiency)",
+      "views": 5300
+    },
+    {
+      "id": "MtQnLip4ur0",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 4: ML Hardware III (case studies)",
+      "views": 3800
+    },
+    {
+      "id": "Y-dFytEPSw8",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 5: Microarchitecture",
+      "views": 3800
+    },
+    {
+      "id": "f6EvylheMmI",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 6: TinyML",
+      "views": 2400
+    },
+    {
+      "id": "Nvox0Q0ohlw",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 7: Quantization",
+      "views": 3100
+    },
+    {
+      "id": "CDHdn44fF2Y",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 8: Pruning",
+      "views": 2100
+    },
+    {
+      "id": "5_qVob2Vwf8",
+      "title": "Cornell ECE 5545: Guest Lecture: Cerebras Sean Lie",
+      "views": 1800
+    },
+    {
+      "id": "62PFfavUcS0",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 9: Knowledge Distillation",
+      "views": 1600
+    },
+    {
+      "id": "_nkPWfAQuA0",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 10: Neural Architecture Search",
+      "views": 1600
+    },
+    {
+      "id": "vQY61UPRob8",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 11: Kernel Computation",
+      "views": 1900
+    },
+    {
+      "id": "YxIAVDnD8oo",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 12: Mapping",
+      "views": 1600
+    },
+    {
+      "id": "RMdQRSGKMaI",
+      "title": "Cornell ECE 5545: Guest Lecture: TVM Thierry Moreau",
+      "views": 1900
+    },
+    {
+      "id": "Kny_wbi4VZs",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 13: Pre-and-Post-Processing in ML Systems",
+      "views": 1400
+    },
+    {
+      "id": "RK-N0RunWMA",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 14: Distributed Training",
+      "views": 1600
+    },
+    {
+      "id": "G8YKB3TSA7I",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 15: Federated Learning",
+      "views": 1200
+    },
+    {
+      "id": "-n1SFhIsdaM",
+      "title": "Cornell ECE 5545: ML HW & Systems. Lecture 16: Environmental/Ethical System Issues",
+      "views": 950
+    },
+    {
+      "id": "oabGy-_KLQc",
+      "title": "Cornell ECE 5545: Guest Lecture: SemiAnalysis Kimbo Chen",
+      "views": 768
+    }
+  ]
+}

@@ -136,6 +136,25 @@
           "youtubeId": "IPBSB1HLNLo"
         }
       ]
+    },
+    "cornell-ece5545": {
+      "title": "ECE 5545 Machine Learning Hardware & Systems",
+      "university": "Cornell",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cornell ECE 5545 \u00b7 Abdelfattah \u00b7 Spring 2022",
+          "url": "https://abdelfattah-class.github.io/ece5545/",
+          "youtube": "https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6",
+          "date": "Spring 2022",
+          "youtubeId": "66HCPAcimGY",
+          "primary": true
+        }
+      ]
     }
   }
 }

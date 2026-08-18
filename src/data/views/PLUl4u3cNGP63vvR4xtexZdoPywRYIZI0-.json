@@ -1,0 +1,249 @@
+{
+  "lectures": [
+    {
+      "id": "PoFDK7Kwx1o",
+      "title": "1. Introduction to Biological Chemistry II",
+      "views": 70000
+    },
+    {
+      "id": "jrCjdjLTQKk",
+      "title": "2. Protein Synthesis 1",
+      "views": 37000
+    },
+    {
+      "id": "tEMkDHV2uU8",
+      "title": "R1. Determining, Analyzing, and Understanding Protein Structures",
+      "views": 22000
+    },
+    {
+      "id": "qDBdd9-T8lg",
+      "title": "3. Protein Synthesis 2",
+      "views": 14000
+    },
+    {
+      "id": "0dJS3YUxeXI",
+      "title": "4. Protein Synthesis 3",
+      "views": 8300
+    },
+    {
+      "id": "D9QJ44zENbU",
+      "title": "5. Protein Synthesis 4",
+      "views": 5900
+    },
+    {
+      "id": "RBH2RVDrJYI",
+      "title": "R2. Pre-Steady State and Steady-State Kinetic Methods Applied to Translation",
+      "views": 11000
+    },
+    {
+      "id": "OrCYxJz2Hlc",
+      "title": "6. Protein Synthesis 5",
+      "views": 4500
+    },
+    {
+      "id": "PgMAfWpOuf0",
+      "title": "7. Protein Synthesis 6",
+      "views": 4200
+    },
+    {
+      "id": "VUGsZgQaAZs",
+      "title": "8. Protein Folding 1",
+      "views": 18000
+    },
+    {
+      "id": "_kx9OzsCL4I",
+      "title": "R3. Pre-Steady State and Steady-State Kinetic Methods Applied to Translation",
+      "views": 3300
+    },
+    {
+      "id": "siP7IXbPGmw",
+      "title": "9. Protein Folding 2",
+      "views": 6800
+    },
+    {
+      "id": "H0ubjnHa5rY",
+      "title": "10. Protein Folding 3",
+      "views": 3200
+    },
+    {
+      "id": "noKXLhp6jbk",
+      "title": "11. Protein Folding 4",
+      "views": 2800
+    },
+    {
+      "id": "EHtOYlvWE6k",
+      "title": "R4. Purification of Native and Mutant Ribosomes, Protein Purification",
+      "views": 3600
+    },
+    {
+      "id": "CCbvqDuPr_I",
+      "title": "12. Protein Degradation 1",
+      "views": 6000
+    },
+    {
+      "id": "uS42vSWEGTU",
+      "title": "13. Protein Degradation 2",
+      "views": 2800
+    },
+    {
+      "id": "aCdDB6AsnSY",
+      "title": "14. Protein Degradation 3",
+      "views": 2300
+    },
+    {
+      "id": "_Rcd-NZwoi4",
+      "title": "R5. Overview of Cross-Linking, Including Photo-Reactive Cross-Linking Methods",
+      "views": 8100
+    },
+    {
+      "id": "Klw2POjgzVo",
+      "title": "15. PK and NRP Synthases 1",
+      "views": 6300
+    },
+    {
+      "id": "zLJZY6VOO6w",
+      "title": "16. PK and NRP Synthases 2",
+      "views": 3900
+    },
+    {
+      "id": "5BVGTxRKwOw",
+      "title": "R6. Macromolecular Electron Microscopy Applied to Fatty Acid Synthase",
+      "views": 1800
+    },
+    {
+      "id": "q9nCI-8gYVE",
+      "title": "17. PK and NRP Synthases 3",
+      "views": 5700
+    },
+    {
+      "id": "046HoQGN5F4",
+      "title": "18. PK and NRP Synthases 4",
+      "views": 2100
+    },
+    {
+      "id": "0mdGZG9DDJY",
+      "title": "R7. Application of Single Molecule Methods",
+      "views": 3400
+    },
+    {
+      "id": "ziG0Jp9QaBo",
+      "title": "19. Cholesterol Biosynthesis 1",
+      "views": 11000
+    },
+    {
+      "id": "RfEmF7LgU7Y",
+      "title": "20. Cholesterol Biosynthesis 2",
+      "views": 3700
+    },
+    {
+      "id": "u5uvIbaIl3U",
+      "title": "21. Cholesterol Biosynthesis 3 & Cholesterol Homeostasis 1",
+      "views": 3100
+    },
+    {
+      "id": "j8ygU5VT8BQ",
+      "title": "R8. Application of CRISPR to Study Cholesterol Regulation",
+      "views": 2100
+    },
+    {
+      "id": "UYGXwem3vN0",
+      "title": "22. Cholesterol Homeostasis 2",
+      "views": 1500
+    },
+    {
+      "id": "6QK1PUjCkDY",
+      "title": "23. Cholesterol Homeostasis 3",
+      "views": 1500
+    },
+    {
+      "id": "JB1YIT1Z-oE",
+      "title": "24. Cholesterol Homeostasis 4",
+      "views": 2100
+    },
+    {
+      "id": "jg7XtfWa_Yg",
+      "title": "R9. Cholesterol Homeostasis and Sensing",
+      "views": 1100
+    },
+    {
+      "id": "O1_f7Pu60Bk",
+      "title": "25. Cholesterol Homeostasis 5 & Metal Ion Homeostasis 1",
+      "views": 1500
+    },
+    {
+      "id": "9zqKwTpT0eA",
+      "title": "26. Metal Ion Homeostasis 2",
+      "views": 1900
+    },
+    {
+      "id": "w4nmIfPJe9E",
+      "title": "27. Metal Ion Homeostasis 3",
+      "views": 1600
+    },
+    {
+      "id": "HOXw6_ztAqQ",
+      "title": "R10. Metal-Binding Studies and Dissociation Constant Determination",
+      "views": 6000
+    },
+    {
+      "id": "WEH-ttvMmxc",
+      "title": "28. Metal Ion Homeostasis 4",
+      "views": 1300
+    },
+    {
+      "id": "G0pi_kU22lQ",
+      "title": "29. Metal Ion Homeostasis 5",
+      "views": 1900
+    },
+    {
+      "id": "60m8qBOD_nM",
+      "title": "R11. Mass Spectrometry",
+      "views": 6000
+    },
+    {
+      "id": "Tl9wrTWiFQY",
+      "title": "30. Metal Ion Homeostasis 6",
+      "views": 1100
+    },
+    {
+      "id": "UzMEzYQOFRA",
+      "title": "31. Metal Ion Homeostasis 7 & Reactive Oxygen Species 1",
+      "views": 4100
+    },
+    {
+      "id": "vVkrHN-wnQM",
+      "title": "R12. Mass Spectrometry of the Cysteine Proteome",
+      "views": 2000
+    },
+    {
+      "id": "IcyblGdCVr4",
+      "title": "32. Reactive Oxygen Species 2",
+      "views": 6100
+    },
+    {
+      "id": "JbV0aUHvROc",
+      "title": "33. Reactive Oxygen Species 3",
+      "views": 3200
+    },
+    {
+      "id": "Dz8G2XoPrkM",
+      "title": "34. Reactive Oxygen Species 4 & Nucleotide Metabolism 1",
+      "views": 3900
+    },
+    {
+      "id": "itczDSdRY00",
+      "title": "R13. Fluorescence Methods",
+      "views": 2800
+    },
+    {
+      "id": "3cwTBMI346I",
+      "title": "35. Nucleotide Metabolism 2",
+      "views": 5100
+    },
+    {
+      "id": "Jn-Bkwf77SQ",
+      "title": "36. Nucleotide Metabolism 3",
+      "views": 2600
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "lectures": [
+    {
+      "id": "sX4cMu9Azgs",
+      "title": "MIT CompBio Lecture 01 - Introduction",
+      "views": 54000
+    },
+    {
+      "id": "Uvz8iAuqU7Q",
+      "title": "MIT CompBio Lecture 02 - DynamicProgramming (Part1)",
+      "views": 13000
+    },
+    {
+      "id": "DcMpNBdCLN8",
+      "title": "MIT CompBio Lecture 02 - DynamicProgramming (Part2)",
+      "views": 5300
+    },
+    {
+      "id": "0AIUgHxBCxQ",
+      "title": "MIT CompBio Lecture 03 - Database Search",
+      "views": 5300
+    },
+    {
+      "id": "E1OvguJguIU",
+      "title": "MIT CompBio Lecture 04 - HMMs I",
+      "views": 3800
+    },
+    {
+      "id": "0C2afwlmxI0",
+      "title": "MIT CompBio Lecture 05 - HMMs II",
+      "views": 2600
+    },
+    {
+      "id": "DeaLk8whdbk",
+      "title": "MIT CompBio Lecture 06 - Gene Expression Analysis: Clustering and Classification",
+      "views": 8200
+    },
+    {
+      "id": "gRJLNKv1w_s",
+      "title": "MIT CompBio Lecture 07 - RNA world, RNA-seq, RNA folding",
+      "views": 3100
+    },
+    {
+      "id": "qaalIf6bn1k",
+      "title": "MIT CompBio Lecture 08 - Epigenomics",
+      "views": 4300
+    },
+    {
+      "id": "tO--CnMDaI0",
+      "title": "MIT CompBio Lecture 09 - Three Dimensional Genome",
+      "views": 7400
+    },
+    {
+      "id": "9_ggu8PKuLs",
+      "title": "MIT CompBio Lecture 10 - Regulatory Genomics",
+      "views": 2600
+    },
+    {
+      "id": "aB_pD2PqxTQ",
+      "title": "MIT CompBio Lecture 11 - Network Analysis",
+      "views": 2500
+    },
+    {
+      "id": "gpE5bFnMWcA",
+      "title": "MIT CompBio Lecture 12 - Deep Learning",
+      "views": 1700
+    },
+    {
+      "id": "eyRlGL9oPUg",
+      "title": "MIT CompBio Lecture 13 - Population Genomics",
+      "views": 4900
+    },
+    {
+      "id": "NvfiTLF37MM",
+      "title": "MIT CompBio Lecture 14 - GWAS (part 1)",
+      "views": 2300
+    },
+    {
+      "id": "u3oQWcwysLY",
+      "title": "MIT CompBio Lecture 14 - GWAS (part 2)",
+      "views": 2100
+    },
+    {
+      "id": "xUl6tZsYObY",
+      "title": "MIT CompBio Lecture 15  - eQTLs",
+      "views": 5300
+    },
+    {
+      "id": "kG-Zn6Wq6Ac",
+      "title": "MIT Compbio Lecture 16 - Heritability",
+      "views": 1900
+    },
+    {
+      "id": "DZH7ZEWpFB0",
+      "title": "MIT CompBio Lecture 17 - Comparative Genomics",
+      "views": 2100
+    },
+    {
+      "id": "on-iWQlhqU8",
+      "title": "MIT CompBio Lecture 18 - Genome Assembly, Evolution, Duplication",
+      "views": 1800
+    },
+    {
+      "id": "_KduKR6IXcA",
+      "title": "MIT CompBio Lecture 19 - Phylogenetics",
+      "views": 13000
+    },
+    {
+      "id": "ZVO79TJtm9Y",
+      "title": "MIT CompBio Lecture 20 - Phylogenomics",
+      "views": 8100
+    },
+    {
+      "id": "mJKbnJO5gZk",
+      "title": "MIT CompBio Lecture 21 - Single-Cell Genomics",
+      "views": 35000
+    },
+    {
+      "id": "YhmqcQoKtk4",
+      "title": "MIT CompBio Lecture 22 - Cancer Genomics",
+      "views": 13000
+    },
+    {
+      "id": "IRN-_8S35CI",
+      "title": "MIT CompBio Lecture 23 - Multi-Phenotype analyses",
+      "views": 3000
+    },
+    {
+      "id": "2OdeNUYmumw",
+      "title": "MIT CompBio Lecture 24 - Genome Engineering",
+      "views": 1600
+    }
+  ]
+}

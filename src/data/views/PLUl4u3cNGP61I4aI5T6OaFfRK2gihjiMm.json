@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "id": "PnJEj6TokDA",
+      "title": "1: Course Overview and Ionic Currents - Intro to Neural Computation",
+      "views": 112000
+    },
+    {
+      "id": "3GC721pNRLE",
+      "title": "2: Resistor Capacitor Circuit and Nernst Potential - Intro to Neural Computation",
+      "views": 30000
+    },
+    {
+      "id": "KXnHxZdn8NU",
+      "title": "3: Resistor Capacitor Neuron Model - Intro to Neural Computation",
+      "views": 22000
+    },
+    {
+      "id": "88tKZLGOr3M",
+      "title": "4: Hodgkin-Huxley Model Part 1 - Intro to Neural Computation",
+      "views": 43000
+    },
+    {
+      "id": "K1pxJVdqlxw",
+      "title": "5: Hodgkin-Huxley Model Part 2 - Intro to Neural Computation",
+      "views": 18000
+    },
+    {
+      "id": "dNHqd6nGr5o",
+      "title": "6: Dendrites - Intro to Neural Computation",
+      "views": 12000
+    },
+    {
+      "id": "r1VX3WXrYUw",
+      "title": "7: Synapses - Intro to Neural Computation",
+      "views": 10000
+    },
+    {
+      "id": "osYGG7TKcz8",
+      "title": "8: Spike Trains - Intro to Neural Computation",
+      "views": 22000
+    },
+    {
+      "id": "fCqt07IXUPI",
+      "title": "9: Receptive Fields - Intro to Neural Computation",
+      "views": 16000
+    },
+    {
+      "id": "smHwRzk81b0",
+      "title": "10: Time Series - Intro to Neural Computation",
+      "views": 14000
+    },
+    {
+      "id": "4ip-4ai6kN8",
+      "title": "11: Spectral Analysis Part 1 - Intro to Neural Computation",
+      "views": 21000
+    },
+    {
+      "id": "Hf1Ma9YkOMY",
+      "title": "12: Spectral Analysis Part 2 - Intro to Neural Computation",
+      "views": 7600
+    },
+    {
+      "id": "VQXxs59Eiak",
+      "title": "13: Spectral Analysis Part 3 - Intro to Neural Computation",
+      "views": 5100
+    },
+    {
+      "id": "5KhcA454er0",
+      "title": "14: Rate Models and Perceptrons - Intro to Neural Computation",
+      "views": 7500
+    },
+    {
+      "id": "Oq_k8F2T1Jc",
+      "title": "15: Matrix Operations - Intro to Neural Computation",
+      "views": 5200
+    },
+    {
+      "id": "Yjeexoq_WAI",
+      "title": "16: Basis Sets - Intro to Neural Computation",
+      "views": 4300
+    },
+    {
+      "id": "N-49t1j-XWY",
+      "title": "17: Principal Components Analysis_ - Intro to Neural Computation",
+      "views": 51000
+    },
+    {
+      "id": "EpPtCLkCGOk",
+      "title": "18: Recurrent Networks - Intro to Neural Computation",
+      "views": 9100
+    },
+    {
+      "id": "vQpo3rTwUjc",
+      "title": "19: Neural Integrators - Intro to Neural Computation",
+      "views": 5300
+    },
+    {
+      "id": "gt52wUN3VrQ",
+      "title": "20: Hopfield Networks - Intro to Neural Computation",
+      "views": 37000
+    }
+  ]
+}

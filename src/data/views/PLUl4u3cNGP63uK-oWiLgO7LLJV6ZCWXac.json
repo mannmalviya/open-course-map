@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "lJzybEXmIj0",
+      "title": "1. Introduction to Computational and Systems Biology",
+      "views": 193000
+    },
+    {
+      "id": "6Udqou3vmng",
+      "title": "2. Local Alignment (BLAST) and Statistics",
+      "views": 134000
+    },
+    {
+      "id": "PdyARRNwi7I",
+      "title": "3. Global Alignment of Protein Sequences (NW, SW, PAM, BLOSUM)",
+      "views": 49000
+    },
+    {
+      "id": "14m9MW-qMhg",
+      "title": "4. Comparative Genomic Analysis of Gene Regulation",
+      "views": 25000
+    },
+    {
+      "id": "P3ORBMon8aw",
+      "title": "5. Library Complexity and Short Read Alignment (Mapping)",
+      "views": 27000
+    },
+    {
+      "id": "ZYW2AeDE6wU",
+      "title": "6. Genome Assembly",
+      "views": 56000
+    },
+    {
+      "id": "Ob9xGBPvr_s",
+      "title": "7. ChIP-seq Analysis; DNA-protein Interactions",
+      "views": 65000
+    },
+    {
+      "id": "MniYgsZSp30",
+      "title": "8. RNA-sequence Analysis: Expression, Isoforms",
+      "views": 66000
+    },
+    {
+      "id": "1EMonM7qAU8",
+      "title": "9. Modeling and Discovery of Sequence Motifs",
+      "views": 26000
+    },
+    {
+      "id": "d5NMrA2HkG4",
+      "title": "10. Markov and Hidden Markov Models of Genomic and Protein Features",
+      "views": 41000
+    },
+    {
+      "id": "kUN6rJ21Hno",
+      "title": "11. RNA Secondary Structure; Biological Functions and Predictions",
+      "views": 18000
+    },
+    {
+      "id": "6ROBp57G2ZI",
+      "title": "12. Introduction to Protein Structure; Structure Comparison and Classification",
+      "views": 58000
+    },
+    {
+      "id": "j1s9JfZKFqU",
+      "title": "13. Predicting Protein Structure",
+      "views": 27000
+    },
+    {
+      "id": "C95294_vvQY",
+      "title": "14. Predicting Protein Interactions",
+      "views": 19000
+    },
+    {
+      "id": "So6MK_FcP4E",
+      "title": "15. Gene Regulatory Networks",
+      "views": 26000
+    },
+    {
+      "id": "RBPcKbEvK3U",
+      "title": "16. Protein Interaction Networks",
+      "views": 21000
+    },
+    {
+      "id": "i59JDQ9hk10",
+      "title": "17. Logic Modeling of Cell Signaling Networks",
+      "views": 14000
+    },
+    {
+      "id": "iKLvCuFD1MA",
+      "title": "18. Analysis of Chromatin Structure",
+      "views": 20000
+    },
+    {
+      "id": "kx_Hks_-SZM",
+      "title": "19. Discovering Quantitative Trait Loci (QTLs)",
+      "views": 35000
+    },
+    {
+      "id": "KYQ2dPW5nEU",
+      "title": "20. Human Genetics, SNPs, and Genome Wide Associate Studies",
+      "views": 91000
+    },
+    {
+      "id": "kKyrR0cFrEg",
+      "title": "21. Synthetic Biology: From Parts to Modules to Therapeutic Systems",
+      "views": 25000
+    },
+    {
+      "id": "uD4-fOWeXAY",
+      "title": "22. Causality, Natural Computing, and Engineering Genomes",
+      "views": 6200
+    }
+  ]
+}

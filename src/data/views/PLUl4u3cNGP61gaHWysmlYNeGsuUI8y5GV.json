@@ -1,0 +1,109 @@
+{
+  "lectures": [
+    {
+      "id": "hWtSvemuN0Y",
+      "title": "1A. Intro 1: Computational Side of Computational Biology. Statistics; Perl, Mathematica",
+      "views": 16000
+    },
+    {
+      "id": "y0fDCN5rbMQ",
+      "title": "1B. Intro 1: Computational Side of Computational Biology. Statistics; Perl, Mathematica",
+      "views": 2100
+    },
+    {
+      "id": "eMbKfsi_DwU",
+      "title": "2A. Intro 2: Biological Side of Computational Biology. Comparative Genomics, Models & A...",
+      "views": 1300
+    },
+    {
+      "id": "_GRVq26jIHs",
+      "title": "2B. Intro 2: Biological Side of Computational Biology. Comparative Genomics, Models & A...",
+      "views": 1000
+    },
+    {
+      "id": "WDUPvNCbLhs",
+      "title": "3A. DNA 1: Genome Sequencing, Polymorphisms, Populations, Statistics, Pharmacogenomics...",
+      "views": 1600
+    },
+    {
+      "id": "3FVlVP5MKV4",
+      "title": "3B. DNA 1 : Genome Sequencing, Polymorphisms, Populations, Statistics, Pharmacogenomics...",
+      "views": 862
+    },
+    {
+      "id": "G4skPcnqWZ4",
+      "title": "4A. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models",
+      "views": 953
+    },
+    {
+      "id": "VVCE-6kmyBI",
+      "title": "4B. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models",
+      "views": 5300
+    },
+    {
+      "id": "qiz-ywBpQlo",
+      "title": "5AB. RNA 1: Microarrays, Library Sequencing and Quantitation Concepts",
+      "views": 1000
+    },
+    {
+      "id": "l1hzzufdfCo",
+      "title": "5C. RNA 1: Microarrays, Library Sequencing and Quantitation Concepts",
+      "views": 440
+    },
+    {
+      "id": "axiNLT3tkqg",
+      "title": "6A. RNA 2: Clustering by Gene or Condition and Other Regulon Data Sources Nucleic Acid ...",
+      "views": 993
+    },
+    {
+      "id": "u3YMRDjX5Po",
+      "title": "6B. RNA 2: Clustering by Gene or Condition and Other Regulon Data Sources Nucleic Acid ...",
+      "views": 371
+    },
+    {
+      "id": "2xONWF0XzOI",
+      "title": "7A. Protein 1: 3D Structural Genomics, Homology, Catalytic and Regulatory Dynamics, Fun...",
+      "views": 941
+    },
+    {
+      "id": "a5dXNyO3k0g",
+      "title": "7B. Protein 1: 3D Structural Genomics, Homology, Catalytic and Regulatory Dynamics, Fun...",
+      "views": 523
+    },
+    {
+      "id": "g4Ype5QTf4s",
+      "title": "8A. Protein 2: Mass Spectrometry, Post-synthetic Modifications, Quantitation of Protein...",
+      "views": 542
+    },
+    {
+      "id": "b11xP6rhn_I",
+      "title": "8B. Protein 2: Mass Spectrometry, Post-synthetic Modifications, Quantitation of Protein...",
+      "views": 409
+    },
+    {
+      "id": "aMfIs9Qmm9Q",
+      "title": "9A. Networks 1: Systems Biology, Metabolic Kinetic & Flux Balance Optimization Methods",
+      "views": 909
+    },
+    {
+      "id": "dzGar1Jnf90",
+      "title": "9B. Networks 1: Systems Biology, Metabolic Kinetic & Flux Balance Optimization Methods",
+      "views": 673
+    },
+    {
+      "id": "Qa7Xnn7ixpk",
+      "title": "10A. Networks 2: Molecular Computing, Self-assembly, Genetic Algorithms, Neural Networks",
+      "views": 803
+    },
+    {
+      "id": "lqfKi0Pkt6U",
+      "title": "11B. Networks 3: The Future of Computational Biology: Cellular, Developmental, Social,...",
+      "views": 1700
+    },
+    {
+      "id": "0XjWRilFPQY",
+      "title": "11A. Networks 3: The Future of Computational Biology: Cellular, Developmental, Social, E...",
+      "views": 677
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lectures": [
+    {
+      "id": "PrLwIay2qH4",
+      "title": "MIT Deep Learning Genomics - Lecture 3 - Convolutional Neural Networks CNNs (Spring 2020)",
+      "views": 8500
+    },
+    {
+      "id": "39E_I2UZkhg",
+      "title": "MIT Deep Learning Genomics - Lecture 4 - Recurrent Neural Networks (Spring 2020)",
+      "views": 2300
+    },
+    {
+      "id": "k8POKryDxAE",
+      "title": "MIT Deep Learning Genomics - Lecture 1 - Machine Learning Intro (Spring 2020)",
+      "views": 12000
+    },
+    {
+      "id": "3fcMnQIi7r8",
+      "title": "MIT Deep Learning Genomics - Lecture 2 - Neural Networks and Gradient Descent (Spring 2020)",
+      "views": 2700
+    },
+    {
+      "id": "62Y3WLVhkpE",
+      "title": "MIT Deep Learning Genomics - Lecture 5 - Model Interpretability (Spring 2020)",
+      "views": 2400
+    },
+    {
+      "id": "KCn_99lXCs8",
+      "title": "MIT Deep Learning Genomics - Lecture 6 - Regulatory Genomics (Spring 2020)",
+      "views": 12000
+    },
+    {
+      "id": "5smX-yJuaZc",
+      "title": "MIT Deep Learning Genomics - Lecture 7 - Regulatory Logic (Spring 2020)",
+      "views": 2200
+    },
+    {
+      "id": "haKWeEQ00Zg",
+      "title": "MIT Deep Learning Genomics - Lecture 8 - Characterizing Uncertainty Expt Planning (S20)",
+      "views": 1100
+    },
+    {
+      "id": "Ktmhh-l8vxQ",
+      "title": "MIT Deep Learning Genomics - Lecture 10 - Epigenomics 3Dgenome (Spring20)",
+      "views": 1500
+    },
+    {
+      "id": "Qh6cAXJJxd4",
+      "title": "MIT Deep Learning Genomics - Lecture 11 - RNA, PCA, t-SNE, Embeddings (Spring20)",
+      "views": 9100
+    },
+    {
+      "id": "_FekGh4Ie3k",
+      "title": "MIT Deep Learning Genomics - Lecture 14 - Deep Learning for Gene Expression Analysis (Spring20)",
+      "views": 5500
+    },
+    {
+      "id": "KRM0hmba9Ns",
+      "title": "MIT Deep Learning Genomics - Lecture 15 - Single-cell genomics (Spring 2020)",
+      "views": 5000
+    },
+    {
+      "id": "18nOsCsuSc4",
+      "title": "MIT Deep Learning in Genomics - Lecture 16 - Genetics 1: GWAS, Linkage, Fine-Mapping",
+      "views": 10000
+    },
+    {
+      "id": "KBOKhMehWGI",
+      "title": "MIT Deep Learning Genomics - Lecture 17 - Genetics2: Systems Genetics",
+      "views": 2600
+    },
+    {
+      "id": "KzyvIBjBkuc",
+      "title": "How to present - Writing, Figures, Talks (MIT Deep Learning Genomics Lecture 22)",
+      "views": 2600
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "lectures": [
+    {
+      "id": "KlVHqq38KJU",
+      "title": "1. Introduction, Course Organization of MIT 7.016 Introductory Biology, Fall 2018",
+      "views": 701000
+    },
+    {
+      "id": "aKTOS0Nrlug",
+      "title": "2. Chemical Bonding and Molecular Interactions; Lipids and Membranes",
+      "views": 290000
+    },
+    {
+      "id": "oOya3cFmAMc",
+      "title": "3. Structures of Amino Acids, Peptides, and Proteins",
+      "views": 311000
+    },
+    {
+      "id": "QTdJiG7mV40",
+      "title": "4. Enzymes & Metabolism",
+      "views": 132000
+    },
+    {
+      "id": "CALYA11terw",
+      "title": "5. Carbohydrates and Glycoproteins",
+      "views": 87000
+    },
+    {
+      "id": "s1MoBTEcVYY",
+      "title": "6. Nucleic Acids",
+      "views": 122000
+    },
+    {
+      "id": "8jLy33vbtYM",
+      "title": "7. Replication",
+      "views": 91000
+    },
+    {
+      "id": "apP5SWitnyw",
+      "title": "8. Transcription",
+      "views": 74000
+    },
+    {
+      "id": "Chv8dlBVXpw",
+      "title": "9. Chromatin Remodeling and Splicing",
+      "views": 62000
+    },
+    {
+      "id": "7xJPSuSVmSk",
+      "title": "10. Translation",
+      "views": 46000
+    },
+    {
+      "id": "SA8dRTq3qUA",
+      "title": "11. Cells, the Simplest Functional Units",
+      "views": 75000
+    },
+    {
+      "id": "rZjwF5z-Xfw",
+      "title": "12. Genetics 1 – Cell Division & Segregating Genetic Material",
+      "views": 123000
+    },
+    {
+      "id": "qtGHKiAROig",
+      "title": "13. Genetics 2 – Rules of Inheritance",
+      "views": 50000
+    },
+    {
+      "id": "jeNPvqRXI9I",
+      "title": "14. Genetics 3 – Linkage, Crossing Over",
+      "views": 47000
+    },
+    {
+      "id": "68KXOYTc1mk",
+      "title": "15. Genetics 4 – The power of model organisms in biological discovery",
+      "views": 29000
+    },
+    {
+      "id": "kVu37T6sB_E",
+      "title": "16. Recombinant DNA, Cloning, & Editing",
+      "views": 92000
+    },
+    {
+      "id": "JuwErrBz3b4",
+      "title": "17. Genomes and DNA Sequencing",
+      "views": 63000
+    },
+    {
+      "id": "83-yKXuRDGc",
+      "title": "18. SNPs & Human genetics",
+      "views": 33000
+    },
+    {
+      "id": "Qfw0C0Ac-Tk",
+      "title": "19. Cell Trafficking and Protein Localization",
+      "views": 44000
+    },
+    {
+      "id": "5ejPI6QqKBU",
+      "title": "20. Cell Signaling 1 – Overview",
+      "views": 100000
+    },
+    {
+      "id": "mvjXFh4P08I",
+      "title": "21. Cell Signaling 2 – Examples",
+      "views": 45000
+    },
+    {
+      "id": "7afYLl70cO0",
+      "title": "22. Neurons, Action Potential, & Optogenetics",
+      "views": 33000
+    },
+    {
+      "id": "iz7rWK5cqjE",
+      "title": "23. Cell Cycle and Checkpoints",
+      "views": 50000
+    },
+    {
+      "id": "EJ6Sjn1c04Y",
+      "title": "24. Stem Cells, Apoptosis, & Tissue Homeostasis",
+      "views": 42000
+    },
+    {
+      "id": "L4tEwAsVW0I",
+      "title": "25. Cancer 1",
+      "views": 126000
+    },
+    {
+      "id": "6rOvXGoXoJc",
+      "title": "26. Cancer 2",
+      "views": 46000
+    },
+    {
+      "id": "nvxvcbaoayM",
+      "title": "27. Visualizing Life – Dyes and Stains",
+      "views": 20000
+    },
+    {
+      "id": "hDppkpYcBdg",
+      "title": "28. Visualizing Life - Fluorescent Proteins",
+      "views": 16000
+    },
+    {
+      "id": "LhbtCTwtdDU",
+      "title": "29. Cell Imaging Techniques",
+      "views": 25000
+    },
+    {
+      "id": "FpXIGTFD8Qs",
+      "title": "30. Immunology 1 – Diversity, Specificity, & B cells",
+      "views": 179000
+    },
+    {
+      "id": "SqGmQ6CFYHw",
+      "title": "31. Immunology 2 – Memory, T cells, & Autoimmunity",
+      "views": 104000
+    },
+    {
+      "id": "7gLcuMtM_HY",
+      "title": "32. Infectious Disease, Viruses, and Bacteria",
+      "views": 108000
+    },
+    {
+      "id": "E8BihX2hGss",
+      "title": "33. Bacteria and Antibiotic Resistance",
+      "views": 41000
+    },
+    {
+      "id": "Ao-r2nsib_Y",
+      "title": "34. Viruses and Anti-Viral Resistance",
+      "views": 32000
+    },
+    {
+      "id": "_fWt9yHslDo",
+      "title": "35. Reproductive Cloning and Embryonic Stem Cells",
+      "views": 23000
+    }
+  ]
+}

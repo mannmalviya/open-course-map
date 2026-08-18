@@ -1,0 +1,304 @@
+{
+  "lectures": [
+    {
+      "id": "_svW8NV1A6k",
+      "title": "Lecture 0: Tomaso Poggio - Introduction to Brains, Minds, and Machines",
+      "views": 63000
+    },
+    {
+      "id": "3Mvzp5xvEXA",
+      "title": "Lecture 1.1: Nancy Kanwisher - Human Cognitive Neuroscience",
+      "views": 94000
+    },
+    {
+      "id": "zAx-EEelmLc",
+      "title": "Lecture 1.2: Gabriel Kreiman - Computational Roles of Neural Feedback",
+      "views": 18000
+    },
+    {
+      "id": "Ch56tU3wb9c",
+      "title": "Lecture 1.3: James DiCarlo - Neural Mechanisms of Recognition Part 1",
+      "views": 11000
+    },
+    {
+      "id": "AWYzdtetQbE",
+      "title": "Lecture 1.4: Neural Mechanisms of Recognition, Part 2",
+      "views": 5300
+    },
+    {
+      "id": "8PcPpVQK7N8",
+      "title": "Lecture 1.5: Winrich Freiwald - Primates, Faces, & Intelligence",
+      "views": 5000
+    },
+    {
+      "id": "vmE4N0m67AA",
+      "title": "Lecture 1.6: Matt Wilson - Hippocampus, Memory, & Sleep Part 1",
+      "views": 17000
+    },
+    {
+      "id": "fmx5Yj95sgQ",
+      "title": "Lecture 1.7: Hippocampus, Memory, & Sleep, Part 2",
+      "views": 6500
+    },
+    {
+      "id": "RTmoWFZQ-WE",
+      "title": "Seminar 1: Larry Abbott - Mind in the Fly Brain",
+      "views": 14000
+    },
+    {
+      "id": "Pwm6DqdC4pU",
+      "title": "Lecture 2.1: Josh Tenenbaum - Computational Cognitive Science Part 1",
+      "views": 25000
+    },
+    {
+      "id": "hfryF7_QU2c",
+      "title": "Lecture 2.2: Josh Tenenbaum - Computational Cognitive Science Part 2",
+      "views": 7200
+    },
+    {
+      "id": "dfsPKoHv_F4",
+      "title": "Lecture 2.3: Josh Tenenbaum - Computational Cognitive Science Part 3",
+      "views": 4200
+    },
+    {
+      "id": "6iW0beoK2tI",
+      "title": "Lecture 3.1: Liz Spelke - Cognition in Infancy (Part 1)",
+      "views": 7700
+    },
+    {
+      "id": "6nfmDpar0fQ",
+      "title": "Lecture 3.2: Cognition in Infancy, Part 2",
+      "views": 2700
+    },
+    {
+      "id": "l1t2_5UZhPA",
+      "title": "Lecture 3.3: Alia Martin - Developing an Understanding of Communication",
+      "views": 2400
+    },
+    {
+      "id": "GXuI9fKDxso",
+      "title": "Lecture 3.4: Laura Schulz - Childrens' Sensitivity to Cost and Value of Information",
+      "views": 2500
+    },
+    {
+      "id": "-05tcR4izaw",
+      "title": "Seminar 3: Jessica Sommerville - Infants' Sensitivity to Cost and Benefit",
+      "views": 1900
+    },
+    {
+      "id": "zHa-n2M7Bj8",
+      "title": "Lecture 3.5: Josh Tenenbaum - The Child as Scientist",
+      "views": 2400
+    },
+    {
+      "id": "GGakcLdPWl4",
+      "title": "Unit 3 Debate: Tomer Ullman and Laura Schulz",
+      "views": 2300
+    },
+    {
+      "id": "ggcbVV3Tquo",
+      "title": "Lecture 4.1: Shimon Ullman - Development of Visual Concepts",
+      "views": 2400
+    },
+    {
+      "id": "Xj4nKgJW5yE",
+      "title": "Lecture 4.2: Shimon Ullman - Atoms of Recognition",
+      "views": 1400
+    },
+    {
+      "id": "43kansULeBE",
+      "title": "Lecture 4.3. Aude Oliva - Predicting Visual Memory",
+      "views": 2800
+    },
+    {
+      "id": "eKKXJyabCAQ",
+      "title": "Seminar 4.1: Eero Simoncelli: Probing Sensory Representations",
+      "views": 2400
+    },
+    {
+      "id": "TjrRSOHQACw",
+      "title": "Seminar 4.2: Anmon Shashua - Applications of Vision",
+      "views": 1000
+    },
+    {
+      "id": "yEbr410E2RE",
+      "title": "Lecture 5.1: Vision and Language",
+      "views": 1900
+    },
+    {
+      "id": "NRygklHAoEw",
+      "title": "Lecture 5.2: Andrei Barbu - From Language to Vision and Back Again",
+      "views": 1300
+    },
+    {
+      "id": "7XvgBI2KV28",
+      "title": "Lecture 5.3: Patrick Winston - Story Understanding",
+      "views": 137000
+    },
+    {
+      "id": "A4R2PQOHT2w",
+      "title": "Seminar 5: Tom Mitchell - Neural Representations of Language",
+      "views": 3700
+    },
+    {
+      "id": "HA4undazeF0",
+      "title": "Lecture 6.1: Nancy Kanwisher - Introduction to Social Intelligence",
+      "views": 17000
+    },
+    {
+      "id": "hRAlCx8Xd0Q",
+      "title": "Lecture 6.2: Ken Nakayama - The Social Mind",
+      "views": 2800
+    },
+    {
+      "id": "i0-2sd9RQ6E",
+      "title": "Lecture 6.3: Rebecca Saxe - MVPA: Window on the Mind via fMRI Part 1",
+      "views": 2900
+    },
+    {
+      "id": "hWabPMYZzmo",
+      "title": "Lecture 6.4: MVPA: Window on the Mind via fMRI, Part 2",
+      "views": 1600
+    },
+    {
+      "id": "HCBaApqRqSg",
+      "title": "Lecture 7.1: Josh McDermott - Introduction to Audition, Part 1",
+      "views": 4000
+    },
+    {
+      "id": "PlAelAX6gSU",
+      "title": "Lecture 7.2: Josh McDermott - Introduction to Audition, Part 2",
+      "views": 1700
+    },
+    {
+      "id": "S7M9hXsCRFI",
+      "title": "Lecture 7.3: Nancy Kanwisher - Human Auditory Cortex",
+      "views": 6900
+    },
+    {
+      "id": "7eUfAb8de8c",
+      "title": "Lecture 7.4: Hynek Hermansky - Auditory Perception in Speech Technology, Part 1",
+      "views": 1800
+    },
+    {
+      "id": "Em9I6XTQA3I",
+      "title": "Lecture 7.5: Hynek Hermansky - Auditory Perception in Speech Technology, Part 2",
+      "views": 1300
+    },
+    {
+      "id": "juRiFivEj8s",
+      "title": "Unit 7 Panel: Vision and Audition",
+      "views": 1000
+    },
+    {
+      "id": "FndNHiuFeFU",
+      "title": "Lecture 8.1: Russ Tedrake - MIT's Entry in the DARPA Robotics Challenge",
+      "views": 3200
+    },
+    {
+      "id": "1kel8U86EVE",
+      "title": "Lecture 8.2: John Leonard - Mapping, Localization and Self Driving Vehicles",
+      "views": 13000
+    },
+    {
+      "id": "FRoD9TOJxso",
+      "title": "Lecture 8.3: Tony Prescott - Control Architecture in Mammals and Robots",
+      "views": 1300
+    },
+    {
+      "id": "rUqqquitfMQ",
+      "title": "Lecture 8.4: Stefanie Tellex - Human-Robot Collaboration",
+      "views": 1400
+    },
+    {
+      "id": "7BAChnLg8Co",
+      "title": "Lecture 8.5: Giorgio Metta - Introduction to the iCub Robot",
+      "views": 1000
+    },
+    {
+      "id": "EAWpLeor4Zk",
+      "title": "Lecture 8.6: iCub Team - Overview of Research on the iCub Robot",
+      "views": 1200
+    },
+    {
+      "id": "D8zaRaVWy9k",
+      "title": "Unit 8 Panel: Robotics",
+      "views": 1500
+    },
+    {
+      "id": "IeD8VXfqPyQ",
+      "title": "Lecture 9.1: Tomaso Poggio - iTheory: Visual Cortex & Deep Networks",
+      "views": 2300
+    },
+    {
+      "id": "opMnuRnfaX0",
+      "title": "Seminar 9: Surya Ganguli - Statistical Physics of Deep Learning",
+      "views": 4100
+    },
+    {
+      "id": "QeHuHti530Q",
+      "title": "Lecture 9.2: Haim Sompolinksy - Sensory Representations in Deep Networks",
+      "views": 1600
+    },
+    {
+      "id": "3xBTFOxtfNU",
+      "title": "Tutorial 1: Leyla Isik - Introduction to Visual Neuroscience",
+      "views": 2800
+    },
+    {
+      "id": "cyQZP23YbCY",
+      "title": "Tutorial 3.1: Lorenzo Rosasco - Machine Learning Part 1",
+      "views": 3700
+    },
+    {
+      "id": "fmmRyV9ObkU",
+      "title": "Tutorial 3.2: Lorenzo Rosasco - Machine Learning Part 2",
+      "views": 1200
+    },
+    {
+      "id": "pquNMjlgPwI",
+      "title": "Tutorial 3.3: Lorenzo Rosasco - Machine Learning Part 3",
+      "views": 965
+    },
+    {
+      "id": "FMb-HSnaNs4",
+      "title": "Tutorial 4: Ethan Meyers - Understanding Neural Content via Population Decoding",
+      "views": 2500
+    },
+    {
+      "id": "lv3kGg-eRa0",
+      "title": "Tutorial 5.1:  Tomer Ullman - Church Programming Language Part 1",
+      "views": 2500
+    },
+    {
+      "id": "Unvy1L_NH0c",
+      "title": "Tutorial 5.2: Tomer Ullman - Church Programming Language Part 2",
+      "views": 1000
+    },
+    {
+      "id": "pCyWp8R4zsA",
+      "title": "Tutorial 6: Tomer Ullman - Amazon Mechanical Turk",
+      "views": 3900
+    },
+    {
+      "id": "_qTVDxXBK5A",
+      "title": "Nick Cheney: Capturing Neural Plasticity in Deep Networks",
+      "views": 1800
+    },
+    {
+      "id": "JZcFjR4dMmw",
+      "title": "Danny Jeck: Impact of Attention on Cortical Models of Visual Recognition",
+      "views": 680
+    },
+    {
+      "id": "NFFX81o9yRA",
+      "title": "Alon Baram & Laurie Bayet: Learning to Recognize Digits and Faces from Few Examples",
+      "views": 859
+    },
+    {
+      "id": "Bn49TBjEAI4",
+      "title": "David Rolnick & Ishita Dasgupta: Modeling Dynamic Memory with Hopfield Networks",
+      "views": 4700
+    }
+  ]
+}

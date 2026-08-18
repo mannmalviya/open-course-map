@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "gc3O2sKIsX4",
+      "title": "Introduction to the Class and Overview of Topics",
+      "views": 85000
+    },
+    {
+      "id": "lLY1u2aghIQ",
+      "title": "Input Function, Michaelis-Menten kinetics, and Cooperativity",
+      "views": 33000
+    },
+    {
+      "id": "sJ7p2AuOYlA",
+      "title": "Autoregulation, Feedback and Bistability",
+      "views": 15000
+    },
+    {
+      "id": "hfq1T9windg",
+      "title": "Synthetic Biology and Stability Analysis in the Toggle Switch",
+      "views": 14000
+    },
+    {
+      "id": "xNNxlsY-F-s",
+      "title": "Oscillatory Genetic Networks",
+      "views": 12000
+    },
+    {
+      "id": "NnDqJhtUqjw",
+      "title": "Graph Properties of Transcription Networks",
+      "views": 6500
+    },
+    {
+      "id": "zJTVMkGe8-8",
+      "title": "Feed-forward Loop Network Motif",
+      "views": 7100
+    },
+    {
+      "id": "dP4NQIpUH6w",
+      "title": "Introduction to Stochastic Gene Expression",
+      "views": 12000
+    },
+    {
+      "id": "03bVGr-vYHQ",
+      "title": "Causes and Consequences of Stochastic Gene Expression",
+      "views": 6400
+    },
+    {
+      "id": "EXBO08-78IU",
+      "title": "Stochastic Modeling",
+      "views": 77000
+    },
+    {
+      "id": "TuXFwKrWQg8",
+      "title": "Life at Low Reynolds Number",
+      "views": 19000
+    },
+    {
+      "id": "cT855rpX8bc",
+      "title": "Robustness and Bacterial Chemotaxis",
+      "views": 7600
+    },
+    {
+      "id": "onL_UF4FLVM",
+      "title": "Robustness in Development and Pattern Formation",
+      "views": 7200
+    },
+    {
+      "id": "9yGxpWVWYDY",
+      "title": "Microbial Evolution Experiments and Optimal Gene Circuit Design",
+      "views": 7100
+    },
+    {
+      "id": "KLrPm-BEEOI",
+      "title": "Evolution in Finite Populations",
+      "views": 8100
+    },
+    {
+      "id": "6PxncdxIXNE",
+      "title": "Clonal Interference and the Distribution of Beneficial Mutations",
+      "views": 3400
+    },
+    {
+      "id": "EFXjKHdbi6A",
+      "title": "Fitness Landscapes and Sequence Spaces",
+      "views": 6400
+    },
+    {
+      "id": "a8Fbmj4nIxY",
+      "title": "Evolutionary Games",
+      "views": 19000
+    },
+    {
+      "id": "BJXCf6pFrhA",
+      "title": "Survival in Fluctuating Environments",
+      "views": 3700
+    },
+    {
+      "id": "Cn5K8R8cEiI",
+      "title": "Parasites, the Evolution of Virulence and Sex",
+      "views": 6500
+    },
+    {
+      "id": "WTesORG5H-A",
+      "title": "Interspecies Interactions",
+      "views": 7900
+    },
+    {
+      "id": "lC3XSwQ62iw",
+      "title": "Ecosystem Stability, Critical Transitions, and Biodiversity",
+      "views": 24000
+    },
+    {
+      "id": "3eIzIJ6QncY",
+      "title": "Dynamics of Populations in Space",
+      "views": 4800
+    },
+    {
+      "id": "m41DWardioc",
+      "title": "The Neutral Theory of Ecology",
+      "views": 34000
+    }
+  ]
+}

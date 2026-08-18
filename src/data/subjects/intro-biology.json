@@ -1,0 +1,75 @@
+{
+  "courses": {
+    "mit-pre701": {
+      "title": "Pre-7.01 Getting up to Speed in Biology",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT Pre-7.01 \u00b7 Sive \u00b7 Summer 2020",
+          "url": "https://openlearninglibrary.mit.edu/pre-biology",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le",
+          "date": "Summer 2020",
+          "youtubeId": "fwThhaZk5WQ",
+          "primary": true
+        }
+      ]
+    },
+    "mit-701": {
+      "title": "7.01x Introductory Biology",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Life: The Science of Biology",
+          "authors": "Sadava, Hillis, Heller & Hacker",
+          "cover": "life-science-of-biology"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 7.016 \u00b7 Imperiali & Martin \u00b7 Fall 2018",
+          "url": "https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63",
+          "date": "Fall 2018",
+          "youtubeId": "KlVHqq38KJU",
+          "primary": true
+        },
+        {
+          "label": "MIT 7.012 \u00b7 Lander & Weinberg \u00b7 Fall 2004",
+          "url": "https://ocw.mit.edu/courses/7-012-introduction-to-biology-fall-2004/",
+          "youtube": "https://www.youtube.com/playlist?list=PL9F0B2048DA4690AF",
+          "date": "Fall 2004",
+          "youtubeId": "_m4Gvu90Ydw"
+        },
+        {
+          "label": "MIT 7.014 \u00b7 Walker & Chisholm \u00b7 Spring 2005",
+          "url": "https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/",
+          "youtube": "https://www.youtube.com/playlist?list=PL512E990FCFD976E2",
+          "date": "Spring 2005",
+          "youtubeId": "lm8ywGl9AIQ"
+        },
+        {
+          "label": "MIT 7.01SC \u00b7 Fundamentals of Biology (excerpts) \u00b7 2011",
+          "url": "https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/",
+          "youtube": "https://www.youtube.com/playlist?list=PLF83B8D8C87426E44",
+          "date": "Fall 2011",
+          "youtubeId": "PzY0MWEEE6U"
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-pre701",
+      "to": "mit-701"
+    }
+  ]
+}

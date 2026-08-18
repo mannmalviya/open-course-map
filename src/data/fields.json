@@ -131,8 +131,8 @@
       "title": "Computer Science",
       "parent": "root",
       "pos": {
-        "x": 280,
-        "y": 400
+        "x": 880,
+        "y": 100
       },
       "size": {
         "w": 300,
@@ -498,6 +498,78 @@
         "w": 250,
         "h": 160
       }
+    },
+    "biology": {
+      "title": "Biology",
+      "parent": "root",
+      "pos": {
+        "x": 680,
+        "y": 400
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "intro-biology": {
+      "title": "Introductory Biology",
+      "parent": "biology",
+      "pos": {
+        "x": 80,
+        "y": 200
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "biochemistry": {
+      "title": "Biochemistry",
+      "parent": "biology",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "comp-bio": {
+      "title": "Computational & Systems Biology",
+      "parent": "biology",
+      "pos": {
+        "x": 430,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "neuroscience": {
+      "title": "Neuroscience & Behavior",
+      "parent": "biology",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "bio-other": {
+      "title": "Other",
+      "parent": "biology",
+      "pos": {
+        "x": 780,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [
@@ -592,6 +664,62 @@
     {
       "from": "foundations",
       "to": "algorithms"
+    },
+    {
+      "from": "intro-biology",
+      "to": "biochemistry"
+    },
+    {
+      "from": "intro-biology",
+      "to": "comp-bio"
+    },
+    {
+      "from": "mit-701",
+      "to": "mit-507"
+    },
+    {
+      "from": "mit-701",
+      "to": "mit-791"
+    },
+    {
+      "from": "mit-701",
+      "to": "mit-8591"
+    },
+    {
+      "from": "mit-701",
+      "to": "mit-6047"
+    },
+    {
+      "from": "mit-507",
+      "to": "mit-791"
+    },
+    {
+      "from": "mit-1803",
+      "to": "mit-8591"
+    },
+    {
+      "from": "mit-6041",
+      "to": "mit-8591"
+    },
+    {
+      "from": "mit-6041",
+      "to": "mit-791"
+    },
+    {
+      "from": "mit-6041",
+      "to": "mit-6047"
+    },
+    {
+      "from": "mit-6006",
+      "to": "mit-6047"
+    },
+    {
+      "from": "mit-intro-python",
+      "to": "mit-791"
+    },
+    {
+      "from": "mit-802",
+      "to": "mit-940"
     }
   ],
   "ghosts": [
@@ -641,6 +769,70 @@
       "pos": {
         "x": -200,
         "y": 365
+      }
+    },
+    {
+      "node": "mit-701",
+      "inGroup": "biochemistry",
+      "pos": {
+        "x": 80,
+        "y": 170
+      }
+    },
+    {
+      "node": "mit-701",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 120
+      }
+    },
+    {
+      "node": "mit-507",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 230
+      }
+    },
+    {
+      "node": "mit-intro-python",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 340
+      }
+    },
+    {
+      "node": "mit-6041",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 450
+      }
+    },
+    {
+      "node": "mit-1803",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 560
+      }
+    },
+    {
+      "node": "mit-6006",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 670
+      }
+    },
+    {
+      "node": "mit-802",
+      "inGroup": "neuroscience",
+      "pos": {
+        "x": 80,
+        "y": 470
       }
     }
   ]

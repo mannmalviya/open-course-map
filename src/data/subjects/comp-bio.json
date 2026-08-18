@@ -1,0 +1,92 @@
+{
+  "courses": {
+    "mit-791": {
+      "title": "7.91J Computational & Systems Biology",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 7.91J \u00b7 Burge, Gifford & Fraenkel \u00b7 Spring 2014",
+          "url": "https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac",
+          "date": "Spring 2014",
+          "youtubeId": "lJzybEXmIj0",
+          "primary": true
+        }
+      ]
+    },
+    "mit-8591": {
+      "title": "8.591J Systems Biology",
+      "university": "MIT",
+      "level": "grad",
+      "textbooks": [
+        {
+          "title": "An Introduction to Systems Biology",
+          "authors": "Uri Alon",
+          "cover": "alon-systems-biology"
+        },
+        {
+          "title": "Evolutionary Dynamics",
+          "authors": "Martin A. Nowak",
+          "cover": "nowak-evolutionary-dynamics"
+        }
+      ],
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 8.591J \u00b7 Gore \u00b7 Fall 2014",
+          "url": "https://ocw.mit.edu/courses/8-591j-systems-biology-fall-2014/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63OI3pSKo8Ha_DFBMxm23xO",
+          "date": "Fall 2014",
+          "youtubeId": "gc3O2sKIsX4",
+          "primary": true
+        }
+      ]
+    },
+    "mit-hst508": {
+      "title": "HST.508 Genomics & Computational Biology",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT HST.508 \u00b7 Church \u00b7 Fall 2002 (audio only)",
+          "url": "https://ocw.mit.edu/courses/hst-508-genomics-and-computational-biology-fall-2002/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61gaHWysmlYNeGsuUI8y5GV",
+          "date": "Fall 2002",
+          "youtubeId": "hWtSvemuN0Y",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6047": {
+      "title": "6.047 / 6.878 Computational Biology",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.047 \u00b7 Kellis \u00b7 Fall 2018",
+          "url": "https://compbio.mit.edu/6.047/",
+          "youtube": "https://www.youtube.com/playlist?list=PLypiXJdtIca6GBQwDTo4bIEDV8F4RcAgt",
+          "date": "Fall 2018",
+          "youtubeId": "sX4cMu9Azgs",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

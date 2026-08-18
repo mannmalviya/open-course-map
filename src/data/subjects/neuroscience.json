@@ -1,0 +1,98 @@
+{
+  "courses": {
+    "stanford-bio150": {
+      "title": "BIO 150 Human Behavioral Biology",
+      "university": "Stanford",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford BIO 150 \u00b7 Sapolsky \u00b7 Spring 2010",
+          "youtube": "https://www.youtube.com/playlist?list=PL848F2368C90DDC3D",
+          "date": "Spring 2010",
+          "youtubeId": "NNnIGh9g6fA",
+          "primary": true
+        }
+      ]
+    },
+    "mit-920": {
+      "title": "9.20 Animal Behavior",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 9.20 \u00b7 Schneider \u00b7 Fall 2013 (audio only)",
+          "url": "https://ocw.mit.edu/courses/9-20-animal-behavior-fall-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63TbPEWYEKOq8yAN8mEP_5O",
+          "date": "Fall 2013",
+          "youtubeId": "CqJkz9SfGk4",
+          "primary": true
+        }
+      ]
+    },
+    "mit-913": {
+      "title": "9.13 The Human Brain",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 9.13 \u00b7 Kanwisher \u00b7 Spring 2019",
+          "url": "https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP",
+          "date": "Spring 2019",
+          "youtubeId": "ba-HMvDn_vU",
+          "primary": true
+        }
+      ]
+    },
+    "mit-914": {
+      "title": "9.14 Brain Structure & Its Origins",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 9.14 \u00b7 Schneider \u00b7 Spring 2014 (audio only)",
+          "url": "https://ocw.mit.edu/courses/9-14-brain-structure-and-its-origins-spring-2014/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62ABe0O-0qtaHHxyKQi1ZwR",
+          "date": "Spring 2014",
+          "youtubeId": "Qn7WPvap3Zo",
+          "primary": true
+        }
+      ]
+    },
+    "mit-940": {
+      "title": "9.40 Intro to Neural Computation",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 9.40 \u00b7 Fee \u00b7 Spring 2018",
+          "url": "https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm",
+          "date": "Spring 2018",
+          "youtubeId": "PnJEj6TokDA",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

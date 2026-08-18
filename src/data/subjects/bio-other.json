@@ -1,0 +1,56 @@
+{
+  "courses": {
+    "stanford-darwins-legacy": {
+      "title": "Darwin's Legacy",
+      "university": "Stanford",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford Continuing Studies \u00b7 Durham \u00b7 Fall 2008",
+          "youtube": "https://www.youtube.com/playlist?list=PLF2E17B4CDCCE15F5",
+          "date": "Fall 2008",
+          "youtubeId": "fysSblKjjvA",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-mini-med": {
+      "title": "Mini Med School",
+      "university": "Stanford",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford Continuing Studies \u00b7 Fall 2009",
+          "youtube": "https://www.youtube.com/playlist?list=PLD7B0DBD8C28BDEA2",
+          "date": "Fall 2009",
+          "youtubeId": "SRJc8RsEV44",
+          "primary": true
+        }
+      ]
+    },
+    "mit-res9003": {
+      "title": "Brains, Minds & Machines Summer Course",
+      "university": "MIT",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT RES.9-003 \u00b7 Poggio & Kreiman \u00b7 Summer 2015",
+          "url": "https://ocw.mit.edu/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61RTZrT3MIAikp2G5EEvTjf",
+          "date": "Summer 2015",
+          "youtubeId": "_svW8NV1A6k",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

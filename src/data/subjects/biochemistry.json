@@ -1,0 +1,55 @@
+{
+  "courses": {
+    "mit-507": {
+      "title": "5.07 / 7.05 Biochemistry I",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.07SC \u00b7 Essigmann, Stubbe & Fedeles \u00b7 Fall 2013",
+          "url": "https://ocw.mit.edu/courses/5-07sc-biological-chemistry-i-fall-2013/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61zrSMpm1lCZoLXrQ2YmgON",
+          "date": "Fall 2013",
+          "youtubeId": "VVOazB6_D3Q",
+          "primary": true
+        },
+        {
+          "label": "MIT 7.05 \u00b7 Yaffe & Vander Heiden \u00b7 Spring 2020 (selected lectures)",
+          "url": "https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62wNcIMfinU64CAfreShjpt",
+          "date": "Spring 2020",
+          "youtubeId": "KLb5CmPM7YY"
+        }
+      ]
+    },
+    "mit-508": {
+      "title": "5.08J Biological Chemistry II",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.08J \u00b7 Stubbe & Nolan \u00b7 Spring 2016",
+          "url": "https://ocw.mit.edu/courses/5-08j-biological-chemistry-ii-spring-2016/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63vvR4xtexZdoPywRYIZI0-",
+          "date": "Spring 2016",
+          "youtubeId": "PoFDK7Kwx1o",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "mit-507",
+      "to": "mit-508"
+    }
+  ]
+}

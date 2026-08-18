@@ -5,7 +5,7 @@
       "university": "MIT",
       "level": "grad",
       "pos": {
-        "x": 430,
+        "x": 780,
         "y": 120
       },
       "versions": [
@@ -37,7 +37,7 @@
       ],
       "pos": {
         "x": 780,
-        "y": 120
+        "y": 420
       },
       "versions": [
         {
@@ -74,8 +74,8 @@
       "university": "MIT",
       "level": "undergrad",
       "pos": {
-        "x": 430,
-        "y": 420
+        "x": 780,
+        "y": 720
       },
       "versions": [
         {
@@ -85,6 +85,31 @@
           "date": "Fall 2018",
           "youtubeId": "sX4cMu9Azgs",
           "primary": true
+        }
+      ]
+    },
+    "mit-6874": {
+      "title": "6.874 DL in Life Sciences",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "MIT 6.874 \u00b7 Kellis \u00b7 Spring 2021",
+          "url": "https://mit6874.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX",
+          "date": "Spring 2021",
+          "youtubeId": "0jWOZoTsYzI",
+          "primary": true
+        },
+        {
+          "label": "MIT 6.874 \u00b7 Kellis \u00b7 Spring 2020 (partial)",
+          "youtube": "https://www.youtube.com/playlist?list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB",
+          "date": "Spring 2020",
+          "youtubeId": "PrLwIay2qH4"
         }
       ]
     }

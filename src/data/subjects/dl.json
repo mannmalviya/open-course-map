@@ -101,25 +101,6 @@
         }
       ]
     },
-    "mit-6874": {
-      "title": "6.874 DL in Life Sciences",
-      "university": "MIT",
-      "level": "grad",
-      "pos": {
-        "x": 1130,
-        "y": 420
-      },
-      "versions": [
-        {
-          "label": "MIT 6.874 \u00b7 Kellis \u00b7 Spring 2021",
-          "url": "https://mit6874.github.io/",
-          "youtube": "https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX",
-          "date": "Spring 2021",
-          "youtubeId": "0jWOZoTsYzI",
-          "primary": true
-        }
-      ]
-    },
     "deepmind-ucl-dl": {
       "title": "DeepMind x UCL Deep Learning",
       "university": "DeepMind x UCL",

@@ -720,6 +720,22 @@
     {
       "from": "mit-802",
       "to": "mit-940"
+    },
+    {
+      "from": "mit-701",
+      "to": "mit-6874"
+    },
+    {
+      "from": "mit-6041",
+      "to": "mit-6874"
+    },
+    {
+      "from": "mit-intro-python",
+      "to": "mit-6874"
+    },
+    {
+      "from": "mit-1806",
+      "to": "mit-6874"
     }
   ],
   "ghosts": [
@@ -792,7 +808,7 @@
       "inGroup": "comp-bio",
       "pos": {
         "x": 80,
-        "y": 230
+        "y": 270
       }
     },
     {
@@ -800,7 +816,7 @@
       "inGroup": "comp-bio",
       "pos": {
         "x": 80,
-        "y": 340
+        "y": 420
       }
     },
     {
@@ -808,7 +824,7 @@
       "inGroup": "comp-bio",
       "pos": {
         "x": 80,
-        "y": 450
+        "y": 570
       }
     },
     {
@@ -816,7 +832,7 @@
       "inGroup": "comp-bio",
       "pos": {
         "x": 80,
-        "y": 560
+        "y": 720
       }
     },
     {
@@ -824,7 +840,7 @@
       "inGroup": "comp-bio",
       "pos": {
         "x": 80,
-        "y": 670
+        "y": 870
       }
     },
     {
@@ -832,6 +848,22 @@
       "inGroup": "neuroscience",
       "pos": {
         "x": 80,
+        "y": 470
+      }
+    },
+    {
+      "node": "mit-1806",
+      "inGroup": "comp-bio",
+      "pos": {
+        "x": 80,
+        "y": 1020
+      }
+    },
+    {
+      "node": "mit-6874",
+      "inGroup": "dl",
+      "pos": {
+        "x": 1130,
         "y": 470
       }
     }

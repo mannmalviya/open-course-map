@@ -73,6 +73,37 @@
           "youtubeId": "OQQ-W_63UgQ"
         }
       ]
+    },
+    "jhu-mt": {
+      "title": "601.468 Machine Translation",
+      "university": "JHU",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Statistical Machine Translation",
+          "authors": "Koehn",
+          "cover": "koehn-smt"
+        },
+        {
+          "title": "Neural Machine Translation",
+          "authors": "Koehn",
+          "cover": "koehn-nmt"
+        }
+      ],
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "JHU 601.468/668 · Koehn · Fall 2020",
+          "url": "http://mt-class.org/jhu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLQrCiUDqDLG0lQX54o9jB4phJ-SLI6ZBQ",
+          "date": "Fall 2020",
+          "youtubeId": "DuYkqCQEbpo",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [

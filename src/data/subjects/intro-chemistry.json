@@ -1,0 +1,88 @@
+{
+  "courses": {
+    "uci-chem1p": {
+      "title": "Chem 1P Preparation for General Chemistry",
+      "university": "UC Irvine",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UC Irvine Chem 1P · Potma · 2021",
+          "youtube": "https://www.youtube.com/playlist?list=PL7A46F9B564BF2FCD",
+          "date": "2021",
+          "youtubeId": "cHhPI6GYf7w",
+          "primary": true
+        }
+      ]
+    },
+    "mit-511": {
+      "title": "5.11x Principles of Chemical Science",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Chemical Principles: The Quest for Insight",
+          "authors": "Atkins & Jones",
+          "cover": "atkins-jones-chemical-principles"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.111 · Drennan · Fall 2014",
+          "url": "https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63LOmB3_O0xbgZVZibxj4rb",
+          "date": "Fall 2014",
+          "youtubeId": "YkYeYhXUeEE",
+          "primary": true
+        },
+        {
+          "label": "MIT 5.111 · Drennan & Vogel Taylor · Fall 2008",
+          "url": "https://ocw.mit.edu/courses/5-111-principles-of-chemical-science-fall-2008/",
+          "youtube": "https://www.youtube.com/playlist?list=PL2902385153144A26",
+          "date": "Fall 2008",
+          "youtubeId": "-c-X8zk0ywo"
+        },
+        {
+          "label": "MIT 5.112 · Ceyer & Cummins · Fall 2005",
+          "url": "https://ocw.mit.edu/courses/5-112-principles-of-chemical-science-fall-2005/",
+          "youtube": "https://www.youtube.com/playlist?list=PLB3953F4F875AB0B3",
+          "date": "Fall 2005",
+          "youtubeId": "dxR06Mi8ExI"
+        }
+      ]
+    },
+    "mit-3091": {
+      "title": "3.091 Introduction to Solid-State Chemistry",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 3.091 · Grossman · Fall 2018",
+          "url": "https://ocw.mit.edu/courses/3-091-introduction-to-solid-state-chemistry-fall-2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG",
+          "date": "Fall 2018",
+          "youtubeId": "Ao41FrJFgvQ",
+          "primary": true
+        },
+        {
+          "label": "MIT 3.091SC · Sadoway · Fall 2010 (lectures + exam-problem clips)",
+          "url": "https://ocw.mit.edu/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010/",
+          "youtube": "https://www.youtube.com/playlist?list=PL36EC6A6180271B0F",
+          "date": "Fall 2010",
+          "youtubeId": "kI7D2lkcF8E"
+        }
+      ]
+    }
+  }
+}

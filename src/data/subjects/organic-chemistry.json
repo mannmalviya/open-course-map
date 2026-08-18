@@ -1,0 +1,66 @@
+{
+  "courses": {
+    "uci-chem51a": {
+      "title": "Chem 51A Organic Chemistry",
+      "university": "UC Irvine",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UC Irvine Chem 51A · Nowick · Fall 2009 (first of 51A/B/C)",
+          "youtube": "https://www.youtube.com/playlist?list=PL6539BAED55972D64",
+          "date": "Fall 2009",
+          "youtubeId": "yb6s2XMFc6Y",
+          "primary": true
+        }
+      ]
+    },
+    "yale-chem125a": {
+      "title": "CHEM 125a · Freshman Organic Chemistry I",
+      "university": "Yale",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Yale CHEM 125a · McBride · Fall 2008",
+          "url": "https://oyc.yale.edu/chemistry/chem-125a",
+          "youtube": "https://www.youtube.com/playlist?list=PL3F629F73640F831D",
+          "date": "Fall 2008",
+          "youtubeId": "WSYEApgJkh0",
+          "primary": true
+        }
+      ]
+    },
+    "yale-chem125b": {
+      "title": "CHEM 125b · Freshman Organic Chemistry II",
+      "university": "Yale",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Yale CHEM 125b · McBride · Spring 2011",
+          "url": "https://oyc.yale.edu/chemistry/chem-125b",
+          "youtube": "https://www.youtube.com/playlist?list=PLB572BA3ED0F700F1",
+          "date": "Spring 2011",
+          "youtubeId": "5sLb4DS0LM8",
+          "primary": true
+        }
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "yale-chem125a",
+      "to": "yale-chem125b"
+    }
+  ]
+}

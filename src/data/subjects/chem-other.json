@@ -1,0 +1,40 @@
+{
+  "courses": {
+    "mit-reshs002": {
+      "title": "Chemistry Behind the Magic",
+      "university": "MIT",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT RES.HS-002 · Shakhashiri · 2012 (classroom demonstrations)",
+          "url": "https://ocw.mit.edu/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63UxHfpB-qh6rGkVVZNbtxo",
+          "date": "2012",
+          "youtubeId": "5Y3hS_ckeJE",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-e20": {
+      "title": "E20 Introduction to Chemical Engineering",
+      "university": "Stanford",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford E20 · Robertson · 2008",
+          "youtube": "https://www.youtube.com/playlist?list=PLD2D34BCA5468DD9A",
+          "date": "2008",
+          "youtubeId": "WgWNQVdhE9A",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

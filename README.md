@@ -12,7 +12,7 @@ A hand-drawn map of the best free university courses on the internet. MIT, Stanf
 
 ## What's on it
 
-- ~130 courses across math, physics, CS, and biology from 13 universities
+- ~150 courses across math, physics, CS, chemistry, and biology from 15 universities
 - Every course links to its official page and lecture playlist
 - Per-lecture YouTube view counts, so you can see how popular a course is and where people drop off
 - Prerequisite edges within and across subjects

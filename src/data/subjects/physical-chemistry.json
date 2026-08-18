@@ -1,0 +1,75 @@
+{
+  "courses": {
+    "mit-561": {
+      "title": "5.61 Physical Chemistry",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Quantum Chemistry",
+          "authors": "McQuarrie",
+          "cover": "mcquarrie-quantum-chemistry"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.61 · Field · Fall 2017",
+          "url": "https://ocw.mit.edu/courses/5-61-physical-chemistry-fall-2017/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg",
+          "date": "Fall 2017",
+          "youtubeId": "XxRjzphItU0",
+          "primary": true
+        }
+      ]
+    },
+    "metu-chem350": {
+      "title": "CHEM 350 · Quantum Chemistry",
+      "university": "METU",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "METU CHEM 350 · Özkan · 2017",
+          "url": "https://ocw.metu.edu.tr/course/view.php?id=260",
+          "youtube": "https://www.youtube.com/playlist?list=PLuiPz6iU5SQ9BySjQ8Zi_OIEU_5Hs0Yb8",
+          "date": "2017",
+          "youtubeId": "hbCQg51Z3GU",
+          "primary": true
+        }
+      ]
+    },
+    "mit-560": {
+      "title": "5.60 Thermodynamics & Kinetics",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Physical Chemistry",
+          "authors": "Silbey, Alberty & Bawendi",
+          "cover": "silbey-alberty-bawendi-physical-chemistry"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 5.60 · Nelson & Bawendi · Spring 2008",
+          "url": "https://ocw.mit.edu/courses/5-60-thermodynamics-kinetics-spring-2008/",
+          "youtube": "https://www.youtube.com/playlist?list=PLA62087102CC93765",
+          "date": "Spring 2008",
+          "youtubeId": "kLqduWF6GXE",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

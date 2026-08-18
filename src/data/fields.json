@@ -582,6 +582,78 @@
         "w": 250,
         "h": 160
       }
+    },
+    "chemistry": {
+      "title": "Chemistry",
+      "parent": "root",
+      "pos": {
+        "x": 280,
+        "y": 400
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "intro-chemistry": {
+      "title": "Introductory Chemistry",
+      "parent": "chemistry",
+      "pos": {
+        "x": 80,
+        "y": 200
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "physical-chemistry": {
+      "title": "Physical Chemistry",
+      "parent": "chemistry",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "organic-chemistry": {
+      "title": "Organic Chemistry",
+      "parent": "chemistry",
+      "pos": {
+        "x": 430,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "lab-chemistry": {
+      "title": "Laboratory Chemistry",
+      "parent": "chemistry",
+      "pos": {
+        "x": 780,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "chem-other": {
+      "title": "Other",
+      "parent": "chemistry",
+      "pos": {
+        "x": 780,
+        "y": 340
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [
@@ -748,6 +820,26 @@
     {
       "from": "mit-1806",
       "to": "mit-6874"
+    },
+    {
+      "from": "intro-chemistry",
+      "to": "physical-chemistry"
+    },
+    {
+      "from": "mit-511",
+      "to": "mit-561"
+    },
+    {
+      "from": "mit-3091",
+      "to": "mit-561"
+    },
+    {
+      "from": "mit-802",
+      "to": "mit-561"
+    },
+    {
+      "from": "mit-1802",
+      "to": "mit-561"
     }
   ],
   "ghosts": [
@@ -877,6 +969,46 @@
       "pos": {
         "x": 1130,
         "y": 470
+      }
+    },
+    {
+      "node": "mit-511",
+      "inGroup": "physical-chemistry",
+      "pos": {
+        "x": 80,
+        "y": 120
+      }
+    },
+    {
+      "node": "mit-3091",
+      "inGroup": "physical-chemistry",
+      "pos": {
+        "x": 80,
+        "y": 270
+      }
+    },
+    {
+      "node": "mit-802",
+      "inGroup": "physical-chemistry",
+      "pos": {
+        "x": 80,
+        "y": 420
+      }
+    },
+    {
+      "node": "mit-1802",
+      "inGroup": "physical-chemistry",
+      "pos": {
+        "x": 80,
+        "y": 570
+      }
+    },
+    {
+      "node": "mit-507",
+      "inGroup": "organic-chemistry",
+      "pos": {
+        "x": 1130,
+        "y": 170
       }
     }
   ]

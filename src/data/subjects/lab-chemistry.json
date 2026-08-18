@@ -1,0 +1,49 @@
+{
+  "courses": {
+    "mit-5301": {
+      "title": "5.301 Chemistry Laboratory Techniques",
+      "university": "MIT",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.301 · IAP 2004 (5 technique videos)",
+          "url": "https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/",
+          "youtube": "https://www.youtube.com/playlist?list=PL57499F5778AAB619",
+          "date": "IAP 2004",
+          "youtubeId": "EUn2skAAjHk",
+          "primary": true
+        }
+      ]
+    },
+    "mit-5310": {
+      "title": "5.310 Laboratory Chemistry",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Laboratory Techniques in Organic Chemistry",
+          "authors": "Mohrig, Alberg, Hofmeister, Schatz & Hammond",
+          "cover": "mohrig-laboratory-techniques"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 5.310 · Dolhun & Hewett · Fall 2019",
+          "url": "https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZhyqhOGKbSBzcOovEbb6y",
+          "date": "Fall 2019",
+          "youtubeId": "l1hMkDTg2lg",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

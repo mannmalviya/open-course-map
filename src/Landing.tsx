@@ -38,8 +38,7 @@ export function Landing({ background, onOpen }: LandingProps) {
       <div className="landing-inner">
         <h1>Open Course Map</h1>
         <p className="landing-tagline">
-          The best free university courses on the internet, drawn as a map — with the
-          prerequisites marked, so you know what to take before what.
+          The best free university courses on the internet, on one map.
         </p>
 
         <div className="landing-cta">

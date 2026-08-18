@@ -32,3 +32,9 @@ npm run dev
 ```
 
 React + Vite + rough.js for the hand-drawn look.
+
+## License
+
+- Code is [MIT](LICENSE)
+- The map itself — everything under `src/data/` — is [CC BY 4.0](src/data/LICENSE): reuse it freely, credit Open Course Map
+- School logos and book covers belong to their institutions and publishers; [Excalifont](https://plus.excalidraw.com/excalifont) is Excalidraw's, under the SIL Open Font License

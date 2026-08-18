@@ -97,6 +97,7 @@ const LOGOS: Record<string, string> = {
   Yale: '/logos/yale.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz.svg',
   'UC Berkeley': '/logos/uc-berkeley.svg',
+  'UC Irvine': '/logos/uc-irvine.svg',
   CMU: '/logos/cmu.svg',
   Caltech: '/logos/caltech.svg',
   'ETH Zürich': '/logos/eth-zurich.svg',

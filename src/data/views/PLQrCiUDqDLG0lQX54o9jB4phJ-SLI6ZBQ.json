@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "DuYkqCQEbpo",
+      "title": "Machine Translation - Lecture 1: Introduction",
+      "views": 20000
+    },
+    {
+      "id": "5etGx8OZE7I",
+      "title": "Machine Translation - Lecture 4: IBM Model 1 and the EM Algorithm",
+      "views": 9600
+    },
+    {
+      "id": "dsBioR-U5P4",
+      "title": "Machine Translation - Lecture 2: Basics in Language and Probability",
+      "views": 4200
+    },
+    {
+      "id": "AwZSgHikWwk",
+      "title": "Machine Translation - Lecture 5: Phrase Based Models",
+      "views": 3700
+    },
+    {
+      "id": "Vj4wZsSnO1Q",
+      "title": "Machine Translation - Lecture 3: Language Models",
+      "views": 3300
+    },
+    {
+      "id": "Iso8dl8Ay6E",
+      "title": "Machine Translation - Lecture 7: Evaluation",
+      "views": 3200
+    },
+    {
+      "id": "dBEOdWs15oY",
+      "title": "Machine Translation - Lecture 6: Decoding",
+      "views": 2100
+    },
+    {
+      "id": "Sho-b4-9ODE",
+      "title": "Machine Translation - Lecture 10: Neural Language Models",
+      "views": 2000
+    },
+    {
+      "id": "1uoOk2S6GUk",
+      "title": "Machine Translation - Lecture 11: Neural Translation Models",
+      "views": 1800
+    },
+    {
+      "id": "Nx6rXYU-dls",
+      "title": "Machine Translation - Lecture 8: Introduction to Neural Networks",
+      "views": 1800
+    },
+    {
+      "id": "0DsWLXNIxeA",
+      "title": "Machine Translation - Lecture 12: Neural Translation Model Decoding",
+      "views": 1100
+    },
+    {
+      "id": "c0-xaBcJGKg",
+      "title": "Machine Translation - Lecture 22: Computer Aided Translation",
+      "views": 960
+    },
+    {
+      "id": "DNJl766bxuM",
+      "title": "Machine Translation - Lecture 21: Corpus Acquisition from the Internet",
+      "views": 814
+    },
+    {
+      "id": "ECBKgGv3BYg",
+      "title": "Machine Translation - Lecture 17: Beyond Parallel Data",
+      "views": 811
+    },
+    {
+      "id": "NAKQta_fjlg",
+      "title": "Machine Translation - Lecture 18: Syntax and Semantics",
+      "views": 804
+    },
+    {
+      "id": "vD3vSif6OVA",
+      "title": "Machine Translation - Lecture 9: Computation Graphs",
+      "views": 753
+    },
+    {
+      "id": "761DkYRtoF8",
+      "title": "Machine Translation - Lecture 19: Challenges",
+      "views": 690
+    },
+    {
+      "id": "tZH1TltU3HQ",
+      "title": "Machine Translation - Lecture 15: Words and Morphology",
+      "views": 672
+    },
+    {
+      "id": "J3v5b27NDtc",
+      "title": "Machine Translation - Lecture 13: Machine Learning Tricks",
+      "views": 669
+    },
+    {
+      "id": "p8bj_sIfN6w",
+      "title": "Machine Translation - Lecture 14: Alternative Architectures",
+      "views": 622
+    },
+    {
+      "id": "CbyoJ960uNo",
+      "title": "Machine Translation - Lecture 16: Adaptation",
+      "views": 618
+    },
+    {
+      "id": "9YXw2uAhjes",
+      "title": "Machine Translation - Lecture 20: Analysis and Visualization",
+      "views": 599
+    }
+  ]
+}

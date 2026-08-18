@@ -570,6 +570,18 @@
         "w": 250,
         "h": 160
       }
+    },
+    "physics-other": {
+      "title": "Other",
+      "parent": "physics",
+      "pos": {
+        "x": 80,
+        "y": 600
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [

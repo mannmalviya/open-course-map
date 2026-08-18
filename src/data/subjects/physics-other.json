@@ -1,0 +1,30 @@
+{
+  "courses": {
+    "mit-2201": {
+      "title": "22.01 Nuclear Engineering & Ionizing Radiation",
+      "university": "MIT",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Atoms, Radiation, and Radiation Protection",
+          "authors": "Turner",
+          "cover": "turner-atoms-radiation"
+        }
+      ],
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 22.01 · Short · Fall 2016",
+          "url": "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu",
+          "date": "Fall 2016",
+          "youtubeId": "7LyvAVjQUR8",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

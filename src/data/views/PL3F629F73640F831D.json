@@ -1,0 +1,189 @@
+{
+  "lectures": [
+    {
+      "id": "WSYEApgJkh0",
+      "title": "1. How Do You Know?",
+      "views": 215000
+    },
+    {
+      "id": "bzXnDn0i7-k",
+      "title": "2. Force Laws, Lewis Structures and Resonance",
+      "views": 84000
+    },
+    {
+      "id": "UTgIxhfhRcg",
+      "title": "3. Double Minima, Earnshaw's Theorem and Plum-Puddings",
+      "views": 36000
+    },
+    {
+      "id": "c2WdE2wDhfc",
+      "title": "4. Coping with Smallness and Scanning Probe Microscopy",
+      "views": 24000
+    },
+    {
+      "id": "cm9W10Kg8q4",
+      "title": "5. X-Ray Diffraction",
+      "views": 131000
+    },
+    {
+      "id": "mxMjroKqz_Y",
+      "title": "6. Seeing Bonds by Electron Difference Density",
+      "views": 39000
+    },
+    {
+      "id": "B4VSqAB_JcU",
+      "title": "7. Quantum Mechanical Kinetic Energy",
+      "views": 25000
+    },
+    {
+      "id": "G2wlx-Ojb6Y",
+      "title": "8. One-Dimensional Wave Functions",
+      "views": 19000
+    },
+    {
+      "id": "5kYLE8GhAuE",
+      "title": "9. Chladni Figures and One-Electron Atoms",
+      "views": 15000
+    },
+    {
+      "id": "0bCbP7SFgJc",
+      "title": "10. Reality and the Orbital Approximation",
+      "views": 15000
+    },
+    {
+      "id": "WEg0HGo5tUA",
+      "title": "11. Orbital Correction and Plum-Pudding Molecules",
+      "views": 10000
+    },
+    {
+      "id": "WL40Xs5E6-Q",
+      "title": "12. Overlap and Atom-Pair Bonds",
+      "views": 14000
+    },
+    {
+      "id": "_d6pUM5j8AI",
+      "title": "13. Overlap and Energy-Match",
+      "views": 10000
+    },
+    {
+      "id": "Dxvzkupjp54",
+      "title": "14. Checking Hybridization Theory with XH_3",
+      "views": 9200
+    },
+    {
+      "id": "r2lx4cIEAk4",
+      "title": "15. Chemical Reactivity: SOMO, HOMO, and LUMO",
+      "views": 33000
+    },
+    {
+      "id": "QwRKWsvhZGE",
+      "title": "16. Recognizing Functional Groups",
+      "views": 18000
+    },
+    {
+      "id": "Rk40CMJhgTI",
+      "title": "17. Reaction Analogies and Carbonyl Reactivity",
+      "views": 11000
+    },
+    {
+      "id": "dZC23sT_Io0",
+      "title": "18. Amide, Carboxylic Acid and Alkyl Lithium",
+      "views": 11000
+    },
+    {
+      "id": "B6xSAAgpIa8",
+      "title": "19. Oxygen and the Chemical Revolution (Beginning to 1789)",
+      "views": 11000
+    },
+    {
+      "id": "TyZg3xEADwQ",
+      "title": "20. Rise of the Atomic Theory (1790-1805)",
+      "views": 9100
+    },
+    {
+      "id": "Xo_lkUx2BPU",
+      "title": "21. Berzelius to Liebig and Wöhler (1805-1832)",
+      "views": 10000
+    },
+    {
+      "id": "kwCY3z00qU8",
+      "title": "22. Radical and Type Theories (1832-1850)",
+      "views": 7600
+    },
+    {
+      "id": "BYAHbjjJFMY",
+      "title": "23. Valence Theory and Constitutional Structure (1858)",
+      "views": 6200
+    },
+    {
+      "id": "sWbIMptr2to",
+      "title": "24. Determining Chemical Structure by Isomer Counting (1869)",
+      "views": 7300
+    },
+    {
+      "id": "Trr2QgIyRNY",
+      "title": "25. Models in 3D Space (1869-1877); Optical Isomers",
+      "views": 9300
+    },
+    {
+      "id": "bj13zmUE7y0",
+      "title": "26. Van't Hoff's Tetrahedral Carbon and Chirality",
+      "views": 11000
+    },
+    {
+      "id": "Pji0jGo3xww",
+      "title": "27. Communicating Molecular Structure in Diagrams and Words",
+      "views": 6600
+    },
+    {
+      "id": "BJyPPZSS35c",
+      "title": "28. Stereochemical Nomenclature; Racemization and Resolution",
+      "views": 16000
+    },
+    {
+      "id": "oG19d7vqWkw",
+      "title": "29. Preparing Single Enantiomers and the Mechanism of Optical Rotation",
+      "views": 10000
+    },
+    {
+      "id": "4-SA63VFGDY",
+      "title": "30. Esomeprazole as an Example of Drug Testing and Usage",
+      "views": 14000
+    },
+    {
+      "id": "wr0C_9fF7Aw",
+      "title": "31. Preparing Single Enantiomers and Conformational Energy",
+      "views": 6100
+    },
+    {
+      "id": "iVDwNI_338E",
+      "title": "32. Stereotopicity and Baeyer Strain Theory",
+      "views": 12000
+    },
+    {
+      "id": "gR9R1m35dNQ",
+      "title": "33. Conformational Energy and Molecular Mechanics",
+      "views": 13000
+    },
+    {
+      "id": "PhMWrrFv_6I",
+      "title": "34. Sharpless Oxidation Catalysts and the Conformation of Cycloalkanes",
+      "views": 25000
+    },
+    {
+      "id": "CJ1xMccUCxc",
+      "title": "35. Understanding Molecular Structure and Energy through Standard Bonds",
+      "views": 9300
+    },
+    {
+      "id": "MVtdxY3DNy4",
+      "title": "36. Bond Energies, the Boltzmann Factor and Entropy",
+      "views": 11000
+    },
+    {
+      "id": "hpQnRwVjhDk",
+      "title": "37.  Potential Energy Surfaces, Transition State Theory and Reaction Mechanism",
+      "views": 34000
+    }
+  ]
+}

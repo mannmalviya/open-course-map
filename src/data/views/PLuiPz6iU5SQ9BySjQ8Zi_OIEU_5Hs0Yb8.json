@@ -1,0 +1,264 @@
+{
+  "lectures": [
+    {
+      "id": "hbCQg51Z3GU",
+      "title": "Quantum Chemistry - Lecture 1.1 - [Waves and Particles]",
+      "views": 39000
+    },
+    {
+      "id": "sDPZERUtfMw",
+      "title": "Quantum Chemistry - Lecture 1.2 - [Energy exchange between light and particles]",
+      "views": 5400
+    },
+    {
+      "id": "KBIUbJNPFyA",
+      "title": "Quantum Chemistry - Lecture 1.3 - [Photoelectric effect]",
+      "views": 3700
+    },
+    {
+      "id": "b8IpJJmR_zk",
+      "title": "Quantum Chemistry - Lecture 1.4 - [The time-independent Schrödinger Equation]",
+      "views": 4300
+    },
+    {
+      "id": "8gQTEDiWS0k",
+      "title": "Quantum Chemistry - Lecture 2.1 - [Normalization of the state function]",
+      "views": 3000
+    },
+    {
+      "id": "baZ9K0PR20M",
+      "title": "Quantum Chemistry - Lecture 2.2 - [Probability and the state function; Operators]",
+      "views": 2200
+    },
+    {
+      "id": "Td5i5-Hu_Hg",
+      "title": "Quantum Chemistry - Lecture 2.3 - [Eigenvalue-Eigenfunction Equations; Orthogonality]",
+      "views": 2700
+    },
+    {
+      "id": "djYvxcw_fJE",
+      "title": "Quantum Chemistry - Lecture 2.4 - [Explicit expressions for quantum mechanical operators]",
+      "views": 1800
+    },
+    {
+      "id": "JCHi6c3JI4s",
+      "title": "Quantum Chemistry - Lecture 3.1 - [Experimental measurements and theoretical calculations]",
+      "views": 1800
+    },
+    {
+      "id": "jTgyKvGsDLo",
+      "title": "Quantum Chemistry - Lecture 3.2 - [Wavefunction & Linear Combination of Eigenfunctions]",
+      "views": 3800
+    },
+    {
+      "id": "YmtilpWNNNo",
+      "title": "Quantum Chemistry - Lecture 3.3",
+      "views": 1900
+    },
+    {
+      "id": "Vs4kbxUoR1I",
+      "title": "Quantum Chemistry - Lecture 3.4 - [Particle in a 1D box]",
+      "views": 2100
+    },
+    {
+      "id": "5YVPVri2yK0",
+      "title": "Quantum Chemistry - Lecture 4.1",
+      "views": 2200
+    },
+    {
+      "id": "rK65m1rggs0",
+      "title": "Quantum Chemistry - Lecture 4.2",
+      "views": 1600
+    },
+    {
+      "id": "8VII8-9kuBk",
+      "title": "Quantum Chemistry - Lecture 4.3",
+      "views": 1500
+    },
+    {
+      "id": "3dOpp6Zt2fY",
+      "title": "Quantum Chemistry - Lecture 4.4",
+      "views": 1800
+    },
+    {
+      "id": "76hQY7RUDcw",
+      "title": "Quantum Chemistry - Lecture 5.1",
+      "views": 1900
+    },
+    {
+      "id": "ZYfuvP5D2D0",
+      "title": "Quantum Chemistry - Lecture 5.2",
+      "views": 1600
+    },
+    {
+      "id": "HaRNaTVODoc",
+      "title": "Quantum Chemistry - Lecture 5.3",
+      "views": 1700
+    },
+    {
+      "id": "KQdDebk1UNM",
+      "title": "Quantum Chemistry - Lecture 5.4",
+      "views": 1500
+    },
+    {
+      "id": "Bk48K0vt8JE",
+      "title": "Quantum Chemistry - Lecture 6.1",
+      "views": 1800
+    },
+    {
+      "id": "HGfcrqSLOAA",
+      "title": "Quantum Chemistry - Lecture 6.2",
+      "views": 1300
+    },
+    {
+      "id": "Xy1hBIEkI3c",
+      "title": "Quantum Chemistry - Lecture 6.3",
+      "views": 1200
+    },
+    {
+      "id": "MtWcgj8vE-0",
+      "title": "Quantum Chemistry - Lecture 6.4",
+      "views": 1200
+    },
+    {
+      "id": "9AtF0C0hfA0",
+      "title": "Quantum Chemistry - Lecture 7.1",
+      "views": 1500
+    },
+    {
+      "id": "MosDEGC-5Kc",
+      "title": "Quantum Chemistry - Lecture 7.2",
+      "views": 1200
+    },
+    {
+      "id": "NHfiikSJgQ4",
+      "title": "Quantum Chemistry - Lecture 7.3",
+      "views": 1200
+    },
+    {
+      "id": "h93H3WQXKPI",
+      "title": "Quantum Chemistry - Lecture 7.4",
+      "views": 1400
+    },
+    {
+      "id": "O0-gbQEuDp0",
+      "title": "Quantum Chemistry - Lecture 8.1",
+      "views": 1600
+    },
+    {
+      "id": "m6p1COwtQzk",
+      "title": "Quantum Chemistry - Lecture 8.2",
+      "views": 1100
+    },
+    {
+      "id": "Vzaftlh5Rm0",
+      "title": "Quantum Chemistry - Lecture 8.3",
+      "views": 1100
+    },
+    {
+      "id": "iXRTraAbS7k",
+      "title": "Quantum Chemistry - Lecture 8.4",
+      "views": 1100
+    },
+    {
+      "id": "diqQ4LyZ_oI",
+      "title": "Quantum Chemistry - Lecture 9.1",
+      "views": 1700
+    },
+    {
+      "id": "zkTw-D2_hsg",
+      "title": "Quantum Chemistry - Lecture 9.2",
+      "views": 1100
+    },
+    {
+      "id": "b6QT6FeEeTI",
+      "title": "Quantum Chemistry - Lecture 9.3",
+      "views": 977
+    },
+    {
+      "id": "jTZ1G_w9--Q",
+      "title": "Quantum Chemistry - Lecture 9.4",
+      "views": 1000
+    },
+    {
+      "id": "hLOg87FFfz0",
+      "title": "Quantum Chemistry - Lecture 10.1",
+      "views": 1100
+    },
+    {
+      "id": "H-WBeGmL0R4",
+      "title": "Quantum Chemistry - Lecture 10.2",
+      "views": 956
+    },
+    {
+      "id": "2zNc8-B5GVI",
+      "title": "Quantum Chemistry - Lecture 10.3",
+      "views": 1000
+    },
+    {
+      "id": "IFAydh8BlyE",
+      "title": "Quantum Chemistry - Lecture 10.4",
+      "views": 829
+    },
+    {
+      "id": "4nHSQ3ZiQoA",
+      "title": "Quantum Chemistry - Lecture 11.1",
+      "views": 995
+    },
+    {
+      "id": "vGjN7cHV10g",
+      "title": "Quantum Chemistry - Lecture 11.2",
+      "views": 929
+    },
+    {
+      "id": "aFx3khOLvy8",
+      "title": "Quantum Chemistry - Lecture 11.3",
+      "views": 859
+    },
+    {
+      "id": "nvD6cmAEQeE",
+      "title": "Quantum Chemistry - Lecture 11.4",
+      "views": 634
+    },
+    {
+      "id": "K94H7jw-IAs",
+      "title": "Quantum Chemistry - Lecture 12.1",
+      "views": 840
+    },
+    {
+      "id": "uc3jFIrKg6Y",
+      "title": "Quantum Chemistry - Lecture 12.2",
+      "views": 592
+    },
+    {
+      "id": "A1rpDTV8ryo",
+      "title": "Quantum Chemistry - Lecture 12.3",
+      "views": 550
+    },
+    {
+      "id": "Ib9EV0lL6DA",
+      "title": "Quantum Chemistry - Lecture 12.4",
+      "views": 642
+    },
+    {
+      "id": "NpmCo6CFd9A",
+      "title": "Quantum Chemistry - Lecture 13.1",
+      "views": 791
+    },
+    {
+      "id": "746ORN7tPP0",
+      "title": "Quantum Chemistry - Lecture 14.1",
+      "views": 1000
+    },
+    {
+      "id": "R5lHKAH4Sl4",
+      "title": "Quantum Chemistry - Lecture 13.2",
+      "views": 816
+    },
+    {
+      "id": "jcb0MnxHZp4",
+      "title": "Quantum Chemistry - Lecture 14.2",
+      "views": 2300
+    }
+  ]
+}

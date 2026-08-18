@@ -1,0 +1,194 @@
+{
+  "lectures": [
+    {
+      "id": "5sLb4DS0LM8",
+      "title": "1. Mechanism: How Energies and Kinetic Order Influence Reaction Rates",
+      "views": 56000
+    },
+    {
+      "id": "2vP4uPgWC9Q",
+      "title": "2. Peculiar Rate Laws, Bond Dissociation Energies, and Relative Reactivities",
+      "views": 8700
+    },
+    {
+      "id": "WuP0esNPchs",
+      "title": "3. Rate and Selectivity in Radical-Chain Reactions",
+      "views": 6800
+    },
+    {
+      "id": "VafHjBi2wkg",
+      "title": "4. Electronegativity, Bond Strength, Electrostatics, and Non-Bonded Interactions",
+      "views": 7700
+    },
+    {
+      "id": "bMJRMA-wdyg",
+      "title": "5. Solvation, H-Bonding, and Ionophores",
+      "views": 7200
+    },
+    {
+      "id": "-JY_3GeCMx8",
+      "title": "6. Brønsted Acidity and the Generality of Nucleophilic Substitution",
+      "views": 5100
+    },
+    {
+      "id": "KxglcRlX7rs",
+      "title": "7. Nucleophilic Substitution Tools - Stereochemistry, Rate Law, Substrate, Nucleophile",
+      "views": 7000
+    },
+    {
+      "id": "6FW0NXPPNkc",
+      "title": "8. Solvent, Leaving Group, Bridgehead Substitution, and Pentavalent Carbon",
+      "views": 5900
+    },
+    {
+      "id": "Vj44R9g37Lo",
+      "title": "9. Pentavalent Carbon? E2, SN1, E1",
+      "views": 4700
+    },
+    {
+      "id": "3ED3axjgs5c",
+      "title": "10. Cation Intermediates. Alkenes: Formation, Addition, and Stability",
+      "views": 3800
+    },
+    {
+      "id": "mPypNRzWUeE",
+      "title": "11. Carbocations and the Mechanism of Electrophilic Addition to Alkenes and Alkynes",
+      "views": 5800
+    },
+    {
+      "id": "vuxCkDOJS6o",
+      "title": "12. Nucleophilic Participation During Electrophilic Addition to Alkenes",
+      "views": 5400
+    },
+    {
+      "id": "nKk0JVrQkAY",
+      "title": "13. Addition to Form Three-Membered Rings: Carbenoids and Epoxidation",
+      "views": 4900
+    },
+    {
+      "id": "Fg8UfFO11ew",
+      "title": "14. Epoxide Opening, Dipolar Cycloaddition, and Ozonolysis",
+      "views": 4300
+    },
+    {
+      "id": "pNSWJkZoSQw",
+      "title": "15. Metals and Catalysis in Alkene Oxidation, Hydrogenation, Metathesis, and Polymerization",
+      "views": 9900
+    },
+    {
+      "id": "Ehti9W_V5Vg",
+      "title": "16. Isoprenoids, Rubber, and Tuning Polymer Properties",
+      "views": 5700
+    },
+    {
+      "id": "_VmK17hsw_Q",
+      "title": "17. Alkynes. Conjugation in Allylic Intermediates and Dienes",
+      "views": 5600
+    },
+    {
+      "id": "QF2UXd-uC1M",
+      "title": "18. Linear and Cyclic Conjugation Theory. 4n+2 Aromaticity",
+      "views": 4000
+    },
+    {
+      "id": "0Qnjd--5N6U",
+      "title": "19. Aromatic Transition States: Cycloaddition and Electrocyclic Reactions",
+      "views": 9200
+    },
+    {
+      "id": "QYusY5WqpsE",
+      "title": "20. Electronic and Vibrational Spectroscopy",
+      "views": 14000
+    },
+    {
+      "id": "HClNIQONfic",
+      "title": "21. Functional Groups and Fingerprints in IR Spectroscopy. Precession of Magnetic Nuclei",
+      "views": 22000
+    },
+    {
+      "id": "EVJtYJMCN9M",
+      "title": "22. Medical MRI and Chemical NMR",
+      "views": 6900
+    },
+    {
+      "id": "AlUGlLfmwSc",
+      "title": "23. Diamagnetic Anisotropy and Spin-Spin Splitting",
+      "views": 10000
+    },
+    {
+      "id": "Zh0jvSZ2nPI",
+      "title": "24. Higher-Order Effects, Dynamics, and the NMR Time Scale",
+      "views": 4200
+    },
+    {
+      "id": "bUdWIAIdSko",
+      "title": "25. C-13 and 2D NMR. Electrophilic Aromatic Substitution",
+      "views": 5700
+    },
+    {
+      "id": "Y_g1t5d0tlI",
+      "title": "26. Aromatic Substitution in Synthesis: Friedel-Crafts and Moses Gomberg",
+      "views": 4400
+    },
+    {
+      "id": "z7l8W_mrnSQ",
+      "title": "27. Triphenylmethyl and an Introduction to Carbonyl Chemistry",
+      "views": 5400
+    },
+    {
+      "id": "jp4S-t4IHYM",
+      "title": "28. Mechanism and Equilibrium of Carbonyl Reactions",
+      "views": 4100
+    },
+    {
+      "id": "eXZebRu9VSU",
+      "title": "29. Imines and Enamines.  Oxidation and Reduction",
+      "views": 4900
+    },
+    {
+      "id": "EcPKMt9Mm2c",
+      "title": "30. Oxidation States and Mechanisms",
+      "views": 4700
+    },
+    {
+      "id": "xrLxWvCmzXo",
+      "title": "31. Periodate Cleavage, Retrosynthesis, and Green Chemistry",
+      "views": 4300
+    },
+    {
+      "id": "0bPG7JnMROs",
+      "title": "32. Measuring Bond Energies: Guest Lecture by Prof. G. Barney Ellison",
+      "views": 2800
+    },
+    {
+      "id": "KgSYGm32WkQ",
+      "title": "33. Green Chemistry. Acids and Acid Derivatives",
+      "views": 3100
+    },
+    {
+      "id": "VP4lb4HSL98",
+      "title": "34. Acids and Acid Derivatives",
+      "views": 4200
+    },
+    {
+      "id": "Xb4CwzP-Hdk",
+      "title": "35. Acyl Insertions and [gr]α-Reactivity",
+      "views": 2400
+    },
+    {
+      "id": "DQfUaXLk_sw",
+      "title": "36. [gr]α-Reactivity and Condensation Reactions",
+      "views": 3100
+    },
+    {
+      "id": "9w4pQ6YfJXs",
+      "title": "37. Proving the Configuration of Glucose and Synthesizing Two Unnatural Products",
+      "views": 6400
+    },
+    {
+      "id": "tScvYj3YOyo",
+      "title": "38. Review: Synthesis of Cortisone",
+      "views": 17000
+    }
+  ]
+}

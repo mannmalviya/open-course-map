@@ -1,0 +1,184 @@
+{
+  "lectures": [
+    {
+      "id": "-c-X8zk0ywo",
+      "title": "1. The importance of chemical principles",
+      "views": 355000
+    },
+    {
+      "id": "l-BNoAPe6qo",
+      "title": "2. Discovery of electron and nucleus, need for quantum mechanics",
+      "views": 225000
+    },
+    {
+      "id": "Ey25vULQ6YM",
+      "title": "3. Wave-particle duality of light",
+      "views": 223000
+    },
+    {
+      "id": "iWZDVWdtjMY",
+      "title": "4. Wave-particle duality of matter, Schrödinger equation",
+      "views": 221000
+    },
+    {
+      "id": "MBz0swcfztQ",
+      "title": "5. Hydrogen atom energy levels",
+      "views": 110000
+    },
+    {
+      "id": "Pj2fkkZ6Gto",
+      "title": "6. Hydrogen atom wavefunctions (orbitals)",
+      "views": 114000
+    },
+    {
+      "id": "N1FTKBCq8V0",
+      "title": "7. p-orbitals",
+      "views": 66000
+    },
+    {
+      "id": "f7RRqxv2pzg",
+      "title": "8. Multielectron atoms and electron configurations",
+      "views": 56000
+    },
+    {
+      "id": "LPh2Ut7D4WA",
+      "title": "9. Periodic trends",
+      "views": 57000
+    },
+    {
+      "id": "5qTCy2wTL_s",
+      "title": "10. Periodic trends continued; Covalent bonds",
+      "views": 52000
+    },
+    {
+      "id": "8b56I8U24xU",
+      "title": "11. Lewis structures",
+      "views": 91000
+    },
+    {
+      "id": "Y9QVFYjiOIA",
+      "title": "12. Exceptions to Lewis structure rules; Ionic bonds",
+      "views": 71000
+    },
+    {
+      "id": "l6Bf5ktvM_g",
+      "title": "13. Polar covalent bonds; VSEPR theory",
+      "views": 67000
+    },
+    {
+      "id": "llaa-iEYDLI",
+      "title": "14. Molecular orbital theory",
+      "views": 233000
+    },
+    {
+      "id": "3AVSORIJJJY",
+      "title": "15. Valence bond theory and hybridization",
+      "views": 140000
+    },
+    {
+      "id": "SbabED1wRMo",
+      "title": "16. Determining hybridization in complex molecules; Thermochemistry, bond energies/bond enthalpies",
+      "views": 62000
+    },
+    {
+      "id": "ZjVicrRxFtM",
+      "title": "17. Entropy and disorder",
+      "views": 91000
+    },
+    {
+      "id": "7mcSMG0-3FU",
+      "title": "18. Free energy and control of spontaneity",
+      "views": 34000
+    },
+    {
+      "id": "eyDAcbzXgb4",
+      "title": "19. Chemical equilibrium",
+      "views": 64000
+    },
+    {
+      "id": "MUUl2yd3C9s",
+      "title": "20. Le Chatelier's principle and applications to blood-oxygen levels",
+      "views": 31000
+    },
+    {
+      "id": "GOBzZMaiMss",
+      "title": "21. Acid-base equilibrium: Is MIT water safe to drink?",
+      "views": 34000
+    },
+    {
+      "id": "pAuRZr0AHhI",
+      "title": "22. Chemical and biological buffers",
+      "views": 27000
+    },
+    {
+      "id": "XxvD0Yh9qCM",
+      "title": "23. Acid-base titrations",
+      "views": 31000
+    },
+    {
+      "id": "I3g7KRIvQPI",
+      "title": "24. Balancing oxidation/reduction equations",
+      "views": 24000
+    },
+    {
+      "id": "iev2WlpKoGc",
+      "title": "25. Electrochemical cells",
+      "views": 33000
+    },
+    {
+      "id": "sQx1Y_CArYA",
+      "title": "26. Chemical and biological oxidation/reduction reactions",
+      "views": 22000
+    },
+    {
+      "id": "l_oKZG_PqlA",
+      "title": "27. Transition metals and the treatment of lead poisoning",
+      "views": 30000
+    },
+    {
+      "id": "pZEjVRqe-N4",
+      "title": "28. Crystal field theory",
+      "views": 226000
+    },
+    {
+      "id": "C_Kg0EMPEJ8",
+      "title": "29. Metals in biology",
+      "views": 38000
+    },
+    {
+      "id": "TgbFcaozNzs",
+      "title": "30. Magnetism and spectrochemical theory",
+      "views": 28000
+    },
+    {
+      "id": "oQ-qDHADAaM",
+      "title": "31. Rate laws",
+      "views": 22000
+    },
+    {
+      "id": "PJFW3Vrv-5w",
+      "title": "32. Nuclear chemistry and elementary reactions",
+      "views": 30000
+    },
+    {
+      "id": "wnOOQnW5Un4",
+      "title": "33. Reaction mechanism",
+      "views": 37000
+    },
+    {
+      "id": "rGAcOfOZToA",
+      "title": "34. Temperature and kinetics",
+      "views": 15000
+    },
+    {
+      "id": "pkNwvhEm1GQ",
+      "title": "35. Enzyme catalysis",
+      "views": 17000
+    },
+    {
+      "id": "qTrw6f_sbOw",
+      "title": "36. Biochemistry",
+      "views": 21000
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "lectures": [
+    {
+      "id": "XxRjzphItU0",
+      "title": "1. Quantum Mechanics—Historical Background, Photoelectric Effect, Compton Scattering",
+      "views": 182000
+    },
+    {
+      "id": "_TEMQhpsGFg",
+      "title": "2. Wave Nature of the Electron and the Internal Structure of an Atom",
+      "views": 39000
+    },
+    {
+      "id": "geKBtyDcZZY",
+      "title": "3. Two-Slit Experiment; Quantum Weirdness",
+      "views": 28000
+    },
+    {
+      "id": "SSVdDcC2LrQ",
+      "title": "4. Classical Wave Equation and Separation of Variables",
+      "views": 22000
+    },
+    {
+      "id": "S-_PFdnImLM",
+      "title": "5. Quantum Mechanics: Free Particle and Particle in 1D Box",
+      "views": 32000
+    },
+    {
+      "id": "4bfrkd8_zPo",
+      "title": "6. 3-D Box and QM Separation of Variables",
+      "views": 9400
+    },
+    {
+      "id": "YmP1BADSAnc",
+      "title": "7. Classical Mechanical Harmonic Oscillator",
+      "views": 11000
+    },
+    {
+      "id": "N4vMgwWT-80",
+      "title": "8. Quantum Mechanical Harmonic Oscillator",
+      "views": 10000
+    },
+    {
+      "id": "3RGYj06NSTI",
+      "title": "9. The Harmonic Oscillator: Creation and Annihilation Operators",
+      "views": 13000
+    },
+    {
+      "id": "9WthWtTxdj0",
+      "title": "10. The Time-Dependent Schrödinger Equation",
+      "views": 17000
+    },
+    {
+      "id": "IZ405_YLKJQ",
+      "title": "11. Wavepacket Dynamics for Harmonic Oscillator and PIB",
+      "views": 4600
+    },
+    {
+      "id": "dHXZ2bFV6EE",
+      "title": "12. Catch Up and Review & Postulates",
+      "views": 3000
+    },
+    {
+      "id": "zwz9M1XNn-c",
+      "title": "13. From Hij Integrals to H Matrices I",
+      "views": 8200
+    },
+    {
+      "id": "zwH9MjZl3v4",
+      "title": "14. From Hij Integrals to H Matrices II",
+      "views": 6000
+    },
+    {
+      "id": "yBCdnNIAiQg",
+      "title": "15. Non-Degenerate Perturbation Theory I",
+      "views": 5100
+    },
+    {
+      "id": "YKfoSx16mXk",
+      "title": "16. Non-Degenerate Perturbation Theory II: HO using a,a†",
+      "views": 2600
+    },
+    {
+      "id": "lfH99vfhiI4",
+      "title": "17. Rigid Rotor I; Orbital Angular Momentum",
+      "views": 9900
+    },
+    {
+      "id": "6wbWEDAg3B0",
+      "title": "18. Rigid Rotor II. Derivation by Commutation Rules",
+      "views": 3200
+    },
+    {
+      "id": "_iSqhxWjkq8",
+      "title": "19. Spectroscopy: Probing Molecules with Light",
+      "views": 15000
+    },
+    {
+      "id": "8kM9quINTHI",
+      "title": "20. Hydrogen Atom I",
+      "views": 15000
+    },
+    {
+      "id": "zq0KO8Gmrm0",
+      "title": "21. Hydrogen Atom II; Rydberg States",
+      "views": 5700
+    },
+    {
+      "id": "DpNZ70Uam0M",
+      "title": "22. Helium Atom",
+      "views": 16000
+    },
+    {
+      "id": "JzW4RYICOdA",
+      "title": "23. Many-Electron Atoms",
+      "views": 10000
+    },
+    {
+      "id": "IoED49Ha8-o",
+      "title": "24. Molecular Orbital Theory I; Variational Principle and Matrix Mechanics",
+      "views": 9400
+    },
+    {
+      "id": "mPSDaN4AJl8",
+      "title": "25. Molecular Orbital Theory II; H2+, A2, AB Diatomics",
+      "views": 4800
+    },
+    {
+      "id": "sZlTriaYRM0",
+      "title": "26. Qualitative MO Theory: Hückel",
+      "views": 8700
+    },
+    {
+      "id": "Z0ALwCckM24",
+      "title": "27. Non-Degenerate Perturbation Theory III",
+      "views": 2100
+    },
+    {
+      "id": "BOryXuUMjI0",
+      "title": "28. Modern Electronic Structure Theory: Basis Sets",
+      "views": 25000
+    },
+    {
+      "id": "6dJnvu3-LeU",
+      "title": "29. Modern Electronic Structure Theory: Electronic Correlation",
+      "views": 11000
+    },
+    {
+      "id": "zR6vXHHQZZA",
+      "title": "30. Time-Dependent Perturbation Theory I: H is Time-Independent, Zewail Wavepacket.",
+      "views": 9800
+    },
+    {
+      "id": "MAbnZhFX3nk",
+      "title": "31. Time-Dependent Perturbation Theory II: H is Time-Dependent: Two-Level Problem",
+      "views": 3800
+    },
+    {
+      "id": "QkMB_0jOvVA",
+      "title": "32. Intermolecular Interactions by Non-Degenerate Perturbation Theory",
+      "views": 3600
+    },
+    {
+      "id": "gkRRlmes_jE",
+      "title": "33. Electronic Spectroscopy: Franck-Condon",
+      "views": 9700
+    },
+    {
+      "id": "6ROuKtm5zds",
+      "title": "34. Electronic Spectroscopy and Photochemistry",
+      "views": 12000
+    },
+    {
+      "id": "RGskPrZopRE",
+      "title": "35. Delta-Functions, Eigen-Functions of X, Discrete Variable Representation",
+      "views": 3700
+    },
+    {
+      "id": "BEs4K6LSGzo",
+      "title": "36. Time Dependence of Two-Level Systems: Density Matrix, Rotating Wave Approximation",
+      "views": 18000
+    }
+  ]
+}

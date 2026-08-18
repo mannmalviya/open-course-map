@@ -1,0 +1,79 @@
+{
+  "lectures": [
+    {
+      "id": "l1hMkDTg2lg",
+      "title": "1. Introductory Lecture to 5.310",
+      "views": 50000
+    },
+    {
+      "id": "EuVpZmQ5v6A",
+      "title": "2. The Ferrocene Lecture",
+      "views": 23000
+    },
+    {
+      "id": "J23egLCM2tc",
+      "title": "3. Writing Up the Lab Report",
+      "views": 34000
+    },
+    {
+      "id": "sV_yiHbMUF8",
+      "title": "4. What's Significant in Laboratory Measurement? Error Analysis Lecture",
+      "views": 16000
+    },
+    {
+      "id": "OQq7qH74T5E",
+      "title": "5. Ellen Swallow Richards, Part 1",
+      "views": 3900
+    },
+    {
+      "id": "-l9SfGuZJYE",
+      "title": "6. Ellen Swallow Richards, Part 2",
+      "views": 2100
+    },
+    {
+      "id": "JIw9mnVeFig",
+      "title": "7. Ellen Swallow Richards, Part 3",
+      "views": 3000
+    },
+    {
+      "id": "LNCLrmAvSlU",
+      "title": "8. Essential Oils Lecture Part 1",
+      "views": 29000
+    },
+    {
+      "id": "sukzgrxfSx8",
+      "title": "9. Essential Oils Lecture Part 2",
+      "views": 7800
+    },
+    {
+      "id": "oc7sODbVGuA",
+      "title": "10. Fischer Esterification Part 1",
+      "views": 6200
+    },
+    {
+      "id": "TgrNa_Guigs",
+      "title": "11. Catalase Part 1",
+      "views": 8600
+    },
+    {
+      "id": "yiSZecIWBIc",
+      "title": "12. Catalase Acid Part 2",
+      "views": 2500
+    },
+    {
+      "id": "dgRLgf4oO2s",
+      "title": "14. Mass Spectroscopy Esterification Lecture Part 2",
+      "views": 4800
+    },
+    {
+      "id": "Ea2YTXJrhkM",
+      "title": "15. NMR Spectroscopy Esterification Lecture Part 3",
+      "views": 7600
+    },
+    {
+      "id": "N3byulM6JJ8",
+      "title": "Elephant Toothpaste Reaction",
+      "views": 38000
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "lectures": [
+    {
+      "id": "YkYeYhXUeEE",
+      "title": "1. The Importance of Chemical Principles",
+      "views": 420000
+    },
+    {
+      "id": "ustfXi-mpkI",
+      "title": "2. Atomic Structure",
+      "views": 355000
+    },
+    {
+      "id": "_U6YamvF7BE",
+      "title": "3. Wave-Particle Duality of Light",
+      "views": 195000
+    },
+    {
+      "id": "Qg7pQ_CYaIQ",
+      "title": "4. Wave-Particle Duality of Matter; Schrödinger Equation",
+      "views": 255000
+    },
+    {
+      "id": "kO0VmaLkgj8",
+      "title": "5. Hydrogen Atom Energy Levels",
+      "views": 106000
+    },
+    {
+      "id": "V-RPM3e8Ws0",
+      "title": "6. Hydrogen Atom Wavefunctions (Orbitals)",
+      "views": 267000
+    },
+    {
+      "id": "-jJz5OMmuP0",
+      "title": "7. Multielectron Atoms",
+      "views": 92000
+    },
+    {
+      "id": "LWmVdG0uj2g",
+      "title": "8. The Periodic Table and Periodic Trends",
+      "views": 94000
+    },
+    {
+      "id": "NIZFPnHtrBA",
+      "title": "9. Periodic Table; Ionic and Covalent Bonds",
+      "views": 59000
+    },
+    {
+      "id": "ed_XR1BzuQs",
+      "title": "10. Lewis Structures",
+      "views": 98000
+    },
+    {
+      "id": "Hc5ODj1Ml6c",
+      "title": "11. Formal Charge and Resonance",
+      "views": 50000
+    },
+    {
+      "id": "Ja9eEQQzTic",
+      "title": "12. The Shapes of Molecules: VSEPR Theory",
+      "views": 118000
+    },
+    {
+      "id": "O192jrR80oo",
+      "title": "13. Molecular Orbital Theory",
+      "views": 310000
+    },
+    {
+      "id": "BBbuj0XpaiQ",
+      "title": "14. Valence Bond Theory and Hybridization",
+      "views": 155000
+    },
+    {
+      "id": "wS1MX-C2V9w",
+      "title": "15. Thermodynamics: Bond and Reaction Enthalpies",
+      "views": 89000
+    },
+    {
+      "id": "OjhZYx1FbhI",
+      "title": "16. Thermodynamics: Gibbs Free Energy and Entropy",
+      "views": 194000
+    },
+    {
+      "id": "awdQqF9CFt0",
+      "title": "17. Thermodynamics: Now What Happens When You Heat It Up?",
+      "views": 48000
+    },
+    {
+      "id": "f0udxGcoztE",
+      "title": "18. Introduction to Chemical Equilibrium",
+      "views": 84000
+    },
+    {
+      "id": "AVL5AwJrrEU",
+      "title": "19. Chemical Equilibrium: Le Châtelier’s Principle",
+      "views": 46000
+    },
+    {
+      "id": "FJCVSswFXyE",
+      "title": "20. Solubility and Acid-Base Equilibrium",
+      "views": 42000
+    },
+    {
+      "id": "pJdUR2uak2s",
+      "title": "21. Acid-Base Equilibrium: Is MIT Water Safe to Drink?",
+      "views": 37000
+    },
+    {
+      "id": "caonmXHGB60",
+      "title": "22. Acid-Base Equilibrium: Salt Solutions and Buffers",
+      "views": 43000
+    },
+    {
+      "id": "pIwp65fPyYU",
+      "title": "23. Acid-Base Titrations Part I",
+      "views": 36000
+    },
+    {
+      "id": "Om_5b29d_9g",
+      "title": "24. Acid-Base Titrations Part II",
+      "views": 14000
+    },
+    {
+      "id": "BZzkyqe6KD8",
+      "title": "25. Oxidation-Reduction and Electrochemical Cells",
+      "views": 97000
+    },
+    {
+      "id": "f6Z99Gu6XEE",
+      "title": "26. Chemical and Biological Oxidations",
+      "views": 23000
+    },
+    {
+      "id": "JBgbUI3pxV0",
+      "title": "27. Introduction to Transition Metals",
+      "views": 116000
+    },
+    {
+      "id": "lLdPSLNxDqA",
+      "title": "28. Transition Metals: Crystal Field Theory Part I",
+      "views": 140000
+    },
+    {
+      "id": "CFPnZ66nge4",
+      "title": "29. Transition Metals: Crystal Field Theory Part II",
+      "views": 47000
+    },
+    {
+      "id": "B7iFcW8USjQ",
+      "title": "30. Kinetics: Rate Laws",
+      "views": 46000
+    },
+    {
+      "id": "XKeAd4xybjM",
+      "title": "31. Nuclear Chemistry and Chemical Kinetics",
+      "views": 32000
+    },
+    {
+      "id": "4q0T9c7jotw",
+      "title": "32. Kinetics: Reaction Mechanisms",
+      "views": 42000
+    },
+    {
+      "id": "KHkNrbSKFic",
+      "title": "33. Kinetics and Temperature",
+      "views": 24000
+    },
+    {
+      "id": "p8AAjZXr5dg",
+      "title": "34. Kinetics: Catalysts",
+      "views": 44000
+    },
+    {
+      "id": "pn1cxuBmhtI",
+      "title": "35. Applying Chemical Principles",
+      "views": 18000
+    }
+  ]
+}

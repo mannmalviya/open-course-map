@@ -1,0 +1,174 @@
+{
+  "lectures": [
+    {
+      "id": "7LyvAVjQUR8",
+      "title": "1. Radiation History to the Present — Understanding the Discovery of the Neutron",
+      "views": 567000
+    },
+    {
+      "id": "NXrGOd7gdMw",
+      "title": "2. Radiation Utilizing Technology",
+      "views": 245000
+    },
+    {
+      "id": "Gd0QPYVYnQg",
+      "title": "3. Nuclear Mass and Stability, Nuclear Reactions and Notation, Introduction to Cross Section",
+      "views": 147000
+    },
+    {
+      "id": "SgM2wxELF4U",
+      "title": "4. Binding Energy, the Semi-Empirical Liquid Drop Nuclear Model, and Mass Parabolas",
+      "views": 100000
+    },
+    {
+      "id": "mJ54DfN95Zo",
+      "title": "5. Mass Parabolas Continued, Stability, and Half Life",
+      "views": 52000
+    },
+    {
+      "id": "kZAFntUFx8I",
+      "title": "6. The Q-Equation — The Most General Nuclear Reaction",
+      "views": 56000
+    },
+    {
+      "id": "nAtTW8ZW33s",
+      "title": "7. Q-Equation Continued and Examples",
+      "views": 30000
+    },
+    {
+      "id": "YLp8RziRbpg",
+      "title": "8. Radioactive Decay — Modes, Energetics, and Trends",
+      "views": 57000
+    },
+    {
+      "id": "es6f90JcJ2k",
+      "title": "10. Radioactive Decay Continued",
+      "views": 71000
+    },
+    {
+      "id": "z_xyx-z6arc",
+      "title": "11. Radioactivity and Series Radioactive Decays",
+      "views": 47000
+    },
+    {
+      "id": "jJSwWRaU9rA",
+      "title": "12. Numerical Examples of Activity, Half Life, and Series Decay",
+      "views": 25000
+    },
+    {
+      "id": "ORbfdLUl0ik",
+      "title": "13. Practical Radiation Counting Experiments",
+      "views": 49000
+    },
+    {
+      "id": "kjX4HCtlJBY",
+      "title": "14. Photon Interactions with Matter I — Interaction Methods and Gamma Spectral Identification",
+      "views": 48000
+    },
+    {
+      "id": "qAVtgc3I6ig",
+      "title": "15. Photon Interaction with Matter II — More Details, Shielding Calculations",
+      "views": 25000
+    },
+    {
+      "id": "qHPp458m1cs",
+      "title": "16. Nuclear Reactor Construction and Operation",
+      "views": 1100000
+    },
+    {
+      "id": "kJu5qVfSphw",
+      "title": "17. Ion-Nuclear Interactions I — Scattering and Stopping Power Derivation, Ion Range",
+      "views": 38000
+    },
+    {
+      "id": "rsDEuRpOHqs",
+      "title": "18. Ion-Nuclear Interactions II — Bremsstrahlung, X-Ray Spectra, Cross Sections",
+      "views": 40000
+    },
+    {
+      "id": "b2VMwG1MTHg",
+      "title": "19. Uses of Photon and Ion Nuclear Interactions — Characterization Techniques",
+      "views": 18000
+    },
+    {
+      "id": "RW2DPHAoXiQ",
+      "title": "20. How Nuclear Energy Works",
+      "views": 424000
+    },
+    {
+      "id": "3yqpirzxudw",
+      "title": "21. Neutron Transport",
+      "views": 69000
+    },
+    {
+      "id": "KhT9m9kFzv8",
+      "title": "22. Simplifying Neutron Transport to Neutron Diffusion",
+      "views": 37000
+    },
+    {
+      "id": "RCSCg40NgD4",
+      "title": "23. Solving the Neutron Diffusion Equation, and Criticality Relations",
+      "views": 38000
+    },
+    {
+      "id": "i3CzkU4Ft9U",
+      "title": "24. Transients, Feedback, and Time-Dependent Neutronics",
+      "views": 21000
+    },
+    {
+      "id": "KWaGHCjsSAM",
+      "title": "25. Review of All Nuclear Interactions and Problem Set 7 Help",
+      "views": 13000
+    },
+    {
+      "id": "Ijst4g5KFN0",
+      "title": "26. Chernobyl — How It Happened",
+      "views": 3400000
+    },
+    {
+      "id": "CjZjVUWMEz0",
+      "title": "27. Nuclear Materials — Radiation Damage and Effects in Matter",
+      "views": 251000
+    },
+    {
+      "id": "9uqKU5ZDwfM",
+      "title": "28. Chernobyl Trip Report by Jake Hecla",
+      "views": 231000
+    },
+    {
+      "id": "UDAuMq-0mEo",
+      "title": "29. Nuclear Materials Science Continued",
+      "views": 86000
+    },
+    {
+      "id": "Hz7ouec7dKo",
+      "title": "30. Radiation Dose, Dosimetry, and Background Radiation",
+      "views": 90000
+    },
+    {
+      "id": "kzOFhSJFihI",
+      "title": "31. Frontiers in Nuclear Medicine, Where One Finds Ionizing Radiation (Background and Other Sources)",
+      "views": 27000
+    },
+    {
+      "id": "HfRpkTG7Iow",
+      "title": "32. Chemical and Biological Effects of Radiation, Smelling Nuclear Bullshit",
+      "views": 123000
+    },
+    {
+      "id": "yYto-sIfHjo",
+      "title": "33. Long-Term Biological Effects of Radiation, Statistics, Radiation Risk",
+      "views": 84000
+    },
+    {
+      "id": "HSm76SpZl7o",
+      "title": "34. Radiation Hormesis",
+      "views": 26000
+    },
+    {
+      "id": "G8LHGY3i01Q",
+      "title": "35. Food Irradiation and Its Safety",
+      "views": 36000
+    }
+  ]
+}

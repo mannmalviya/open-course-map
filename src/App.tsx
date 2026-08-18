@@ -29,8 +29,7 @@ function initialBackground(): Background {
 
 function initialTheme(): Theme {
   const saved = localStorage.getItem('ocm-theme');
-  if (saved === 'light' || saved === 'dark') return saved;
-  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  return saved === 'dark' ? 'dark' : 'light';
 }
 
 /** Schools that start hidden the first time they appear; users can re-enable them in Settings. */

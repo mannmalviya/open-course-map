@@ -1,0 +1,41 @@
+name: Suggest a course
+description: A free university course that belongs on the map
+title: "Add <school> <course number> <name>"
+labels: ["course"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. The bar is a full, freely watchable lecture series from a university, or an open series taught like one — see [what belongs on the map](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md#what-belongs-on-the-map). If you would rather add it yourself, [CONTRIBUTING.md](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md) walks through the JSON.
+  - type: input
+    id: course
+    attributes:
+      label: Course
+      description: School, course number and name, as the school writes it
+      placeholder: MIT 5.60 Thermodynamics & Kinetics
+    validations:
+      required: true
+  - type: input
+    id: playlist
+    attributes:
+      label: Lecture playlist
+      description: YouTube playlist (or another public host) with the lecture series
+      placeholder: https://www.youtube.com/playlist?list=...
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Course page
+      description: The official page — OCW, department site, lecturer's site — with the syllabus and prerequisites
+      placeholder: https://ocw.mit.edu/courses/...
+  - type: input
+    id: subject
+    attributes:
+      label: Where on the map
+      description: The subject box it belongs in, e.g. Physical Chemistry — or "new subject" / "Other"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Lecturer and term; whether the run is partial or audio-only; what it should point at, with a syllabus link; the assigned textbook

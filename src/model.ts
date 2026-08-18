@@ -101,6 +101,7 @@ const LOGOS: Record<string, string> = {
   CMU: '/logos/cmu.svg',
   Caltech: '/logos/caltech.svg',
   'ETH Zürich': '/logos/eth-zurich.svg',
+  Cornell: '/logos/cornell.svg',
   UMich: '/logos/umich.svg',
   NYU: '/logos/nyu.png',
   'DeepMind x UCL': '/logos/deepmind.svg',
@@ -116,9 +117,9 @@ export function logoFor(university?: string): string | undefined {
  * mark is still the right one in the 22px slot a course card gives a school.
  * Yale's Y is a monogram rather than a seal, but in a row of names it reads as
  * a letter, so it gets its wordmark too.
- * DeepMind and CMU are the reverse case: their lockups' text is unreadable at
- * card size, so the card gets the bare swirl / the initials and the row keeps
- * the full wordmark.
+ * DeepMind, CMU and Cornell are the reverse case: their lockups' text is
+ * unreadable at card size, so the card gets the bare swirl / the initials /
+ * "Cornell" on its own, and the row keeps the full wordmark.
  */
 const WORDMARKS: Record<string, string> = {
   Harvard: '/logos/harvard-wordmark.svg',
@@ -128,6 +129,7 @@ const WORDMARKS: Record<string, string> = {
   Yale: '/logos/yale-wordmark.svg',
   'DeepMind x UCL': '/logos/deepmind-wordmark.svg',
   CMU: '/logos/cmu-wordmark.svg',
+  Cornell: '/logos/cornell-wordmark.svg',
 };
 
 export function wordmarkFor(university: string): string | undefined {

@@ -1256,6 +1256,13 @@ body {
   max-width: 168px;
 }
 
+/* Cornell's lockup is the longest name in the row, so the width cap alone leaves
+   it whispering; widened to sit level with Carnegie Mellon, the other long
+   wordmark, which is as tall as a name this long gets inside the cell */
+.school-logo[src*='cornell'] {
+  max-width: 172px;
+}
+
 
 .landing h2 {
   font-family: var(--hand-font);

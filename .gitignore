@@ -3,3 +3,4 @@ dist
 *.local
 tsconfig.tsbuildinfo
 __pycache__
+TODO.md

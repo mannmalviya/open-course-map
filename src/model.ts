@@ -113,8 +113,9 @@ export function logoFor(university?: string): string | undefined {
  * Marks for the landing page's logo row. Crests turn to mush at a row's size,
  * so schools whose main logo is a seal get a wordmark here instead — the square
  * mark is still the right one in the 22px slot a course card gives a school.
- * DeepMind is the reverse case: its lockup's text is unreadable at 22px, so the
- * card gets the bare swirl and the row keeps the full lockup.
+ * DeepMind and CMU are the reverse case: their lockups' text is unreadable at
+ * card size, so the card gets the bare swirl / the initials and the row keeps
+ * the full wordmark.
  */
 const WORDMARKS: Record<string, string> = {
   Harvard: '/logos/harvard-wordmark.png',
@@ -122,6 +123,7 @@ const WORDMARKS: Record<string, string> = {
   'UC Berkeley': '/logos/uc-berkeley-wordmark.svg',
   'UC Santa Cruz': '/logos/uc-santa-cruz-wordmark.svg',
   'DeepMind x UCL': '/logos/deepmind-wordmark.svg',
+  CMU: '/logos/cmu-wordmark.svg',
 };
 
 export function wordmarkFor(university: string): string | undefined {

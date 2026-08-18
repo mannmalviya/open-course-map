@@ -13,6 +13,13 @@ import {
 } from './model';
 import { SketchRect, SketchText } from './sketch';
 
+/**
+ * A card footer's school slot: 22px tall, wide enough that a wordmark such as
+ * NYU or Caltech isn't a sliver. Marks anchor left, so a crest still sits in
+ * the corner at 22×22 and a wordmark runs along the baseline from there.
+ */
+const LOGO_SLOT_W = 56;
+
 interface CourseNodeProps {
   id: string;
   course: Course;
@@ -96,8 +103,8 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
         <image
           href={logo}
           x={x + 14} y={y + COURSE_H - 32}
-          width={22} height={22}
-          preserveAspectRatio="xMidYMid meet"
+          width={LOGO_SLOT_W} height={22}
+          preserveAspectRatio="xMinYMid meet"
         >
           <title>{course.university}</title>
         </image>
@@ -467,8 +474,8 @@ export function PathwayStepNode({ ghost, onJump }: PathwayStepNodeProps) {
         <image
           href={logo}
           x={x + STEP_PAD} y={y + h - 32}
-          width={22} height={22}
-          preserveAspectRatio="xMidYMid meet"
+          width={LOGO_SLOT_W} height={22}
+          preserveAspectRatio="xMinYMid meet"
         >
           <title>{course.university}</title>
         </image>

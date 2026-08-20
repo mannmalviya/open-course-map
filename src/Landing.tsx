@@ -14,7 +14,10 @@ const TITLE_ROOM = 38;
 /** Rough strokes wander past the rect; the viewBox is padded so they don't clip. */
 const SLOP = 6;
 
-/** Schools that close the logo wall, in this order, whatever their course count. */
+/**
+ * Schools that close the logo wall, in this order, whatever their course count —
+ * and whatever the school filter says, so one that starts hidden still gets its mark up.
+ */
 const WALL_TAIL = ['UC Santa Cruz'];
 
 /** The root map's subjects — the same boxes the map draws, one per tile. */
@@ -29,7 +32,7 @@ export function Landing({ background, onOpen }: LandingProps) {
   const ranked = schoolsByCourseCount().filter((school) => wordmarkFor(school));
   const schools = [
     ...ranked.filter((school) => !WALL_TAIL.includes(school)),
-    ...WALL_TAIL.filter((school) => ranked.includes(school)),
+    ...WALL_TAIL.filter((school) => wordmarkFor(school)),
   ];
 
   return (

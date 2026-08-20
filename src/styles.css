@@ -1230,12 +1230,39 @@ body {
   transform: scale(1.07);
 }
 
-/* Dark theme flips luminance and puts the hue back, so a mark hovers in its own
-   colours — lightened, since Yale navy or a black wordmark straight from the
-   brand book would be invisible on a near-black page. */
+/* Dark theme hovers a mark in its real colours too — inverting and spinning the
+   hue back used to approximate them, but the approximation washed every crimson
+   to pink and every navy to baby blue. */
 :root[data-theme='dark'] .logo-item:hover .school-logo {
   opacity: 1;
-  filter: invert(1) hue-rotate(180deg);
+  filter: none;
+}
+
+/* The marks drawn for paper in navy, purple or black sink into a near-black
+   page at full strength. Each is lifted by however much it takes to read, which
+   keeps the hue — brightness() scales the channels rather than mixing in white,
+   so the colour brightens instead of fading. */
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='yale'],
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='uc-berkeley'],
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='santa-cruz'] {
+  filter: brightness(1.7);
+}
+
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='nyu'] {
+  filter: brightness(1.4);
+}
+
+/* Harvard's lockup pairs a crimson shield with near-black type, so its lift is
+   a compromise: enough to read the type, and no more than the shield takes
+   before it goes pink. */
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='harvard'] {
+  filter: brightness(1.7);
+}
+
+/* ETH's wordmark is a single near-black shape, which no amount of brightness
+   lifts — the brand's own reversed version is white, so invert to that. */
+:root[data-theme='dark'] .logo-item:hover .school-logo[src*='eth-zurich'] {
+  filter: invert(1);
 }
 
 /* Optical sizing: matched cap heights leave heavy marks shouting and monograms

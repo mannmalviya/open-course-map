@@ -164,9 +164,25 @@ body {
   z-index: 10;
 }
 
-.breadcrumbs {
+/* The two header bars stack from one anchor, so the trail bar's offset is
+   derived from the top bar's height rather than hard-coded. */
+.header-stack {
+  position: absolute;
   top: 16px;
   left: 16px;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+/* .island positions itself; inside the stack it is a flex child instead */
+.header-stack > .island {
+  position: static;
+}
+
+.breadcrumbs {
   font-size: 14px;
 }
 
@@ -178,14 +194,7 @@ body {
   border-right: 1px solid var(--island-border);
 }
 
-/* Tabs name the two top levels; the trail below carries everything under them */
-.nav {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 3px;
-}
-
+/* Tabs name the two top levels; the trail bar below carries what sits under them */
 .tabs {
   display: flex;
   gap: 4px;
@@ -213,10 +222,8 @@ body {
   font-weight: 600;
 }
 
-.trail {
-  display: flex;
-  align-items: center;
-  gap: 6px;
+.trail-bar {
+  font-size: 14px;
 }
 
 .crumb-wrap {
@@ -581,7 +588,8 @@ body {
   position: absolute;
   inset: 0;
   overflow-y: auto;
-  padding: 96px 24px 48px;
+  /* headroom for the two stacked header bars */
+  padding: 112px 24px 48px;
 }
 
 .course-inner {

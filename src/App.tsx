@@ -233,10 +233,10 @@ export default function App() {
         />
       )}
 
-      <div className="island breadcrumbs">
-        <a className="logo" href={landingHash()}>Open Course Map</a>
-        {!route.landing && (
-          <div className="nav">
+      <div className="header-stack">
+        <div className="island breadcrumbs">
+          <a className="logo" href={landingHash()}>Open Course Map</a>
+          {!route.landing && (
             <div className="tabs">
               <button
                 className={'tab' + (onPathwaySide ? '' : ' active')}
@@ -251,29 +251,28 @@ export default function App() {
                 Pathways
               </button>
             </div>
-            {/* The active tab already names the top level, so the trail starts below it */}
-            {(trail.length > 0 || route.courseId) && (
-              <div className="trail">
-                {trail.map((id, i) => (
-                  <span key={id} className="crumb-wrap">
-                    {i > 0 && <span className="crumb-sep">›</span>}
-                    <button
-                      className={
-                        'crumb' + (!route.courseId && i === trail.length - 1 ? ' current' : '')
-                      }
-                      onClick={() => navigate(id)}
-                    >
-                      {map.groups[id].title}
-                    </button>
-                  </span>
-                ))}
-                {route.courseId && (
-                  <span className="crumb-wrap">
-                    {trail.length > 0 && <span className="crumb-sep">›</span>}
-                    <button className="crumb current">{map.courses[route.courseId].title}</button>
-                  </span>
-                )}
-              </div>
+          )}
+        </div>
+
+        {/* The tabs above name the top level, so this bar carries only what sits under it */}
+        {!route.landing && (trail.length > 0 || route.courseId) && (
+          <div className="island trail-bar">
+            {trail.map((id, i) => (
+              <span key={id} className="crumb-wrap">
+                {i > 0 && <span className="crumb-sep">›</span>}
+                <button
+                  className={'crumb' + (!route.courseId && i === trail.length - 1 ? ' current' : '')}
+                  onClick={() => navigate(id)}
+                >
+                  {map.groups[id].title}
+                </button>
+              </span>
+            ))}
+            {route.courseId && (
+              <span className="crumb-wrap">
+                {trail.length > 0 && <span className="crumb-sep">›</span>}
+                <button className="crumb current">{map.courses[route.courseId].title}</button>
+              </span>
             )}
           </div>
         )}

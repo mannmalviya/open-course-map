@@ -1,0 +1,82 @@
+{
+  "title": "Stanford's AI sequence",
+  "kind": "curated",
+  "field": "Computer Science",
+  "source": "Mann's picks — the order Stanford's own AI courses assume, not a department's requirements",
+  "blurb": "Three prerequisites, a two-course core, and the specializations that open up after it. Every step has lecture video online.",
+  "steps": [
+    {
+      "course": "stanford-cs109",
+      "pos": { "x": 220, "y": 0 },
+      "note": "Probability written for programmers. CS229's first two weeks assume all of it."
+    },
+    {
+      "course": "stanford-engr108",
+      "pos": { "x": 580, "y": 0 },
+      "note": "The linear algebra slot. Stanford points people at Math 51 or CS205L here, and neither is online — Boyd's ENGR108 covers the same ground and is."
+    },
+    {
+      "course": "stanford-ee364a",
+      "pos": { "x": 940, "y": 0 },
+      "note": "The one you can defer. Skip it and CS229's optimization sections stay a black box you trust rather than read."
+    },
+    {
+      "course": "stanford-cs229",
+      "pos": { "x": 580, "y": 380 },
+      "note": "The trunk of the whole thing. Ng's 2018 run is the one people mean when they say CS229."
+    },
+    {
+      "course": "stanford-cs230",
+      "pos": { "x": 580, "y": 760 },
+      "note": "Deep learning after CS229's classical ML. Same lecturer, and it assumes you sat through the earlier course."
+    },
+    {
+      "course": "stanford-cs231n",
+      "pos": { "x": 40, "y": 1140 },
+      "note": "Vision. The 2017 run is the famous one, but take a recent year if you want transformers in it."
+    },
+    {
+      "course": "stanford-cs224n",
+      "pos": { "x": 400, "y": 1140 },
+      "note": "NLP, and in practice the fastest route to understanding how language models are put together."
+    },
+    {
+      "course": "stanford-cs234",
+      "pos": { "x": 760, "y": 1140 },
+      "note": "Reinforcement learning. The least like the other three — closer to control theory than to the rest of this map."
+    },
+    {
+      "course": "stanford-cs224w",
+      "pos": { "x": 1120, "y": 1140 },
+      "note": "Graphs. Leskovec's Winter 2021 run is complete and the one to take."
+    },
+    {
+      "course": "stanford-cs236",
+      "pos": { "x": 220, "y": 1520 },
+      "note": "Generative models — diffusion, VAEs, autoregressive models — from the vision side of the map."
+    },
+    {
+      "course": "stanford-cs336",
+      "pos": { "x": 580, "y": 1520 },
+      "note": "Build a language model end to end. The heaviest course here and the one that assumes the most."
+    },
+    {
+      "course": "stanford-cs330",
+      "pos": { "x": 940, "y": 1520 },
+      "note": "Meta-learning and multi-task learning. Finn's course, and it leans on the RL material."
+    }
+  ],
+  "edges": [
+    { "from": "stanford-cs109", "to": "stanford-cs229" },
+    { "from": "stanford-engr108", "to": "stanford-cs229" },
+    { "from": "stanford-ee364a", "to": "stanford-cs229" },
+    { "from": "stanford-cs229", "to": "stanford-cs230" },
+    { "from": "stanford-cs230", "to": "stanford-cs231n" },
+    { "from": "stanford-cs230", "to": "stanford-cs224n" },
+    { "from": "stanford-cs230", "to": "stanford-cs234" },
+    { "from": "stanford-cs230", "to": "stanford-cs224w" },
+    { "from": "stanford-cs231n", "to": "stanford-cs236" },
+    { "from": "stanford-cs224n", "to": "stanford-cs336" },
+    { "from": "stanford-cs234", "to": "stanford-cs330" }
+  ]
+}

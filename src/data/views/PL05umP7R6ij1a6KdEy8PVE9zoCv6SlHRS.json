@@ -1,0 +1,449 @@
+{
+  "lectures": [
+    {
+      "id": "PZwxF59DhYA",
+      "title": "Welcome!",
+      "views": 61000
+    },
+    {
+      "id": "EuA8Q_BYdQA",
+      "title": "(A) Linear algebra 1: Vector spaces",
+      "views": 33000
+    },
+    {
+      "id": "RDaOxfN8KY4",
+      "title": "(A) Linear algebra 2: Basis and dimension",
+      "views": 9200
+    },
+    {
+      "id": "i_gdw17qe68",
+      "title": "(A) Linear algebra 3: Direct sum",
+      "views": 4700
+    },
+    {
+      "id": "GQwMYuKJwl8",
+      "title": "(A) Linear algebra 4: Linear maps, kernel, range",
+      "views": 5500
+    },
+    {
+      "id": "8vYIlL8rOys",
+      "title": "(A) Linear algebra 5: Matrices",
+      "views": 3300
+    },
+    {
+      "id": "FIjf3riiufQ",
+      "title": "(A) Linear algebra 6: Invertible maps and matrices",
+      "views": 2500
+    },
+    {
+      "id": "3tPu-KyLd2Y",
+      "title": "(A) Linear algebra 7: Transpose",
+      "views": 1800
+    },
+    {
+      "id": "OLcyoMiTDoI",
+      "title": "(A) Linear algebra 8: Change of basis",
+      "views": 2400
+    },
+    {
+      "id": "Ow-PTLdIPgc",
+      "title": "(A) Linear algebra 9: Rank of a matrix",
+      "views": 1700
+    },
+    {
+      "id": "R0YqIvNIxNA",
+      "title": "(A) Linear algebra 10: Quotient space; equivalence relation",
+      "views": 2600
+    },
+    {
+      "id": "slLUQJlgL9Y",
+      "title": "(A) Linear algebra 11: Determinant",
+      "views": 2000
+    },
+    {
+      "id": "cGbA3mjGzzw",
+      "title": "(A) Linear algebra 12: Eigenvalues",
+      "views": 2100
+    },
+    {
+      "id": "KHEq7Ls5Lew",
+      "title": "(A) Linear algebra 13: Characteristic polynomial",
+      "views": 1400
+    },
+    {
+      "id": "sEPgU3ygXas",
+      "title": "(A) Linear algebra 14: Trace of a matrix",
+      "views": 1300
+    },
+    {
+      "id": "IFkvtjZmJWk",
+      "title": "(A) Linear algebra 15: Diagonalization; triangular matrices",
+      "views": 1600
+    },
+    {
+      "id": "EVhl7UPKpcw",
+      "title": "(A) Linear algebra 16: Metric spaces",
+      "views": 2100
+    },
+    {
+      "id": "nWLw2VxM3Zg",
+      "title": "(A) Linear algebra 17: Normed spaces; p-norms",
+      "views": 1700
+    },
+    {
+      "id": "-r8KYlSLlFw",
+      "title": "(A) Linear algebra 18: Norms on R^d are equivalent",
+      "views": 1700
+    },
+    {
+      "id": "mG9q_OurxXM",
+      "title": "(A) Linear algebra 19: Convex set induces a norm",
+      "views": 1900
+    },
+    {
+      "id": "TbsYdX6Fu1k",
+      "title": "(A) Linear algebra 20: Spaces of continuous and differentiable functions",
+      "views": 1200
+    },
+    {
+      "id": "ZbbiIHDq4ws",
+      "title": "(A) Linear algebra 21: Lp-spaces of integrable functions",
+      "views": 1500
+    },
+    {
+      "id": "gD_qHgeKb8s",
+      "title": "(A) Linear algebra 22: Scalar product",
+      "views": 1000
+    },
+    {
+      "id": "_RAggwRAqrI",
+      "title": "(A) Linear algebra 23: Orthogonal vectors and basis",
+      "views": 1000
+    },
+    {
+      "id": "ZFhsTA2jBmI",
+      "title": "(A) Linear algebra 24: Orthogonal matrices",
+      "views": 938
+    },
+    {
+      "id": "4QQ29YLRFgU",
+      "title": "(A) Linear algebra 25: Symmetric matrices",
+      "views": 1100
+    },
+    {
+      "id": "rGeXqwpwNFc",
+      "title": "(A) Linear algebra 26: Spectral theorem for symmetric matrices",
+      "views": 2200
+    },
+    {
+      "id": "7D8I3pbiCmM",
+      "title": "(A) Linear algebra 27: Positive definite matrices",
+      "views": 1200
+    },
+    {
+      "id": "VrRp09t4Ffo",
+      "title": "(A) Linear algebra 28: Variational characterization of eigenvalues",
+      "views": 1300
+    },
+    {
+      "id": "QkGjuQs4JIk",
+      "title": "(A) Linear Algebra 29: Singular value decomposition",
+      "views": 1400
+    },
+    {
+      "id": "AikaFblAkG0",
+      "title": "(A) Linear Algebra 30: Rank-k-approximation, matrix norms",
+      "views": 1500
+    },
+    {
+      "id": "x3qJNI4ecfM",
+      "title": "(A) Linear Algebra 31: Pseudo-inverse of a matrix",
+      "views": 1100
+    },
+    {
+      "id": "_FHYweiUdFs",
+      "title": "(A) Linear Algebra 32: Continuous linear functionals and operator norm",
+      "views": 1200
+    },
+    {
+      "id": "bq1y52Y4MMo",
+      "title": "(A) Linear Algebra 33: Dual space, Riesz representation theorem",
+      "views": 2100
+    },
+    {
+      "id": "DnKd1hU3jus",
+      "title": "(C) Calculus 1: Sequences and convergence",
+      "views": 3100
+    },
+    {
+      "id": "jplQqY4AG4U",
+      "title": "(C) Calculus 2: Continuity",
+      "views": 1300
+    },
+    {
+      "id": "-orZpNf0J9I",
+      "title": "(C) Calculus 3: Sequences of functions; pointwise and uniform convergence",
+      "views": 1200
+    },
+    {
+      "id": "C2iMNRzHH1o",
+      "title": "(C) Calculus 4: Differentiation on R",
+      "views": 1300
+    },
+    {
+      "id": "Z79tdCDh16Y",
+      "title": "(C) Calculus 5: Riemann integral on R",
+      "views": 1200
+    },
+    {
+      "id": "pZZA3kIRSGk",
+      "title": "(C) Calculus 6: Fundamental theorem of calculus on R",
+      "views": 1000
+    },
+    {
+      "id": "RJRPd8-gzeE",
+      "title": "(C) Calculus 7: Power series",
+      "views": 1000
+    },
+    {
+      "id": "CrX9qxYQufU",
+      "title": "(C) Calculus 8: Taylor series",
+      "views": 1200
+    },
+    {
+      "id": "H6FRaBNZZ0o",
+      "title": "(C) Calculus 9: Sigma-Algebra",
+      "views": 2200
+    },
+    {
+      "id": "36BikIWexcU",
+      "title": "(C) Calculus 10: Measure",
+      "views": 1500
+    },
+    {
+      "id": "hojYItornHo",
+      "title": "(C) Calculus 11: Lebesgue measure on R^n",
+      "views": 1600
+    },
+    {
+      "id": "NHNlqOfoFkg",
+      "title": "(C) Calculus 12: A set that is not Lebesgue-measurable",
+      "views": 866
+    },
+    {
+      "id": "VYPlkR4UubY",
+      "title": "(C) Calculus 13: The Lebesgue integral on R^n",
+      "views": 1100
+    },
+    {
+      "id": "d1rpf6bamMs",
+      "title": "(C) Calculus 14: Differentiation on R^n: partial derivatives",
+      "views": 1500
+    },
+    {
+      "id": "1x7gwpEkwDk",
+      "title": "(C) Calculus 15: Differentiation on R^n: total derivative",
+      "views": 1900
+    },
+    {
+      "id": "VDe4hPFSXrg",
+      "title": "(C) Calculus 16: Differentiation on R^n: directional derivative",
+      "views": 837
+    },
+    {
+      "id": "3NO9Lkhx6Zc",
+      "title": "(C) Calculus 17: Differentiation on R^n: Higher order derivatives",
+      "views": 933
+    },
+    {
+      "id": "mv4OT_7jjwI",
+      "title": "(C) Calculus 18: Minima, maxima, saddlepoints",
+      "views": 797
+    },
+    {
+      "id": "BWLOUR4OYQk",
+      "title": "(C) Calculus 19: Matrix calculus",
+      "views": 2900
+    },
+    {
+      "id": "1fnwPrNVFmU",
+      "title": "(P) Probability theory 1: Definition of a probability measure",
+      "views": 4300
+    },
+    {
+      "id": "f7EGGWalw3s",
+      "title": "(P) Probability theory 2: Different types of measures: discrete, with density; Radon-Nikodym",
+      "views": 2300
+    },
+    {
+      "id": "LAa5Qj-FyYg",
+      "title": "(P) Probability Theory 3: Different types of measures: singular measures, Lebesgue decomposition",
+      "views": 1800
+    },
+    {
+      "id": "YC59SGo263w",
+      "title": "(P) Probability Theory 4: Cumulative distribution function",
+      "views": 898
+    },
+    {
+      "id": "UTymppC-0vU",
+      "title": "(P) Probability Theory 5: Random variables",
+      "views": 1000
+    },
+    {
+      "id": "QAvIk0EboGQ",
+      "title": "(P) Probability Theory 6: Conditional Probabilities",
+      "views": 832
+    },
+    {
+      "id": "qBczZekKSxE",
+      "title": "(P) Probability Theory 7: Bayes theorem",
+      "views": 900
+    },
+    {
+      "id": "4kHuQNg6mag",
+      "title": "(P) Probability Theory 8: Independence",
+      "views": 647
+    },
+    {
+      "id": "gE5ib6zBjm4",
+      "title": "(P) Probability Theory 9: Expectation (discrete case)",
+      "views": 782
+    },
+    {
+      "id": "7hS8YosleJE",
+      "title": "(P) Probability Theory 10: Variance, covariance, correlation (discrete case)",
+      "views": 1000
+    },
+    {
+      "id": "jV9tioqQSqI",
+      "title": "(P) Probability Theory 11: Expectation and covariance (general case)",
+      "views": 795
+    },
+    {
+      "id": "80Qk1uhsdUk",
+      "title": "(P) Probability Theory 12: Markov and Chebyshev inequality",
+      "views": 1000
+    },
+    {
+      "id": "_OktjSkiTSs",
+      "title": "(P) Probability theory 13: Example distributions: binomial, poisson, multivariate normal",
+      "views": 910
+    },
+    {
+      "id": "EvqLEQbcUz8",
+      "title": "(P) Probability theory 14: Convergence of random variables",
+      "views": 1600
+    },
+    {
+      "id": "CxaKB47vrU0",
+      "title": "(P) Probability theory 15: Borel-Cantelli",
+      "views": 3700
+    },
+    {
+      "id": "q71PfzMNOng",
+      "title": "(P) Probability theory 16: Law of large numbers, Central limit theorem",
+      "views": 1100
+    },
+    {
+      "id": "cqe7QByuPRE",
+      "title": "(P) Probability theory 17: Concentration inequalities",
+      "views": 2300
+    },
+    {
+      "id": "gN_3AZKltLY",
+      "title": "(P) Probability theory 18: Product space and joint distribution",
+      "views": 1000
+    },
+    {
+      "id": "FBbdJEWL8xE",
+      "title": "(P) Probability theory 19: Marginal distribution",
+      "views": 769
+    },
+    {
+      "id": "EkMwk0mP9KM",
+      "title": "(P) Probability theory 20: Conditional distribution",
+      "views": 720
+    },
+    {
+      "id": "nOSRJxNYVFI",
+      "title": "(P) Probability theory 21: Conditional expectation",
+      "views": 921
+    },
+    {
+      "id": "0cYqAoIjIqc",
+      "title": "(S) Statistics 1: Estimation, bias, variance",
+      "views": 2100
+    },
+    {
+      "id": "FGVMbbuh7hY",
+      "title": "(S) Statistics 2: Confidence sets",
+      "views": 1200
+    },
+    {
+      "id": "TkpWJXnaeTw",
+      "title": "(S) Statistics 3: Maximum likelihood estimator",
+      "views": 1200
+    },
+    {
+      "id": "Ei2zTXL_vs0",
+      "title": "(S) Statistics 4: Sufficiency, identifiability",
+      "views": 1500
+    },
+    {
+      "id": "QLiZpKKlKFs",
+      "title": "(S) Statistics 5: Hypothesis testing, level and power of a test",
+      "views": 1000
+    },
+    {
+      "id": "nU-0HLlbQ0Y",
+      "title": "(S) Statistics 6: Likelihood-ratio tests and Neyman-Pearson lemma",
+      "views": 2700
+    },
+    {
+      "id": "QHt-MXpks-o",
+      "title": "(S) Statistics 7: p-values",
+      "views": 768
+    },
+    {
+      "id": "MVEyHWpqcWE",
+      "title": "(S) Statistics 8: Multiple testing",
+      "views": 818
+    },
+    {
+      "id": "-AboXasauVM",
+      "title": "(P) Probability 17a: Glivenko-Cantelli theorem",
+      "views": 3400
+    },
+    {
+      "id": "_eizANeeyys",
+      "title": "(S) Statistics 9: Non-parametric tests (rank and permutation tests, Kolmogorov-Smirnov)",
+      "views": 900
+    },
+    {
+      "id": "rK3lV5jCywI",
+      "title": "(S) Statistics 10: The bootstrap",
+      "views": 1300
+    },
+    {
+      "id": "EmRg3zQPT2w",
+      "title": "(S) Statistics 11: Bayesian statistics",
+      "views": 1400
+    },
+    {
+      "id": "q5K_BAfjQd8",
+      "title": "(H) High-dimensional spaces",
+      "views": 1900
+    },
+    {
+      "id": "pD6HHyhbGCI",
+      "title": "Statistical Machine Learning Part 7a - What is a convex optimization problem?",
+      "views": 7300
+    },
+    {
+      "id": "wtpHmTSLZ4c",
+      "title": "Statistical Machine Learning Part 15 - Convex optimization, Lagrangian, dual problem",
+      "views": 9700
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "Fnfh8jNqBlg",
+      "title": "A Complete In-Depth Linear Algebra Course with Problems and Exercises",
+      "views": 160000
+    },
+    {
+      "id": "k-yUdqRXijo",
+      "title": "Preview: The Magic of Gaussian Quadrature - A Billion Times Better than the Next Best Thing",
+      "views": 106000
+    },
+    {
+      "id": "sNigRX9-z1A",
+      "title": "Linear Algebra 2a: J.S. Bach + M.L. King = Linear Algebra, or the Addition of Sounds",
+      "views": 34000
+    },
+    {
+      "id": "4ui6PLTbwys",
+      "title": "Linear Decomposition",
+      "views": 29000
+    },
+    {
+      "id": "pfea4YSq-mA",
+      "title": "Linear Algebra 2c: The Three Fundamental Examples of Vectors",
+      "views": 34000
+    },
+    {
+      "id": "kMP-Q0PF_7g",
+      "title": "Linear Algebra 2d: Addition of Geometric Vectors",
+      "views": 27000
+    },
+    {
+      "id": "UXzWZuecYOo",
+      "title": "Linear Algebra 2e: Confirming All the 'Tivities",
+      "views": 23000
+    },
+    {
+      "id": "VsS6IEIIWoc",
+      "title": "Linear Algebra 2f: The Origin in the Plane and the Parallelogram Rule",
+      "views": 19000
+    },
+    {
+      "id": "CSMJVcSduq4",
+      "title": "Linear Algebra 2g: Subtraction of Geometric Vectors",
+      "views": 16000
+    },
+    {
+      "id": "PsW0Oen_bCY",
+      "title": "Linear Algebra 2ga: Subtraction is Often Easier than Addition!",
+      "views": 14000
+    },
+    {
+      "id": "SPdqsGIAcXM",
+      "title": "Linear Algebra 2h: What Else Works like Geometric Vectors?",
+      "views": 19000
+    },
+    {
+      "id": "xhTciBubSfM",
+      "title": "Linear Algebra 2i: Polynomials Are Vectors, Too!",
+      "views": 57000
+    },
+    {
+      "id": "dLoOMF7a3Zc",
+      "title": "Linear Algebra 2ia: Is One Polynomial a Multiple of the Other?",
+      "views": 14000
+    },
+    {
+      "id": "yhN_t4Y7-UA",
+      "title": "Linear Algebra 2j: Elements of ℝⁿ as Vectors - So Boring, yet so Important!",
+      "views": 19000
+    },
+    {
+      "id": "nn1RWCidfnY",
+      "title": "Linear Algebra 2k: Linear Combinations - a New Term for an Old Concept",
+      "views": 16000
+    },
+    {
+      "id": "Tk9P-J0Ml4w",
+      "title": "Linear Algebra 2k1: Examples of Linear Combinations",
+      "views": 20000
+    },
+    {
+      "id": "2_F9ykp4678",
+      "title": "Linear Algebra 2L: The Zero Vector - Does Nothing, Yet so Important!",
+      "views": 35000
+    },
+    {
+      "id": "-AmpDPS1iOs",
+      "title": "Linear Algebra 2m: Span the Man",
+      "views": 19000
+    },
+    {
+      "id": "NjE2BmifGu0",
+      "title": "Linear Algebra 2n: Spanning Sets",
+      "views": 22000
+    },
+    {
+      "id": "hUwvyYuC_CA",
+      "title": "Linear Algebra 2o1: Linear Subspaces of the Plane",
+      "views": 14000
+    },
+    {
+      "id": "f4KN8_50A1U",
+      "title": "Linear Algebra 2o2: Straight Talk - a Linear Combination Exercise",
+      "views": 12000
+    },
+    {
+      "id": "v_CD6OnyqCc",
+      "title": "Linear Algebra 2o3: Equation of a Straight Line - More Important than You'd Think!",
+      "views": 12000
+    },
+    {
+      "id": "kz-RoBiqxRw",
+      "title": "Linear Algebra 2p: A Passionate Appeal - Treat All Objects on Their Own Terms!",
+      "views": 10000
+    },
+    {
+      "id": "a7xUU5QleI8",
+      "title": "Linear Algebra 2q: Summary of Terms Encountered so Far",
+      "views": 10000
+    },
+    {
+      "id": "3FXB4lSvK1I",
+      "title": "Linear Algebra: Chapters 1 - 4 Outtakes - as funny as your calculus professor",
+      "views": 10000
+    },
+    {
+      "id": "bdM39Vjk7P8",
+      "title": "Linear Algebra 3a: What is Linear Decomposition?",
+      "views": 15000
+    },
+    {
+      "id": "mCLuYpawjeE",
+      "title": "Linear Algebra 3b1: Decomposition with Geometric Vectors 1",
+      "views": 12000
+    },
+    {
+      "id": "0oGDLumaFrA",
+      "title": "Linear Algebra 3b2: Decomposition with Geometric Vectors 2",
+      "views": 10000
+    },
+    {
+      "id": "od76y8PFqME",
+      "title": "Linear Algebra 3b3: Decomposition with Geometric Vectors 3",
+      "views": 9500
+    },
+    {
+      "id": "vqh19GYP-E8",
+      "title": "Linear Algebra 3b4: Decomposition with Respect to Arbitrary Geometric Vectors, Affine Grid",
+      "views": 10000
+    },
+    {
+      "id": "xhKqczHwDCk",
+      "title": "Linear Algebra 3c1: Decomposition with Polynomials 1",
+      "views": 11000
+    },
+    {
+      "id": "fMZAemS9_-4",
+      "title": "Linear Algebra 3c2: Decomposition with Polynomials 2",
+      "views": 9500
+    },
+    {
+      "id": "cU84KMk4VCo",
+      "title": "Linear Algebra 3d1: Decomposition in ℝⁿ 1",
+      "views": 9000
+    },
+    {
+      "id": "jbKm8hMDQ2U",
+      "title": "Linear Algebra 3d2: Decomposition in ℝⁿ, 2",
+      "views": 8300
+    },
+    {
+      "id": "6n3Ag5kc6R0",
+      "title": "Linear Algebra 3d3: Decomposition in ℝⁿ, 3",
+      "views": 8400
+    },
+    {
+      "id": "LgPsc5GiJ4M",
+      "title": "Linear Algebra 3e: Linear Systems Are a Decomposition Problem",
+      "views": 9500
+    },
+    {
+      "id": "Qyq3eFIcE0A",
+      "title": "Linear Algebra 4a: Impossible Decomposition with Geometric Vectors",
+      "views": 9500
+    },
+    {
+      "id": "oOVDUJwMp4s",
+      "title": "Linear Algebra 4b: Impossible Decomposition with Polynomials",
+      "views": 8600
+    },
+    {
+      "id": "AivX8XfjjZ4",
+      "title": "Linear Algebra 4c: Impossible Decomposition in ℝⁿ",
+      "views": 8200
+    },
+    {
+      "id": "98Vwq7okDUw",
+      "title": "Linear Algebra 4d: What is a Linear Property and Why It's Synonymous with Subspace",
+      "views": 9700
+    },
+    {
+      "id": "V-u9CbxCVbE",
+      "title": "Linear Algebra 4d1: A Property Irrelevant in Decomposition Problems",
+      "views": 6600
+    },
+    {
+      "id": "55F4_MEP1p0",
+      "title": "Linear Algebra 4e: Linear Subspaces in ℝⁿ",
+      "views": 10000
+    },
+    {
+      "id": "1snEdBpsyTo",
+      "title": "Linear Algebra 4f: Linear Subspaces of Polynomials",
+      "views": 15000
+    },
+    {
+      "id": "0_7Z-JNmM_U",
+      "title": "Linear Algebra 4g: A Good Way to Express Linear Subspaces in ℝⁿ",
+      "views": 8600
+    },
+    {
+      "id": "hZWam9uFdow",
+      "title": "Linear Algebra 4h: Unions and Intersections of Linear Subspaces",
+      "views": 17000
+    },
+    {
+      "id": "7siCweBXxCo",
+      "title": "Linear Algebra 6a: Linear Independence",
+      "views": 10000
+    },
+    {
+      "id": "O1jYBZ-IVvQ",
+      "title": "Linear Algebra 6b: Alternative Definition of Linear Indpendence",
+      "views": 8600
+    },
+    {
+      "id": "Y_ghYdVzyNI",
+      "title": "Linear Algebra 6c: Second Definition of Linear Dependence Fixed!",
+      "views": 7300
+    },
+    {
+      "id": "2FiOpSBWzy0",
+      "title": "Linear Algebra 6d: The Equivalence of the Two Definitions of Linear Dependence",
+      "views": 7500
+    },
+    {
+      "id": "NezsEmmdtoc",
+      "title": "Linear Algebra 6da: Linear Independence Implies Uniqueness",
+      "views": 7800
+    },
+    {
+      "id": "L7FUXn0Oth8",
+      "title": "Linear Algebra 6e: Linear Dependence Example 1 - Geometric Vectors",
+      "views": 9100
+    },
+    {
+      "id": "jlEdJgV0izs",
+      "title": "Linear Algebra 6f: Linear Dependence Example 2 - Geometric Vectors",
+      "views": 7000
+    },
+    {
+      "id": "SrEogp0Q36s",
+      "title": "Linear Algebra 6g: Linear Dependence Example 3 - Geometric Vectors",
+      "views": 6500
+    },
+    {
+      "id": "U0dw07eumLk",
+      "title": "Linear Algebra 6h: Linear Dependence Example 4 - Polynomials",
+      "views": 11000
+    },
+    {
+      "id": "Bmlz0lp5uPk",
+      "title": "Linear Algebra 6i: Linear Dependence Example 5 - Vectors in ℝⁿ",
+      "views": 6800
+    },
+    {
+      "id": "xxOVWMkcZTQ",
+      "title": "Linear Algebra 6j: Linear Systems for the Impatient",
+      "views": 7100
+    },
+    {
+      "id": "LlyiyoMcLJY",
+      "title": "Linear Algebra 6k: The Null Space",
+      "views": 11000
+    },
+    {
+      "id": "GY6Mv3n4l98",
+      "title": "Linear Algebra 6z: Outtakes from Chapters 5 and 6",
+      "views": 6400
+    },
+    {
+      "id": "LR5pilvHtFw",
+      "title": "Linear Algebra 7a: Three Linearly Independent Vectors in the Plane",
+      "views": 9100
+    },
+    {
+      "id": "OO0LSuUAOF0",
+      "title": "Linear Algebra 7b: Four Linearly Independent Vectors in the Space",
+      "views": 7200
+    },
+    {
+      "id": "RO-XYVeaROw",
+      "title": "Linear Algebra 7c: Concepts of Basis and Dimension",
+      "views": 17000
+    },
+    {
+      "id": "R_gic0qipVY",
+      "title": "Linear Algebra 7d: Relationship among Four Quadratic Polynomials",
+      "views": 7800
+    },
+    {
+      "id": "opVGThtT4BI",
+      "title": "Linear Algebra 7d1: Linear Dependence by Simple Counting",
+      "views": 6300
+    },
+    {
+      "id": "VoiVlV1V6cM",
+      "title": "Linear Algebra 7e: Counting Solutions of a Linear System",
+      "views": 8900
+    },
+    {
+      "id": "8JVZ4JXixbM",
+      "title": "Linear Algebra 7f1: Null Space of a Matrix",
+      "views": 11000
+    },
+    {
+      "id": "7PjyDBseV8k",
+      "title": "Linear Algebra 7f2: 21 Easy Null Space Exercises",
+      "views": 9600
+    },
+    {
+      "id": "k_knCtuiuPc",
+      "title": "Linear Algebra 7g: The Nullspace of a 3x3 Matrix with a Specific Pattern",
+      "views": 9200
+    },
+    {
+      "id": "3YcMNeNNImY",
+      "title": "Linear Algebra 8a: Linear Systems Terminology",
+      "views": 7700
+    },
+    {
+      "id": "0b9bYQEBAZc",
+      "title": "Linear Algebra 8b: Our First Linear System - A Thorough Discussion",
+      "views": 8400
+    },
+    {
+      "id": "V2A0a_JVGlE",
+      "title": "Linear Algebra 8c: Linear Systems as Collections of Equations - Not Such a Great Perspective",
+      "views": 5900
+    },
+    {
+      "id": "iN5PlafO6L4",
+      "title": "Linear Algebra 8d: Another 2x4 Linear System",
+      "views": 16000
+    },
+    {
+      "id": "ZnUQeRmqHgA",
+      "title": "Linear Algebra Comment: Reusing the Same Letter in Different Expressions",
+      "views": 4900
+    },
+    {
+      "id": "39h6IviFU9c",
+      "title": "Linear Algebra 8e: A 3x3 Linear System",
+      "views": 5500
+    },
+    {
+      "id": "-Dnj-3UGgV0",
+      "title": "Linear Algebra 8f: A Tall Linear System",
+      "views": 5300
+    },
+    {
+      "id": "8YdLloD2HLs",
+      "title": "Linear Algebra 8g: A Wide Linear System",
+      "views": 5000
+    },
+    {
+      "id": "XMW2xoq9pSc",
+      "title": "Linear Algebra 8h: A Linear System with Zero Columns",
+      "views": 7800
+    },
+    {
+      "id": "gik1altzSU0",
+      "title": "Linear Algebra 8p: The Relationship Between the Column Space and the Null Space",
+      "views": 9300
+    },
+    {
+      "id": "RyFBOM0_muQ",
+      "title": "Linear Algebra 8i: An Exceedingly Simple Linear System",
+      "views": 4900
+    },
+    {
+      "id": "wvEOsUBul-A",
+      "title": "Linear Algebra 8j: The Simplest Possible System",
+      "views": 4500
+    },
+    {
+      "id": "yrLe209RAWQ",
+      "title": "Linear Algebra 8k: You and I Have a Problem - We Need Some Distance!",
+      "views": 4800
+    },
+    {
+      "id": "l6B0w9juOcY",
+      "title": "Linear Algebra 9a: Introduction to Gaussian Elimination",
+      "views": 9900
+    },
+    {
+      "id": "Qq03PW55NQA",
+      "title": "Linear Algebra 9b: The Operations of Gaussian Elimination",
+      "views": 10000
+    },
+    {
+      "id": "KT3NOmOOcmE",
+      "title": "Linear Algebra 9c-: Review - Column Space Versus Null Space",
+      "views": 11000
+    },
+    {
+      "id": "OApLVXbiWb4",
+      "title": "Linear Algebra 9c: Why Gaussian Elimination Works",
+      "views": 9200
+    },
+    {
+      "id": "ZP9SJGHFQ6k",
+      "title": "Linear Algebra 9c1: Gaussian Elimination Cannot Be Used to Determine the Column Space",
+      "views": 5200
+    },
+    {
+      "id": "QX8A9np9VRQ",
+      "title": "Linear Algebra 9d: First Gaussian Elimination Example",
+      "views": 6200
+    },
+    {
+      "id": "DlRcSZd0SIQ",
+      "title": "Linear Algebra 9e: Gaussian Elimination and Systems Without Solutions",
+      "views": 5000
+    },
+    {
+      "id": "E-y8XFuCssI",
+      "title": "Linear Algebra 9f: Row Switching in Gaussian Elimination",
+      "views": 14000
+    },
+    {
+      "id": "LWmi9vC_LAk",
+      "title": "Linear Algebra 9g: Which Columns Are Pivot Columns in Gaussian Elimination",
+      "views": 10000
+    },
+    {
+      "id": "G-tK39mwjLY",
+      "title": "Linear Algebra 9i: Gaussian Elimination Example 1",
+      "views": 4900
+    },
+    {
+      "id": "Yy2jZ54kHQg",
+      "title": "Linear Algebra 9j: Gaussian Elimination Example 2",
+      "views": 3700
+    },
+    {
+      "id": "3FiCB3p9zxA",
+      "title": "Linear Algebra 9k: Gaussian Elimination Example 3",
+      "views": 3700
+    },
+    {
+      "id": "9zCAoZyZPe8",
+      "title": "Linear Algebra 9L: Gaussian Elimination Example 4",
+      "views": 3400
+    },
+    {
+      "id": "foBcBWG4ZBI",
+      "title": "Linear Algebra 9m: Gaussian Elimination Example 5",
+      "views": 3000
+    },
+    {
+      "id": "PAzKRaUPevs",
+      "title": "Linear Algebra 9n: Gaussian Elimination Example 6",
+      "views": 3000
+    },
+    {
+      "id": "cDKjcMeBd9w",
+      "title": "Linear Algebra 9o: Gaussian Elimination Example 7",
+      "views": 3100
+    },
+    {
+      "id": "QrM2ZnNydxI",
+      "title": "Linear Algebra 9p: Pragmatic Gaussian Elimination",
+      "views": 3800
+    },
+    {
+      "id": "5a_ip5ltYmA",
+      "title": "Linear Algebra 9q: Gaussian Thinning",
+      "views": 3700
+    },
+    {
+      "id": "v5yMD6xHjFQ",
+      "title": "Linear Algebra 10a: Introduction to the Row Reduced Echelon Form (RREF) of a Matrix",
+      "views": 9200
+    },
+    {
+      "id": "XrO3fTBmuhs",
+      "title": "Linear Algebra 10b: Calculating the Null Space from the Row Reduced Echelon Form (RREF) of a Matrix",
+      "views": 11000
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "lectures": [
+    {
+      "id": "3I7Vpof52FQ",
+      "title": "COS 302: More on Vectors and Matrices",
+      "views": 510
+    },
+    {
+      "id": "q_aHGK15CjY",
+      "title": "COS 302: Class #1, August 31",
+      "views": 403
+    },
+    {
+      "id": "aUGIG9ZGCWg",
+      "title": "COS 302: Class #2, September 2",
+      "views": 121
+    },
+    {
+      "id": "f2OMheitQ_8",
+      "title": "COS 302: Intro to Numerical Analysis",
+      "views": 281
+    },
+    {
+      "id": "xPNaeud8azE",
+      "title": "COS 302: Solving Linear Systems",
+      "views": 219
+    },
+    {
+      "id": "G6rUM9bVM_M",
+      "title": "COS 302: Strassen's Method",
+      "views": 100
+    },
+    {
+      "id": "g18LRerZUNE",
+      "title": "COS 302: Linear Independence, Bases, and Rank",
+      "views": 189
+    },
+    {
+      "id": "jfI4d-6AjUA",
+      "title": "COS 302 Class #3, September 7",
+      "views": 71
+    },
+    {
+      "id": "3uzcIzG7lNE",
+      "title": "COS 302 Class #4, September 9",
+      "views": 51
+    },
+    {
+      "id": "K_8cYkAwfXk",
+      "title": "COS 302: Linear Mappings",
+      "views": 170
+    },
+    {
+      "id": "vxWcM6tA-Vw",
+      "title": "COS 302: Norms and Inner Products",
+      "views": 207
+    },
+    {
+      "id": "8U4Tj99dGAE",
+      "title": "COS 302 Class #5: September 14",
+      "views": 36
+    },
+    {
+      "id": "q_8D5mjds0Q",
+      "title": "COS 302 Class #6: September 16",
+      "views": 23
+    },
+    {
+      "id": "ptJza8NcuGc",
+      "title": "COS 302: Orthogonal Projections and Overdetermined Linear Systems",
+      "views": 176
+    },
+    {
+      "id": "yRROaTiBr_k",
+      "title": "COS 302: Gram-Schmidt Orthogonalization",
+      "views": 277
+    },
+    {
+      "id": "Tlw03PiMewE",
+      "title": "COS 302: Matrix Trace and Invariants",
+      "views": 290
+    },
+    {
+      "id": "hTSv1uOgeR4",
+      "title": "COS 302 Class #7: September 21",
+      "views": 35
+    },
+    {
+      "id": "VNpeHYL4wOU",
+      "title": "COS 302: SVD",
+      "views": 496
+    },
+    {
+      "id": "qf0VRnQR7yI",
+      "title": "COS 302: PCA and MDS",
+      "views": 158
+    },
+    {
+      "id": "Cfazw1Xjx2g",
+      "title": "COS 302 Class #8: September 23",
+      "views": 37
+    },
+    {
+      "id": "3XKZI8KXROs",
+      "title": "COS 302 Class #9: September 28",
+      "views": 45
+    },
+    {
+      "id": "z2wLrYEYb0k",
+      "title": "COS 302 Class #10: September 30",
+      "views": 35
+    },
+    {
+      "id": "4ltETILxMjY",
+      "title": "COS 302 Class #11: October 5",
+      "views": 57
+    },
+    {
+      "id": "Fd0-VVgMckk",
+      "title": "COS 302 Class #12: October 14",
+      "views": 46
+    },
+    {
+      "id": "VQDtSZ5A0xM",
+      "title": "COS 302: Differentiating Vector- and Matrix-Valued Functions",
+      "views": 588
+    },
+    {
+      "id": "5c2NErkhquo",
+      "title": "COS 302 Class #13: October 19",
+      "views": 37
+    },
+    {
+      "id": "WvHtNRfzyok",
+      "title": "COS 302 Class #14: October 21",
+      "views": 40
+    },
+    {
+      "id": "4kk2EFWqCk4",
+      "title": "COS 302 Class #15: October 26",
+      "views": 39
+    },
+    {
+      "id": "xL89PgcU3no",
+      "title": "COS 302 Class #16: October 28",
+      "views": 33
+    },
+    {
+      "id": "EpnbvOop6Ww",
+      "title": "COS 302 Class #17: November 2",
+      "views": 47
+    },
+    {
+      "id": "PJCe0vTyp3k",
+      "title": "COS 302: Box-Muller Transform",
+      "views": 123
+    },
+    {
+      "id": "w_QV_dY2MQg",
+      "title": "COS 302: Monte Carlo Integration",
+      "views": 512
+    },
+    {
+      "id": "q4jNcqbqQ2A",
+      "title": "COS 302 Class #19: November 9",
+      "views": 41
+    },
+    {
+      "id": "MFKh7YOj9xI",
+      "title": "COS 302 Class #20: November 11",
+      "views": 44
+    },
+    {
+      "id": "FEdqiA-y3jM",
+      "title": "COS 302 Class #21: November 16",
+      "views": 85
+    },
+    {
+      "id": "ETkVhisGUOs",
+      "title": "COS 302 Class #22: November 18",
+      "views": 49
+    },
+    {
+      "id": "P_fK0k6BWYU",
+      "title": "COS 302 Class #23: November 23",
+      "views": 65
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "lectures": [
+    {
+      "id": "kqLbTYdYcPc",
+      "title": "COS 302 Overleaf Basics Screencast",
+      "views": 4700
+    },
+    {
+      "id": "cDKZ-gJrdHk",
+      "title": "COS 302 Colab Screencast",
+      "views": 1500
+    },
+    {
+      "id": "mqfgGP7j3nU",
+      "title": "COS 302 - HW4 P2",
+      "views": 904
+    },
+    {
+      "id": "fLMonJNRLxE",
+      "title": "COS 302 HW4 P5",
+      "views": 340
+    },
+    {
+      "id": "HJToowqC2yk",
+      "title": "Why is differentiation important to machine learning?",
+      "views": 9000
+    },
+    {
+      "id": "Fk3xTvrzeQ8",
+      "title": "Differentiation basics",
+      "views": 2500
+    },
+    {
+      "id": "-QT5zipNOPk",
+      "title": "Partial derivatives",
+      "views": 2200
+    },
+    {
+      "id": "EO5EKGnaGjo",
+      "title": "Best affine approximation",
+      "views": 6800
+    },
+    {
+      "id": "f4-5cmYvCyM",
+      "title": "Why is the gradient the direction of steepest ascent?",
+      "views": 14000
+    },
+    {
+      "id": "oeyZNemZe04",
+      "title": "Why is probability important to machine learning?",
+      "views": 15000
+    },
+    {
+      "id": "DqGUwoz4d4M",
+      "title": "Probability spaces and random variables",
+      "views": 63000
+    },
+    {
+      "id": "hDjcxi9p0ak",
+      "title": "Probability density and mass functions",
+      "views": 124000
+    },
+    {
+      "id": "8OaNOCblGZY",
+      "title": "Some useful probability distributions",
+      "views": 13000
+    },
+    {
+      "id": "CQS4xxz-2s4",
+      "title": "Basics of joint probability",
+      "views": 68000
+    },
+    {
+      "id": "mjkc5gqSO8Q",
+      "title": "Independence and dependence",
+      "views": 3700
+    },
+    {
+      "id": "wc7oZB15rYQ",
+      "title": "The Gaussian Distribution",
+      "views": 6000
+    },
+    {
+      "id": "bkLHszLlH34",
+      "title": "Information Theory Basics",
+      "views": 111000
+    },
+    {
+      "id": "uITNXWHZ1qQ",
+      "title": "Optimization Basics",
+      "views": 4800
+    },
+    {
+      "id": "oLowhs83aHk",
+      "title": "Convex Optimization Basics",
+      "views": 47000
+    },
+    {
+      "id": "2KAxE47AOVY",
+      "title": "COS 302: Matrix Basics",
+      "views": 1800
+    },
+    {
+      "id": "NzSsjZVe7q4",
+      "title": "COS 302: Vector Basics",
+      "views": 1900
+    },
+    {
+      "id": "L1hlwVaMpZg",
+      "title": "COS 302 S2021: Introduction and Logistics",
+      "views": 1300
+    },
+    {
+      "id": "YsnYFOi2Dac",
+      "title": "COS 302: Systems of Linear Equations",
+      "views": 1300
+    },
+    {
+      "id": "5aPP9tGgC-s",
+      "title": "COS 302: Matrix Inversion",
+      "views": 972
+    },
+    {
+      "id": "C43Q7jIU23A",
+      "title": "COS 302: Vector Spaces",
+      "views": 933
+    },
+    {
+      "id": "-jqjujBNr-g",
+      "title": "COS 302: Linear Independence, Basis, and Rank",
+      "views": 1400
+    },
+    {
+      "id": "EvzduYczBhg",
+      "title": "COS 302: Linear Maps",
+      "views": 961
+    },
+    {
+      "id": "SQszhk7RCWE",
+      "title": "COS 302: Norms and Inner Products",
+      "views": 2100
+    },
+    {
+      "id": "X64gYV6qeGU",
+      "title": "COS 302: Orthogonality and Projection",
+      "views": 1000
+    },
+    {
+      "id": "H2tGDABhQNM",
+      "title": "COS 302: Gram-Schmidt Orthogonalization",
+      "views": 976
+    },
+    {
+      "id": "GSsk8Ze1WvY",
+      "title": "COS 302: Matrix Invariants",
+      "views": 2700
+    },
+    {
+      "id": "OMe5KuoL_hA",
+      "title": "COS 302: Eigenvalues and Eigenvectors",
+      "views": 1500
+    },
+    {
+      "id": "67a8CIukcPA",
+      "title": "COS 302: Applications of Matrix Factorization",
+      "views": 6600
+    },
+    {
+      "id": "JUYGohQY41U",
+      "title": "COS 302: Singular Value Decomposition",
+      "views": 2400
+    },
+    {
+      "id": "4mdWoAKtUBE",
+      "title": "COS 302: Pseudo-Random Numbers",
+      "views": 1600
+    },
+    {
+      "id": "JeMvBCxJrDg",
+      "title": "COS 302: Monte Carlo",
+      "views": 1600
+    },
+    {
+      "id": "xemqzd_0i8s",
+      "title": "COS 302: Practical Multivariate Differentiation",
+      "views": 1500
+    }
+  ]
+}

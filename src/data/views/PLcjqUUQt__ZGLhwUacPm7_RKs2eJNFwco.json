@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "IxjC6Z5cu_Q",
+      "title": "2021 Introductory Remarks",
+      "views": 13000
+    },
+    {
+      "id": "SiQu_YTUMgQ",
+      "title": "Lecture 1(A): Sets and n-tuples",
+      "views": 21000
+    },
+    {
+      "id": "w7apAOKgBYI",
+      "title": "Lecture 1(B): Sets and n-tuples",
+      "views": 8800
+    },
+    {
+      "id": "8TkAmIoBXy4",
+      "title": "Lecture 2(A): Quantifiers and Functions 1",
+      "views": 4800
+    },
+    {
+      "id": "KSN1BUXpOu0",
+      "title": "Lecture 2(B): Quantifiers and Functions 1",
+      "views": 4100
+    },
+    {
+      "id": "XlkleLk5V3U",
+      "title": "Lecture 3(A): Quantifiers and Functions 2",
+      "views": 3100
+    },
+    {
+      "id": "b5LmZci0DkE",
+      "title": "Lecture 3(B): Quantifiers and Functions 2",
+      "views": 2200
+    },
+    {
+      "id": "GdPUI4ZC08c",
+      "title": "Lecture 4(A): Unifying n-tuples, Sequences, Functions, and Subsets",
+      "views": 2300
+    },
+    {
+      "id": "dmyeaCIQOoM",
+      "title": "Lecture 4(B): Unifying n-tuples, Sequences, Functions, and Subsets",
+      "views": 1800
+    },
+    {
+      "id": "u8VE1_njuUo",
+      "title": "Lecture 5(A): Logic 1 (Statements and truth values)",
+      "views": 2200
+    },
+    {
+      "id": "KjndmRIaI0s",
+      "title": "Lecture 5(B): Logic 1 (Truth tables and compound statements)",
+      "views": 1600
+    },
+    {
+      "id": "pmMDiBq1XKo",
+      "title": "Lecture 5(C): Logic 1 (Implication; De Morgan's Laws)",
+      "views": 2100
+    },
+    {
+      "id": "_PE2aRB7Sb8",
+      "title": "Lecture 6(A): Logic 2 (Implication issues)",
+      "views": 2000
+    },
+    {
+      "id": "mRET1ozV0zU",
+      "title": "Lecture 6(B): Logic 2 (Strategy for proofs)",
+      "views": 1700
+    },
+    {
+      "id": "thVnanFNE9g",
+      "title": "Lecture 6(C): Logic 2 (Strategy for proofs)",
+      "views": 1500
+    },
+    {
+      "id": "JRCmUJ2sND8",
+      "title": "Lecture 7(A): Proof by Induction: What is it and how does it work?",
+      "views": 1300
+    },
+    {
+      "id": "0zvo9lrlb0U",
+      "title": "Lecture 7(B): Proof by Induction",
+      "views": 1100
+    },
+    {
+      "id": "xpwko9bYlEg",
+      "title": "Lecture 8:  Foundation for Vector Spaces: Geometry and Algebra of Rn (Revised)",
+      "views": 4800
+    },
+    {
+      "id": "I7AJkqEmk-4",
+      "title": "Lecture 9(A): Euclidean Space",
+      "views": 18000
+    },
+    {
+      "id": "SPZO8jdGXFU",
+      "title": "Lecture 9(B): Euclidean Space: Cauchy-Schwarz and Triangle inequalities, dot product, hyperplanes.",
+      "views": 4700
+    },
+    {
+      "id": "PJIJ39zThYM",
+      "title": "Lecture 10(A): Euclidean Space: Neighborhoods, Open and Closed Sets",
+      "views": 7100
+    },
+    {
+      "id": "MX7edsurBpk",
+      "title": "Lecture 10(B): Euclidean Space: Examples and Theorems",
+      "views": 3400
+    },
+    {
+      "id": "l2rJFxgmPVA",
+      "title": "Lecture 11: Vector Spaces",
+      "views": 4900
+    },
+    {
+      "id": "cci60vPKtPU",
+      "title": "Lecture 12(A): Vector Subspaces",
+      "views": 1700
+    },
+    {
+      "id": "QGXxfLcFEw0",
+      "title": "Lecture 12(B): Vector Subspaces",
+      "views": 1400
+    },
+    {
+      "id": "IfHrkJIcMKI",
+      "title": "Lecture 13(A): Linear Combinations",
+      "views": 1600
+    },
+    {
+      "id": "u07V6plbFhE",
+      "title": "Lecture 13(B): Linear Combinations",
+      "views": 1100
+    },
+    {
+      "id": "6s6j20u47oU",
+      "title": "Lecture 14(A): Linear Independence and Basis",
+      "views": 1300
+    },
+    {
+      "id": "7dFfRCug7Pw",
+      "title": "Lecture 14(B): Linear Independence and Basis",
+      "views": 1100
+    },
+    {
+      "id": "GAPakspczpk",
+      "title": "Lecture 15(A): Linear Functions",
+      "views": 1400
+    },
+    {
+      "id": "3pLiNl4-x8c",
+      "title": "Lecture 15(B): Linear Functions",
+      "views": 999
+    },
+    {
+      "id": "gfpGa_wIt1k",
+      "title": "Lecture 15(C): Linear Functions",
+      "views": 1300
+    },
+    {
+      "id": "mRNg-Q9f9W4",
+      "title": "Lecture 16(A): Convexity",
+      "views": 4200
+    },
+    {
+      "id": "xAyQzWGOPZI",
+      "title": "Lecture 16(B): Convexity",
+      "views": 2100
+    },
+    {
+      "id": "LV92q5EeY0I",
+      "title": "Lecture 16(C): Convexity",
+      "views": 1500
+    },
+    {
+      "id": "s0dZVmPN3Ww",
+      "title": "Lecture 17(A): Concave and Convex Functions",
+      "views": 17000
+    },
+    {
+      "id": "OYCnZ-mRYtI",
+      "title": "Lecture 18(A): Alternative Norms and Metrics",
+      "views": 5100
+    },
+    {
+      "id": "c6A8AhhB5iM",
+      "title": "Lecture 18(B): Alternative Norms and Metrics",
+      "views": 1400
+    },
+    {
+      "id": "StUizPspejA",
+      "title": "Lecture 18(C): Alternative Norms and Metrics",
+      "views": 1000
+    },
+    {
+      "id": "GT_obuLKrX8",
+      "title": "Lecture 18(D): Alternative Norms and Metrics",
+      "views": 976
+    },
+    {
+      "id": "k-9CFDJ8gus",
+      "title": "Lecture 19(A): Sequences",
+      "views": 1800
+    },
+    {
+      "id": "lSkkNYVM0IA",
+      "title": "Lecture 19(B): Sequences",
+      "views": 1100
+    },
+    {
+      "id": "g1AE5WTYDgw",
+      "title": "Lecture 19(C): Sequences",
+      "views": 1100
+    },
+    {
+      "id": "rQuxMfUqCJ0",
+      "title": "Lecture 20(A): Bounded Sequences and Subsequences",
+      "views": 1500
+    },
+    {
+      "id": "GN5EhAuWNzA",
+      "title": "Lecture 20(B): Bounded Sequences: The Monotone Convergence Theorem",
+      "views": 1300
+    },
+    {
+      "id": "Io2QmdnJ7a0",
+      "title": "Lecture 20(C): Bounded Sequences: The Bolzano-Weierstrass Theorem",
+      "views": 1700
+    },
+    {
+      "id": "6nwkIWOWjgE",
+      "title": "Lecture 21(A): Continuous Functions",
+      "views": 1600
+    },
+    {
+      "id": "CnkK1T8p6ZU",
+      "title": "Lecture 21(B): Continuous Functions",
+      "views": 1100
+    },
+    {
+      "id": "H2Uzx3tUlP4",
+      "title": "Lecture 22(A): Continuous Functions 2",
+      "views": 1100
+    },
+    {
+      "id": "GDedJ3McgXU",
+      "title": "Lecture 22(B): Continuous Functions 2 (Revised)",
+      "views": 903
+    },
+    {
+      "id": "if2Xq4GVuvY",
+      "title": "Lecture 23(A): Compact Sets and Metric Spaces; Bolzano-Weierstrass Theorem",
+      "views": 8000
+    },
+    {
+      "id": "3t-5SYV-8dc",
+      "title": "Lecture 23(B): Compact Sets, Weierstrass Theorem, examples and counterexamples",
+      "views": 1600
+    },
+    {
+      "id": "E_wkLs1uv2E",
+      "title": "Lecture 24(A): Approximation and Taylor Polynomials",
+      "views": 5000
+    },
+    {
+      "id": "APEct8maDxw",
+      "title": "Lecture 24(B): Approximation and Taylor Polynomials, with example",
+      "views": 1300
+    },
+    {
+      "id": "m-jrWTxf6HM",
+      "title": "Lecture 25(A): Derivatives",
+      "views": 1800
+    },
+    {
+      "id": "oZ7oUKqySKk",
+      "title": "Lecture 25(B): Derivatives",
+      "views": 1200
+    },
+    {
+      "id": "KesZslq5uVg",
+      "title": "Lecture 26(A): Approximation & Taylor Polynomials in Rn",
+      "views": 1400
+    },
+    {
+      "id": "wWJqj-9Yhag",
+      "title": "Lecture 26(B): Approximation & Taylor Polynomials in Rn",
+      "views": 1200
+    },
+    {
+      "id": "toquK9ILhFs",
+      "title": "Lecture 27(A): Quadratic Forms: Symmetric matrices, geometric intuition",
+      "views": 3500
+    },
+    {
+      "id": "QSTIMwYbp3o",
+      "title": "Lecture 27(B): Quadratic Forms: Geometric Example",
+      "views": 1900
+    },
+    {
+      "id": "wJxPKj5DpMc",
+      "title": "Lecture 28: Quadratic Forms: Definite and semidefinite forms",
+      "views": 3600
+    },
+    {
+      "id": "Hd43Fts3v70",
+      "title": "Lecture 29(A): Quadratic Forms: Necessary & sufficient conditions for definiteness",
+      "views": 2000
+    },
+    {
+      "id": "A-q4yB_gKio",
+      "title": "Lecture 29(B): Quadratic Forms: Determinant conditions for definiteness",
+      "views": 1600
+    },
+    {
+      "id": "cBqAYCJHcrw",
+      "title": "Lecture 29(C): Quadratic Forms: Determinant conditions for definiteness",
+      "views": 1600
+    },
+    {
+      "id": "1alsEu7Ghhs",
+      "title": "Lecture 30: Unconstrained Optimization 1",
+      "views": 13000
+    },
+    {
+      "id": "iPuMrI8wAl4",
+      "title": "Lecture 31: Unconstrained Optimization 2",
+      "views": 2900
+    },
+    {
+      "id": "ArqDkIQLqEw",
+      "title": "Lecture 32: Unconstrained Optimization 3",
+      "views": 2100
+    },
+    {
+      "id": "wRHvs7Plnb8",
+      "title": "Lecture 33(A): Global Optimization",
+      "views": 4000
+    },
+    {
+      "id": "o9K-Vgz1aRc",
+      "title": "Lecture 33(B): Characterization of differentiable concave functions.",
+      "views": 1800
+    },
+    {
+      "id": "Zly5elxZ9w8",
+      "title": "Lecture 33(C): Concave functions and global optimization",
+      "views": 2300
+    },
+    {
+      "id": "aKV35NPQUDs",
+      "title": "Lecture 34: Geometry of Constrained Optimization: Focus on Gradients",
+      "views": 2900
+    },
+    {
+      "id": "myyw2_QMts8",
+      "title": "Lecture 35: Geometry of Constrained Optimization: Multiple and nonlinear constraints",
+      "views": 2000
+    },
+    {
+      "id": "0RUamFRX-s4",
+      "title": "Lecture 36(A): Solution Function and Value Function",
+      "views": 2300
+    },
+    {
+      "id": "aLSxRjAM5Is",
+      "title": "Lecture 36(B): Solution Function and Value Function",
+      "views": 1300
+    },
+    {
+      "id": "Fdh8SXDjrro",
+      "title": "Lecture 37(A): The Implicit Function Theorem: How the solution changes when parameters change.",
+      "views": 6400
+    },
+    {
+      "id": "5sE9Is3U270",
+      "title": "Lecture 37(B): The Implicit Function Theorem",
+      "views": 3500
+    },
+    {
+      "id": "mSZMLDv10l0",
+      "title": "Lecture 37(C): The Implicit Function Theorem",
+      "views": 17000
+    },
+    {
+      "id": "2pdj1Ytkhd0",
+      "title": "Lecture 37(D): The Implicit Function Theorem",
+      "views": 2800
+    },
+    {
+      "id": "DiRwRERgglw",
+      "title": "Lecture 38(A): The Envelope Theorem: How the Optimal Value Changes",
+      "views": 14000
+    },
+    {
+      "id": "FX7kcDvEsJk",
+      "title": "Lecture 38(B): The Envelope Theorem for Constrained Optimization",
+      "views": 4400
+    },
+    {
+      "id": "ZK-O536qmEE",
+      "title": "Lecture 39(A): The Envelope Theorem and Shadow Values",
+      "views": 2100
+    },
+    {
+      "id": "V6Rziu74uhA",
+      "title": "Lecture 39(B): The Envelope Theorem: Hotelling's Lemma",
+      "views": 7800
+    },
+    {
+      "id": "9tUj530Mw_Q",
+      "title": "Lecture 39(C): The Envelope Theorem: Shephard's Lemma",
+      "views": 14000
+    },
+    {
+      "id": "HIm3Z0L90Co",
+      "title": "Lecture 40(A): Kuhn-Tucker Conditions: Conceptual and geometric insight",
+      "views": 70000
+    },
+    {
+      "id": "2syXAny8PfE",
+      "title": "Lecture 40(B): The Kuhn-Tucker Conditions and Theorem",
+      "views": 23000
+    },
+    {
+      "id": "natJ8yyIvQg",
+      "title": "Lecture 40(C): The Kuhn-Tucker Conditions: An Example",
+      "views": 12000
+    },
+    {
+      "id": "6bAgYT7XojY",
+      "title": "Lecture 40(D): The Kuhn-Tucker Conditions: Two examples",
+      "views": 7200
+    },
+    {
+      "id": "Sz0cbggoluY",
+      "title": "Lecture 40(E): The Kuhn-Tucker Conditions: A Corner (Boundary) Solution",
+      "views": 6400
+    },
+    {
+      "id": "M1OsajlrLQY",
+      "title": "Lecture 41(A): Binary Relations",
+      "views": 17000
+    },
+    {
+      "id": "si8buH1QwoA",
+      "title": "Lecture 41(B): Binary Relations",
+      "views": 3500
+    },
+    {
+      "id": "hDBnU_Pun60",
+      "title": "Lecture 42(A): Order Relations, Preferences, and Utility Functions",
+      "views": 3500
+    },
+    {
+      "id": "ceAa-etCbfw",
+      "title": "Lecture 42(B): Order Relations and Utility Functions Exercise Solution",
+      "views": 1100
+    },
+    {
+      "id": "Rw2m4vJKAAA",
+      "title": "Lecture 43(A): Equivalence Relations & Partitions",
+      "views": 1500
+    },
+    {
+      "id": "MKw73XmVJq8",
+      "title": "Lecture 43(B): Equivalence Relations & Partitions",
+      "views": 1100
+    },
+    {
+      "id": "uea6wKaEO0I",
+      "title": "Lecture 44(A): Representation of Preferences by Utility Functions",
+      "views": 3400
+    },
+    {
+      "id": "3aJTPhF_BlA",
+      "title": "Lecture 44(B): Representation of Preferences by Utility Functions",
+      "views": 1900
+    },
+    {
+      "id": "JgcNRL4bUj4",
+      "title": "Lecture 45(B): Lexicographic Preference",
+      "views": 3700
+    },
+    {
+      "id": "1VDPm-k0Z3k",
+      "title": "Lecture 45(A): Lexicographic Preference",
+      "views": 8800
+    },
+    {
+      "id": "ms2Bs34cXy0",
+      "title": "Correspondences",
+      "views": 7100
+    },
+    {
+      "id": "7jk_Ts7sEu0",
+      "title": "Hemicontinuous Correspondences",
+      "views": 7200
+    }
+  ]
+}

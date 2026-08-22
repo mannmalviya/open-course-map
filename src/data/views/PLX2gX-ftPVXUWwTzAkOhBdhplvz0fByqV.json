@@ -1,0 +1,319 @@
+{
+  "lectures": [
+    {
+      "id": "f26vt5uQ_uI",
+      "title": "Probability & Statistics (1 of 62) Introduction",
+      "views": 501000
+    },
+    {
+      "id": "GY86lxlWWbM",
+      "title": "Probability & Statistics (2 of 62) Definition of Sets and Elements",
+      "views": 194000
+    },
+    {
+      "id": "WelPq6Kgf7s",
+      "title": "Probability & Statistics (3 of 62) Definition of Sample Spaces & Factorials",
+      "views": 148000
+    },
+    {
+      "id": "EOk25Tb-1bM",
+      "title": "Probability & Statistics (4 of 62) Definition of Events",
+      "views": 136000
+    },
+    {
+      "id": "GU_2eQvVlCg",
+      "title": "Probability & Statistics (5 of 62) Definition of Intersection, Union, Compliment, Venn Diagram",
+      "views": 135000
+    },
+    {
+      "id": "2qCDKt23jHQ",
+      "title": "Probability & Statistics (6 of 62) De Morgan's Law Explained",
+      "views": 157000
+    },
+    {
+      "id": "ZuuXPW36OYU",
+      "title": "Probability & Statistics (7 of 62) Union and Intersection - Another Look",
+      "views": 92000
+    },
+    {
+      "id": "i6_byEFjKEA",
+      "title": "Probability & Statistics (8 of 62) The Probability Function - A First Look",
+      "views": 110000
+    },
+    {
+      "id": "zReGHNdWvIo",
+      "title": "Probability & Statistics (9 of 62) The Probability Function - Flipping 3 Coins, Example",
+      "views": 85000
+    },
+    {
+      "id": "7utYtIpTDSU",
+      "title": "Probability & Statistics (10 of 62) The Probability Function - Flipping Coins - General Formula 1",
+      "views": 87000
+    },
+    {
+      "id": "wd3-i7kwXmk",
+      "title": "Probability & Statistics (11 of 62) The Probability Function - Flipping Coins - General Formula 2",
+      "views": 76000
+    },
+    {
+      "id": "aHAYefD5sy0",
+      "title": "Probability & Statistics (12 of 62) The Probability Function - Flipping 10 Coins - Example",
+      "views": 61000
+    },
+    {
+      "id": "HpXAlpnoq1U",
+      "title": "Probability & Statistics (13 of 62) The Probability of an Event NOT Occurring",
+      "views": 64000
+    },
+    {
+      "id": "tjwc_Y34Pms",
+      "title": "Probability & Statistics (14 of 62) The Probability of A or B (Independent Events)",
+      "views": 71000
+    },
+    {
+      "id": "fAQrTvEYB0A",
+      "title": "Probability & Statistics (15 of 62) The Probability of A or B (Dependent Events)",
+      "views": 53000
+    },
+    {
+      "id": "M6sPl1FO_Q0",
+      "title": "Probability & Statistics (16 of 62) The Probability of A or B (Dependent Events)",
+      "views": 48000
+    },
+    {
+      "id": "VMcBkIhzEhU",
+      "title": "Probability & Statistics (17 of 62) The \"At Least One or Once\" Rule",
+      "views": 52000
+    },
+    {
+      "id": "-b6FuQvHEmQ",
+      "title": "Probability & Statistics (18 of 62) The \"At Least One or Once\" Rule - Example",
+      "views": 54000
+    },
+    {
+      "id": "r9SJxqcWOw8",
+      "title": "Probability & Statistics (19 of 62) The \"At Least One or Once\" Rule - Example 2",
+      "views": 40000
+    },
+    {
+      "id": "JEfk_KGBwzg",
+      "title": "Probability & Statistics (20 of 62) The \"At Least One or Once\" Rule - Example 3",
+      "views": 43000
+    },
+    {
+      "id": "7TxSi1FwSSo",
+      "title": "Probability & Statistics (21 of 62) Probability - 4 More Basic Examples",
+      "views": 42000
+    },
+    {
+      "id": "rOohq7jsq-A",
+      "title": "Probability & Statistics (22 of 62) Probability - 3 More Basic Examples (FIRST ANSWER 5/36)",
+      "views": 33000
+    },
+    {
+      "id": "n9FtpMcJ2x4",
+      "title": "Probability & Statistics (23 of 62)  P(not 7) = 30/36: Calculating the Odds  -For, -Against, and -On",
+      "views": 33000
+    },
+    {
+      "id": "2xXUK7GLo1s",
+      "title": "Probability & Statistics (24 of 62) Calculating the Odds and Horse Racing",
+      "views": 116000
+    },
+    {
+      "id": "IN1T8eMAjPg",
+      "title": "Probability & Statistics (25 of 62) Conditional Probability Explained",
+      "views": 36000
+    },
+    {
+      "id": "Lv5Bgpokkg4",
+      "title": "Probability & Statistics (26 of 62) Conditional Probability (of a Person Born)",
+      "views": 28000
+    },
+    {
+      "id": "EdSZ9Qfz7Tg",
+      "title": "Probability & Statistics (27 of 62) Conditional Probability - Independent Event Explained",
+      "views": 30000
+    },
+    {
+      "id": "21V9WBJLAL8",
+      "title": "Probability & Statistics (28 of 62) Basic Definitions and Symbols Summarized",
+      "views": 57000
+    },
+    {
+      "id": "vSeLNpORtaw",
+      "title": "Probability & Statistics (29 of 62) Basic Theorems 1 - 5",
+      "views": 31000
+    },
+    {
+      "id": "0h1lnzQR_5o",
+      "title": "Probability & Statistics (30 of 62) Basic Theorems 6 - 10",
+      "views": 22000
+    },
+    {
+      "id": "nSXFtcHKfOk",
+      "title": "Probability & Statistics (31 of 62) Basic Theorems 11 - 14",
+      "views": 20000
+    },
+    {
+      "id": "VM8mhbkkqeU",
+      "title": "Probability & Statistics (32 of 62) Calculation Probability Summary (1 of 3)",
+      "views": 23000
+    },
+    {
+      "id": "PGpVB2SGghg",
+      "title": "Probability & Statistics (33 of 62) Calculation Probability Summary (2 of 3)",
+      "views": 19000
+    },
+    {
+      "id": "6ZdQ2JOlq0A",
+      "title": "Probability & Statistics (34 of 62) Calculation Probability Summary (3 of 3)",
+      "views": 17000
+    },
+    {
+      "id": "nWEtNq4_ehg",
+      "title": "Probability & Statistics (35 of 62) Combinations and Permutations Explained",
+      "views": 29000
+    },
+    {
+      "id": "Uh8I_nrMy_s",
+      "title": "Probability & Statistics (36 of 62) Permutations and Combinations - Example 1",
+      "views": 23000
+    },
+    {
+      "id": "uLGljYtX4Ks",
+      "title": "Probability & Statistics (37 of 62) Permutations and Combinations - Example 2",
+      "views": 21000
+    },
+    {
+      "id": "jDLxX1UH_5I",
+      "title": "Probability & Statistics (38 of 62) Permutations and Combinations - Example 3",
+      "views": 19000
+    },
+    {
+      "id": "BVPLxtyH730",
+      "title": "Probability & Statistics (39 of 62) Permutations and Combinations - Example 4",
+      "views": 16000
+    },
+    {
+      "id": "jZrQA-Z5cnY",
+      "title": "Probability & Statistics (40 of 62) Permutations and Combinations - Example 5",
+      "views": 16000
+    },
+    {
+      "id": "Tit-HHqBMc8",
+      "title": "Probability & Statistics (41 of 62) Permutations and Combinations - Example 6",
+      "views": 131000
+    },
+    {
+      "id": "RV6X8BlO2_Y",
+      "title": "Probability & Statistics (42 of 62) Permutations and Combinations - Example",
+      "views": 25000
+    },
+    {
+      "id": "7DAEOfbLePg",
+      "title": "Probability & Statistics (43 of 62) Permutations and Combinations - Example 8",
+      "views": 17000
+    },
+    {
+      "id": "xQ2IrexgMv4",
+      "title": "Probability & Statistics (44 of 62) Permutations and Combinations - Example 9",
+      "views": 13000
+    },
+    {
+      "id": "Fo8YdimvS24",
+      "title": "Probability & Statistics (45 of 62) Permutations and Combinations - Example 10",
+      "views": 12000
+    },
+    {
+      "id": "jq-27MUFm6o",
+      "title": "Probability & Statistics (46 of 62) Permutations and Combinations - Example 11",
+      "views": 10000
+    },
+    {
+      "id": "QquicwTEiX4",
+      "title": "Probability & Statistics (47 of 62) Permutations and Combinations - Example 12",
+      "views": 60000
+    },
+    {
+      "id": "T5EWSbDLf_U",
+      "title": "Probability & Statistics (48 of 62) Permutations and Combinations - Example 13",
+      "views": 15000
+    },
+    {
+      "id": "iAy0EG4LCd4",
+      "title": "Probability & Statistics (49 of 62) Permutations and Combinations - Example 14",
+      "views": 11000
+    },
+    {
+      "id": "qYcAt0qb5RA",
+      "title": "Probability & Statistics (50 of 62) Permutations and Combinations - Example 15",
+      "views": 10000
+    },
+    {
+      "id": "JSm2pk6Pjvw",
+      "title": "Probability & Statistics (51 of 62) Permutations and Combinations - Example 16",
+      "views": 10000
+    },
+    {
+      "id": "JTBS94sskvc",
+      "title": "Probability & Statistics (52 of 62) Permutations and Combinations - Example 17",
+      "views": 9800
+    },
+    {
+      "id": "PH7UhwQXllY",
+      "title": "Probability & Statistics (53 of 62) Permutations and Combinations - Example 18",
+      "views": 10000
+    },
+    {
+      "id": "Vg7CU6KjIlc",
+      "title": "Probability & Statistics (54 of 62) Conditional Probability Basics",
+      "views": 17000
+    },
+    {
+      "id": "_Jp95CcOfRA",
+      "title": "Probability & Statistics (55 of 62) Conditional Probability - Example",
+      "views": 15000
+    },
+    {
+      "id": "_QUbIkeklSk",
+      "title": "Probability & Statistics (56 of 62) Conditional Probability - \"Theorem 1\"",
+      "views": 16000
+    },
+    {
+      "id": "Of9DRXz0XWQ",
+      "title": "Probability & Statistics (57 of 62) Conditional Probability - \"Theorem 2\"",
+      "views": 14000
+    },
+    {
+      "id": "gtXQv6dfyvs",
+      "title": "Probability & Statistics (58 of 62) Conditional Probability: Bayes' Theorem (Part 1 of 3).",
+      "views": 21000
+    },
+    {
+      "id": "ODJ5ePSXtRM",
+      "title": "Probability & Statistics (59 of 62) Conditional Probability: Bayes' Theorem (Part 2 of 3))",
+      "views": 15000
+    },
+    {
+      "id": "gwpBkLIHKO4",
+      "title": "Probability & Statistics (60 of 62) Conditional Probability: Bayes' Theorem (Part 3 of 3))",
+      "views": 13000
+    },
+    {
+      "id": "Dr7v_vG7pUc",
+      "title": "Probability & Statistics (62 of 62) Conditional Probability: Baye's Theorem Example 2",
+      "views": 14000
+    },
+    {
+      "id": "GZhluej5gfE",
+      "title": "Probability & Statistics (61 of 62) Conditional Probability: Baye's Theorem Example 1",
+      "views": 15000
+    },
+    {
+      "id": "Hs33JPY9ziw",
+      "title": "Playlist Organizer",
+      "views": 359000
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "lectures": [
+    {
+      "id": "Ld9AtgPmyvM",
+      "title": "Multivariable Calculus",
+      "views": 105000
+    },
+    {
+      "id": "XzaeYnZdK5o",
+      "title": "Lecture 01: Functions of several variables",
+      "views": 724000
+    },
+    {
+      "id": "KSntcGOFdUc",
+      "title": "Lecture 02: Limits for multivariable functions-I",
+      "views": 295000
+    },
+    {
+      "id": "6vxU37unzWI",
+      "title": "Lecture 03: Limits for multivariable functions-II",
+      "views": 187000
+    },
+    {
+      "id": "JlCnwYA6eao",
+      "title": "Lecture 04: Continuity of multivariable functions",
+      "views": 165000
+    },
+    {
+      "id": "6tQTRlbkbc8",
+      "title": "Lecture 05: Partial  Derivatives-I",
+      "views": 204000
+    },
+    {
+      "id": "8ZAucbZscNA",
+      "title": "Lecture 06: Partial Derivatives-II",
+      "views": 135000
+    },
+    {
+      "id": "iN3_5g0A_u8",
+      "title": "Lecture 07: Differentiability-I",
+      "views": 154000
+    },
+    {
+      "id": "regif6yP6pQ",
+      "title": "Lecture 08: Differentiability-II",
+      "views": 98000
+    },
+    {
+      "id": "McT-UsFx1Es",
+      "title": "Lecture 09: Chain rule-I",
+      "views": 106000
+    },
+    {
+      "id": "_1TNtFqiFQo",
+      "title": "Lecture 10: Chain rule-II",
+      "views": 81000
+    },
+    {
+      "id": "X6kp2o3mGtA",
+      "title": "Lecture 11: Change of variables",
+      "views": 95000
+    },
+    {
+      "id": "btLWNJdHzSQ",
+      "title": "Lecture 12: Euler’s theorem for homogeneous functions",
+      "views": 92000
+    },
+    {
+      "id": "HyWagR_7x-o",
+      "title": "Lecture 13: Tangent planes and Normal lines",
+      "views": 93000
+    },
+    {
+      "id": "9-tir2V3vYY",
+      "title": "Lecture 14: Extreme values-I",
+      "views": 97000
+    },
+    {
+      "id": "aqfSOOiO2kI",
+      "title": "Lecture 15: Extreme values-II",
+      "views": 66000
+    },
+    {
+      "id": "GoyeNUaSW08",
+      "title": "Lecture 16: Lagrange multipliers",
+      "views": 121000
+    },
+    {
+      "id": "jiEaKYI0ATY",
+      "title": "Lecture 17: Taylor’s theorem",
+      "views": 118000
+    },
+    {
+      "id": "G0V_yp0jz5c",
+      "title": "Lecture 18: Error approximation",
+      "views": 52000
+    },
+    {
+      "id": "ixDGaEqWuA0",
+      "title": "Lecture 19: Polar-curves",
+      "views": 64000
+    },
+    {
+      "id": "mIeeVrv447s",
+      "title": "Lecture 20: Multiple Integrals",
+      "views": 134000
+    },
+    {
+      "id": "4rc3w1sGoNU",
+      "title": "Lecture 21-Change of order of Integration",
+      "views": 110000
+    },
+    {
+      "id": "wtY5fx6VMGQ",
+      "title": "Lecture 22-Change of Variables in Multiple Integral",
+      "views": 90000
+    },
+    {
+      "id": "52Sv6F5nofA",
+      "title": "Lecture 23-Introduction to Gamma Function",
+      "views": 50000
+    },
+    {
+      "id": "qzAqVfGhUIs",
+      "title": "Lecture 24",
+      "views": 47000
+    },
+    {
+      "id": "py8Fk13zwY0",
+      "title": "Lecture 25",
+      "views": 38000
+    },
+    {
+      "id": "DekionLO6-Y",
+      "title": "Lecture 26",
+      "views": 39000
+    },
+    {
+      "id": "FtUBwF4ppjw",
+      "title": "Lecture 27",
+      "views": 39000
+    },
+    {
+      "id": "6ntZ1KQL04A",
+      "title": "Lecture 28",
+      "views": 46000
+    },
+    {
+      "id": "Qj0KM9Uh7xw",
+      "title": "Lecture 29",
+      "views": 55000
+    },
+    {
+      "id": "JTJXHcLrxgM",
+      "title": "Lecture 30",
+      "views": 43000
+    },
+    {
+      "id": "PxvAL6U_G5Q",
+      "title": "Lecture 31",
+      "views": 39000
+    },
+    {
+      "id": "v_sTlDeCUdU",
+      "title": "Lecture 32",
+      "views": 33000
+    },
+    {
+      "id": "agYlEEmR2CI",
+      "title": "Lecture 33",
+      "views": 31000
+    },
+    {
+      "id": "yCqLvRiVtng",
+      "title": "Lecture 34",
+      "views": 40000
+    },
+    {
+      "id": "mMBSb_dtkYU",
+      "title": "Lecture 35",
+      "views": 34000
+    },
+    {
+      "id": "34aX-fNMS-c",
+      "title": "Lecture 36",
+      "views": 42000
+    },
+    {
+      "id": "XxmRcbqUB4o",
+      "title": "Lecture 37",
+      "views": 40000
+    },
+    {
+      "id": "k3VfRz0eV7o",
+      "title": "Lecture 38",
+      "views": 39000
+    },
+    {
+      "id": "DtqTXJ5X3xo",
+      "title": "Lecture 39",
+      "views": 35000
+    },
+    {
+      "id": "q-fgRrPayJY",
+      "title": "Lecture 40",
+      "views": 38000
+    }
+  ]
+}

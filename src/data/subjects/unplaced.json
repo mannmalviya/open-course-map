@@ -94,6 +94,146 @@
           "primary": true
         }
       ]
+    },
+    "mila-causal-inference": {
+      "title": "Causal Inference",
+      "university": "Mila",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Mila · Neal · 2020",
+          "url": "https://www.bradyneal.com/causal-inference-course",
+          "youtube": "https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0",
+          "date": "Fall 2020",
+          "youtubeId": "CfzO4IEMVUk",
+          "primary": true
+        }
+      ]
+    },
+    "cambridge-itprnn": {
+      "title": "Information Theory",
+      "university": "Cambridge",
+      "level": "undergrad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cambridge · MacKay · 2012",
+          "url": "http://www.inference.org.uk/mackay/itprnn",
+          "youtube": "https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6",
+          "date": "2012",
+          "youtubeId": "BCiZc0n6COY",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-math4ml": {
+      "title": "Mathematics for ML",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Tübingen · von Luxburg · 2020",
+          "url": "https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS",
+          "date": "Winter 2020",
+          "youtubeId": "PZwxF59DhYA",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10606": {
+      "title": "Math Background for ML",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "CMU 10-606/607 · Gordon · 2017",
+          "url": "https://canvas.cmu.edu/courses/603/assignments/syllabus",
+          "youtube": "https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA",
+          "date": "Fall 2017",
+          "youtubeId": "ssWr6Q0mGIA",
+          "primary": true
+        }
+      ]
+    },
+    "princeton-cos302": {
+      "title": "COS 302 Math for ML",
+      "university": "Princeton",
+      "level": "undergrad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Princeton COS 302 · Adams · 2021",
+          "url": "https://www.cs.princeton.edu/courses/archive/spring21/cos302",
+          "youtube": "https://www.youtube.com/playlist?list=PLCO4cUaBLHFEHo42HVIVWaSOvbAiH30uc",
+          "date": "Spring 2021",
+          "youtubeId": "kqLbTYdYcPc",
+          "primary": true
+        },
+        {
+          "label": "Princeton COS 302 · Rusinkiewicz · 2020",
+          "url": "https://www.cs.princeton.edu/courses/archive/fall20/cos302/outline.html",
+          "youtube": "https://www.youtube.com/playlist?list=PL88aSuXxl_dSjC5pIG8bGkC5wsUPyW_Hh",
+          "date": "Fall 2020",
+          "youtubeId": "3I7Vpof52FQ"
+        }
+      ]
+    },
+    "arizona-math-camp": {
+      "title": "Math Camp",
+      "university": "Arizona",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Arizona · Walker · 2019",
+          "url": "http://www.u.arizona.edu/~mwalker/MathCamp2019.htm",
+          "youtube": "https://www.youtube.com/playlist?list=PLcjqUUQt__ZGLhwUacPm7_RKs2eJNFwco",
+          "date": "2019",
+          "youtubeId": "IxjC6Z5cu_Q",
+          "primary": true
+        }
+      ]
+    },
+    "iisc-info-theory": {
+      "title": "IISc Information Theory",
+      "university": "IISc",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IISc · Tyagi · 2020",
+          "url": "https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLgMDNELGJ1CYS-8dlMGPIaowVfeda4nUj",
+          "date": "2018–2020",
+          "youtubeId": "TlzTNjD_t8I",
+          "primary": true
+        }
+      ]
     }
   }
 }

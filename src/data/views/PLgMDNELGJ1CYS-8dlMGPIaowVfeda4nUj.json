@@ -1,0 +1,344 @@
+{
+  "lectures": [
+    {
+      "id": "TlzTNjD_t8I",
+      "title": "Information Theory - Intro",
+      "views": 10000
+    },
+    {
+      "id": "qPPIN0QG7oo",
+      "title": "01 - What is information?",
+      "views": 14000
+    },
+    {
+      "id": "ZvJo3SNCYvs",
+      "title": "02 - How to model uncertainty?",
+      "views": 6800
+    },
+    {
+      "id": "Q38qfzVJTn8",
+      "title": "03 - Basic concepts of probability",
+      "views": 5400
+    },
+    {
+      "id": "_3l3TISeYPE",
+      "title": "04 - Estimates of random variables",
+      "views": 3400
+    },
+    {
+      "id": "QYYw7LoHZ5w",
+      "title": "05 - Limit theorems",
+      "views": 3000
+    },
+    {
+      "id": "qS2tSw93psQ",
+      "title": "Information Theory Review 1",
+      "views": 2200
+    },
+    {
+      "id": "MIX0Z3SV96k",
+      "title": "06 - Source model",
+      "views": 2300
+    },
+    {
+      "id": "vfHJvLHYIZ0",
+      "title": "07 - Motivating examples",
+      "views": 3000
+    },
+    {
+      "id": "FCqqr2i9Af8",
+      "title": "08 - A compression problem",
+      "views": 2000
+    },
+    {
+      "id": "uQj3g3Vpdsc",
+      "title": "09 - Shannon entropy",
+      "views": 3700
+    },
+    {
+      "id": "2fAHKx8S7Vk",
+      "title": "10 - Random hash",
+      "views": 1800
+    },
+    {
+      "id": "ik79al6B7io",
+      "title": "Review 2",
+      "views": 717
+    },
+    {
+      "id": "BanY2kCkNcM",
+      "title": "11 - Uncertainty and randomness",
+      "views": 1400
+    },
+    {
+      "id": "_qksHlLxP7Q",
+      "title": "12 - Total variation distance",
+      "views": 3300
+    },
+    {
+      "id": "blOxDgrpscI",
+      "title": "13 - Generating almost random bits",
+      "views": 937
+    },
+    {
+      "id": "oS-UpKzRn0c",
+      "title": "14 - Generating samples from a distribution using uniform randomness",
+      "views": 802
+    },
+    {
+      "id": "e9iq0b6G5DM",
+      "title": "15 - Typical sets and entropy",
+      "views": 2400
+    },
+    {
+      "id": "C0HFOgF66Ik",
+      "title": "Review 3",
+      "views": 393
+    },
+    {
+      "id": "ukR7og3Bvs8",
+      "title": "16 - Hypothesis testing and estimation",
+      "views": 1200
+    },
+    {
+      "id": "fi2_3c-c6GU",
+      "title": "17 - Examples",
+      "views": 669
+    },
+    {
+      "id": "G2w_-gAftKk",
+      "title": "18 - The log-likelihood ratio test",
+      "views": 1400
+    },
+    {
+      "id": "L1_yzoUAF6s",
+      "title": "19 - Kullback-Leibler divergence and Stein's lemma",
+      "views": 2000
+    },
+    {
+      "id": "tW5tNdaZIDI",
+      "title": "20 - Properties of KL divergence",
+      "views": 1300
+    },
+    {
+      "id": "yIOB6zyKG_w",
+      "title": "Review 4",
+      "views": 284
+    },
+    {
+      "id": "rcgPtN2lfDA",
+      "title": "21 - Information per coin-toss",
+      "views": 456
+    },
+    {
+      "id": "W-gwMDN-7b8",
+      "title": "22 - Multiple hypothesis testing",
+      "views": 1000
+    },
+    {
+      "id": "aTQqVRrN6RI",
+      "title": "23 - Error analysis of multiple hypothesis testing",
+      "views": 442
+    },
+    {
+      "id": "XWoqlyLxuBQ",
+      "title": "24 Mutual information",
+      "views": 1300
+    },
+    {
+      "id": "-ziYAhGBaSM",
+      "title": "25 Fano's inequality",
+      "views": 3900
+    },
+    {
+      "id": "hlCq1uMo63s",
+      "title": "26 Measures of information",
+      "views": 915
+    },
+    {
+      "id": "46ON-ZJD5r8",
+      "title": "27 Chain rules",
+      "views": 2300
+    },
+    {
+      "id": "36nIDIePu1A",
+      "title": "28 Shape of measures of information",
+      "views": 525
+    },
+    {
+      "id": "0KTFigrN6qc",
+      "title": "29 Data processing inequality",
+      "views": 2200
+    },
+    {
+      "id": "miWQSWINv6Q",
+      "title": "Midyear Review",
+      "views": 249
+    },
+    {
+      "id": "dVkpzS1wQzw",
+      "title": "30 Proof of Fano's inequality",
+      "views": 1200
+    },
+    {
+      "id": "4SEJNJkGU6Q",
+      "title": "31 Variational formulae",
+      "views": 652
+    },
+    {
+      "id": "CIgq2AFguBw",
+      "title": "32 Capacity as information radius",
+      "views": 389
+    },
+    {
+      "id": "vpQdoyazHaw",
+      "title": "33 Proof of Pinsker's inequality",
+      "views": 1000
+    },
+    {
+      "id": "CYI2ZES-eJw",
+      "title": "34 Continuity of entropy",
+      "views": 457
+    },
+    {
+      "id": "Ltplge7hdIY",
+      "title": "35 Lower bound for compression",
+      "views": 415
+    },
+    {
+      "id": "e6tiCEURWaQ",
+      "title": "Information Theory Review 7",
+      "views": 228
+    },
+    {
+      "id": "P7PfjTfy6Qg",
+      "title": "38 Lower bound for random number generation",
+      "views": 321
+    },
+    {
+      "id": "loddVScCCDE",
+      "title": "39 Strong converse",
+      "views": 337
+    },
+    {
+      "id": "U9que5mrRfk",
+      "title": "40 Lower bound for minmax statistical estimation",
+      "views": 625
+    },
+    {
+      "id": "EV6gzsAadu4",
+      "title": "41 Variable length source codes",
+      "views": 508
+    },
+    {
+      "id": "J-ul6ZWJvsQ",
+      "title": "Information Theory week 8 review",
+      "views": 182
+    },
+    {
+      "id": "iVKmnh3ACx8",
+      "title": "44 Huffman code",
+      "views": 1100
+    },
+    {
+      "id": "k1h-eOtQi6c",
+      "title": "42 Kraft's inequality",
+      "views": 2600
+    },
+    {
+      "id": "kznSSqQxyFc",
+      "title": "43 Shannon code",
+      "views": 942
+    },
+    {
+      "id": "JLdisgRenmI",
+      "title": "45 Minmax Redundancy",
+      "views": 312
+    },
+    {
+      "id": "6rmufaJbWc8",
+      "title": "46 Type based universal compression",
+      "views": 370
+    },
+    {
+      "id": "bDd-OgR0VyE",
+      "title": "Information Theory Week 9 Review",
+      "views": 171
+    },
+    {
+      "id": "9Ik48Ow25FA",
+      "title": "47 Arithmetic code",
+      "views": 453
+    },
+    {
+      "id": "2R8Vs_dA1OU",
+      "title": "48 Online probability assignment",
+      "views": 304
+    },
+    {
+      "id": "hwlZCkn3gcU",
+      "title": "49 Compression of databases: A scheme",
+      "views": 283
+    },
+    {
+      "id": "cEstjaMg4wA",
+      "title": "50 Compression of databases: A lower bound",
+      "views": 218
+    },
+    {
+      "id": "sVogAzy-x5w",
+      "title": "51 Repetition code",
+      "views": 891
+    },
+    {
+      "id": "W9tL19ZHg4E",
+      "title": "52 Channel capacity",
+      "views": 1000
+    },
+    {
+      "id": "JJelCqcMyXE",
+      "title": "53 Sphere packing bound for BSC",
+      "views": 1100
+    },
+    {
+      "id": "3APy2kG3VTM",
+      "title": "54 Random coding bound for BSC",
+      "views": 388
+    },
+    {
+      "id": "0U1tdPdFp3I",
+      "title": "55 Random coding bound for general channel",
+      "views": 300
+    },
+    {
+      "id": "oESnf-rRNv8",
+      "title": "56 Week 11 review",
+      "views": 187
+    },
+    {
+      "id": "YGw97MzT3Wk",
+      "title": "57 Converse proof for channel coding theorem",
+      "views": 893
+    },
+    {
+      "id": "J5-RciWZclQ",
+      "title": "58 Additive Gaussian Noise channel",
+      "views": 983
+    },
+    {
+      "id": "HoPIkKXzDj4",
+      "title": "59 Mutual information and differential entropy",
+      "views": 1000
+    },
+    {
+      "id": "ScqTzAeCANQ",
+      "title": "60 Channel coding theorem for Gaussan channel",
+      "views": 564
+    },
+    {
+      "id": "m6MeIQYgwKs",
+      "title": "61 Parallel channels and water-filling",
+      "views": 1100
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "TrcCbdWwCBc",
+      "title": "Multivariable functions | Multivariable calculus | Khan Academy",
+      "views": 1500000
+    },
+    {
+      "id": "iBgOoaeLUcM",
+      "title": "Representing points in 3d | Multivariable calculus | Khan Academy",
+      "views": 394000
+    },
+    {
+      "id": "2DRmfxkH_VI",
+      "title": "Introduction to 3d graphs | Multivariable calculus | Khan Academy",
+      "views": 443000
+    },
+    {
+      "id": "E9bAwP7iK80",
+      "title": "Interpreting graphs with slices | Multivariable calculus | Khan Academy",
+      "views": 237000
+    },
+    {
+      "id": "WsZj5Rb6do8",
+      "title": "Contour plots | Multivariable calculus | Khan Academy",
+      "views": 432000
+    },
+    {
+      "id": "bb4bSCjlFAw",
+      "title": "Parametric curves | Multivariable calculus | Khan Academy",
+      "views": 435000
+    },
+    {
+      "id": "345SnWfahhY",
+      "title": "Parametric surfaces | Multivariable calculus | Khan Academy",
+      "views": 279000
+    },
+    {
+      "id": "5FWAVmwMXWg",
+      "title": "Vector fields, introduction | Multivariable calculus | Khan Academy",
+      "views": 487000
+    },
+    {
+      "id": "VJ2ZDLQk3IQ",
+      "title": "Fluid flow and vector fields | Multivariable calculus | Khan Academy",
+      "views": 227000
+    },
+    {
+      "id": "Go3UvzbsSGo",
+      "title": "3d vector fields, introduction | Multivariable calculus | Khan Academy",
+      "views": 217000
+    },
+    {
+      "id": "ZiMYRBtDB2M",
+      "title": "3d vector field example | Multivariable calculus | Khan Academy",
+      "views": 144000
+    },
+    {
+      "id": "roRR6A3TozM",
+      "title": "Transformations, part 1 | Multivariable calculus | Khan Academy",
+      "views": 183000
+    },
+    {
+      "id": "Rkm0dLTYUuw",
+      "title": "Transformations, part 2 | Multivariable calculus | Khan Academy",
+      "views": 122000
+    },
+    {
+      "id": "U2SQXHMqclc",
+      "title": "Transformations, part 3 | Multivariable calculus | Khan Academy",
+      "views": 107000
+    },
+    {
+      "id": "AXqhWeUEtQU",
+      "title": "Partial derivatives, introduction",
+      "views": 1300000
+    },
+    {
+      "id": "dfvnCHqzK54",
+      "title": "Partial derivatives and graphs",
+      "views": 292000
+    },
+    {
+      "id": "kdMep5GUOBw",
+      "title": "Formal definition of partial derivatives",
+      "views": 277000
+    },
+    {
+      "id": "J08-L2buigM",
+      "title": "Symmetry of second partial derivatives",
+      "views": 238000
+    },
+    {
+      "id": "tIpKfDc295M",
+      "title": "Gradient",
+      "views": 1000000
+    },
+    {
+      "id": "_-02ze7tf08",
+      "title": "Gradient and graphs",
+      "views": 467000
+    },
+    {
+      "id": "N_ZRcLheNv0",
+      "title": "Directional derivative",
+      "views": 695000
+    },
+    {
+      "id": "4RBkIJPG6Yo",
+      "title": "Directional derivative, formal definition",
+      "views": 258000
+    },
+    {
+      "id": "4tdyIGIEtNU",
+      "title": "Directional derivatives and slope",
+      "views": 215000
+    },
+    {
+      "id": "TEB2z7ZlRAw",
+      "title": "Why the gradient is the direction of steepest ascent",
+      "views": 354000
+    },
+    {
+      "id": "ZTbTYEMvo10",
+      "title": "Gradient and contour maps",
+      "views": 232000
+    },
+    {
+      "id": "sBldw95xMD4",
+      "title": "Position vector valued functions | Multivariable Calculus | Khan Academy",
+      "views": 296000
+    },
+    {
+      "id": "E9Q_Lc0g1xE",
+      "title": "Derivative of a position vector valued function | Multivariable Calculus | Khan Academy",
+      "views": 289000
+    },
+    {
+      "id": "FYMn61HLw1k",
+      "title": "Differential of a vector valued function | Multivariable Calculus | Khan Academy",
+      "views": 214000
+    },
+    {
+      "id": "vcwvzUVLPw0",
+      "title": "Vector valued function derivative example | Multivariable Calculus | Khan Academy",
+      "views": 208000
+    },
+    {
+      "id": "NO3AqAaAE6o",
+      "title": "Multivariable chain rule",
+      "views": 326000
+    },
+    {
+      "id": "hFvBZf-Jx28",
+      "title": "Multivariable chain rule intuition",
+      "views": 131000
+    },
+    {
+      "id": "qZlBjnC3iro",
+      "title": "Vector form of the multivariable chain rule",
+      "views": 90000
+    },
+    {
+      "id": "m2mW2FQJgEE",
+      "title": "Multivariable chain rule and directional derivatives",
+      "views": 69000
+    },
+    {
+      "id": "5mMLaK1ByZc",
+      "title": "More formal treatment of multivariable chain rule",
+      "views": 64000
+    },
+    {
+      "id": "ugtUGhBSeE0",
+      "title": "Curvature intuition",
+      "views": 184000
+    },
+    {
+      "id": "gspjhwSNMWs",
+      "title": "Curvature formula, part 1",
+      "views": 261000
+    },
+    {
+      "id": "Q-BxnC-uWQo",
+      "title": "Curvature formula, part 2",
+      "views": 122000
+    },
+    {
+      "id": "8V4_4M90RfA",
+      "title": "Curvature formula, part 3",
+      "views": 93000
+    },
+    {
+      "id": "WmdN_iPhxAI",
+      "title": "Curvature formula, part 4",
+      "views": 69000
+    },
+    {
+      "id": "8aHUrjgF6s0",
+      "title": "Curvature formula, part 5",
+      "views": 58000
+    },
+    {
+      "id": "AE8NVTyESd8",
+      "title": "Curvature of a helix, part 1",
+      "views": 61000
+    },
+    {
+      "id": "kjNgXVZ1aZ4",
+      "title": "Curvature of a helix, part 2",
+      "views": 36000
+    },
+    {
+      "id": "biK6_fWLDRc",
+      "title": "Curvature of a cycloid",
+      "views": 53000
+    },
+    {
+      "id": "ln43wOC3iC4",
+      "title": "Computing the partial derivative of a vector-valued function",
+      "views": 47000
+    },
+    {
+      "id": "e7Nel0UoXR8",
+      "title": "Partial derivative of a parametric surface, part 1",
+      "views": 47000
+    },
+    {
+      "id": "lz8L-0SoMo0",
+      "title": "Partial derivative of a parametric surface, part 2",
+      "views": 30000
+    },
+    {
+      "id": "ar9SeJpbPI8",
+      "title": "Partial derivatives of vector fields",
+      "views": 65000
+    },
+    {
+      "id": "VhtFSSq3lXo",
+      "title": "Partial derivatives of vector fields, component by component",
+      "views": 40000
+    },
+    {
+      "id": "c0MR-vWiUPU",
+      "title": "Divergence intuition, part 1",
+      "views": 214000
+    },
+    {
+      "id": "Yeie-aJT2eU",
+      "title": "Divergence intuition, part 2",
+      "views": 117000
+    },
+    {
+      "id": "uOX7SijjH9w",
+      "title": "Divergence formula, part 1",
+      "views": 91000
+    },
+    {
+      "id": "TKlpZ0UUJTQ",
+      "title": "Divergence formula, part 2",
+      "views": 71000
+    },
+    {
+      "id": "AlXVrAOls-8",
+      "title": "Divergence example",
+      "views": 67000
+    },
+    {
+      "id": "TyYlBXNETZE",
+      "title": "Divergence notation",
+      "views": 50000
+    },
+    {
+      "id": "eEwZeY51mT0",
+      "title": "2d curl intuition",
+      "views": 85000
+    },
+    {
+      "id": "qF9Kz37Ksq0",
+      "title": "2d curl formula",
+      "views": 79000
+    },
+    {
+      "id": "cAAEMza4GvQ",
+      "title": "2d curl example",
+      "views": 47000
+    },
+    {
+      "id": "szLkF7isbI0",
+      "title": "2d curl nuance",
+      "views": 39000
+    },
+    {
+      "id": "h5BmWo5_sc8",
+      "title": "Describing rotation in 3d with a vector",
+      "views": 158000
+    },
+    {
+      "id": "erMopRd-MXg",
+      "title": "3d curl intuition, part 1",
+      "views": 85000
+    },
+    {
+      "id": "4yzV8m8X3Kk",
+      "title": "3d curl intuition, part 2",
+      "views": 56000
+    },
+    {
+      "id": "a_49iMi10kg",
+      "title": "3d curl formula, part 1",
+      "views": 49000
+    },
+    {
+      "id": "0k4tWeI3R0Y",
+      "title": "3d curl formula, part 2",
+      "views": 37000
+    },
+    {
+      "id": "GRuEOLcdWjo",
+      "title": "3d curl computation example",
+      "views": 32000
+    },
+    {
+      "id": "EW08rD-GFh0",
+      "title": "Laplacian intuition",
+      "views": 374000
+    },
+    {
+      "id": "XbCvGRjjzgg",
+      "title": "Laplacian computation example",
+      "views": 125000
+    },
+    {
+      "id": "6cMn1F6bNPU",
+      "title": "Explicit Laplacian formula",
+      "views": 47000
+    },
+    {
+      "id": "JQSC0lCPG24",
+      "title": "Harmonic Functions",
+      "views": 164000
+    },
+    {
+      "id": "VmfTXVG9S0U",
+      "title": "Jacobian prerequisite knowledge",
+      "views": 270000
+    },
+    {
+      "id": "Vnga_psnCAo",
+      "title": "Local linearity for a multivariable function",
+      "views": 91000
+    },
+    {
+      "id": "bohL918kXQk",
+      "title": "The Jacobian matrix",
+      "views": 606000
+    },
+    {
+      "id": "CGbBbH1e7Yw",
+      "title": "Computing a Jacobian matrix",
+      "views": 147000
+    },
+    {
+      "id": "p46QWyHQE6M",
+      "title": "The Jacobian Determinant",
+      "views": 238000
+    },
+    {
+      "id": "cHNT7_F8m1Y",
+      "title": "What is a tangent plane",
+      "views": 162000
+    },
+    {
+      "id": "H2hOwKszKRo",
+      "title": "Controlling a plane in space",
+      "views": 63000
+    },
+    {
+      "id": "QL6qb1h65hg",
+      "title": "Computing a tangent plane",
+      "views": 118000
+    },
+    {
+      "id": "o7_zS7Bx2VA",
+      "title": "Local linearization",
+      "views": 63000
+    },
+    {
+      "id": "80bJA_tSbo4",
+      "title": "What do quadratic approximations look like",
+      "views": 46000
+    },
+    {
+      "id": "UV5yj5A3QIM",
+      "title": "Quadratic approximation formula, part 1",
+      "views": 91000
+    },
+    {
+      "id": "szHMvVXxp-g",
+      "title": "Quadratic approximation formula, part 2",
+      "views": 44000
+    },
+    {
+      "id": "fW3snxnCPEY",
+      "title": "Quadratic approximation example",
+      "views": 50000
+    },
+    {
+      "id": "LbBcuZukCAw",
+      "title": "The Hessian matrix | Multivariable calculus | Khan Academy",
+      "views": 535000
+    },
+    {
+      "id": "0yEiCV-xEWQ",
+      "title": "Expressing a quadratic form with a matrix",
+      "views": 430000
+    },
+    {
+      "id": "ClFrIg0PpnM",
+      "title": "Vector form of multivariable quadratic approximation",
+      "views": 77000
+    },
+    {
+      "id": "ux7EQ3ip2DU",
+      "title": "Multivariable maxima and minima",
+      "views": 244000
+    },
+    {
+      "id": "8aAU4r_pUUU",
+      "title": "Saddle points",
+      "views": 237000
+    },
+    {
+      "id": "nRJM4mY-Pq0",
+      "title": "Warm up to the second partial derivative test",
+      "views": 87000
+    },
+    {
+      "id": "m1FhUjMMv30",
+      "title": "Second partial derivative test",
+      "views": 103000
+    },
+    {
+      "id": "sJo7D74PAak",
+      "title": "Second partial derivative test intuition",
+      "views": 98000
+    },
+    {
+      "id": "shWXeUn5BHk",
+      "title": "Second partial derivative test example, part 1",
+      "views": 56000
+    },
+    {
+      "id": "TqslX-bUTD8",
+      "title": "Second partial derivative test example, part 2",
+      "views": 43000
+    },
+    {
+      "id": "vwUV2IDLP8Q",
+      "title": "Constrained optimization introduction",
+      "views": 434000
+    },
+    {
+      "id": "yuqB-d5MjZA",
+      "title": "Lagrange multipliers, using tangency to solve constrained optimization",
+      "views": 798000
+    },
+    {
+      "id": "aep6lwPqm6I",
+      "title": "Finishing the intro lagrange multiplier example",
+      "views": 274000
+    },
+    {
+      "id": "BSKtQcLQLWU",
+      "title": "Lagrange multiplier example, part 1",
+      "views": 273000
+    },
+    {
+      "id": "5gCx5YCmXbI",
+      "title": "Lagrange multiplier example, part 2",
+      "views": 136000
+    },
+    {
+      "id": "hQ4UNu1P2kw",
+      "title": "The Lagrangian",
+      "views": 540000
+    },
+    {
+      "id": "m-G3K2GPmEQ",
+      "title": "Meaning of Lagrange multiplier",
+      "views": 263000
+    },
+    {
+      "id": "b9B2FZ5cqbM",
+      "title": "Proof for the meaning of Lagrange multipliers | Multivariable Calculus | Khan Academy",
+      "views": 82000
+    },
+    {
+      "id": "_60sKaoRmhU",
+      "title": "Introduction to the line integral | Multivariable Calculus | Khan Academy",
+      "views": 1000000
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "lectures": [
+    {
+      "id": "YrHlHbtiSM0",
+      "title": "Intro: A New Way to Start Linear Algebra",
+      "views": 807000
+    },
+    {
+      "id": "azzrfdysfI0",
+      "title": "Part 1: The Column Space of a Matrix",
+      "views": 225000
+    },
+    {
+      "id": "rwLOfdfc4dw",
+      "title": "Part 2: The Big Picture of Linear Algebra",
+      "views": 99000
+    },
+    {
+      "id": "j8hEnyOiwhw",
+      "title": "Part 3: Orthogonal Vectors",
+      "views": 57000
+    },
+    {
+      "id": "GyC3gl6weYo",
+      "title": "Part 4: Eigenvalues and Eigenvectors",
+      "views": 47000
+    },
+    {
+      "id": "IHO7_n7Y09s",
+      "title": "Part 5: Singular Values and Singular Vectors",
+      "views": 54000
+    },
+    {
+      "id": "JFIaRtKNP2E",
+      "title": "Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination",
+      "views": 83000
+    },
+    {
+      "id": "nTwRjQ4xqUc",
+      "title": "Five Factorizations of a Matrix",
+      "views": 116000
+    },
+    {
+      "id": "jY-Mu6XQ3NU",
+      "title": "The Four Fundamental Subspaces and Least Squares",
+      "views": 45000
+    },
+    {
+      "id": "PrErxYzSANo",
+      "title": "Elimination and Factorization A = CR",
+      "views": 19000
+    }
+  ]
+}

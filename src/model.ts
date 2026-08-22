@@ -307,42 +307,50 @@ export function setHidePrereqs(v: boolean) {
   hidePrereqs = v;
 }
 
-/** Schools hidden by the settings filter — synced from App state before each render. */
-let hiddenSchools: ReadonlySet<string> = new Set();
+/**
+ * Schools the filter is narrowed to — synced from App state before each render.
+ * Empty means no narrowing, so the map shows everything.
+ */
+let selectedSchools: ReadonlySet<string> = new Set();
 
-export function setHiddenSchools(schools: ReadonlySet<string>) {
-  hiddenSchools = schools;
+export function setSelectedSchools(schools: ReadonlySet<string>) {
+  selectedSchools = schools;
 }
 
-/** Every university that appears in the data, alphabetical. */
-export function allSchools(): string[] {
-  const schools = new Set<string>();
-  for (const c of Object.values(map.courses)) if (c.university) schools.add(c.university);
-  return [...schools].sort();
+/** Course tally per university, ignoring the filter, most courses first. */
+function schoolTally(): [string, number][] {
+  const counts = new Map<string, number>();
+  for (const c of Object.values(map.courses)) {
+    if (c.university) counts.set(c.university, (counts.get(c.university) ?? 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 
 /**
- * Universities the landing page name-drops, most courses first. Filtered schools
- * are left out — naming a school whose courses the map is currently hiding would
- * promise something the visitor can't see.
+ * The schools the filter offers: the ones with a mark of their own, which is the
+ * same set the landing page names. A school without a logo file is on the map but
+ * not in the filter — there are dozens of them, and a list that long is no filter.
  */
-export function schoolsByCourseCount(): string[] {
-  const counts = new Map<string, number>();
-  for (const c of Object.values(map.courses)) {
-    if (c.university && courseVisible(c)) {
-      counts.set(c.university, (counts.get(c.university) ?? 0) + 1);
-    }
-  }
-  return [...counts.entries()]
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .map(([school]) => school);
+export function filterSchools(): { school: string; count: number }[] {
+  return schoolTally()
+    .filter(([school]) => wordmarkFor(school))
+    .map(([school, count]) => ({ school, count }));
 }
 
-/** Levels hidden by the settings filter — synced from App state before each render. */
-let hiddenLevels: ReadonlySet<string> = new Set();
+/**
+ * Universities the landing page name-drops, most courses first. The wall states
+ * which schools the map covers, which stays true whatever the visitor has picked,
+ * so unlike the map itself it does not answer to the filter.
+ */
+export function schoolsByCourseCount(): string[] {
+  return schoolTally().map(([school]) => school);
+}
 
-export function setHiddenLevels(levels: ReadonlySet<string>) {
-  hiddenLevels = levels;
+/** Levels the filter is narrowed to — empty means every level. */
+let selectedLevels: ReadonlySet<string> = new Set();
+
+export function setSelectedLevels(levels: ReadonlySet<string>) {
+  selectedLevels = levels;
 }
 
 /** Display names for the level filter and badges, in course order. */
@@ -355,11 +363,15 @@ export function levelLabel(level: Level): string {
   return LEVELS.find((l) => l.id === level)?.label ?? level;
 }
 
-/** Courses with no school or no level are never hidden — you can't filter on absent data. */
+/**
+ * Picking a school means asking for that school, so a course from anywhere else
+ * goes — including one whose school the filter never listed, and one carrying no
+ * school at all. Same for level. Pick nothing and nothing is narrowed.
+ */
 function courseVisible(c: Course): boolean {
   return (
-    (!c.university || !hiddenSchools.has(c.university)) &&
-    (!c.level || !hiddenLevels.has(c.level))
+    (selectedSchools.size === 0 || (!!c.university && selectedSchools.has(c.university))) &&
+    (selectedLevels.size === 0 || (!!c.level && selectedLevels.has(c.level)))
   );
 }
 
@@ -379,7 +391,7 @@ export function totalCourseCount(groupId: string): number {
  */
 function groupFilteredOut(groupId: string): boolean {
   return (
-    (hiddenSchools.size > 0 || hiddenLevels.size > 0) &&
+    (selectedSchools.size > 0 || selectedLevels.size > 0) &&
     courseCount(groupId) === 0 &&
     totalCourseCount(groupId) > 0
   );
@@ -439,10 +451,13 @@ export function pathwaySchools(groupId: string): string[] {
 export function ghostsIn(groupId: string): Ghost[] {
   // On a pathway the ghosts *are* the content, so "hide prerequisites" must not empty the page
   if (hidePrereqs && !isPathway(groupId)) return [];
+  // Nor may the school filter: a pathway is a route someone laid out, and a route
+  // with its middle steps missing is broken rather than shorter
+  const pathway = isPathway(groupId);
   return map.ghosts.filter((g) => {
     if (g.inGroup !== groupId) return false;
     const course = map.courses[g.node];
-    if (course) return courseVisible(course);
+    if (course) return pathway || courseVisible(course);
     return map.groups[g.node] !== undefined && !groupFilteredOut(g.node);
   });
 }

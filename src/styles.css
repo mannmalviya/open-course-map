@@ -458,6 +458,37 @@ body {
   outline-offset: 2px;
 }
 
+/* How many courses a school would leave you with, pushed to the row's far edge */
+.settings-count {
+  margin-left: auto;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+/* Only drawn while something is picked, so it is always a way back to the whole map */
+.settings-clear {
+  margin-top: 8px;
+  padding: 6px 8px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--accent);
+  background: none;
+  border: 0;
+  border-radius: 7px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.settings-clear:hover {
+  background: var(--hover-bg);
+}
+
+/* A narrowed map looks like an empty one, so the funnel says it was your doing */
+.settings-button.filtering {
+  color: var(--accent);
+}
+
 /* On/off view options read better as switches than as ticks */
 .switch-row {
   justify-content: space-between;

@@ -4,8 +4,8 @@ import { CoursePage } from './CoursePage';
 import { Landing } from './Landing';
 import { Pathways } from './Pathways';
 import {
-  allSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, PATHWAYS_GROUP,
-  routeHash, setCompactCourses, setHiddenLevels, setHiddenSchools, setHidePrereqs, type Route,
+  filterSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, PATHWAYS_GROUP,
+  routeHash, setCompactCourses, setHidePrereqs, setSelectedLevels, setSelectedSchools, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
@@ -32,44 +32,25 @@ function initialTheme(): Theme {
   return saved === 'dark' ? 'dark' : 'light';
 }
 
-/** Schools that start hidden the first time they appear; users can re-enable them in Settings. */
-const DEFAULT_HIDDEN = ['UC Santa Cruz'];
-
-/** Stored as the *hidden* set so schools added to the data later default to visible. */
-function initialHidden(): ReadonlySet<string> {
-  try {
-    const saved: unknown = JSON.parse(localStorage.getItem('ocm-hidden-schools') ?? '[]');
-    const known = new Set(allSchools());
-    const hidden = new Set(
-      Array.isArray(saved)
-        ? saved.filter((s): s is string => typeof s === 'string' && known.has(s))
-        : []
-    );
-    // Seed default-hidden schools exactly once, so re-enabling them later sticks
-    const seededRaw: unknown = JSON.parse(localStorage.getItem('ocm-seeded-hidden') ?? '[]');
-    const seeded = Array.isArray(seededRaw)
-      ? seededRaw.filter((s): s is string => typeof s === 'string')
-      : [];
-    for (const s of DEFAULT_HIDDEN) {
-      if (known.has(s) && !seeded.includes(s)) {
-        hidden.add(s);
-        seeded.push(s);
-      }
-    }
-    localStorage.setItem('ocm-seeded-hidden', JSON.stringify(seeded));
-    return hidden;
-  } catch {
-    return new Set(DEFAULT_HIDDEN);
+/**
+ * The filter used to store what to hide; it now stores what to keep, so the old
+ * keys would read backwards — someone who had hidden a school would come back to
+ * a map showing only that school. Drop them rather than try to translate.
+ */
+function clearLegacyFilters() {
+  for (const key of ['ocm-hidden-schools', 'ocm-seeded-hidden', 'ocm-hidden-levels']) {
+    localStorage.removeItem(key);
   }
 }
 
-/** Stored as the *hidden* set, matching the school filter. */
-function initialHiddenLevels(): ReadonlySet<string> {
+/** Stored as the *selected* set — empty, the usual case, means no narrowing at all. */
+function initialSelection(key: string, known: Set<string>): ReadonlySet<string> {
   try {
-    const saved: unknown = JSON.parse(localStorage.getItem('ocm-hidden-levels') ?? '[]');
-    const known = new Set(LEVELS.map((l) => l.id as string));
+    const saved: unknown = JSON.parse(localStorage.getItem(key) ?? '[]');
     return new Set(
-      Array.isArray(saved) ? saved.filter((s): s is string => typeof s === 'string' && known.has(s)) : []
+      Array.isArray(saved)
+        ? saved.filter((s): s is string => typeof s === 'string' && known.has(s))
+        : []
     );
   } catch {
     return new Set();
@@ -80,8 +61,13 @@ export default function App() {
   const [route, setRoute] = useState<Route>(parseHash);
   const [theme, setTheme] = useState<Theme>(initialTheme);
   const [background, setBackground] = useState<Background>(initialBackground);
-  const [hidden, setHidden] = useState<ReadonlySet<string>>(initialHidden);
-  const [hiddenLevels, setHiddenLevelsState] = useState<ReadonlySet<string>>(initialHiddenLevels);
+  const [schools, setSchools] = useState<ReadonlySet<string>>(() => {
+    clearLegacyFilters();
+    return initialSelection('ocm-schools', new Set(filterSchools().map((s) => s.school)));
+  });
+  const [levels, setLevels] = useState<ReadonlySet<string>>(() =>
+    initialSelection('ocm-levels', new Set(LEVELS.map((l) => l.id as string)))
+  );
   const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
   const [noPrereqs, setNoPrereqs] = useState(() => localStorage.getItem('ocm-hide-prereqs') === '1');
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -92,8 +78,8 @@ export default function App() {
   });
 
   // Sync the model's filter before children render so the whole map reflects it
-  setHiddenSchools(hidden);
-  setHiddenLevels(hiddenLevels);
+  setSelectedSchools(schools);
+  setSelectedLevels(levels);
   setCompactCourses(compact);
   setHidePrereqs(noPrereqs);
 
@@ -126,12 +112,12 @@ export default function App() {
   }, [background]);
 
   useEffect(() => {
-    localStorage.setItem('ocm-hidden-schools', JSON.stringify([...hidden]));
-  }, [hidden]);
+    localStorage.setItem('ocm-schools', JSON.stringify([...schools]));
+  }, [schools]);
 
   useEffect(() => {
-    localStorage.setItem('ocm-hidden-levels', JSON.stringify([...hiddenLevels]));
-  }, [hiddenLevels]);
+    localStorage.setItem('ocm-levels', JSON.stringify([...levels]));
+  }, [levels]);
 
   useEffect(() => {
     localStorage.setItem('ocm-compact', compact ? '1' : '0');
@@ -173,7 +159,7 @@ export default function App() {
   }, [viewOpen]);
 
   const toggleSchool = (school: string) => {
-    setHidden((prev) => {
+    setSchools((prev) => {
       const next = new Set(prev);
       if (next.has(school)) next.delete(school);
       else next.add(school);
@@ -182,7 +168,7 @@ export default function App() {
   };
 
   const toggleLevel = (level: string) => {
-    setHiddenLevelsState((prev) => {
+    setLevels((prev) => {
       const next = new Set(prev);
       if (next.has(level)) next.delete(level);
       else next.add(level);
@@ -209,6 +195,9 @@ export default function App() {
     if (onPathway && map.courses[id]) navigate(route.groupId, id);
     else jumpToNode(id);
   };
+
+  // Picking nothing is the resting state, so anything picked means the map is narrowed
+  const filtering = schools.size > 0 || levels.size > 0;
 
   const chain = groupChain(route.groupId);
   // Both top levels are named by the tabs, so the trail only carries what sits under them
@@ -296,7 +285,7 @@ export default function App() {
           {stars !== null && <span className="gh-count">{formatStars(stars)}</span>}
         </a>
         <button
-          className="settings-button"
+          className={'settings-button' + (filtering ? ' filtering' : '')}
           onClick={() => setSettingsOpen((o) => !o)}
           title="Settings"
           aria-label="Settings"
@@ -348,14 +337,15 @@ export default function App() {
         <div className="island settings-pop">
           <div className="settings-title">Filters</div>
           <div className="settings-section">Schools</div>
-          {allSchools().map((school) => (
+          {filterSchools().map(({ school, count }) => (
             <label key={school} className="settings-row">
               <input
                 type="checkbox"
-                checked={!hidden.has(school)}
+                checked={schools.has(school)}
                 onChange={() => toggleSchool(school)}
               />
               {school}
+              <span className="settings-count">{count}</span>
             </label>
           ))}
           <div className="settings-section">Level</div>
@@ -363,12 +353,23 @@ export default function App() {
             <label key={level.id} className="settings-row">
               <input
                 type="checkbox"
-                checked={!hiddenLevels.has(level.id)}
+                checked={levels.has(level.id)}
                 onChange={() => toggleLevel(level.id)}
               />
               {level.label}
             </label>
           ))}
+          {filtering && (
+            <button
+              className="settings-clear"
+              onClick={() => {
+                setSchools(new Set());
+                setLevels(new Set());
+              }}
+            >
+              Clear filters
+            </button>
+          )}
         </div>
       )}
 

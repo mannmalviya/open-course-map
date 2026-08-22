@@ -1,3 +1,4 @@
+import { useEffect, useState } from 'react';
 import type { Course, Gap, Ghost, Group, Rect } from './types';
 import {
   COURSE_W, COURSE_H, COURSE_H_COMPACT, GAP_W,
@@ -231,11 +232,12 @@ function MiniMap({ groupId, x, y, w, h }: MiniMapProps) {
 const COLLAGE_SALT = String(Math.random());
 
 /**
- * `limit` course thumbnails from a group's subtree, picked at random per page
- * load. Ordering by a hash keeps the pick a pure function of what is visible,
+ * Every course thumbnail in a group's subtree, shuffled fresh on each page
+ * load. Ordering by a hash keeps the order a pure function of what is visible,
  * so hiding a school reshuffles honestly instead of leaving a stale cache.
+ * A collage shows the first few and cycles through the rest.
  */
-function collectThumbs(groupId: string, limit = 4): string[] {
+function collectThumbs(groupId: string): string[] {
   const found: string[] = [];
   const walk = (gid: string) => {
     for (const id of coursesIn(gid)) {
@@ -247,33 +249,79 @@ function collectThumbs(groupId: string, limit = 4): string[] {
   walk(groupId);
   return found
     .sort((a, b) => seedFor(COLLAGE_SALT + a) - seedFor(COLLAGE_SALT + b))
-    .slice(0, limit)
     .map((id) => thumbUrl(primaryVersion(map.courses[id])) as string);
 }
 
+/** How long a cell holds before the next one in the tile is swapped out. */
+const COLLAGE_SWAP_MS = 3800;
+
+/** How many thumbnails a collage shows at once. */
+const COLLAGE_CELLS = 4;
+
+/**
+ * Which pool entry cell `i` shows at tick `t`. Cells take turns, one per tick,
+ * and each swap pulls the next unseen thumbnail — so a tile walks its whole
+ * subject rather than reshuffling the same handful.
+ */
+function slotAt(i: number, t: number, cells: number, poolLen: number): number {
+  if (t < i + 1) return i;
+  const swap = i + 1 + cells * Math.floor((t - i - 1) / cells);
+  return (cells + swap - 1) % poolLen;
+}
+
 interface CollageProps {
-  thumbs: string[];
+  /** Every thumbnail in the subject, in shuffled order */
+  pool: string[];
   x: number;
   y: number;
   w: number;
   h: number;
   seed: number;
+  /** Landing tiles cycle through their pool; boxes on the map hold still */
+  rotate?: boolean;
 }
 
 /** Spotify-playlist-style grid of course thumbnails, muted to sit with the sketch look. */
-function Collage({ thumbs, x, y, w, h, seed }: CollageProps) {
+function Collage({ pool, x, y, w, h, seed, rotate }: CollageProps) {
+  const n = Math.min(pool.length, COLLAGE_CELLS);
+  const [tick, setTick] = useState(0);
+  // Nothing to cycle to when the subject has no more courses than it can show
+  const cycles = Boolean(rotate) && pool.length > n;
+
+  useEffect(() => {
+    if (!cycles) return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    // Tiles are offset from one another so the band never turns over all at once
+    let interval: number | undefined;
+    const start = window.setTimeout(() => {
+      interval = window.setInterval(() => {
+        // A hidden tab would otherwise chew through the pool with nobody watching
+        if (!document.hidden) setTick((t) => t + 1);
+      }, COLLAGE_SWAP_MS);
+    }, seed % COLLAGE_SWAP_MS);
+    return () => {
+      window.clearTimeout(start);
+      if (interval !== undefined) window.clearInterval(interval);
+    };
+  }, [cycles, seed]);
+
+  const shown = Array.from({ length: n }, (_, i) => pool[slotAt(i, tick, n, pool.length)]);
+  // The cell mid-swap keeps its old thumbnail underneath for the length of the fade
+  const swapped = tick > 0 ? (tick - 1) % n : -1;
+  const outgoing = swapped >= 0 ? pool[slotAt(swapped, tick - 1, n, pool.length)] : undefined;
+
   const gap = 6;
   const cw = (w - gap) / 2;
   const ch = (h - gap) / 2;
   let cells: Rect[];
-  if (thumbs.length === 1) {
+  if (n === 1) {
     cells = [{ x, y, w, h }];
-  } else if (thumbs.length === 2) {
+  } else if (n === 2) {
     cells = [
       { x, y, w: cw, h },
       { x: x + cw + gap, y, w: cw, h },
     ];
-  } else if (thumbs.length === 3) {
+  } else if (n === 3) {
     cells = [
       { x, y, w: cw, h: ch },
       { x: x + cw + gap, y, w: cw, h: ch },
@@ -290,14 +338,28 @@ function Collage({ thumbs, x, y, w, h, seed }: CollageProps) {
 
   return (
     <g style={{ pointerEvents: 'none' }}>
-      {thumbs.map((t, i) => (
+      {shown.map((t, i) => (
         <g key={i}>
-          <image
-            className="collage-img"
-            href={t}
-            x={cells[i].x} y={cells[i].y} width={cells[i].w} height={cells[i].h}
-            preserveAspectRatio="xMidYMid slice"
-          />
+          {/* The muting lives on the cell, not the image: the outgoing frame stays
+              underneath after a swap, and a translucent incoming one would let it
+              ghost through for good. */}
+          <g className="collage-cell">
+            {i === swapped && outgoing !== undefined && outgoing !== t && (
+              <image
+                href={outgoing}
+                x={cells[i].x} y={cells[i].y} width={cells[i].w} height={cells[i].h}
+                preserveAspectRatio="xMidYMid slice"
+              />
+            )}
+            <image
+              // keyed on the thumbnail so a swap remounts the image and replays the fade
+              key={t}
+              className={i === swapped ? 'collage-in' : undefined}
+              href={t}
+              x={cells[i].x} y={cells[i].y} width={cells[i].w} height={cells[i].h}
+              preserveAspectRatio="xMidYMid slice"
+            />
+          </g>
           <SketchRect
             x={cells[i].x} y={cells[i].y} w={cells[i].w} h={cells[i].h}
             seed={seed + 3 + i} strokeWidth={1}
@@ -312,17 +374,19 @@ interface GroupNodeProps {
   id: string;
   group: Group;
   onOpen: (id: string) => void;
+  /** Cycle the preview collage — the landing band does, the map does not */
+  rotate?: boolean;
 }
 
-export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
+export function GroupNode({ id, group, onOpen, rotate }: GroupNodeProps) {
   if (!group.pos || !group.size) return null;
   const { x, y } = group.pos;
   const { w, h } = group.size;
   const seed = seedFor(id);
   const count = courseCount(id);
   const countLabel = `${count} course${count === 1 ? '' : 's'}`;
-  const thumbs = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
-  const hasPreview = thumbs.length > 0 || pageRects(id).length > 0;
+  const pool = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
+  const hasPreview = pool.length > 0 || pageRects(id).length > 0;
 
   return (
     <g
@@ -331,8 +395,8 @@ export function GroupNode({ id, group, onOpen }: GroupNodeProps) {
     >
       <SketchRect x={x} y={y} w={w} h={h} seed={seed} fill="var(--group-fill)" strokeWidth={1.8} />
       <SketchText x={x + w / 2} y={y - 14} lines={[group.title]} size={22} />
-      {thumbs.length > 0 ? (
-        <Collage thumbs={thumbs} x={x + 14} y={y + 14} w={w - 28} h={h - 52} seed={seed} />
+      {pool.length > 0 ? (
+        <Collage pool={pool} rotate={rotate} x={x + 14} y={y + 14} w={w - 28} h={h - 52} seed={seed} />
       ) : hasPreview ? (
         <MiniMap groupId={id} x={x + 14} y={y + 14} w={w - 28} h={h - 52} />
       ) : (

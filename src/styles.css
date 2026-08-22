@@ -127,15 +127,34 @@ body {
 }
 
 /* Collage thumbnails sit muted in the sketch look; hover restores their color */
-.collage-img {
+.collage-cell {
   filter: grayscale(0.75);
   opacity: 0.9;
   transition: filter 0.3s ease, opacity 0.3s ease;
 }
 
-.group-node:hover .collage-img {
+.group-node:hover .collage-cell {
   filter: none;
   opacity: 1;
+}
+
+/* A landing tile swaps one thumbnail at a time. The incoming image fades up
+   over the outgoing one, which is still drawn underneath, so the cell reads as
+   a crossfade instead of a flash of the card behind it. */
+@keyframes collage-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.collage-in {
+  animation: collage-in 700ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .collage-in {
+    animation: none;
+  }
 }
 
 /* Ghost references highlight on hover — the accent flows into the sketch via --ghost-ink */

@@ -79,7 +79,7 @@ export function Landing({ background, onOpen }: LandingProps) {
               >
                 {/* Each tile draws its group at the origin, wherever the map keeps it */}
                 <g transform={`translate(${-(group.pos?.x ?? 0)} ${-(group.pos?.y ?? 0)})`}>
-                  <GroupNode id={id} group={group} onOpen={onOpen} />
+                  <GroupNode id={id} group={group} onOpen={onOpen} rotate />
                 </g>
               </svg>
             );

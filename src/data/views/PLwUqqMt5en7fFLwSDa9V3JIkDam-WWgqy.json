@@ -1,0 +1,274 @@
+{
+  "lectures": [
+    {
+      "id": "LwHhMu_7ZB4",
+      "title": "Theories of Deep Learning - Vardan Papyan & David Donoho - Lecture 10",
+      "views": 4900
+    },
+    {
+      "id": "zSm55CZDwq0",
+      "title": "Stats 385 - Theories of Deep Learning - Bruno Olshausen - Lecture 9",
+      "views": 1600
+    },
+    {
+      "id": "rBxoRQODJdM",
+      "title": "Stats 385 - Theories of Deep Learning - Joan Bruna - Lecture 8",
+      "views": 1300
+    },
+    {
+      "id": "idiaK-IBdcM",
+      "title": "Stats 385 - Theories of Deep Learning - Jeffrey Pennington - Lecture 7",
+      "views": 2000
+    },
+    {
+      "id": "k4zz_MX2Ero",
+      "title": "Stats 385 - Theories of Deep Learning - Zaid Harchaoui - Lecture 6",
+      "views": 1600
+    },
+    {
+      "id": "4yLCuZnhkdI",
+      "title": "Stats 385 - Theories of Deep Learning - Tomaso Poggio - Lecture 5",
+      "views": 4700
+    },
+    {
+      "id": "uIVPo5eyhE0",
+      "title": "Stats 385 - Theories of Deep Learning - Ankit Patel - Lecture 4",
+      "views": 3500
+    },
+    {
+      "id": "oCohnBbmpLA",
+      "title": "Stats 385 - Theories of Deep Learning - Helmut Bölcskei - Lecture 3",
+      "views": 3700
+    },
+    {
+      "id": "VsBFt_-h5QA",
+      "title": "Stats385  - Theories of Deep Learning - David Donoho - Lecture 2",
+      "views": 5700
+    },
+    {
+      "id": "KrTqxmS1-L4",
+      "title": "Stats385 - Theories of Deep Learning - David Donoho - Lecture 1",
+      "views": 10000
+    },
+    {
+      "id": "kCj51pTQPKI",
+      "title": "Understanding deep learning requires rethinking generalization",
+      "views": 8700
+    },
+    {
+      "id": "jWVZnkTfB3c",
+      "title": "Failures of Deep Learning",
+      "views": 14000
+    },
+    {
+      "id": "8yWG7fhCpTw",
+      "title": "Model Complexity and VC Dimension",
+      "views": 40000
+    },
+    {
+      "id": "puDzy2XmR5c",
+      "title": "VC Dimension",
+      "views": 92000
+    },
+    {
+      "id": "bNG9DofCOXE",
+      "title": "Class 16 - Generalization Error and Stability",
+      "views": 2400
+    },
+    {
+      "id": "MRjwGZGicYA",
+      "title": "NeurIPS Spotlight - MIT - Deep Learning without Poor Local Minima",
+      "views": 3800
+    },
+    {
+      "id": "_GuNubC3Si4",
+      "title": "Bergson's Holographic Theory - 23 - Deep Learning: The Myths",
+      "views": 1100
+    },
+    {
+      "id": "Qi1Yry33TQE",
+      "title": "Ali Rahimi's talk at NIPS(NIPS 2017 Test-of-time award presentation)",
+      "views": 77000
+    },
+    {
+      "id": "iH3jtRLCa20",
+      "title": "Class 15 - Learning Theory",
+      "views": 1200
+    },
+    {
+      "id": "bLqJHjXihK8",
+      "title": "18. Information Theory of Deep Learning. Naftali Tishby",
+      "views": 94000
+    },
+    {
+      "id": "mEYerIMYb5Q",
+      "title": "Understanding Deep Learning Requires Rethinking Generalization - TWiML Online Meetup - Dec 2017",
+      "views": 1800
+    },
+    {
+      "id": "w0KFH8aSfG4",
+      "title": "Kilian Weinberger, \"Interpretable Machine Learning\"",
+      "views": 7100
+    },
+    {
+      "id": "_yRnHRQVMgw",
+      "title": "Learning and stochastic optimization with non-i.i.d. data",
+      "views": 2600
+    },
+    {
+      "id": "AsogCoscZgE",
+      "title": "Math Camp for 9.520/6.860S Statistical Learning Theory and Applications",
+      "views": 18000
+    },
+    {
+      "id": "f0qQsz4-o68",
+      "title": "Optimization for Machine Learning I",
+      "views": 46000
+    },
+    {
+      "id": "iXBp0OeD02Y",
+      "title": "Optimization for Machine Learning II",
+      "views": 7800
+    },
+    {
+      "id": "wH_D36YmPHg",
+      "title": "Natasha 2: Faster Non-convex Optimization Than SGD",
+      "views": 10000
+    },
+    {
+      "id": "_U2Sn67Yrf0",
+      "title": "Optimization for Machine Learning",
+      "views": 18000
+    },
+    {
+      "id": "gEB6BkHxvww",
+      "title": "How Can the Brain Efficiently Build an Understanding of the Natural World",
+      "views": 4800
+    },
+    {
+      "id": "8nHVUFqI0zk",
+      "title": "2017 WCE: Eight Pillars of Causal Wisdom",
+      "views": 12000
+    },
+    {
+      "id": "cWzi38-vDbE",
+      "title": "Yann LeCun - How does the brain learn so much so quickly? (CCN 2017)",
+      "views": 40000
+    },
+    {
+      "id": "Z3mFBEOH2y4",
+      "title": "Josh Tenenbaum - The cognitive science perspective: Reverse-engineering the mind (CCN 2017)",
+      "views": 13000
+    },
+    {
+      "id": "YRtfKosPHd0",
+      "title": "Session1 Vapnik",
+      "views": 5200
+    },
+    {
+      "id": "W86H4DpFnLY",
+      "title": "Yoshua Bengio - Deep learning and Backprop in the Brain (CCN 2017)",
+      "views": 20000
+    },
+    {
+      "id": "DMvxqVdqwZI",
+      "title": "Implicit Regularization in Nonconvex Statistical Estimation",
+      "views": 1900
+    },
+    {
+      "id": "YwX44phI_gc",
+      "title": "Optimization's Untold Gift to Learning: Implicit Regularization",
+      "views": 2300
+    },
+    {
+      "id": "fMym_BKWQzk",
+      "title": "The Trouble with Bias - NIPS 2017 Keynote - Kate Crawford #NIPS2017",
+      "views": 77000
+    },
+    {
+      "id": "KKT2VkTdFyc",
+      "title": "Deep Learning Theory 1-1: Can shallow network fit any function?",
+      "views": 103000
+    },
+    {
+      "id": "FN8jclCrqY0",
+      "title": "Deep Learning Theory 1-2: Potential of Deep",
+      "views": 25000
+    },
+    {
+      "id": "qpuLxXrHQB4",
+      "title": "Deep Learning Theory 1-3: Is Deep better than Shallow?",
+      "views": 15000
+    },
+    {
+      "id": "XSdkBG6Vvr0",
+      "title": "Deep Learning Theory 2-1: When Gradient is Zero",
+      "views": 20000
+    },
+    {
+      "id": "0O6nYRC7GeY",
+      "title": "Deep Learning Theory 2-2: Deep Linear Network",
+      "views": 10000
+    },
+    {
+      "id": "NmelPQkUark",
+      "title": "Deep Learning Theory 2-3: Does Deep Network have Local Minima?",
+      "views": 9200
+    },
+    {
+      "id": "_VuWvQUMQVk",
+      "title": "Deep Learning Theory 2-4: Geometry of Loss Surfaces (Conjecture)",
+      "views": 9400
+    },
+    {
+      "id": "QDQ9J5E7Uqk",
+      "title": "On Characterizing the Capacity of Neural Networks using Algebraic Topology",
+      "views": 12000
+    },
+    {
+      "id": "XysGHdNOTbg",
+      "title": "Deep Learning Theory 2-5: Geometry of Loss Surfaces (Empirical)",
+      "views": 10000
+    },
+    {
+      "id": "FtUbMG3rlFs",
+      "title": "Yoshua Bengio | From System 1 Deep Learning to System 2 Deep Learning | NeurIPS 2019",
+      "views": 40000
+    },
+    {
+      "id": "T3sxeTgT4qc",
+      "title": "Yoshua Bengio: From System 1 Deep Learning to System 2 Deep Learning (NeurIPS 2019)",
+      "views": 41000
+    },
+    {
+      "id": "s3AUUYUXsP8",
+      "title": "AI Horizons Keynote - Yoshua Bengio",
+      "views": 8400
+    },
+    {
+      "id": "GibjI5FoZsE",
+      "title": "Yoshua Bengio: Deep Learning Cognition | Full Keynote - AI in 2020 & Beyond",
+      "views": 15000
+    },
+    {
+      "id": "rKZJ0TJWvTk",
+      "title": "Yoshua Bengio Guest Talk - Towards Causal Representation Learning",
+      "views": 35000
+    },
+    {
+      "id": "_3EdlHfOhs4",
+      "title": "Dueling Posterior Sampling for Preference-Based Reinforcement Learning",
+      "views": 181
+    },
+    {
+      "id": "gB1F9G0JXOo",
+      "title": "Learn Unity - Beginner's Game Development Tutorial",
+      "views": 2800000
+    },
+    {
+      "id": "g9V-MHxSCcs",
+      "title": "Yoshua Bengio Extra Footage 1: Brainstorm with students 🔴",
+      "views": 41000
+    }
+  ]
+}

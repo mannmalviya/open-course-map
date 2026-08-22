@@ -374,6 +374,156 @@
           "primary": true
         }
       ]
+    },
+    "uva-gedl": {
+      "title": "Group Equivariant DL",
+      "university": "UvA",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "UvA · Bekkers · 2022",
+          "url": "https://uvagedl.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd",
+          "date": "2022",
+          "youtubeId": "z2OEyUgSH2c",
+          "primary": true
+        }
+      ]
+    },
+    "fsdl": {
+      "title": "Full Stack Deep Learning",
+      "university": "UC Berkeley",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Berkeley · Abbeel, Karayev · 2021",
+          "url": "https://fullstackdeeplearning.com/spring2021",
+          "youtube": "https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv",
+          "date": "Spring 2021",
+          "youtubeId": "fGxWfEuUu0w",
+          "primary": true
+        }
+      ]
+    },
+    "eth-riai": {
+      "title": "Reliable & Interpretable",
+      "university": "ETH Zürich",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "ETH Zürich · Vechev · 2020",
+          "url": "https://www.sri.inf.ethz.ch/teaching/riai2020",
+          "youtube": "https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y",
+          "date": "Fall 2020",
+          "youtubeId": "nTWXiV6Ic1M",
+          "primary": true
+        }
+      ]
+    },
+    "dlbook-lectures": {
+      "title": "Deep Learning Book",
+      "pos": {
+        "x": 780,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Goodfellow, Bengio, Courville · 2017",
+          "url": "https://www.deeplearningbook.org/lecture_slides.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b",
+          "date": "2017",
+          "youtubeId": "vi7lACKOUao",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10707": {
+      "title": "10-707 Deep Learning",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "CMU 10-707 · Salakhutdinov · 2017",
+          "url": "https://deeplearning-cmu-10707.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa",
+          "date": "Fall 2017",
+          "youtubeId": "fDlOQrLX8Hs",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-stats385": {
+      "title": "STATS385 Theories of DL",
+      "university": "Stanford",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Stanford STATS385 · 2017",
+          "url": "https://stats385.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLwUqqMt5en7fFLwSDa9V3JIkDam-WWgqy",
+          "date": "Fall 2017",
+          "youtubeId": "LwHhMu_7ZB4",
+          "primary": true
+        }
+      ]
+    },
+    "waterloo-stat946": {
+      "title": "STAT-946 Deep Learning",
+      "university": "Waterloo",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Waterloo STAT-946 · Ghodsi · 2015",
+          "url": "https://uwaterloo.ca/data-analytics/deep-learning",
+          "youtube": "https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE",
+          "date": "Fall 2015",
+          "youtubeId": "fyAZszlPphs",
+          "primary": true
+        }
+      ]
+    },
+    "wisc-stat453": {
+      "title": "STAT453 Deep Learning",
+      "university": "UW-Madison",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 1320
+      },
+      "versions": [
+        {
+          "label": "UW-Madison STAT453 · Raschka · 2021",
+          "url": "http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021",
+          "youtube": "https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51",
+          "date": "Spring 2021",
+          "youtubeId": "1nqCZqDYPp0",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [

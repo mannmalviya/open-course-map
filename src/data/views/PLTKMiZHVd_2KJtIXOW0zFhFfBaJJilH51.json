@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "1nqCZqDYPp0",
+      "title": "L1.0 Intro to Deep Learning, Course Introduction",
+      "views": 71000
+    },
+    {
+      "id": "6VbtJ9nn5ng",
+      "title": "L1.1.1 Course Overview Part 1: Motivation and Topics",
+      "views": 17000
+    },
+    {
+      "id": "s7ZCbKI5Exw",
+      "title": "L1.1.2 Course Overview Part 2: Organization (Optional)",
+      "views": 8300
+    },
+    {
+      "id": "d6oQzE4kst0",
+      "title": "L1.2 What is Machine Learning?",
+      "views": 10000
+    },
+    {
+      "id": "UadzJLHJB50",
+      "title": "L1.3.1 Broad Categories of ML Part 1: Supervised Learning",
+      "views": 8200
+    },
+    {
+      "id": "nHhuuUwd05g",
+      "title": "L1.3.2 Broad Categories of ML Part 2: Unsupervised Learning",
+      "views": 6200
+    },
+    {
+      "id": "EQCZUOxGrOo",
+      "title": "L1.3.3 Broad Categories of ML Part 3: Reinforcement Learning",
+      "views": 5300
+    },
+    {
+      "id": "B59lK5yo57M",
+      "title": "L1.3.4 Broad Categories of ML Part 4: Special Cases of Supervised Learning",
+      "views": 5500
+    },
+    {
+      "id": "nd9dhrvtIA0",
+      "title": "L1.4 The Supervised Learning Workflow",
+      "views": 6500
+    },
+    {
+      "id": "o-yHLOvuh2o",
+      "title": "L1.5 Necessary Machine Learning Notation and Jargon",
+      "views": 7300
+    },
+    {
+      "id": "R16VmI2ZhR0",
+      "title": "L1.6 About the Practical Aspects and Tools Used in This Course",
+      "views": 5100
+    },
+    {
+      "id": "UAjfVRicYBM",
+      "title": "Deep Learning News #1, Jan 27 2021",
+      "views": 8000
+    },
+    {
+      "id": "Ezig00nypvU",
+      "title": "L2.0 A Brief History of Deep Learning -- Lecture Overview",
+      "views": 6200
+    },
+    {
+      "id": "gbLasjwAGik",
+      "title": "L2.1 Artificial Neurons",
+      "views": 8600
+    },
+    {
+      "id": "G7oqVqU5qsQ",
+      "title": "L2.2 Multilayer Networks",
+      "views": 7100
+    },
+    {
+      "id": "tkUCMtJd43Y",
+      "title": "L2.3 The Origins of Deep Learning",
+      "views": 5000
+    },
+    {
+      "id": "TMCNkeJGIfg",
+      "title": "L2.4 The Deep Learning Hardware & Software Landscape",
+      "views": 4100
+    },
+    {
+      "id": "FpOpb-BMIH8",
+      "title": "L2.5 Current Trends in Deep Learning",
+      "views": 5100
+    },
+    {
+      "id": "cm_wv2QpTgc",
+      "title": "L3.0 Perceptron Lecture Overview",
+      "views": 6500
+    },
+    {
+      "id": "AnSDPcvtRLo",
+      "title": "L3.1 About Brains and Neurons",
+      "views": 6500
+    },
+    {
+      "id": "C8Uns9HEVXI",
+      "title": "L3.2 The Perceptron Learning Rule",
+      "views": 18000
+    },
+    {
+      "id": "OnG2NfuC5aY",
+      "title": "L3.3 Vectorization in Python",
+      "views": 9700
+    },
+    {
+      "id": "TlGpIKMVoOg",
+      "title": "L3.4 Perceptron in Python using NumPy and PyTorch",
+      "views": 17000
+    },
+    {
+      "id": "Fj7BgxI73TA",
+      "title": "L3.5 The Geometric Intuition Behind the Perceptron",
+      "views": 11000
+    },
+    {
+      "id": "TgbI3LeB1bg",
+      "title": "Deep Learning News #2, Feb 6 2021",
+      "views": 3700
+    },
+    {
+      "id": "3mjJxu3B0zA",
+      "title": "L4.0 Linear Algebra for Deep Learning -- Lecture Overview",
+      "views": 5500
+    },
+    {
+      "id": "JXfDlgrfOBY",
+      "title": "L4.1 Tensors in Deep Learning",
+      "views": 9800
+    },
+    {
+      "id": "zk_asBov8QI",
+      "title": "L4.2 Tensors in PyTorch",
+      "views": 6900
+    },
+    {
+      "id": "4Ehb_is-MFU",
+      "title": "L4.3 Vectors, Matrices, and Broadcasting",
+      "views": 8500
+    },
+    {
+      "id": "4pnoymfFiYM",
+      "title": "L4.4 Notational Conventions for Neural Networks",
+      "views": 5100
+    },
+    {
+      "id": "XswEBzNgIYc",
+      "title": "L4.5 A Fully Connected (Linear) Layer in PyTorch",
+      "views": 13000
+    },
+    {
+      "id": "VBOxg62CwCg",
+      "title": "L5.0 Gradient Descent -- Lecture Overview",
+      "views": 5900
+    },
+    {
+      "id": "b4DXHd3RwqA",
+      "title": "L5.1 Online, Batch, and Minibatch Mode",
+      "views": 8500
+    },
+    {
+      "id": "4JB1j8eIGzI",
+      "title": "L5.2 Relation Between Perceptron and Linear Regression",
+      "views": 8300
+    },
+    {
+      "id": "1QH2bVuV98A",
+      "title": "L5.3 An Iterative Training Algorithm for Linear Regression",
+      "views": 5700
+    },
+    {
+      "id": "tL1THESrXgI",
+      "title": "L5.4 (Optional) Calculus Refresher I: Derivatives",
+      "views": 4600
+    },
+    {
+      "id": "YPZVGSRmjLk",
+      "title": "L5.5 (Optional) Calculus Refresher II: Gradients",
+      "views": 3800
+    },
+    {
+      "id": "L4xzybIa-bo",
+      "title": "L5.6 Understanding Gradient Descent",
+      "views": 6400
+    },
+    {
+      "id": "iLCT0i-lCsw",
+      "title": "L5.7 Training an Adaptive Linear Neuron (Adaline)",
+      "views": 14000
+    },
+    {
+      "id": "GGcaqzhKzLc",
+      "title": "L5.8 Adaline Code Example",
+      "views": 11000
+    },
+    {
+      "id": "2I8SqKLt-Nk",
+      "title": "Deep Learning News #3, Feb 13 2021",
+      "views": 2300
+    },
+    {
+      "id": "j1-r1vO2a_o",
+      "title": "L6.0 Automatic Differentiation in PyTorch -- Lecture Overview",
+      "views": 4100
+    },
+    {
+      "id": "LjdiVPQ45GE",
+      "title": "L6.1 Learning More About PyTorch",
+      "views": 3900
+    },
+    {
+      "id": "oY6-i2Ybin4",
+      "title": "L6.2 Understanding Automatic Differentiation via Computation Graphs",
+      "views": 16000
+    },
+    {
+      "id": "VvUz0Q9e09g",
+      "title": "L6.3 Automatic Differentiation in PyTorch -- Code Example",
+      "views": 8900
+    },
+    {
+      "id": "00KgeJwNaZA",
+      "title": "L6.4 Training ADALINE with PyTorch -- Code Example",
+      "views": 4900
+    },
+    {
+      "id": "klc79sZ1yVc",
+      "title": "L6.5 A Closer Look at the PyTorch API",
+      "views": 4000
+    },
+    {
+      "id": "5pew4YEa1ww",
+      "title": "L7.0 GPU resources & Google Colab",
+      "views": 3200
+    },
+    {
+      "id": "mPC14fIO4SY",
+      "title": "Deep Learning News #4, Feb 20 2021",
+      "views": 2000
+    },
+    {
+      "id": "10PTpRRpRk0",
+      "title": "L8.0 Logistic Regression -- Lecture Overview",
+      "views": 5300
+    },
+    {
+      "id": "ncZ5iSZekVQ",
+      "title": "L8.1 Logistic Regression as a Single-Layer Neural Network",
+      "views": 9500
+    },
+    {
+      "id": "GxJe0DZvydM",
+      "title": "L8.2 Logistic Regression Loss Function",
+      "views": 12000
+    },
+    {
+      "id": "7rR1L7t2EnA",
+      "title": "L8.3 Logistic Regression Loss Derivative and Training",
+      "views": 8800
+    },
+    {
+      "id": "icQaFxKa_J0",
+      "title": "L8.4 Logits and Cross Entropy",
+      "views": 11000
+    },
+    {
+      "id": "6igMArA6k3A",
+      "title": "L8.5 Logistic Regression in PyTorch -- Code Example",
+      "views": 5700
+    },
+    {
+      "id": "L0FU8NFpx4E",
+      "title": "L8.6 Multinomial Logistic Regression / Softmax Regression",
+      "views": 11000
+    },
+    {
+      "id": "4n71-tZ94yk",
+      "title": "L8.7.1 OneHot Encoding and Multi-category Cross Entropy",
+      "views": 7600
+    },
+    {
+      "id": "5bW0vn4ISqs",
+      "title": "L8.7.2 OneHot Encoding and Multi-category Cross Entropy -- Code Example",
+      "views": 4200
+    },
+    {
+      "id": "aeM-fmcdkXU",
+      "title": "L8.8 Softmax Regression Derivatives for Gradient Descent",
+      "views": 16000
+    },
+    {
+      "id": "mM6apVBXGEA",
+      "title": "L8.9 Softmax Regression -- Code Example Using PyTorch",
+      "views": 6700
+    },
+    {
+      "id": "ZjZ6Yph5c2E",
+      "title": "Deep Learning News #5, Feb 27 2021",
+      "views": 1700
+    },
+    {
+      "id": "jD6IKpqSJM4",
+      "title": "L9.0 Multilayer Perceptrons -- Lecture Overview",
+      "views": 3400
+    },
+    {
+      "id": "IUylp47hNA0",
+      "title": "L9.1 Multilayer Perceptron Architecture",
+      "views": 9200
+    },
+    {
+      "id": "-_7W0KE8Ykg",
+      "title": "L9.2 Nonlinear Activation Functions",
+      "views": 4100
+    },
+    {
+      "id": "zNyEzACInRg",
+      "title": "L9.3.1 Multilayer Perceptron -- Code Example Part 1/3 (Slide Overview)",
+      "views": 4000
+    },
+    {
+      "id": "Ycp4Si89s5Q",
+      "title": "L9.3.2 Multilayer Perceptron in PyTorch -- Code Example Part 2/3 (Jupyter Notebook)",
+      "views": 9000
+    },
+    {
+      "id": "cDbQgQv_Yz0",
+      "title": "L9.3.3 Multilayer Perceptron in PyTorch -- Code Example Part 3/3 (Script Setup)",
+      "views": 3400
+    },
+    {
+      "id": "hFGZyDVNgS4",
+      "title": "L9.4 Overfitting and Underfitting",
+      "views": 3900
+    },
+    {
+      "id": "RQIAmvElu1g",
+      "title": "L9.5.1 Cats & Dogs and Custom Data Loaders",
+      "views": 2500
+    },
+    {
+      "id": "hPzJ8H0Jtew",
+      "title": "L9.5.2 Custom DataLoaders in PyTorch --Code Example",
+      "views": 7600
+    },
+    {
+      "id": "0J2b31KIIXs",
+      "title": "Deep Learning News #6, Mar 7 2021",
+      "views": 1600
+    },
+    {
+      "id": "Va4K-wYh_p8",
+      "title": "L10.0 Regularization Methods for Neural Networks -- Lecture Overview",
+      "views": 3700
+    },
+    {
+      "id": "KOBmBjlMVAE",
+      "title": "L10.1 Techniques for Reducing Overfitting",
+      "views": 3600
+    },
+    {
+      "id": "qLIosWyrh9Q",
+      "title": "L10.2 Data Augmentation in PyTorch",
+      "views": 5200
+    },
+    {
+      "id": "YA1OdkiHJBY",
+      "title": "L10.3 Early Stopping",
+      "views": 9000
+    },
+    {
+      "id": "uu2X47cSLmM",
+      "title": "L10.4 L2 Regularization for Neural Nets",
+      "views": 6500
+    },
+    {
+      "id": "IHrZNBsgtwU",
+      "title": "L10.5.1 The Main Concept Behind Dropout",
+      "views": 3900
+    },
+    {
+      "id": "GAE8dpDWo6E",
+      "title": "L10.5.2 Dropout Co-Adaptation Interpretation",
+      "views": 2900
+    },
+    {
+      "id": "4We9G5jgKvI",
+      "title": "L10.5.3 (Optional) Dropout Ensemble Interpretation",
+      "views": 2500
+    },
+    {
+      "id": "kma-4wqp_-k",
+      "title": "L10.5.4 Dropout in PyTorch",
+      "views": 5100
+    },
+    {
+      "id": "xk6qb2IePaE",
+      "title": "L11.0 Input Normalization and Weight Initialization -- Lecture Overview",
+      "views": 2900
+    },
+    {
+      "id": "jzJactQXFDk",
+      "title": "L11.1  Input Normalization",
+      "views": 4300
+    },
+    {
+      "id": "34PDIFvvESc",
+      "title": "L11.2 How BatchNorm Works",
+      "views": 6000
+    },
+    {
+      "id": "8AUDn7iF2DY",
+      "title": "L11.3 BatchNorm in PyTorch -- Code Example",
+      "views": 4500
+    },
+    {
+      "id": "uI19wIdzh9M",
+      "title": "L11.4 Why BatchNorm Works",
+      "views": 3200
+    },
+    {
+      "id": "RsX01aYbQdI",
+      "title": "L11.5 Weight Initialization -- Why Do We Care?",
+      "views": 4400
+    },
+    {
+      "id": "ScWTYHQra5E",
+      "title": "L11.6 Xavier Glorot and Kaiming He Initialization",
+      "views": 17000
+    },
+    {
+      "id": "nA6oEAE9IVc",
+      "title": "L11.7 Weight Initialization in PyTorch -- Code Example",
+      "views": 4100
+    },
+    {
+      "id": "X5cEwDRh0Lk",
+      "title": "Deep Learning News #7 Mar 13 2021",
+      "views": 1300
+    },
+    {
+      "id": "7RhNXYqDBfU",
+      "title": "L12.0: Improving Gradient Descent-based Optimization -- Lecture Overview",
+      "views": 2400
+    },
+    {
+      "id": "Owm1H0ukjS4",
+      "title": "L12.1 Learning Rate Decay",
+      "views": 4500
+    },
+    {
+      "id": "tB1rz4L93JA",
+      "title": "L12.2 Learning Rate Schedulers in PyTorch",
+      "views": 3500
+    },
+    {
+      "id": "gMxvefj0YAM",
+      "title": "L12.3 SGD with Momentum",
+      "views": 4800
+    },
+    {
+      "id": "eUOvUIRPSX8",
+      "title": "L12.4 Adam: Combining Adaptive Learning Rates and Momentum",
+      "views": 8100
+    },
+    {
+      "id": "c-SRPvK_zzs",
+      "title": "L12.5 Choosing Different Optimizers in PyTorch",
+      "views": 4300
+    },
+    {
+      "id": "7yoAocFiUh8",
+      "title": "L12.6 Additional Topics and Research on Optimization Algorithms",
+      "views": 1900
+    },
+    {
+      "id": "i-Ngb6tn_KM",
+      "title": "L13.0 Introduction to Convolutional Networks -- Lecture Overview",
+      "views": 3800
+    },
+    {
+      "id": "I5B7pgSEMhE",
+      "title": "L13.1 Common Applications of CNNs",
+      "views": 4900
+    },
+    {
+      "id": "0FtJbmuUdFo",
+      "title": "L13.2 Challenges of Image Classification",
+      "views": 3300
+    },
+    {
+      "id": "7fWOE-z8YgY",
+      "title": "L13.3 Convolutional Neural Network Basics",
+      "views": 5200
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "id": "fyAZszlPphs",
+      "title": "Ali Ghodsi, Lec [1,1]: Deep Learning, Introduction",
+      "views": 40000
+    },
+    {
+      "id": "AxC40B6KtSQ",
+      "title": "Ali Ghodsi, Lec [1,2]: Deep Learning, Perceptron, Backpropagation",
+      "views": 22000
+    },
+    {
+      "id": "21jL0I6wbns",
+      "title": "Ali Ghodsi, Lec [2,1]: Deep Learning, Regularization",
+      "views": 12000
+    },
+    {
+      "id": "_ojGVetxCpQ",
+      "title": "Ali Ghodsi, Lec [2,2]: Deep Learning, Regularization",
+      "views": 4900
+    },
+    {
+      "id": "TsEGsdVJjuA",
+      "title": "Ali Ghodsi, Lec [3,1]: Deep Learning, Word2vec",
+      "views": 40000
+    },
+    {
+      "id": "nuirUEmbaJU",
+      "title": "Ali Ghodsi, Lec [3,2]: Deep Learning, Word2vec",
+      "views": 14000
+    },
+    {
+      "id": "rHzX9CtjPeg",
+      "title": "Ali Ghodsi, Lec 11: Hard margin Support Vector Machine (svm)",
+      "views": 9200
+    },
+    {
+      "id": "eF0APeEIJNw",
+      "title": "Lec [4,1]: Deep Learning, Sum-Product Networks",
+      "views": 8800
+    },
+    {
+      "id": "9-1YE_N-lnw",
+      "title": "Lec [4,2]: Deep Learning, Sum-Product Networks",
+      "views": 3400
+    },
+    {
+      "id": "AvyhbrQptHk",
+      "title": "Ali Ghodsi, Lec [5.1]: Deep Learning, Recurrent neural network",
+      "views": 21000
+    },
+    {
+      "id": "EAt9_4IhC7s",
+      "title": "Ali Ghodsi, Lec [5.2]: Deep Learning, Recurrent neural network",
+      "views": 6000
+    },
+    {
+      "id": "ZMBp7_qqtLE",
+      "title": "Ali Ghodsi, Lec [6], Deep Learning: convolutional network",
+      "views": 6200
+    },
+    {
+      "id": "FJ0z3Ubagt4",
+      "title": "Ali Ghodsi, Lec [7], Deep Learning , Restricted Boltzmann Machines (RBMs)",
+      "views": 42000
+    },
+    {
+      "id": "o8AXZJZNyaM",
+      "title": "Deep Learning Student Presentation",
+      "views": 2100
+    },
+    {
+      "id": "1-9MJ0-kbdY",
+      "title": "Deep Learning, Theano Short Tutorial",
+      "views": 8100
+    },
+    {
+      "id": "Tp3SaRbql4k",
+      "title": "Deep Learning: Keras Short Tutorial",
+      "views": 98000
+    }
+  ]
+}

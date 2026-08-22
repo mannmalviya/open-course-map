@@ -1,0 +1,69 @@
+{
+  "lectures": [
+    {
+      "id": "nTWXiV6Ic1M",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 1 (Introduction)",
+      "views": 8600
+    },
+    {
+      "id": "4LSAIhi27_M",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 2 (Adversarial Examples)",
+      "views": 3900
+    },
+    {
+      "id": "gO_EpipagP4",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 3 (Adversarial Attacks)",
+      "views": 2300
+    },
+    {
+      "id": "e1JofBvECN8",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 4a (Adversarial Defenses)",
+      "views": 1600
+    },
+    {
+      "id": "rXuBoChc_ts",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 4b (Certification of Neural Networks)",
+      "views": 2500
+    },
+    {
+      "id": "nSBwfCSjwAM",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 5 (Complete Certification)",
+      "views": 2100
+    },
+    {
+      "id": "7qWhIGlvh0I",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 6 (Zonotope Relaxation)",
+      "views": 2100
+    },
+    {
+      "id": "Wx4bidSSM00",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 7 (DeepPoly Relaxation)",
+      "views": 2700
+    },
+    {
+      "id": "13s2T2Dfg9A",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 8 (Certified Defenses)",
+      "views": 1900
+    },
+    {
+      "id": "5T38P7KJ5Hk",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 9 (Geometric Robustness)",
+      "views": 1600
+    },
+    {
+      "id": "wsYYWmiDdjY",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 10 (Visualization)",
+      "views": 1100
+    },
+    {
+      "id": "Ogq5OMkY4Ws",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 11 (Combining Deep Learning and Logic)",
+      "views": 1300
+    },
+    {
+      "id": "tokD9Wgor3k",
+      "title": "Reliable and Interpretable Artificial Intelligence -- Lecture 12 (Randomized Smoothing)",
+      "views": 2200
+    }
+  ]
+}

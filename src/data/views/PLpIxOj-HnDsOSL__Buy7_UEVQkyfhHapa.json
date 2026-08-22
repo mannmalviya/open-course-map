@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "fDlOQrLX8Hs",
+      "title": "Lecture 01: Course Introduction",
+      "views": 5800
+    },
+    {
+      "id": "g6WgwVO76ZY",
+      "title": "Lecture 02: Statistical Decision Theory",
+      "views": 2400
+    },
+    {
+      "id": "SWkhhn4s6Es",
+      "title": "Lecture 03: Probability Distributions and the Exponential Family",
+      "views": 1600
+    },
+    {
+      "id": "UzXCgd3RcDQ",
+      "title": "Lecture 04: Neural Networks 1",
+      "views": 771
+    },
+    {
+      "id": "UuOKj7dZzhY",
+      "title": "Lecture 05: Neural Networks 2",
+      "views": 577
+    },
+    {
+      "id": "Iwi-GeOYUII",
+      "title": "Lecture 06: Convolutional Neural Networks 1",
+      "views": 561
+    },
+    {
+      "id": "vYlldffGFCk",
+      "title": "Lecture 07 Covnvolutional Neural Networks II",
+      "views": 318
+    },
+    {
+      "id": "Zz5O0-PDoRs",
+      "title": "Lecture 08 Graphical Models",
+      "views": 816
+    },
+    {
+      "id": "XedLW3D-ca8",
+      "title": "Lecture 09 Midterm Review",
+      "views": 473
+    },
+    {
+      "id": "JfpP9CY1EFo",
+      "title": "Lecture 10 Restricted Boltzmann Machines",
+      "views": 3500
+    },
+    {
+      "id": "X5CpwdhMDeM",
+      "title": "Lecture 11 Autoencoders",
+      "views": 1500
+    },
+    {
+      "id": "dL9NOZlSWUg",
+      "title": "Lecture 12 Image Classification",
+      "views": 293
+    },
+    {
+      "id": "4OtIHjGzgqg",
+      "title": "Lecture 13 Language Modeling",
+      "views": 306
+    },
+    {
+      "id": "9HMhRYHMfXo",
+      "title": "Lecture 14 Sequence to Sequence I",
+      "views": 751
+    },
+    {
+      "id": "Ckt3nMtl3eA",
+      "title": "Lecture 15 Midterm Review and Sequence to Sequence II",
+      "views": 190
+    },
+    {
+      "id": "wFY0P2miQSw",
+      "title": "Lecture 16 Deep Belief Networks",
+      "views": 2100
+    },
+    {
+      "id": "MnGXXDjGNd0",
+      "title": "Lecture 17 Deep Boltzmann Machines I",
+      "views": 2000
+    },
+    {
+      "id": "JAnHFiQ_Kp8",
+      "title": "Lecture 18 Deep Boltzmann Machines II",
+      "views": 487
+    },
+    {
+      "id": "xHYfnQko4lY",
+      "title": "Lecture 19 Variational Inference",
+      "views": 1300
+    },
+    {
+      "id": "y9HUz09nhi8",
+      "title": "Lecture 20: Markov Chain Monte Carlo",
+      "views": 1200
+    },
+    {
+      "id": "O6J7UbVaZEw",
+      "title": "Lecture 21 Markov Chain Monte Carlo II",
+      "views": 433
+    },
+    {
+      "id": "tLCc8FGewp0",
+      "title": "Lecture 22 Variational Autoencoders",
+      "views": 5500
+    },
+    {
+      "id": "RAWJ8URGeOA",
+      "title": "Lecture 23 Representation Learning for Reading Comprehension",
+      "views": 208
+    },
+    {
+      "id": "x_kK4Pc4qow",
+      "title": "Lecture 24 Deep RL",
+      "views": 258
+    }
+  ]
+}

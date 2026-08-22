@@ -3,7 +3,7 @@
   "kind": "curated",
   "field": "Math",
   "source": "Mann's picks — opinion, not a department's requirements",
-  "blurb": "The five courses that actually pay off before you touch a machine learning course. Deliberately not a math degree.",
+  "blurb": "Linear algebra, calculus, probability, optimization \u2014 the math ML assumes you have.",
   "steps": [
     {
       "course": "mit-1806",

@@ -75,6 +75,25 @@
           "primary": true
         }
       ]
+    },
+    "mit-6s897": {
+      "title": "6.S897 ML for Healthcare",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.S897 · Sontag, Szolovits · 2019",
+          "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j",
+          "date": "Spring 2019",
+          "youtubeId": "vof7x8r_ZUA",
+          "primary": true
+        }
+      ]
     }
   }
 }

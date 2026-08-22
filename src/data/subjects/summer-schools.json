@@ -18,6 +18,32 @@
           "primary": true
         }
       ]
+    },
+    "hse-deepbayes": {
+      "title": "DeepBayes Summer School",
+      "university": "HSE Moscow",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "HSE Moscow · Deep|Bayes · 2019",
+          "url": "https://deepbayes.ru/",
+          "youtube": "https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW",
+          "date": "2019",
+          "youtubeId": "wA8UMzhGv7o",
+          "primary": true
+        },
+        {
+          "label": "HSE Moscow · Deep|Bayes · 2018",
+          "url": "https://deepbayes.ru/2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62",
+          "date": "2018",
+          "youtubeId": "h6ajHkgM3ZU"
+        }
+      ]
     }
   }
 }

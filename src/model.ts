@@ -432,9 +432,13 @@ export function pathways(): Array<{ id: string; group: Group }> {
     .map((id) => ({ id, group: map.groups[id] }));
 }
 
-/** Steps on a pathway, counting gaps — what the landing card advertises. */
-export function pathwayStepCount(groupId: string): number {
-  return map.ghosts.filter((g) => g.inGroup === groupId).length + gapsIn(groupId).length;
+/**
+ * Courses on a pathway — what the landing card counts. Gaps are left out on
+ * purpose: a step nobody has put online is part of the sequence, but it is not
+ * a course you can go and watch, which is what the number is offering.
+ */
+export function pathwayCourseCount(groupId: string): number {
+  return map.ghosts.filter((g) => g.inGroup === groupId).length;
 }
 
 /** Schools appearing on a pathway, in step order, deduped. */

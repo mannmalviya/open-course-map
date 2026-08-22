@@ -1494,25 +1494,36 @@ body {
   color: var(--ink);
 }
 
+/* The footer of the card: who taught it on the left, how much of it there is
+   on the right, pushed to the two corners */
 .pathway-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
   margin-top: auto;
   padding-top: 8px;
   font-size: 11px;
   color: var(--muted);
 }
 
-/* Marks sit in the meta line where the school names would have been, so they
-   read at the weight of the text beside them — wordmarks, for the same reason
-   the logo wall uses them: a square mark this small is a grey blob, and here
-   it is the only thing naming the school. They stay monochrome even on hover,
-   unlike the wall: at this size a brand colour is noise, and it would fight
-   the accent tint the card takes when you point at it. */
+.pathway-count {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Marks sit at the weight of the count across from them — wordmarks, for the
+   same reason the logo wall uses them: a square mark this small is a grey blob,
+   and here it is the only thing naming the school. They stay monochrome even on
+   hover, unlike the wall: at this size a brand colour is noise, and it would
+   fight the accent tint the card takes when you point at it. */
 .pathway-logos {
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
-  margin-left: 9px;
-  vertical-align: -3px;
+  min-width: 0;
 }
 
 .pathway-logo {

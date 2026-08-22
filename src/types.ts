@@ -72,10 +72,10 @@ export interface Group {
   /** Field this pathway is filed under on the landing page, e.g. "Physics" */
   field?: string;
   /**
-   * Marks on this pathway's landing card, as `university` keys. Set by hand:
-   * a sequence can borrow a course from anywhere, and the marks should say
-   * whose sequence it is rather than everyone who turns up in it. Left out,
-   * the card lists its steps' schools as names instead.
+   * Marks on this pathway's landing card, as `university` keys. An override:
+   * a sequence can borrow a course from anywhere, so set this where the marks
+   * should say whose sequence it is rather than everyone who turns up in it.
+   * Left out, the card marks the schools its own steps come from.
    */
   logos?: string[];
 }

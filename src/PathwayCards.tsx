@@ -1,5 +1,5 @@
 import { SketchBox, SketchTag } from './sketch';
-import { pathways, pathwaySchools, pathwayStepCount, wordmarkFor } from './model';
+import { pathways, pathwayCourseCount, pathwaySchools, wordmarkFor } from './model';
 
 const KIND_LABEL = {
   official: 'official',
@@ -15,11 +15,10 @@ export function PathwayCards({ onOpen }: PathwayCardsProps) {
   return (
     <div className="pathway-cards">
       {pathways().map(({ id, group }) => {
-        const steps = pathwayStepCount(id);
-        // Hand-set marks win outright — listing the same schools again as names
-        // would just say it twice
-        const marks = group.logos?.filter((school) => wordmarkFor(school)) ?? [];
-        const schools = marks.length > 0 ? [] : pathwaySchools(id);
+        const courses = pathwayCourseCount(id);
+        // A hand-set list still wins, but the default is simply whoever taught
+        // the steps — the card credits the schools the route actually uses
+        const schools = group.logos ?? pathwaySchools(id);
         return (
           <SketchBox
             key={id}
@@ -38,21 +37,28 @@ export function PathwayCards({ onOpen }: PathwayCardsProps) {
               <span className="pathway-title">{group.title}</span>
               <span className="pathway-blurb">{group.blurb}</span>
               <span className="pathway-meta">
-                {steps} steps
-                {schools.length > 0 && ' · ' + schools.join(', ')}
-                {marks.length > 0 && (
-                  <span className="pathway-logos">
-                    {marks.map((school) => (
+                <span className="pathway-logos">
+                  {schools.map((school) => {
+                    const mark = wordmarkFor(school);
+                    // A school with no mark on file is still owed the credit
+                    return mark ? (
                       <img
                         key={school}
                         className="pathway-logo"
-                        src={wordmarkFor(school)}
+                        src={mark}
                         alt={school}
                         title={school}
                       />
-                    ))}
-                  </span>
-                )}
+                    ) : (
+                      <span key={school} className="pathway-school">
+                        {school}
+                      </span>
+                    );
+                  })}
+                </span>
+                <span className="pathway-count">
+                  {courses} {courses === 1 ? 'course' : 'courses'}
+                </span>
               </span>
             </button>
           </SketchBox>

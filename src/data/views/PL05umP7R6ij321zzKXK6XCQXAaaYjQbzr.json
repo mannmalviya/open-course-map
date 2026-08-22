@@ -1,0 +1,244 @@
+{
+  "lectures": [
+    {
+      "id": "_q4WUxgwDeg",
+      "title": "Self-Driving Cars - Lecture 1.1 (Introduction: Organization)",
+      "views": 39000
+    },
+    {
+      "id": "4B0YY9OgHG8",
+      "title": "Self-Driving Cars - Lecture 1.2 (Introduction: Introduction)",
+      "views": 19000
+    },
+    {
+      "id": "qSDS-Ti7sMc",
+      "title": "Self-Driving Cars - Lecture 1.3 (Introduction: History of Self-Driving)",
+      "views": 16000
+    },
+    {
+      "id": "twMHsKYtHKA",
+      "title": "Self-Driving Cars - Lecture 2.1 (Imitation Learning: Approaches to Self-Driving)",
+      "views": 17000
+    },
+    {
+      "id": "eugyHqrDMog",
+      "title": "Self-Driving Cars - Lecture 2.2 (Imitation Learning: Deep Learning Recap)",
+      "views": 13000
+    },
+    {
+      "id": "XQuLVDEMm1g",
+      "title": "Self-Driving Cars - Lecture 2.3 (Imitation Learning: Imitation Learning)",
+      "views": 11000
+    },
+    {
+      "id": "U5kZ1uRPx7o",
+      "title": "Self-Driving Cars - Lecture 2.4 (Imitation Learning: Conditional Imitation Learning)",
+      "views": 7800
+    },
+    {
+      "id": "m60wi2-8Mwo",
+      "title": "Self-Driving Cars - Lecture 3.1 (Direct Perception: Direct Perception)",
+      "views": 8600
+    },
+    {
+      "id": "tJhcHSmBbmk",
+      "title": "Self-Driving Cars - Lecture 3.2 (Direct Perception: Conditional Affordance Learning)",
+      "views": 5600
+    },
+    {
+      "id": "c9i6mvAViuM",
+      "title": "Self-Driving Cars - Lecture 3.3 (Direct Perception: Visual Abstractions)",
+      "views": 5400
+    },
+    {
+      "id": "J9xScghUaaw",
+      "title": "Self-Driving Cars - Lecture 3.4 (Direct Perception: Driving Policy Transfer)",
+      "views": 3700
+    },
+    {
+      "id": "rl5yPBsfc2k",
+      "title": "Self-Driving Cars - Lecture 3.5 (Direct Perception: Online vs. Offline Evaluation)",
+      "views": 3700
+    },
+    {
+      "id": "GYnlqiSqZiU",
+      "title": "Self-Driving Cars - Lecture 4.1 (Reinforcement Learning: Markov Decision Processes)",
+      "views": 7500
+    },
+    {
+      "id": "ppvxzV_iHyY",
+      "title": "Self-Driving Cars - Lecture 4.2 (Reinforcement Learning: Bellman Optimality and Q-Learning)",
+      "views": 4600
+    },
+    {
+      "id": "Q8qgjUqj5ss",
+      "title": "Self-Driving Cars - Lecture 4.3 (Reinforcement Learning: Deep Q-Learning)",
+      "views": 5700
+    },
+    {
+      "id": "wuUUN_DvYP4",
+      "title": "Self-Driving Cars - Lecture 5.1 (Vehicle Dynamics: Introduction)",
+      "views": 9000
+    },
+    {
+      "id": "D4AgX1zjx54",
+      "title": "Self-Driving Cars - Lecture 5.2 (Vehicle Dynamics: Kinematic Bicycle Model)",
+      "views": 9700
+    },
+    {
+      "id": "gikM0m3AWIk",
+      "title": "Self-Driving Cars - Lecture 5.3 (Vehicle Dynamics: Tire Models)",
+      "views": 4800
+    },
+    {
+      "id": "6fyUnoRxPvs",
+      "title": "Self-Driving Cars - Lecture 5.4 (Vehicle Dynamics: Dynamic Bicycle Model)",
+      "views": 6100
+    },
+    {
+      "id": "O8RENvOxbTY",
+      "title": "Self-Driving Cars - Lecture 6.1 (Vehicle Control: Introduction)",
+      "views": 4900
+    },
+    {
+      "id": "Gry1bbR1atc",
+      "title": "Self-Driving Cars - Lecture 6.2 (Vehicle Control: Black Box Control)",
+      "views": 4200
+    },
+    {
+      "id": "A-RdRUMhOEU",
+      "title": "Self-Driving Cars - Lecture 6.3 (Vehicle Control: Geometric Control)",
+      "views": 4300
+    },
+    {
+      "id": "r7Gmw3rBoEA",
+      "title": "Self-Driving Cars - Lecture 6.4 (Vehicle Control: Optimal Control)",
+      "views": 3900
+    },
+    {
+      "id": "qdjxd7LSjF0",
+      "title": "Self-Driving Cars - Lecture 7.1 (Odometry, SLAM and Localization: Visual Odometry)",
+      "views": 15000
+    },
+    {
+      "id": "8nZy1cZFoZM",
+      "title": "Self-Driving Cars - Lecture 7.2 (Odometry, SLAM and Localization: SLAM)",
+      "views": 4900
+    },
+    {
+      "id": "FvhcHTfwHTQ",
+      "title": "Self-Driving Cars - Lecture 7.3 (Odometry, SLAM and Localization: Localization)",
+      "views": 5000
+    },
+    {
+      "id": "4sWke_MN-K0",
+      "title": "Self-Driving Cars - Lecture 8.1 (Road and Lane Detection: Introduction)",
+      "views": 6100
+    },
+    {
+      "id": "FiU-Hro5HrE",
+      "title": "Self-Driving Cars - Lecture 8.2 (Road and Lane Detection: Road Segmentation)",
+      "views": 4700
+    },
+    {
+      "id": "DPRFZODRf9E",
+      "title": "Self-Driving Cars - Lecture 8.3 (Road and Lane Detection: Lane Marking Detection)",
+      "views": 6800
+    },
+    {
+      "id": "GgXQFYc2nPw",
+      "title": "Self-Driving Cars - Lecture 8.4 (Road and Lane Detection: Lane Detection)",
+      "views": 3600
+    },
+    {
+      "id": "9AgxecRWG4A",
+      "title": "Self-Driving Cars - Lecture 8.5 (Road and Lane Detection: Lane Tracking)",
+      "views": 3800
+    },
+    {
+      "id": "SOERX7QUlJ8",
+      "title": "Self-Driving Cars - Lecture 9.1 (Reconstruction and Motion: Stereo Matching)",
+      "views": 4400
+    },
+    {
+      "id": "OUHW52a-MT0",
+      "title": "Self-Driving Cars - Lecture 9.2 (Reconstruction and Motion: Freespace and Stixels)",
+      "views": 2300
+    },
+    {
+      "id": "CrazEFoJdj8",
+      "title": "Self-Driving Cars - Lecture 9.3 (Reconstruction and Motion: Optical Flow)",
+      "views": 2600
+    },
+    {
+      "id": "F8Fk6XAMiW8",
+      "title": "Self-Driving Cars - Lecture 9.4 (Reconstruction and Motion: Scene Flow)",
+      "views": 2100
+    },
+    {
+      "id": "uxLmWOQ1Zpg",
+      "title": "Self-Driving Cars - Lecture 10.1 (Object Detection: Introduction)",
+      "views": 6100
+    },
+    {
+      "id": "YiboaN03BwM",
+      "title": "Self-Driving Cars - Lecture 10.2 (Object Detection: Performance Evaluation)",
+      "views": 2800
+    },
+    {
+      "id": "7I1XypMPCcw",
+      "title": "Self-Driving Cars - Lecture 10.3 (Object Detection: Sliding Window Object Detection)",
+      "views": 2700
+    },
+    {
+      "id": "84HCwf8CCbE",
+      "title": "Self-Driving Cars - Lecture 10.4 (Object Detection: Region Based CNNs)",
+      "views": 3300
+    },
+    {
+      "id": "JEVtVrNFb30",
+      "title": "Self-Driving Cars - Lecture 10.5 (Object Detection: 3D Object Detection)",
+      "views": 13000
+    },
+    {
+      "id": "OG7f3cG01EE",
+      "title": "Self-Driving Cars - Lecture 11.1 (Object Tracking: Introduction)",
+      "views": 4400
+    },
+    {
+      "id": "oc-as2xEnnU",
+      "title": "Self-Driving Cars - Lecture 11.2 (Object Tracking: Filtering)",
+      "views": 3300
+    },
+    {
+      "id": "8uTXar8AWOw",
+      "title": "Self-Driving Cars - Lecture 11.3 (Object Tracking: Association)",
+      "views": 3400
+    },
+    {
+      "id": "x9xBYfyjBc0",
+      "title": "Self-Driving Cars - Lecture 11.4 (Object Tracking: Holistic Scene Understanding)",
+      "views": 3000
+    },
+    {
+      "id": "VAhBWF3PRM8",
+      "title": "Self-Driving Cars - Lecture 12.1 (Decision Making and Planning: Introduction)",
+      "views": 5600
+    },
+    {
+      "id": "1T0trI6yDQc",
+      "title": "Self-Driving Cars - Lecture 12.2 (Decision Making and Planning: Route Planning)",
+      "views": 5000
+    },
+    {
+      "id": "FOww4GONkwQ",
+      "title": "Self-Driving Cars - Lecture 12.3 (Decision Making and Planning: Behavior Planning)",
+      "views": 5000
+    },
+    {
+      "id": "PSX18U1fYEY",
+      "title": "Self-Driving Cars - Lecture 12.4 (Decision Making and Planning: Motion Planning)",
+      "views": 9000
+    }
+  ]
+}

@@ -302,6 +302,82 @@
           "primary": true
         }
       ]
+    },
+    "rpi-cvfx": {
+      "title": "CV for Visual Effects",
+      "university": "RPI",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "RPI · Radke · 2014",
+          "url": "https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a",
+          "date": "Spring 2014",
+          "youtubeId": "rE-hVtytT-I",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-cs205a": {
+      "title": "CS205A Math Methods",
+      "university": "Stanford",
+      "level": "undergrad",
+      "pos": {
+        "x": 1480,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Stanford CS205A · Solomon · 2013",
+          "url": "http://graphics.stanford.edu/courses/cs205a/",
+          "youtube": "https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi",
+          "date": "2013",
+          "youtubeId": "dkT8yuI2d50",
+          "primary": true
+        }
+      ]
+    },
+    "mines-eeng510": {
+      "title": "EENG510 Image Processing",
+      "university": "Colorado Mines",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Colorado Mines EENG510 · Hoff · 2012",
+          "url": "http://inside.mines.edu/~whoff/courses/EENG510",
+          "youtube": "https://www.youtube.com/playlist?list=PLyED3W677ALNv8Htn0f9Xh-AHe1aZPftv",
+          "date": "2012",
+          "youtubeId": "rbY-JRQEDUU",
+          "primary": true
+        }
+      ]
+    },
+    "tum-adl4cv": {
+      "title": "Advanced DL for Vision",
+      "university": "TUM",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "TUM · Leal-Taixé, Nießner · 2020",
+          "url": "https://dvl.in.tum.de/teaching/adl4cv-ss20",
+          "youtube": "https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39",
+          "date": "Spring 2020",
+          "youtubeId": "utfM_XK7n_M",
+          "primary": true
+        }
+      ]
     }
   }
 }

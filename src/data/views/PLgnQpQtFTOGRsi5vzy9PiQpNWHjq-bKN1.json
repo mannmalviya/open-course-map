@@ -1,0 +1,229 @@
+{
+  "lectures": [
+    {
+      "id": "_mOG_lpPnpY",
+      "title": "Photogrammetry I - 01 - Introduction (2015)",
+      "views": 134000
+    },
+    {
+      "id": "vZELygPzV0M",
+      "title": "Photogrammetry I - 02 - Camera Basics (2015)",
+      "views": 47000
+    },
+    {
+      "id": "2Rx-hh9_238",
+      "title": "Photogrammetry I - 03 - Models (2014, as 2015 recordings failed)",
+      "views": 19000
+    },
+    {
+      "id": "I9caK2ZKuTc",
+      "title": "Photogrammetry I - 04a - Histograms (2014)",
+      "views": 12000
+    },
+    {
+      "id": "McMXZO4AZXk",
+      "title": "Photogrammetry I - 04b - Histograms and Point Operators (2015)",
+      "views": 8800
+    },
+    {
+      "id": "0BFjsjd_P94",
+      "title": "Photogrammetry I - 05a - Binary Images (2015)",
+      "views": 7600
+    },
+    {
+      "id": "IPbYkaUFC4k",
+      "title": "Photogrammetry I - 05b - Binary Images (2015)",
+      "views": 6400
+    },
+    {
+      "id": "oIxE3LfG8Mg",
+      "title": "Photogrammetry I - 05c - Binary Images (2015)",
+      "views": 5700
+    },
+    {
+      "id": "ZRvq3gHcprI",
+      "title": "Photogrammetry I - 06ab - Local Operators (2015)",
+      "views": 7600
+    },
+    {
+      "id": "sY3f3mbgMDw",
+      "title": "Photogrammetry I - 06c - Local Operators (2015)",
+      "views": 4500
+    },
+    {
+      "id": "-541dRKaLRA",
+      "title": "Photogrammetry I - 07 - Edge Detection (2015)",
+      "views": 5800
+    },
+    {
+      "id": "Afvg8SB6Fok",
+      "title": "Photogrammetry I - 08a - Matching - Cross Correlation (2015)",
+      "views": 17000
+    },
+    {
+      "id": "JI4QhY8YXAI",
+      "title": "Photogrammetry I - 08b - Matching - Least Squares Matching (2015)",
+      "views": 10000
+    },
+    {
+      "id": "T-6dDOMG2m0",
+      "title": "Photogrammetry I - 09 - Point Features - Förstner Operator (2015)",
+      "views": 7600
+    },
+    {
+      "id": "Qn9enAA5j38",
+      "title": "Photogrammetry I - 10a - Geometric Transfirmations (2015)",
+      "views": 7000
+    },
+    {
+      "id": "Zypm4EQ9vvA",
+      "title": "Photogrammetry I - 10b - Geometric Transformations (2015)",
+      "views": 5200
+    },
+    {
+      "id": "0_k5LN0xf5g",
+      "title": "Photogrammetry I - 11a - Classification (2015)",
+      "views": 3800
+    },
+    {
+      "id": "nK1kDh9ZZgc",
+      "title": "Photogrammetry I - 11bc - Classification (2015)",
+      "views": 3400
+    },
+    {
+      "id": "HAPYNPlplOs",
+      "title": "Photogrammetry I - 12a - Dimensionality Reduction - PCA (2015)",
+      "views": 3500
+    },
+    {
+      "id": "Z7vj640wJRU",
+      "title": "Photogrammetry I - 12b - Dimensionality Reduction - LDA+LLE (2015)",
+      "views": 3600
+    },
+    {
+      "id": "qOlffIwe3gM",
+      "title": "Photogrammetry I - 13a - Clustering & Segmentation (2015)",
+      "views": 3000
+    },
+    {
+      "id": "Fvf2aNyXEjk",
+      "title": "Photogrammetry I - 13b - Clustering & Segmentation (2015)",
+      "views": 2400
+    },
+    {
+      "id": "ZNB6SpEBnBQ",
+      "title": "Photogrammetry I - 14 - Homogeneous Coordinates (2015)",
+      "views": 32000
+    },
+    {
+      "id": "DX2GooBIESs",
+      "title": "Photogrammetry I - 15a -  Camera Extrinsics and Intrinsics (2015)",
+      "views": 25000
+    },
+    {
+      "id": "cxB6NLk2zgk",
+      "title": "Photogrammetry I - 15b -  Camera Extrinsics and Intrinsics (2015)",
+      "views": 12000
+    },
+    {
+      "id": "ywternCEqSU",
+      "title": "Photogrammetry I - 16a - DLT & Camera Calibration (2015)",
+      "views": 38000
+    },
+    {
+      "id": "Ou9Uj75DJX0",
+      "title": "Photogrammetry I - 16b - DLT & Camera Calibration (2015)",
+      "views": 37000
+    },
+    {
+      "id": "N1aCvzFll6Q",
+      "title": "Projective 3-Point Algorithm using Grunert's Method (Cyrill Stachniss)",
+      "views": 17000
+    },
+    {
+      "id": "rC6tF3W4uMc",
+      "title": "Photogrammetry II - 01 - Introduction (2015/16)",
+      "views": 7900
+    },
+    {
+      "id": "-y76vDBbl_8",
+      "title": "Photogrammetry II - 02a - Relative Orientation (2015/16)",
+      "views": 18000
+    },
+    {
+      "id": "Cl1Kne_WqPg",
+      "title": "Photogrammetry II - 02b - Relative Orientation (2015/16)",
+      "views": 10000
+    },
+    {
+      "id": "vNG0uJR48XE",
+      "title": "Photogrammetry II - 03a - Epipolar Geometry and Essential Matrix (2015/16)",
+      "views": 11000
+    },
+    {
+      "id": "8pV-1GFsavA",
+      "title": "Photogrammetry II - 03b - Epipolar Geometry and Essential Matrix (2015/16)",
+      "views": 6400
+    },
+    {
+      "id": "6oMC_3iyeIM",
+      "title": "Photogrammetry II - 04 - Direct Solution for Fundamental and Essential Matrix (2015/16)",
+      "views": 9200
+    },
+    {
+      "id": "SZMKExl20zk",
+      "title": "Photogrammetry II - 05 - Iterative Solution for the Relative Orientation (2015/16)",
+      "views": 5000
+    },
+    {
+      "id": "qS7GaaXwW4c",
+      "title": "Photogrammetry II - 06 - Triangulation and Absolute Orientation (2015/16)",
+      "views": 19000
+    },
+    {
+      "id": "jXHkuiJ4mVQ",
+      "title": "Photogrammetry II - 07 - Bundle Adjustment - Part 1 (2015/16)",
+      "views": 23000
+    },
+    {
+      "id": "LhWUwzYcZuw",
+      "title": "Photogrammetry II - 07c - Bundle Adjustment - Part 2 (2015/16)",
+      "views": 8600
+    },
+    {
+      "id": "JJXwZiqe_Do",
+      "title": "Photogrammetry II - 08 - Aero Triangulation (2015/16)",
+      "views": 11000
+    },
+    {
+      "id": "-G1czNrTGCw",
+      "title": "Photogrammetry II - 09 - Orthophoto (2015/16)",
+      "views": 14000
+    },
+    {
+      "id": "oT9c_LlFBqs",
+      "title": "Photogrammetry II - 10 - SIFT Features and RANSAC (2015/16)",
+      "views": 40000
+    },
+    {
+      "id": "W6eZ-idcHI4",
+      "title": "Photogrammetry II - 11 - Bayes Filter and Models (2015/16)",
+      "views": 4100
+    },
+    {
+      "id": "BblUVCcT__s",
+      "title": "Photogrammetry II - 12 - Kalman Filter and EKF (2015/16)",
+      "views": 7400
+    },
+    {
+      "id": "h8ZBlGEBruA",
+      "title": "Photogrammetry II - 13 - EKF SLAM (2015/16)",
+      "views": 4000
+    },
+    {
+      "id": "9StYrfXSstI",
+      "title": "Photogrammetry II - 14 - Photogrammetry II Summary (2015/16)",
+      "views": 3600
+    }
+  ]
+}

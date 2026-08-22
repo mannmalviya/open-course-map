@@ -1,0 +1,54 @@
+{
+  "lectures": [
+    {
+      "id": "utfM_XK7n_M",
+      "title": "ADL4CV - Introduction",
+      "views": 24000
+    },
+    {
+      "id": "4M-kuW2huqU",
+      "title": "ADL4CV - Visualization and Interpretability",
+      "views": 11000
+    },
+    {
+      "id": "6e65XfwmIWE",
+      "title": "ADL4CV - Siamese Neural Networks and Similarity Learning",
+      "views": 18000
+    },
+    {
+      "id": "kdVSCtgHGF8",
+      "title": "ADL4CV - Autoencoders, VAE and style transfer",
+      "views": 6600
+    },
+    {
+      "id": "FbkE7FsHDkc",
+      "title": "ADL4CV - Graph Neural Networks and Attention",
+      "views": 6000
+    },
+    {
+      "id": "kdZG76dGPGQ",
+      "title": "ADL4CV - Generative Adversarial Networks",
+      "views": 5000
+    },
+    {
+      "id": "bnhGZ45VXZw",
+      "title": "ADL4CV - Generative Adversarial Networks (part 2)",
+      "views": 3000
+    },
+    {
+      "id": "UtT2_CnLCUc",
+      "title": "ADL4CV - Videos & Autoregression",
+      "views": 2900
+    },
+    {
+      "id": "yh4BHFGUx70",
+      "title": "ADL4CV - Neural rendering",
+      "views": 7000
+    },
+    {
+      "id": "cb3nr2Z_xag",
+      "title": "ADL4CV - Deep Learning in Higher Dimensions",
+      "views": 3100
+    }
+  ]
+}

@@ -1432,6 +1432,39 @@ body {
   color: var(--muted);
 }
 
+/* Marks sit in the meta line where the school names would have been, so they
+   read at the weight of the text beside them — wordmarks, for the same reason
+   the logo wall uses them: a square mark this small is a grey blob, and here
+   it is the only thing naming the school. They stay monochrome even on hover,
+   unlike the wall: at this size a brand colour is noise, and it would fight
+   the accent tint the card takes when you point at it. */
+.pathway-logos {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 9px;
+  vertical-align: -3px;
+}
+
+.pathway-logo {
+  height: 13px;
+  width: auto;
+  max-width: 84px;
+  opacity: 0.5;
+  filter: brightness(0);
+  transition: opacity 0.2s ease;
+}
+
+:root[data-theme='dark'] .pathway-logo {
+  opacity: 0.6;
+  filter: brightness(0) invert(1);
+}
+
+.pathway-card:hover .pathway-logo,
+.pathway-card:focus-within .pathway-logo {
+  opacity: 0.9;
+}
+
 /* Breadcrumb wordmark doubles as the way back to the landing */
 a.logo {
   color: inherit;

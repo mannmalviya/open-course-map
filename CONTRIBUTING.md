@@ -131,8 +131,12 @@ A pathway (`src/data/pathways/<id>.json`) is a sequence through courses already
 on the map. `official` pathways are transcribed from a department's own
 requirements and cite them in `source`; `curated` ones are a personal pick and
 say so. A step a department requires that nobody has posted online goes in
-`gaps` rather than being skipped, so the sequence stays faithful. Open an issue
-before starting one so the shape can be agreed on.
+`gaps` rather than being skipped, so the sequence stays faithful. `logos` is
+the marks its landing card carries, as `university` keys (`["Stanford"]`) — set
+by hand, because a sequence can borrow a course from anywhere and the marks
+should say whose sequence it is, not who happens to appear in it. Leave it out
+and the card lists its steps' schools as names. Open an issue before starting
+one so the shape can be agreed on.
 
 ## Logos and covers
 

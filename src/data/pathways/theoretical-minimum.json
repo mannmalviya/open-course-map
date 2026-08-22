@@ -3,7 +3,8 @@
   "kind": "official",
   "field": "Physics",
   "source": "Stanford Continuing Studies — Susskind's core sequence, in the order Stanford lists it",
-  "blurb": "Susskind's six core courses. Not a survey — the actual machinery, in the order a physicist would hand it to you.",
+  "blurb": "Susskind's six courses.",
+  "logos": ["Stanford"],
   "steps": [
     {
       "course": "susskind-cm",

@@ -71,6 +71,13 @@ export interface Group {
   source?: string;
   /** Field this pathway is filed under on the landing page, e.g. "Physics" */
   field?: string;
+  /**
+   * Marks on this pathway's landing card, as `university` keys. Set by hand:
+   * a sequence can borrow a course from anywhere, and the marks should say
+   * whose sequence it is rather than everyone who turns up in it. Left out,
+   * the card lists its steps' schools as names instead.
+   */
+  logos?: string[];
 }
 
 export interface Edge {
@@ -147,6 +154,8 @@ export interface PathwayFile {
   blurb: string;
   source: string;
   field: string;
+  /** School marks for the landing card — see `logos` on Group */
+  logos?: string[];
   /** Ordered for readability; the edges are what actually define the sequence */
   steps: Array<{ course: string; pos: XY; note?: string }>;
   gaps?: Array<Omit<Gap, 'inGroup'>>;

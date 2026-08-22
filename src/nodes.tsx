@@ -1,13 +1,13 @@
 import { useEffect, useState } from 'react';
 import type { Course, Gap, Ghost, Group, Rect } from './types';
 import {
-  COURSE_W, COURSE_H, COURSE_H_COMPACT, GAP_W,
+  COURSE_W, GAP_W,
   GAP_TITLE_TOP, GAP_TITLE_LINE, GAP_STATUS_GAP, GAP_NOTE_TOP, GAP_NOTE_LINE,
   GAP_ALTS_TOP, GAP_ALT_ROW,
   borderPoint, center, childGroups, courseCount, courseRect, coursesIn, courseTerm,
   edgesOn, gapAltLabel, gapAlternates, gapNoteLines, gapRect, gapsIn, gapTitleLines,
   ghostNoteLines, ghostRect, ghostsIn, ghostTitleLines, ghostWidth,
-  isCompact, levelLabel, logoFor, map,
+  courseHeight, detailsHidden, levelLabel, logoFor, map, thumbsHidden,
   primaryVersion, seedFor, thumbUrl, wrapText,
   STEP_W, STEP_PAD, STEP_THUMB_TOP, STEP_THUMB_W, STEP_THUMB_H,
   STEP_TITLE_LINE, STEP_NOTE_TOP, stepNoteLines, stepTitleBase, stepTitleLines,
@@ -30,80 +30,83 @@ interface CourseNodeProps {
 export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
   const { x, y } = course.pos;
   const seed = seedFor(id);
-
-  if (isCompact()) {
-    const titleLines = wrapText(course.title, 24);
-    // First baseline placed so the text block sits vertically centered
-    const baseY = y + COURSE_H_COMPACT / 2 + 5 - ((titleLines.length - 1) * 15 * 1.25) / 2;
-    return (
-      <g
-        className="node course-node"
-        onClick={() => onSelect(id)}
-      >
-        <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H_COMPACT} seed={seed} fill="var(--node-fill)" />
-        <SketchText x={x + COURSE_W / 2} y={baseY} lines={titleLines} size={15} />
-      </g>
-    );
-  }
+  const showThumb = !thumbsHidden();
+  const showDetails = !detailsHidden();
+  const h = courseHeight();
 
   const primary = primaryVersion(course);
   const thumb = thumbUrl(primary);
   const logo = logoFor(course.university);
   const term = courseTerm(course);
   const extra = course.versions.length - 1;
-  const titleLines = wrapText(course.title, 26);
+  const titleLines = wrapText(course.title, showThumb ? 26 : 24);
   // Two-line titles trade thumbnail height for title room so they clear the footer
   const twoLines = titleLines.length > 1;
   const thumbX = x + 14;
   const thumbY = y + 12;
   const thumbW = COURSE_W - 28;
   const thumbH = twoLines ? 88 : 100;
-  const titleY = y + (twoLines ? 116 : 130);
-  // footer row tucked under the title: school logo bottom-left, term bottom-right
-  const footerBaseline = y + COURSE_H - 14;
   const levelText = course.level ? levelLabel(course.level) : '';
   const levelW = levelText.length * 5.4 + 12;
   const levelInk = course.level === 'grad' ? 'var(--accent)' : 'var(--muted)';
+  // With no thumbnail to sit on, the level tag moves to the card's top-left corner
+  const levelX = showThumb ? thumbX + 6 : x + 14;
+  const levelY = showThumb ? thumbY + 6 : y + 10;
+  const showLevel = showDetails && Boolean(course.level);
+
+  // Under the thumbnail when there is one; otherwise centred in what the level
+  // tag and the footer leave behind, so a title-only card reads as deliberate
+  const bandTop = y + (showLevel ? levelY - y + 26 : 10);
+  const bandBottom = y + h - (showDetails ? 32 : 10);
+  const titleY = showThumb
+    ? y + (twoLines ? 116 : 130)
+    : (bandTop + bandBottom) / 2 + 5 - ((titleLines.length - 1) * 15 * 1.25) / 2;
+  // footer row tucked under the title: school logo bottom-left, term bottom-right
+  const footerBaseline = y + h - 14;
 
   return (
     <g
       className="node course-node"
       onClick={() => onSelect(id)}
     >
-      <SketchRect x={x} y={y} w={COURSE_W} h={COURSE_H} seed={seed} fill="var(--node-fill)" />
-      {thumb ? (
-        <image
-          href={thumb}
-          x={thumbX} y={thumbY} width={thumbW} height={thumbH}
-          preserveAspectRatio="xMidYMid slice"
-        />
-      ) : logo ? (
-        <image
-          href={logo}
-          x={x + COURSE_W / 2 - 24} y={thumbY + thumbH / 2 - 24}
-          width={48} height={48}
-          preserveAspectRatio="xMidYMid meet"
-        />
-      ) : (
-        <SketchText
-          x={x + COURSE_W / 2}
-          y={thumbY + thumbH / 2 + 6}
-          lines={[course.university ?? 'Lectures']}
-          size={20}
-          fill="var(--muted)"
-        />
+      <SketchRect x={x} y={y} w={COURSE_W} h={h} seed={seed} fill="var(--node-fill)" />
+      {showThumb && (
+        <>
+          {thumb ? (
+            <image
+              href={thumb}
+              x={thumbX} y={thumbY} width={thumbW} height={thumbH}
+              preserveAspectRatio="xMidYMid slice"
+            />
+          ) : logo ? (
+            <image
+              href={logo}
+              x={x + COURSE_W / 2 - 24} y={thumbY + thumbH / 2 - 24}
+              width={48} height={48}
+              preserveAspectRatio="xMidYMid meet"
+            />
+          ) : (
+            <SketchText
+              x={x + COURSE_W / 2}
+              y={thumbY + thumbH / 2 + 6}
+              lines={[course.university ?? 'Lectures']}
+              size={20}
+              fill="var(--muted)"
+            />
+          )}
+          <SketchRect x={thumbX} y={thumbY} w={thumbW} h={thumbH} seed={seed + 1} strokeWidth={1} />
+        </>
       )}
-      <SketchRect x={thumbX} y={thumbY} w={thumbW} h={thumbH} seed={seed + 1} strokeWidth={1} />
       <SketchText
         x={x + COURSE_W / 2}
         y={titleY}
         lines={titleLines}
         size={15}
       />
-      {logo ? (
+      {showDetails && (logo ? (
         <image
           href={logo}
-          x={x + 14} y={y + COURSE_H - 32}
+          x={x + 14} y={y + h - 32}
           width={LOGO_SLOT_W} height={22}
           preserveAspectRatio="xMinYMid meet"
         >
@@ -117,8 +120,8 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
             size={11} fill="var(--muted)" anchor="start"
           />
         )
-      )}
-      {term && (
+      ))}
+      {showDetails && term && (
         <SketchText
           x={x + COURSE_W - 14} y={footerBaseline}
           lines={[term]}
@@ -127,14 +130,14 @@ export function CourseNode({ id, course, onSelect }: CourseNodeProps) {
       )}
       {/* Level sits inside the outline over the thumbnail's top-left, deliberately
           lighter than the +N badge so it reads as metadata, not a callout */}
-      {course.level && (
+      {showLevel && (
         <g>
           <SketchRect
-            x={thumbX + 6} y={thumbY + 6} w={levelW} h={18}
+            x={levelX} y={levelY} w={levelW} h={18}
             seed={seed + 3} stroke={levelInk} fill="var(--bg)" strokeWidth={0.9}
           />
           <SketchText
-            x={thumbX + 6 + levelW / 2} y={thumbY + 19}
+            x={levelX + levelW / 2} y={levelY + 13}
             lines={[levelText]} size={10} fill={levelInk}
           />
         </g>
@@ -255,6 +258,13 @@ function collectThumbs(groupId: string): string[] {
 /** How long a cell holds before the next one in the tile is swapped out. */
 const COLLAGE_SWAP_MS = 3800;
 
+/**
+ * How long the band takes to start moving. Waiting a full swap for the first
+ * one made the tiles look static to anyone who scrolled past — the stagger that
+ * keeps tiles out of step is packed into this opening window instead.
+ */
+const COLLAGE_FIRST_SWAP_MS = 900;
+
 /** How many thumbnails a collage shows at once. */
 const COLLAGE_CELLS = 4;
 
@@ -291,16 +301,30 @@ function Collage({ pool, x, y, w, h, seed, rotate }: CollageProps) {
   useEffect(() => {
     if (!cycles) return;
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
-    // Tiles are offset from one another so the band never turns over all at once
+    const swap = () => {
+      // A hidden tab would otherwise chew through the pool with nobody watching
+      if (!document.hidden) setTick((t) => t + 1);
+    };
+    // Every tile swaps once in the opening window, so the band is alive as soon
+    // as you land. Its own slot in the rhythm is spread across the full interval
+    // though, so from the second swap on they never turn over together — hence
+    // the one-off wait that carries a tile from the opening swap into its slot.
+    const opening = seed % COLLAGE_FIRST_SWAP_MS;
+    let settle = (seed % COLLAGE_SWAP_MS) - opening;
+    while (settle < COLLAGE_SWAP_MS / 2) settle += COLLAGE_SWAP_MS;
+
+    let second: number | undefined;
     let interval: number | undefined;
     const start = window.setTimeout(() => {
-      interval = window.setInterval(() => {
-        // A hidden tab would otherwise chew through the pool with nobody watching
-        if (!document.hidden) setTick((t) => t + 1);
-      }, COLLAGE_SWAP_MS);
-    }, seed % COLLAGE_SWAP_MS);
+      swap();
+      second = window.setTimeout(() => {
+        swap();
+        interval = window.setInterval(swap, COLLAGE_SWAP_MS);
+      }, settle);
+    }, opening);
     return () => {
       window.clearTimeout(start);
+      if (second !== undefined) window.clearTimeout(second);
       if (interval !== undefined) window.clearInterval(interval);
     };
   }, [cycles, seed]);
@@ -385,8 +409,12 @@ export function GroupNode({ id, group, onOpen, rotate }: GroupNodeProps) {
   const seed = seedFor(id);
   const count = courseCount(id);
   const countLabel = `${count} course${count === 1 ? '' : 's'}`;
-  const pool = GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
-  const hasPreview = pool.length > 0 || pageRects(id).length > 0;
+  // Collapsing thumbnails takes the collage with it — a group box then names
+  // itself inside the box rather than only above it, so it still says something
+  const showPreview = !thumbsHidden();
+  const pool = showPreview && GROUP_PREVIEW === 'collage' ? collectThumbs(id) : [];
+  const hasPreview = showPreview && (pool.length > 0 || pageRects(id).length > 0);
+  const titleLines = wrapText(group.title, 18);
 
   return (
     <g
@@ -394,19 +422,27 @@ export function GroupNode({ id, group, onOpen, rotate }: GroupNodeProps) {
       onClick={() => onOpen(id)}
     >
       <SketchRect x={x} y={y} w={w} h={h} seed={seed} fill="var(--group-fill)" strokeWidth={1.8} />
-      <SketchText x={x + w / 2} y={y - 14} lines={[group.title]} size={22} />
+      {showPreview && <SketchText x={x + w / 2} y={y - 14} lines={[group.title]} size={22} />}
       {pool.length > 0 ? (
         <Collage pool={pool} rotate={rotate} x={x + 14} y={y + 14} w={w - 28} h={h - 52} seed={seed} />
       ) : hasPreview ? (
         <MiniMap groupId={id} x={x + 14} y={y + 14} w={w - 28} h={h - 52} />
-      ) : (
+      ) : showPreview ? (
         <SketchText
           x={x + w / 2} y={y + h / 2 + 6}
           lines={[countLabel]}
           size={14} fill="var(--muted)"
         />
+      ) : (
+        <SketchText
+          x={x + w / 2}
+          y={y + h / 2 + 8 - ((titleLines.length - 1) * 22 * 1.25) / 2}
+          lines={titleLines}
+          size={22}
+        />
       )}
-      {hasPreview && (
+      {/* The count moves to the footer whenever the middle of the box is spoken for */}
+      {!(showPreview && !hasPreview) && (
         <SketchText
           x={x + 14} y={y + h - 12}
           lines={[countLabel]}
@@ -480,7 +516,8 @@ export function PathwayStepNode({ ghost, onJump }: PathwayStepNodeProps) {
   const { x, y } = ghost.pos;
   const { h } = ghostRect(ghost);
   const seed = seedFor(ghost.node + ghost.inGroup);
-  const compact = isCompact();
+  const showThumb = !thumbsHidden();
+  const showDetails = !detailsHidden();
   const thumb = thumbUrl(primaryVersion(course));
   const logo = logoFor(course.university);
   const titleLines = stepTitleLines(ghost);
@@ -496,7 +533,7 @@ export function PathwayStepNode({ ghost, onJump }: PathwayStepNodeProps) {
       onClick={() => onJump(ghost.node)}
     >
       <SketchRect x={x} y={y} w={STEP_W} h={h} seed={seed} fill="var(--node-fill)" />
-      {!compact && (
+      {showThumb && (
         <>
           {thumb ? (
             <image
@@ -534,7 +571,7 @@ export function PathwayStepNode({ ghost, onJump }: PathwayStepNodeProps) {
           fill="var(--muted)"
         />
       )}
-      {!compact && (logo ? (
+      {showDetails && (logo ? (
         <image
           href={logo}
           x={x + STEP_PAD} y={y + h - 32}

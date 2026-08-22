@@ -151,23 +151,49 @@ export function formatViews(n: number): string {
 // Node dimensions (course nodes are fixed-size; groups carry their own size)
 export const COURSE_W = 220;
 export const COURSE_H = 168;
+/** Title only — both the thumbnail and the details are collapsed */
 export const COURSE_H_COMPACT = 60;
+/** Level tag, title and the school/term footer, with the thumbnail dropped */
+export const COURSE_H_NO_THUMB = 108;
+/** Thumbnail and title, with the footer row dropped */
+export const COURSE_H_NO_DETAILS = 152;
 export const GHOST_W = 200;
 export const GHOST_H = 56;
 
-/** Compact mode: course cards collapse to title-only boxes — synced from App state. */
-let compactCourses = false;
+/*
+ * Two independent collapses, both synced from App state. Thumbnails are the
+ * expensive half of a card and the details the fiddly half, and people want
+ * them gone for different reasons — a dense map of titles, or a wall of
+ * pictures with no chrome — so neither switch implies the other.
+ */
+let thumbsHiddenFlag = false;
+let detailsHiddenFlag = false;
 
-export function setCompactCourses(v: boolean) {
-  compactCourses = v;
+export function setThumbsHidden(v: boolean) {
+  thumbsHiddenFlag = v;
 }
 
-export function isCompact(): boolean {
-  return compactCourses;
+export function setDetailsHidden(v: boolean) {
+  detailsHiddenFlag = v;
+}
+
+/** Course thumbnails and group collages are collapsed. */
+export function thumbsHidden(): boolean {
+  return thumbsHiddenFlag;
+}
+
+/** School, term and the undergrad/grad tag are collapsed. */
+export function detailsHidden(): boolean {
+  return detailsHiddenFlag;
+}
+
+export function courseHeight(): number {
+  if (thumbsHiddenFlag) return detailsHiddenFlag ? COURSE_H_COMPACT : COURSE_H_NO_THUMB;
+  return detailsHiddenFlag ? COURSE_H_NO_DETAILS : COURSE_H;
 }
 
 export function courseRect(c: Course): Rect {
-  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: compactCourses ? COURSE_H_COMPACT : COURSE_H };
+  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: courseHeight() };
 }
 
 /** Pathway steps carry commentary, so they get a wider card than a bare reference. */
@@ -231,7 +257,7 @@ export function stepNoteLines(g: Ghost): string[] {
 
 /** Title baseline from the card's top: under the thumbnail, or near the top when collapsed. */
 export function stepTitleBase(): number {
-  return compactCourses ? 26 : STEP_THUMB_TOP + STEP_THUMB_H + STEP_TITLE_TOP;
+  return thumbsHiddenFlag ? 26 : STEP_THUMB_TOP + STEP_THUMB_H + STEP_TITLE_TOP;
 }
 
 function stepHeight(g: Ghost): number {
@@ -240,8 +266,9 @@ function stepHeight(g: Ghost): number {
     stepTitleBase() +
     (stepTitleLines(g).length - 1) * STEP_TITLE_LINE +
     (notes > 0 ? STEP_NOTE_TOP + (notes - 1) * STEP_NOTE_LINE : 0);
-  // Collapsed cards drop the thumbnail and the school with it, so no footer either
-  return compactCourses ? Math.max(COURSE_H_COMPACT, lastBaseline + 16) : lastBaseline + STEP_FOOTER;
+  // The footer is the school row, so it goes with the details, not the thumbnail
+  const bottom = lastBaseline + (detailsHiddenFlag ? 16 : STEP_FOOTER);
+  return thumbsHiddenFlag ? Math.max(COURSE_H_COMPACT, bottom) : bottom;
 }
 
 // Gap nodes are wider than ghosts: they carry a reason and a list of alternates

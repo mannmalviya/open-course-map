@@ -5,7 +5,8 @@ import { Landing } from './Landing';
 import { Pathways } from './Pathways';
 import {
   filterSchools, groupChain, isPathway, landingHash, LEVELS, map, parseHash, PATHWAYS_GROUP,
-  routeHash, setCompactCourses, setHidePrereqs, setSelectedLevels, setSelectedSchools, type Route,
+  routeHash, setDetailsHidden, setHidePrereqs, setSelectedLevels, setSelectedSchools,
+  setThumbsHidden, type Route,
 } from './model';
 
 type Theme = 'light' | 'dark';
@@ -69,6 +70,7 @@ export default function App() {
     initialSelection('ocm-levels', new Set(LEVELS.map((l) => l.id as string)))
   );
   const [compact, setCompact] = useState(() => localStorage.getItem('ocm-compact') === '1');
+  const [noDetails, setNoDetails] = useState(() => localStorage.getItem('ocm-hide-details') === '1');
   const [noPrereqs, setNoPrereqs] = useState(() => localStorage.getItem('ocm-hide-prereqs') === '1');
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [viewOpen, setViewOpen] = useState(false);
@@ -80,7 +82,8 @@ export default function App() {
   // Sync the model's filter before children render so the whole map reflects it
   setSelectedSchools(schools);
   setSelectedLevels(levels);
-  setCompactCourses(compact);
+  setThumbsHidden(compact);
+  setDetailsHidden(noDetails);
   setHidePrereqs(noPrereqs);
 
   useEffect(() => {
@@ -122,6 +125,10 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem('ocm-compact', compact ? '1' : '0');
   }, [compact]);
+
+  useEffect(() => {
+    localStorage.setItem('ocm-hide-details', noDetails ? '1' : '0');
+  }, [noDetails]);
 
   useEffect(() => {
     localStorage.setItem('ocm-hide-prereqs', noPrereqs ? '1' : '0');
@@ -404,6 +411,14 @@ export default function App() {
               type="checkbox"
               checked={compact}
               onChange={() => setCompact((c) => !c)}
+            />
+          </label>
+          <label className="settings-row switch-row">
+            Collapse details
+            <input
+              type="checkbox"
+              checked={noDetails}
+              onChange={() => setNoDetails((v) => !v)}
             />
           </label>
           <label className="settings-row switch-row">

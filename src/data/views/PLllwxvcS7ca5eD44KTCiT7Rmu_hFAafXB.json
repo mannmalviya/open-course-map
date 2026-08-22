@@ -1,0 +1,49 @@
+{
+  "lectures": [
+    {
+      "id": "-MEt9Y4idpU",
+      "title": "[NUS CS6101 Deep Learning for NLP] S3 - Course Organization, Introductions",
+      "views": 1300
+    },
+    {
+      "id": "LkGrnEpdtLU",
+      "title": "[NUS CS6101 Deep Learning for NLP] S5 - Recurrent Neural Networks and Language Models",
+      "views": 304
+    },
+    {
+      "id": "dH-slVoZMKk",
+      "title": "[NUS CS6101 Deep Learning for NLP] S6 - Vanishing Gradients and Fancy RNNs",
+      "views": 183
+    },
+    {
+      "id": "cTkZNmnla7c",
+      "title": "[NUS CS6101 Deep Learning for NLP] S Recess - Machine Translation, Seq2seq and Attention",
+      "views": 338
+    },
+    {
+      "id": "3S431ZCuhR4",
+      "title": "[NUS CS6101 Deep Learning for NLP] S7 - Advanced Attention",
+      "views": 280
+    },
+    {
+      "id": "yCdl2afW88k",
+      "title": "[NUS CS6101 Deep Learning for NLP] S8 - Transformer Networks and CNNs",
+      "views": 13000
+    },
+    {
+      "id": "nS-MZVO9kcs",
+      "title": "[NUS CS6101 Deep Learning for NLP] S9 - Coreference Resolution",
+      "views": 705
+    },
+    {
+      "id": "w5_Ksl6LNQc",
+      "title": "[NUS CS6101 Deep Learning for NLP] S11 - Advanced Architectures and Memory Networks",
+      "views": 195
+    },
+    {
+      "id": "OTkCy5ziMEk",
+      "title": "[NUS CS6101 Deep Learning for NLP] S13 - Semi-supervised Learning for NLP",
+      "views": 554
+    }
+  ]
+}

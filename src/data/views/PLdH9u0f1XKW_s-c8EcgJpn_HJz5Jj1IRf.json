@@ -1,0 +1,69 @@
+{
+  "lectures": [
+    {
+      "id": "vtYaPESzZj4",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 1 - Course Logistics & Machine Learning Basics",
+      "views": 1300
+    },
+    {
+      "id": "bRcmBpc527g",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 2 - Text Classification",
+      "views": 242
+    },
+    {
+      "id": "4YXrZt566Jc",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 3 - n-gram Language Modeling",
+      "views": 170
+    },
+    {
+      "id": "aoZPrjTwKyg",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 4 - recurrent neural network language models and perplexity",
+      "views": 167
+    },
+    {
+      "id": "JzTecn4r9Fs",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 5 - vanishing gradient and grated recurrent units",
+      "views": 100
+    },
+    {
+      "id": "ZOgdRwM8fcs",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 6 - attention and masked language modeling",
+      "views": 197
+    },
+    {
+      "id": "wL2IpMk058g",
+      "title": "DS-GA 1011 (Fall 2021) Lecture 7 - Semi-supervised learning and transfer learning in NLP",
+      "views": 180
+    },
+    {
+      "id": "EEXVfZshnTQ",
+      "title": "DS-GA 1011 Lecture 8 - Conditional language modeling",
+      "views": 147
+    },
+    {
+      "id": "buzWAgo_dKM",
+      "title": "DS-GA 1011 (Fall 2021) - Lecture 9 - Matrix factorization and language modeling",
+      "views": 101
+    },
+    {
+      "id": "LQ7X8nHbUJs",
+      "title": "DS-GA 1011 (Fall 2021) - Lecture 10 - Probabilistic PCA and latent-variable sequence modeling",
+      "views": 196
+    },
+    {
+      "id": "gER5sCUodHQ",
+      "title": "DS-GA 1011 (Fall 2021) - Lecture 11 Unreasonably shalow deep learning",
+      "views": 99
+    },
+    {
+      "id": "bwddgcQ_h04",
+      "title": "DS-GA 1011 (Fall 2021) - Lecture 12 Multimodal learning by Aishwarya Kamath",
+      "views": 203
+    },
+    {
+      "id": "rjKvC-VByRQ",
+      "title": "DS-GA 1011 (Fall 2021) - Lecture 13 - AI for Music and Music for AI by Keunwoo Choi",
+      "views": 1000
+    }
+  ]
+}

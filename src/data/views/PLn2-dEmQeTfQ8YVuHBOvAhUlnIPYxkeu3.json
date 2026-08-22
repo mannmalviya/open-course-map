@@ -1,0 +1,69 @@
+{
+  "lectures": [
+    {
+      "id": "PtA0lg_e5nA",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 1 (Introduction) - Michael Bronstein",
+      "views": 62000
+    },
+    {
+      "id": "4RmpSvQ2LL0",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 2 (Learning in High Dimensions) - Joan Bruna",
+      "views": 17000
+    },
+    {
+      "id": "fWBrupgU4X8",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 3 (Geometric Priors I) - Taco Cohen",
+      "views": 13000
+    },
+    {
+      "id": "ERL17gbbSwo",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 4 (Geometric Priors II) - Joan Bruna",
+      "views": 8900
+    },
+    {
+      "id": "E_Wweuk5iqA",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 5 (Graphs & Sets I) - Petar Veličković",
+      "views": 8700
+    },
+    {
+      "id": "i79ewWQiUX4",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 6 (Graphs & Sets II) - Petar Veličković",
+      "views": 6500
+    },
+    {
+      "id": "O2-I0y8ACj4",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 7 (Grids) - Joan Bruna",
+      "views": 4400
+    },
+    {
+      "id": "kee16fXU8h0",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 8 (Groups & Homogeneous spaces) - Taco Cohen",
+      "views": 5000
+    },
+    {
+      "id": "WVTrWGiZF8E",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 9 (Manifolds & Meshes) - Michael Bronstein",
+      "views": 6000
+    },
+    {
+      "id": "UrmvMDHOXow",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 10 (Gauges) - Taco Cohen",
+      "views": 5200
+    },
+    {
+      "id": "1MvBn77-VDk",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 11 (Sequences & Time Warping) - Petar Veličković",
+      "views": 3400
+    },
+    {
+      "id": "caQV-Vb9TBw",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Lecture 12 (Applications & Conclusions) - Michael Bronstein",
+      "views": 3500
+    },
+    {
+      "id": "ZjeMeJjzR6k",
+      "title": "AMMI Course \"Geometric Deep Learning\" - Seminar 1 (GDL & Reinforcement Learning) - Elise van der Pol",
+      "views": 1300
+    }
+  ]
+}

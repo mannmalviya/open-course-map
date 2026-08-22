@@ -1,0 +1,119 @@
+{
+  "lectures": [
+    {
+      "id": "rmVRLeJRkl4",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2021 | Lecture 1 - Intro & Word Vectors",
+      "views": 804000
+    },
+    {
+      "id": "gqaHkPEZAew",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 2 - Neural Classifiers",
+      "views": 209000
+    },
+    {
+      "id": "X0Jw4kgaFlg",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 3 - Backprop and Neural Networks",
+      "views": 119000
+    },
+    {
+      "id": "PSGIodTN3KE",
+      "title": "Stanford CS224N - NLP w/ DL | Winter 2021 | Lecture 4 - Syntactic Structure and Dependency Parsing",
+      "views": 103000
+    },
+    {
+      "id": "PLryWeHPcBs",
+      "title": "Stanford CS224N -  NLP w/ DL | Winter 2021 | Lecture 5 - Recurrent Neural networks (RNNs)",
+      "views": 99000
+    },
+    {
+      "id": "0LixFSa7yts",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 6 - Simple and LSTM RNNs",
+      "views": 101000
+    },
+    {
+      "id": "wzfWHP6SXxY",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 7 - Translation, Seq2Seq, Attention",
+      "views": 99000
+    },
+    {
+      "id": "gKD7jPAdbpE",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 8 - Final Projects; Practical Tips",
+      "views": 41000
+    },
+    {
+      "id": "ptuGllU5SQQ",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 9 - Self- Attention and Transformers",
+      "views": 78000
+    },
+    {
+      "id": "j9AcEI98C0o",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 10 - Transformers and Pretraining",
+      "views": 50000
+    },
+    {
+      "id": "NcqfHa0_YmU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Question Answering",
+      "views": 61000
+    },
+    {
+      "id": "1uMo8olr5ng",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 12 - Natural Language Generation",
+      "views": 26000
+    },
+    {
+      "id": "FFRnDRcbQQU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 13 - Coreference Resolution",
+      "views": 35000
+    },
+    {
+      "id": "iHWkLvoSpTg",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 14 - T5 and Large Language Models",
+      "views": 25000
+    },
+    {
+      "id": "y68RJVfGoto",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 15 - Add Knowledge to Language Models",
+      "views": 34000
+    },
+    {
+      "id": "-Ldg4qFL6bU",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 16 - Social & Ethical Considerations",
+      "views": 14000
+    },
+    {
+      "id": "f_qmSSBWV_E",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 17 - Model Analysis and Explanation",
+      "views": 27000
+    },
+    {
+      "id": "2t7Q9WVUaf8",
+      "title": "Stanford CS224N NLP with Deep Learning | Winter 2021 | Lecture 18 - Future of NLP + Deep Learning",
+      "views": 27000
+    },
+    {
+      "id": "mp95Z5yM92c",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | Low Resource Machine Translation",
+      "views": 30000
+    },
+    {
+      "id": "knTc-NQSjKA",
+      "title": "Stanford CS224N: NLP with Deep Learning | Winter 2020 | BERT and Other Pre-trained Language Models",
+      "views": 81000
+    },
+    {
+      "id": "iXjtJmUQBZk",
+      "title": "Stanford CS224N I NLP with Deep Learning | Spring 2022 | Socially Intelligent NLP Systems",
+      "views": 12000
+    },
+    {
+      "id": "4ynrGLIuPv4",
+      "title": "Stanford CS224N NLP with Deep Learning |Spring 2022|Guest Lecture: Building Knowledge Representation",
+      "views": 17000
+    },
+    {
+      "id": "UFem7xa3Q2Q",
+      "title": "Stanford CS224N NLP with Deep Learning | Spring 2022 | Guest Lecture: Scaling Language Models",
+      "views": 23000
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "lectures": [
+    {
+      "id": "fdAC4ALCCLA",
+      "title": "Computational Linguistics I: Python and Probability",
+      "views": 48000
+    },
+    {
+      "id": "hNhI6-qM454",
+      "title": "Computational Linguistics I: Morphology",
+      "views": 23000
+    },
+    {
+      "id": "I_o0QHLuYo0",
+      "title": "Computational Linguistics I: Language Models",
+      "views": 11000
+    },
+    {
+      "id": "YjGJpfELzgY",
+      "title": "Computational Linguistics I: Lexical Semantics",
+      "views": 14000
+    },
+    {
+      "id": "4p9MSJy761Y",
+      "title": "Computational Linguistics I: Topic Modeling",
+      "views": 19000
+    },
+    {
+      "id": "nKqyU0bUKTQ",
+      "title": "Computational Linguistics I: Machine Translation (IBM Model 1)",
+      "views": 11000
+    },
+    {
+      "id": "XqgDtD_P75A",
+      "title": "Computational Linguistics I: Maximum Entropy",
+      "views": 6100
+    },
+    {
+      "id": "sL_W_I8DpuU",
+      "title": "Computational Linguistics I: Constituency Grammars",
+      "views": 3000
+    },
+    {
+      "id": "du9VQaFEyeA",
+      "title": "Computational Linguistics 1: Dependency Parsing",
+      "views": 16000
+    },
+    {
+      "id": "F1ZgIS7pZNo",
+      "title": "Computational Linguistics I: Part of Speech Tagging",
+      "views": 5400
+    },
+    {
+      "id": "rwCwJB5UV0g",
+      "title": "Introduction to Computational Linguistics",
+      "views": 36000
+    },
+    {
+      "id": "s0My5BReLJE",
+      "title": "Distributional and Distributed Semantics: Intro",
+      "views": 4900
+    },
+    {
+      "id": "Jid_EVBoVLU",
+      "title": "Word Embedding Evaluation",
+      "views": 3300
+    },
+    {
+      "id": "losFCNJbnZY",
+      "title": "Deep Averaging Networks: Example in Pytorch",
+      "views": 8300
+    },
+    {
+      "id": "AZwwDIV2vcI",
+      "title": "Pytorch",
+      "views": 2200
+    },
+    {
+      "id": "4wa2WyDrgMA",
+      "title": "Language Models: Backoff and Smoothing with the Chinese Restaurant Process",
+      "views": 9400
+    },
+    {
+      "id": "FJQl0ujTAGw",
+      "title": "Deep Learning Frameworks: Computation Graphs",
+      "views": 8200
+    },
+    {
+      "id": "c3yRH0XZN2g",
+      "title": "Word2Vec Algorithm",
+      "views": 7600
+    },
+    {
+      "id": "azOAVDz5U8A",
+      "title": "Classification Big Picture and Evaluation",
+      "views": 853
+    },
+    {
+      "id": "f5-hTA9hA3s",
+      "title": "Dependency Parsing: Shift-Reduce Models",
+      "views": 18000
+    },
+    {
+      "id": "vH8cUGFOwPk",
+      "title": "CMSC 470 Final Project: UMD Undergrads' Trivia-Playing Programs take on Jeopardy! Champions",
+      "views": 2500
+    },
+    {
+      "id": "MmHvwegqTN4",
+      "title": "Pytorch Introduction (pointer to Python Engineer)",
+      "views": 526
+    },
+    {
+      "id": "9peCcstwGtU",
+      "title": "Why Computer Scientists work on Question Answering: Cranfield vs  Manchester",
+      "views": 1100
+    },
+    {
+      "id": "uJ7ZdhSNKSY",
+      "title": "Relationship Mining: How Computers know Elon Musk is the CEO of Tesla",
+      "views": 746
+    },
+    {
+      "id": "OhuIoR2lcd4",
+      "title": "Wikification: How a computer can look up things it doesn't know",
+      "views": 1000
+    },
+    {
+      "id": "NuyBMrkiOUk",
+      "title": "How do computers know what \"it\" means: The problem of \"coref\"",
+      "views": 1600
+    },
+    {
+      "id": "bg4kAZBKXfs",
+      "title": "Why I Teach Useless Machine Learning Algorithms",
+      "views": 737
+    },
+    {
+      "id": "9Z7mN7ebWDA",
+      "title": "Understanding BERT: The Transformer in the Encoder (with Mohit Iyyer)",
+      "views": 3000
+    },
+    {
+      "id": "smfWKhDcaoA",
+      "title": "Topic Models: Variational Inference for Latent Dirichlet Allocation (with Xanda Schofield)",
+      "views": 3200
+    },
+    {
+      "id": "-tKmyHoVZ-g",
+      "title": "Variational Methods: How to Derive Inference for New Models (with Xanda Schofield)",
+      "views": 1800
+    },
+    {
+      "id": "qvr5J9m7Gmw",
+      "title": "Topic Models: Why They're Still Relevant in the Neural Age (with Xanda Schofield)",
+      "views": 1400
+    },
+    {
+      "id": "4-se75AuETA",
+      "title": "Feature Engineering in the Age of Deep Learning",
+      "views": 1400
+    },
+    {
+      "id": "IQAXiR6R9sI",
+      "title": "Lost Opportunities for Virtual Conference Talks",
+      "views": 752
+    },
+    {
+      "id": "35AO0dU3m40",
+      "title": "Where can (and should) you publish your natural language processing research? (w/ Philip Resnik)",
+      "views": 624
+    },
+    {
+      "id": "ZqFqd9qUQM4",
+      "title": "[Lecture] What's a word?",
+      "views": 1300
+    },
+    {
+      "id": "XnDUmHrj1TM",
+      "title": "[Lecture] How to build a trivia playing robot",
+      "views": 648
+    },
+    {
+      "id": "bdQIUv9FutE",
+      "title": "When somebody tells you they passed the Turing Test, keep your hand on your wallet [Lecture]",
+      "views": 843
+    },
+    {
+      "id": "ziX5MJ4VKY0",
+      "title": "How Asking Questions is the Foundation of Civilization [Lecture]",
+      "views": 495
+    },
+    {
+      "id": "WCIFUJ5oeRA",
+      "title": "Why Watson on Jeopardy! was Rigged ... an AI professor's take [Lecture]",
+      "views": 1300
+    },
+    {
+      "id": "w9eylxli07U",
+      "title": "How can computers find answers to questions in billions of documents? [Lecture]",
+      "views": 1600
+    },
+    {
+      "id": "b38opGM9R2w",
+      "title": "How do you get a computer (BERT) to read a Wikipedia to answer a question? [Lecture]",
+      "views": 1000
+    },
+    {
+      "id": "3Aklvuq514M",
+      "title": "Sequence Models: How AI for Language is Different [Lecture]",
+      "views": 999
+    },
+    {
+      "id": "a5NfaNS_ObE",
+      "title": "[Lecture] How do computers know if a sentence is true?  An intro to Natural Language Inference (NLI)",
+      "views": 1600
+    },
+    {
+      "id": "rvnoNgYuyzc",
+      "title": "[Lecture] What I'm Teaching this Spring: A Seminar on Question Answering",
+      "views": 666
+    },
+    {
+      "id": "L5cUjzjc_YE",
+      "title": "[Lecture] How a Tiny College of Aeronautics in Bedfordshire Made the Modern Internet Possible",
+      "views": 1000
+    },
+    {
+      "id": "oRm2OuNl3UI",
+      "title": "[Lecture] How What's Wrong with Artificial Intelligence is Like a Crooked Game Show",
+      "views": 563
+    },
+    {
+      "id": "0butNAOBO0U",
+      "title": "[Lecture] How did computers answer questions before Siri and Alexa?  BASEBALL, LUNAR, and SHRDLU",
+      "views": 2100
+    },
+    {
+      "id": "NiJ7xLyscDs",
+      "title": "[Lecture] Knowledge Bases for Answering Questions: The Bridge from Good Old Fashioned AI to Today",
+      "views": 448
+    },
+    {
+      "id": "8BDjw1f5Jb4",
+      "title": "[Lecture] How Computers (like Watson) use Statistical Techniques to Answer Questions",
+      "views": 419
+    },
+    {
+      "id": "MeaJ3ADmbPo",
+      "title": "How computers answer \"why\" or \"how\" (long) questions?  And why is it so hard to evaluate? [Lecture]",
+      "views": 409
+    },
+    {
+      "id": "HO-w0LYZDho",
+      "title": "How to train a computer to answer questions in a conversation: Datasets and evaluation [Lecture]",
+      "views": 662
+    },
+    {
+      "id": "au7uABXMBNg",
+      "title": "What happens if you give computers a \"closed book\" exam:  Generative QA models (T5, GPT3) [Lecture]",
+      "views": 482
+    },
+    {
+      "id": "YwdEK2NowNM",
+      "title": "Multihop question answering: following links, text query generation, dense retrieval [Lecture]",
+      "views": 1400
+    },
+    {
+      "id": "prEJX8R0ryU",
+      "title": "If Siri can take dictation to send an SMS, why can't it answer spoken questions? [Lecture]",
+      "views": 269
+    },
+    {
+      "id": "8gI0ehnkLa0",
+      "title": "Introduction to the Channel",
+      "views": 3400
+    },
+    {
+      "id": "yo9ayWIDwk4",
+      "title": "How Accessibility Tools (Subs, Audio Descriptions) Help Computers \"See\" & Answer Questions [Lecture]",
+      "views": 215
+    },
+    {
+      "id": "Mg-WHxUWZxc",
+      "title": "If we’re going to know how smart AI is, we need a better intelligence test [Lecture]",
+      "views": 407
+    },
+    {
+      "id": "oHD_l4X8ag0",
+      "title": "Don’t use a Leaderboard for Evaluating AI, Use a Game Show! [Lecture]",
+      "views": 238
+    },
+    {
+      "id": "AyAyQCfHp5M",
+      "title": "How Computers Solve a Crossword [Lecture]",
+      "views": 1000
+    },
+    {
+      "id": "DnMOZ7DAZA8",
+      "title": "What makes a multiple choice question effective for humans and computers? [Lecture]",
+      "views": 399
+    },
+    {
+      "id": "PQGcya_pxhE",
+      "title": "How Computer-Human Teams can Measure AI Interpretability [Lecture]",
+      "views": 155
+    },
+    {
+      "id": "ipLDqWhobN8",
+      "title": "Adversarial Question Answering: How Explanations for Humans can Trick Computers [Lecture]",
+      "views": 660
+    },
+    {
+      "id": "8sV6EJmYxuY",
+      "title": "What does it mean for Artificial Intelligence to be \"fair\"? [Lecture]",
+      "views": 206
+    },
+    {
+      "id": "suSSGnXJoMY",
+      "title": "How Question Answering (from trivia to Google) is Biased [Lecture]",
+      "views": 222
+    },
+    {
+      "id": "j1AiJCwIGps",
+      "title": "Seven Reasons Python Notebooks Lead to Bad Habits [Lecture]",
+      "views": 550
+    },
+    {
+      "id": "0gu1BDj5_Kg",
+      "title": "How Hidden Markov Models (HMMs) can Label as Sentence's Parts of Speech [Lecture]",
+      "views": 2300
+    },
+    {
+      "id": "kdaX9p6Uc9k",
+      "title": "How you can use Perplexity to see how good a Language Model is [Lecture]",
+      "views": 4300
+    },
+    {
+      "id": "0shft1gokac",
+      "title": "The Shannon Game, Entropy, and the Power of Predicting Language [Lecture]",
+      "views": 2900
+    },
+    {
+      "id": "vjT4ywHDZ-0",
+      "title": "How to Estimate the Parameters of a Hidden Markov Model from Data [Lecture]",
+      "views": 4000
+    },
+    {
+      "id": "xJKBImsaaO8",
+      "title": "Computational Semantics: How Computers Know what Words Mean [Lecture]",
+      "views": 1500
+    },
+    {
+      "id": "xNHWhQrHeMU",
+      "title": "How a Computer knows a Sentence is Grammatical: Context Free Grammars [Lecture]",
+      "views": 1000
+    },
+    {
+      "id": "O-x3krZ3A-Q",
+      "title": "How to Parse a Sentence with the CYK Algorithm [Lecture]",
+      "views": 8000
+    },
+    {
+      "id": "ZT1Et5wd1SQ",
+      "title": "How to Turn Words into Trees: Dependency Parsing [Lecture]",
+      "views": 7100
+    },
+    {
+      "id": "ORzGEnHTSfk",
+      "title": "What BERT Can’t Do: The Transformer's Decoder [Lecture]",
+      "views": 4100
+    },
+    {
+      "id": "XLBUsH-ImyI",
+      "title": "Why Translation is (Really) Hard for Both Computers and Humans [Lecture]",
+      "views": 809
+    },
+    {
+      "id": "BhOL5ztG1-Y",
+      "title": "How to Know if a Translation is Any Good [Lecture]",
+      "views": 573
+    },
+    {
+      "id": "5Og91_Cishs",
+      "title": "How to read my course webpage  [Lecture]",
+      "views": 710
+    },
+    {
+      "id": "7JMOsWPmlMk",
+      "title": "Why I Teach Using a Flipped Classroom and How it Works [Lecture]",
+      "views": 1300
+    },
+    {
+      "id": "h4yA7f8o1fM",
+      "title": "Explaining Recurrent Neural Networks through a silly Word-Counting Sentiment Example [Lecture]",
+      "views": 1200
+    },
+    {
+      "id": "u0DgoRVLTE8",
+      "title": "What general term should you use for models like BERT and GPT? [Rant]",
+      "views": 1800
+    },
+    {
+      "id": "KfaA5BC0Fus",
+      "title": "Recurrent Neural Networks as Language Models and the two Tricks that Made them Work [Lecture]",
+      "views": 2800
+    },
+    {
+      "id": "ZUN0GkaekHw",
+      "title": "Natural Questions: Google's QA Dataset Five Years Later and Why it's Impossible Today [Lecture]",
+      "views": 450
+    },
+    {
+      "id": "4fek8n-xMZ4",
+      "title": "Is ChatGPT AI? Is it NLP? [Lecture]",
+      "views": 1400
+    },
+    {
+      "id": "3qKYqtCzJMk",
+      "title": "What made ChatGPT Possible? [Lecture]",
+      "views": 818
+    },
+    {
+      "id": "LKQVJgj5ffg",
+      "title": "What Makes for a Bad Question? [Lecture]",
+      "views": 445
+    },
+    {
+      "id": "vH7tmUOZVIg",
+      "title": "Computer Translation a few Words at a Time: Phrase-Based Models [Lecture]",
+      "views": 374
+    },
+    {
+      "id": "lYVBXkuro1U",
+      "title": "Tokenization: How computers go from bits to words [Lecture]",
+      "views": 141
+    },
+    {
+      "id": "3IAVyHCYY0E",
+      "title": "How* G*PT* turns* characters* into* \"*words*\":* find* out* what* the* aster*isks* mean* [Lecture]",
+      "views": 125
+    },
+    {
+      "id": "hyUeko4GLxo",
+      "title": "Why I'm not a fan of prompting AIs [Lecture]",
+      "views": 310
+    }
+  ]
+}

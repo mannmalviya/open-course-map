@@ -1,0 +1,39 @@
+{
+  "lectures": [
+    {
+      "id": "IVoT6nReAco",
+      "title": "After modeling: Turning 3D models into 3D prints",
+      "views": 736
+    },
+    {
+      "id": "4YHmaoQoT9s",
+      "title": "Conformal geometry processing",
+      "views": 7200
+    },
+    {
+      "id": "p0ccTEy4y9I",
+      "title": "Robust geometry processing",
+      "views": 674
+    },
+    {
+      "id": "6VafhszU-bI",
+      "title": "Real-time registration",
+      "views": 211
+    },
+    {
+      "id": "wLU4YsC_4NY",
+      "title": "Geometric deep learning",
+      "views": 4600
+    },
+    {
+      "id": "VuIIGhPo0UY",
+      "title": "Model reduction for shape deformation",
+      "views": 494
+    },
+    {
+      "id": "pKQJujt7Kbs",
+      "title": "Computational optimal transport",
+      "views": 3800
+    }
+  ]
+}

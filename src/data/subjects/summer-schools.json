@@ -44,6 +44,31 @@
           "youtubeId": "h6ajHkgM3ZU"
         }
       ]
+    },
+    "sgp-graduate-school": {
+      "title": "SGP Geometry Processing",
+      "university": "Eurographics",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "SGP Graduate School · London · 2017",
+          "url": "http://geometry.cs.ucl.ac.uk/SGP2017/?p=gradschool",
+          "youtube": "https://www.youtube.com/playlist?list=PLOp-ngXvomHArqntgLVNzuJNdzNx3rDjZ",
+          "date": "2017",
+          "youtubeId": "COXAsO3iw8c",
+          "primary": true
+        },
+        {
+          "label": "SGP Graduate School · Paris · 2018",
+          "url": "https://sgp2018.sciencesconf.org/resource/page/id/7",
+          "youtube": "https://www.youtube.com/playlist?list=PLvcoRb-DvAmgpp8LYw7dUvLxh-1Vrrm-v",
+          "date": "2018",
+          "youtubeId": "IVoT6nReAco"
+        }
+      ]
     }
   }
 }

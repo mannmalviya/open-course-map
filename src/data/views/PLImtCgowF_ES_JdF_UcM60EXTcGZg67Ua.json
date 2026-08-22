@@ -1,0 +1,199 @@
+{
+  "lectures": [
+    {
+      "id": "J9JZyyPCJcQ",
+      "title": "About the course | What is RL? | Reinforcement Learning (INF8953DE) | Lecture - 1 | Part - 1",
+      "views": 7100
+    },
+    {
+      "id": "xGa3trTyTUA",
+      "title": "Intro to Reinforcement Learning | Reinforcement Learning (INF8953DE) | Lecture - 1 | Part - 2",
+      "views": 2200
+    },
+    {
+      "id": "pcLSnahK9cw",
+      "title": "Immediate Reinforcement Learning | Reinforcement Learning (INF8953DE) | Lecture - 1 | Part - 3",
+      "views": 2000
+    },
+    {
+      "id": "pRj3Hrt8rcE",
+      "title": "Epsilon Greedy | Optimistic Initial. | Reinforcement Learning (INF8953DE) | Lecture - 2 | Part - 1",
+      "views": 3000
+    },
+    {
+      "id": "MClEw-xcb34",
+      "title": "UCB and Gradient Bandit Algorithm | Reinforcement Learning (INF8953DE) | Lecture - 2 | Part - 2",
+      "views": 4400
+    },
+    {
+      "id": "PqU4WWq2rPk",
+      "title": "Finite Markov Decision Processes | Reinforcement Learning (INF8953DE) | Lecture - 2 | Part - 3",
+      "views": 1800
+    },
+    {
+      "id": "hI5nRwNjFxg",
+      "title": "MDP-2 | State value | Action value | Reinforcement Learning (INF8953DE) | Lecture - 3 | Part - 1",
+      "views": 1600
+    },
+    {
+      "id": "nCvK9l2eOoM",
+      "title": "Bellman Equation | Optimal Policies | Reinforcement Learning (INF8953DE) | Lecture - 3 | Part - 2",
+      "views": 1500
+    },
+    {
+      "id": "bGzpupvSHG8",
+      "title": "Policy Iteration | Policy Evaluation | Reinforcement Learning (INF8953DE) | Lecture - 3 | Part - 3",
+      "views": 2200
+    },
+    {
+      "id": "x2XN_kfM6oI",
+      "title": "Dynamic Programming| Intro-Monte Carlo | Reinforcement Learning (INF8953DE) | Lecture - 4 | Part - 1",
+      "views": 1300
+    },
+    {
+      "id": "MhcQobyuPug",
+      "title": "Monte Carlo - ON Policy Methods| Reinforcement Learning (INF8953DE) | Lecture - 4 | Part - 2",
+      "views": 1900
+    },
+    {
+      "id": "WJlTq7o7i9E",
+      "title": "Monte Carlo - OFF Policy Methods | Reinforcement Learning (INF8953DE) | Lecture - 4 | Part - 3",
+      "views": 1400
+    },
+    {
+      "id": "C7HRr74X-Jw",
+      "title": "Temporal Difference Learning | Reinforcement Learning (INF8953DE) | Lecture - 5 | Part - 1",
+      "views": 1300
+    },
+    {
+      "id": "qV_Wcd63rjs",
+      "title": "Q-Learning | SARSA | Reinforcement Learning (INF8953DE) | Lecture - 5 | Part - 2",
+      "views": 1400
+    },
+    {
+      "id": "qnB1NqzJ3k4",
+      "title": "Double Q Learning| n-Step SARSA | Reinforcement Learning (INF8953DE) | Lecture - 5 | Part - 3",
+      "views": 1100
+    },
+    {
+      "id": "JFsl3b592dY",
+      "title": "Value Function Approximation | Reinforcement Learning (INF8953DE) | Lecture - 6 | Part - 1",
+      "views": 1300
+    },
+    {
+      "id": "E4CXLQKA6Kg",
+      "title": "Gradient and Semi-gradient methods |  Reinforcement Learning (INF8953DE) | Lecture - 6 | Part - 2",
+      "views": 1300
+    },
+    {
+      "id": "hwRijDW1biU",
+      "title": "Least Square TD | Coarse Coding | Reinforcement Learning (INF8953DE) | Lecture - 6 | Part - 3",
+      "views": 1200
+    },
+    {
+      "id": "N_7qx_qyeck",
+      "title": "Non-linear Function Approximation | Reinforcement Learning (INF8953DE) | Lecture - 7 | Part - 1",
+      "views": 969
+    },
+    {
+      "id": "DP6iZ2zOt38",
+      "title": "Off-Policy method with FA | Reinforcement Learning (INF8953DE) | Lecture - 7 | Part - 2",
+      "views": 686
+    },
+    {
+      "id": "VC47i5wmPNU",
+      "title": "Deep Q-Network (DQN) | Reinforcement Learning (INF8953DE) | Lecture - 7 | Part - 3",
+      "views": 930
+    },
+    {
+      "id": "7KYSu98yNdc",
+      "title": "Intro to Policy Gradient Methods | Reinforcement Learning (INF8953DE) | Lecture - 8 | Part - 1",
+      "views": 1000
+    },
+    {
+      "id": "cNw3mPRIzPA",
+      "title": "Policy Gradient Theorem - Proof | Reinforcement Learning (INF8953DE) | Lecture - 8 | Part-2",
+      "views": 1500
+    },
+    {
+      "id": "I0WZ0jqZX8I",
+      "title": "Actor-Critic | Reinforcement Learning (INF8953DE) | Lecture - 8 | Part - 3",
+      "views": 809
+    },
+    {
+      "id": "or66Yj_WUJI",
+      "title": "Introduction to Planning Methods | Reinforcement Learning (INF8953DE) | Lecture - 9 | Part - 1",
+      "views": 506
+    },
+    {
+      "id": "LcSLva6qnUY",
+      "title": "Dyna Q | Dyna Q+ | Reinforcement Learning (INF8953DE) | Lecture - 9 | Part - 2",
+      "views": 2600
+    },
+    {
+      "id": "fxM8JZ_Evhs",
+      "title": "Prioritizes Sweeping and MCTS | Reinforcement Learning (INF8953DE) | Lecture - 9 | Part - 3",
+      "views": 686
+    },
+    {
+      "id": "BkGGABmWbTM",
+      "title": "Model Predictive Control | Reinforcement Learning (INF8953DE) | Lecture - 10 | Part - 1",
+      "views": 1200
+    },
+    {
+      "id": "oinIaLIM5bw",
+      "title": "Eligibility Traces| Reinforcement Learning (INF8953DE) | Lecture - 10 | Part - 2",
+      "views": 645
+    },
+    {
+      "id": "UilKqSHKuA4",
+      "title": "True Online TD Learning | Reinforcement Learning (INF8953DE) | Lecture - 10 | Part - 3",
+      "views": 407
+    },
+    {
+      "id": "urt_t1-c2Ww",
+      "title": "Hierarchical RL | Reinforcement Learning (INF8953DE) | Lecture - 11 | Part - 1",
+      "views": 1000
+    },
+    {
+      "id": "f73mBfwje-8",
+      "title": "Types of Optimality | Reinforcement Learning (INF8953DE) | Lecture - 11 | Part - 2",
+      "views": 457
+    },
+    {
+      "id": "OH6XzK4raTw",
+      "title": "SMDP & Intra-Option Q-Learning | MAXQ | Reinforcement Learning (INF8953DE) | Lecture - 11 | Part - 3",
+      "views": 960
+    },
+    {
+      "id": "Z6GC_BC2ooM",
+      "title": "Partial Observability | POMDP | Reinforcement Learning (INF8953DE) | Lecture - 12 | Part - 1",
+      "views": 1900
+    },
+    {
+      "id": "Ez6pkwaA3HE",
+      "title": "POMDP Value Iteration | Offline RL | Reinforcement Learning (INF8953DE) | Lecture - 12 | Part - 2",
+      "views": 1000
+    },
+    {
+      "id": "HfZc-gxiCaE",
+      "title": "Behavior Cloning | Policy Penalty  | Reinforcement Learning (INF8953DE) | Lecture - 12 | Part - 3",
+      "views": 527
+    },
+    {
+      "id": "FrI30r8WGfY",
+      "title": "Course Summary | Reinforcement Learning (INF8953DE) | Lecture - 13 | Part - 1",
+      "views": 286
+    },
+    {
+      "id": "dPWpOrn3BS0",
+      "title": "Challenges in RL | Reinforcement Learning (INF8953DE) | Lecture - 13 | Part - 2",
+      "views": 386
+    },
+    {
+      "id": "f3sFHZElAb4",
+      "title": "Research Directions | More pointers | Reinforcement Learning (INF8953DE) | Lecture - 13 | Part - 3",
+      "views": 254
+    }
+  ]
+}

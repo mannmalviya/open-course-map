@@ -1,0 +1,274 @@
+{
+  "lectures": [
+    {
+      "id": "AdxhPj0PDHM",
+      "title": "Lecture 1, 2025, Course overview: RL and DP, AlphaZero, deterministic DP, examples, applications",
+      "views": 9500
+    },
+    {
+      "id": "JiTWTFajYNg",
+      "title": "Lecture 2, 2025, Stochastic finite and infinite horizon DP, approximation in value and policy space",
+      "views": 2500
+    },
+    {
+      "id": "oQNN292Q4jI",
+      "title": "Lecture 3, 2025, LQ Problems, Approximation in Value Space, VI, and PI, Newton's Method, Examples",
+      "views": 1200
+    },
+    {
+      "id": "ooaG6k0phsU",
+      "title": "Lecture 4, 2025, POMDP, Systems with Changing Parameters, Adaptive Control, Model Predictive Control",
+      "views": 1100
+    },
+    {
+      "id": "y4j-hFdmcKk",
+      "title": "Lecture 5, 2025, Deterministic Rollout and Animations",
+      "views": 770
+    },
+    {
+      "id": "QpnT2DWIbls",
+      "title": "Lecture 6, 2025, Multistep Approximation in Value Space, Constrained Rollout, Multiagent Rollout",
+      "views": 848
+    },
+    {
+      "id": "UeVs0Op-Ui4",
+      "title": "Plenary lecture at IFAC Nonlinear MPC, 2024; Model Predictive Control and Reinforcement Learning",
+      "views": 5300
+    },
+    {
+      "id": "T5BR5Peb9Qg",
+      "title": "Lecture 13 2024: Approximate LP. Approximation in policy space, policy gradient methods. Epilogue",
+      "views": 650
+    },
+    {
+      "id": "Om45O-JsNHY",
+      "title": "Lecture 12 2024; Off-line training with neural nets for approximate VI and PI. Aggregation",
+      "views": 412
+    },
+    {
+      "id": "pdEItwxgQ2Q",
+      "title": "Lecture 11, 2024: On-line training, neural networks, and other approximation architectures",
+      "views": 596
+    },
+    {
+      "id": "nIkNKgf3Eiw",
+      "title": "Lecture 10, 2024; GPT, HMM, and Markov chains: Rollout variants for most likely sequence generation",
+      "views": 2100
+    },
+    {
+      "id": "vRVP8xCGCEM",
+      "title": "Lecture 9, 2024, Bayesian optimization and adaptive control with a POMDP approach. Wordle case study",
+      "views": 3000
+    },
+    {
+      "id": "JRZBtsXUUgE",
+      "title": "Lecture 8, 2024, Rollout for stochastic DP. Value space approx for infinite state and control spaces",
+      "views": 535
+    },
+    {
+      "id": "jjlytqtO7IE",
+      "title": "Lecture 7, 2024, Case studies: Multi-robot warehouse, multiagent routing, data association",
+      "views": 653
+    },
+    {
+      "id": "tNwTVzHgxGI",
+      "title": "Lecture 6, 2024, Multistep Approximation in Value Space, Constrained Rollout, Multiagent Rollout",
+      "views": 596
+    },
+    {
+      "id": "3vB5UKmgF9I",
+      "title": "Lecture 5, 2024, Deterministic Rollout, cost improvement, sequential improvement, multiagent rollout",
+      "views": 730
+    },
+    {
+      "id": "8OrMNyN-Yzk",
+      "title": "Lecture 3, 2024, LQ Problems, Approximation in Value Space, VI, and PI,  Newton's Method, Examples",
+      "views": 1100
+    },
+    {
+      "id": "aO84iKFAHG8",
+      "title": "Lecture 2, 2024, Stochastic finite and infinite horizon DP, approximation in value and policy space",
+      "views": 2200
+    },
+    {
+      "id": "HePLCR_D_XU",
+      "title": "Lecture 1, 2024, course overview: RL and DP, AlphaZero, discrete and continuous applications",
+      "views": 5300
+    },
+    {
+      "id": "XVuRQWXtxLA",
+      "title": "The failure of theoretical error bounds in Reinforcement Learning.",
+      "views": 4900
+    },
+    {
+      "id": "91fx4uEz2MI",
+      "title": "Lecture 11, 2023: Review of off-line training, approximate VI and PI, aggregation, course overview",
+      "views": 795
+    },
+    {
+      "id": "9YgVC6XKW_E",
+      "title": "Lecture 10, 2023: On-line training ideas, neural networks and other approximation architectures",
+      "views": 1100
+    },
+    {
+      "id": "AE9-81WtAHI",
+      "title": "Lecture 9, 2023: Bayesian optimization and adaptive control with a POMDP approach. Wordle case study",
+      "views": 1800
+    },
+    {
+      "id": "a6Dm0DHsplE",
+      "title": "Lecture 12, 2021: Aggregation methods and approximation in value space. ASU.",
+      "views": 755
+    },
+    {
+      "id": "DfR1j0LrgxQ",
+      "title": "Lecture 13, 2021: An overview of the entire course. Discussion. ASU.",
+      "views": 1100
+    },
+    {
+      "id": "WQS7933ub9s",
+      "title": "Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control, Lecture at KTH",
+      "views": 5700
+    },
+    {
+      "id": "fWdpfQOEfkc",
+      "title": "Lecture 8, 2023: Multiagent rollout, Lecture and video demonstration, by Yuchao Li, KTH, Sweden",
+      "views": 706
+    },
+    {
+      "id": "9vcUyk1ihvs",
+      "title": "Lecture 7, 2023: Rollout for stochastic problems, Monte Carlo Tree Search, infinite control spaces",
+      "views": 981
+    },
+    {
+      "id": "Q9u3CYBT4zo",
+      "title": "Lecture 6 2023: Deterministic multistep lookahead, constrained rollout, discrete/integer programming",
+      "views": 783
+    },
+    {
+      "id": "PsxnVsCplYc",
+      "title": "Lecture 5, 2023: Rollout algorithms for deterministic DP problems, and variations",
+      "views": 1100
+    },
+    {
+      "id": "PvrICrGnNUs",
+      "title": "Lecture 4, 2023: Systems with unknown parameters and adaptive control. Model predictive control.",
+      "views": 1300
+    },
+    {
+      "id": "gMCScRwhYh4",
+      "title": "Lecture 3, 2023: Approximation in value space as Newton step. DP problem formulation in practice.",
+      "views": 1200
+    },
+    {
+      "id": "vnBWSqkWY7U",
+      "title": "Lecture 2, 2023: Stochastic DP for finite and Infinite horizon, Approximation in value space. ASU",
+      "views": 2100
+    },
+    {
+      "id": "IUQbzuGTDUg",
+      "title": "Lecture 1, 2023: Introduction, AlphaZero, Deterministic DP, course overview,  ASU",
+      "views": 6300
+    },
+    {
+      "id": "A7OGgpuRnuo",
+      "title": "MIT Lecture, Lessons from AlphaZero for Optimal, Model Predictive, and Adaptive Control , Oct 2022",
+      "views": 3800
+    },
+    {
+      "id": "mSf3MVt_qis",
+      "title": "Lecture 13, Spring 2022: An overview of the entire course, ASU",
+      "views": 873
+    },
+    {
+      "id": "1pn8Knmh9BI",
+      "title": "Lecture 12, Spring 2022: Aggregation methods for off-line training. Spring 2022, ASU",
+      "views": 535
+    },
+    {
+      "id": "bO91ywndAlY",
+      "title": "Lecture 11, Spring 2022: Approximate linear programming; policy gradients and random search. ASU",
+      "views": 660
+    },
+    {
+      "id": "QHMCgHgKY64",
+      "title": "Lecture 10, Spring 2022: Approximate policy iteration, variations, and Q-learning. Spring 2022, ASU",
+      "views": 1000
+    },
+    {
+      "id": "Pe3HKb4vDtg",
+      "title": "Lecture 9, Spring 2022: Infinite horizon problems. Theory, exact algorithms, and approximations. ASU",
+      "views": 1200
+    },
+    {
+      "id": "Tl9wwe3-cVs",
+      "title": "Lecture 8, Spring 2022: Off-line training algorithms, approximation architectures, neural nets. ASU",
+      "views": 679
+    },
+    {
+      "id": "pM6i_E9f_jQ",
+      "title": "Lecture 7, Spring 2022: Constrained Rollout; Rollout for Discrete Optimization; Minimax Rollout. ASU",
+      "views": 843
+    },
+    {
+      "id": "Ohr8QCc8qRQ",
+      "title": "Lecture 6, Spring 2022: Model Predictive Control; Multiagent and Autonomous Systems. ASU",
+      "views": 2300
+    },
+    {
+      "id": "OXiKJ3N9Oqg",
+      "title": "Lecture 5, Spring 2022: Rollout for Deterministic and Stochastic DP; Monte Carlo Tree Search. ASU",
+      "views": 1200
+    },
+    {
+      "id": "KzJAM-a1bE4",
+      "title": "Lecture 4, Spring 2022: Adaptive Control. Value and Policy Approximations in DP/RL. ASU",
+      "views": 1300
+    },
+    {
+      "id": "BX9KJOuaYZI",
+      "title": "Lecture 3, Spring 2022: Approximation in value space as Newton's method. ASU",
+      "views": 1600
+    },
+    {
+      "id": "i8LG6ljRHPI",
+      "title": "Lecture 2, Spring 2022: Stochastic DP, finite and infinite horizon. ASU",
+      "views": 4600
+    },
+    {
+      "id": "7v5oCEVxQYA",
+      "title": "Lecture 1, Spring 2022: Introduction, course overview. ASU",
+      "views": 11000
+    },
+    {
+      "id": "oGJs017OwpU",
+      "title": "Lecture 7, 2025, Case studies: Multi-robot warehouse, data association",
+      "views": 514
+    },
+    {
+      "id": "KdX6o9Qi1vc",
+      "title": "Lecture 8, 2025; GPT, HMM, and Markov chains: Rollout variants for most likely sequence generation",
+      "views": 1200
+    },
+    {
+      "id": "gsD2JgTrUhU",
+      "title": "Lecture 10, 2025; Aggregation Methods for Off-Line Training, Applications to POMDP and Cybersecurity",
+      "views": 504
+    },
+    {
+      "id": "ZH4-02iGK40",
+      "title": "Lecture 11, 2025; Adversarial Problems, Minimax Rollout, Use of MPC Methods, Computer Chess",
+      "views": 308
+    },
+    {
+      "id": "JmQzj0Be_Fg",
+      "title": "Abstract Dynamic Programming,  Reinforcement Learning, Newton's Method, and Gradient Optimization",
+      "views": 3200
+    },
+    {
+      "id": "43CXjDOWBFI",
+      "title": "Lecture 12, 2025; Training of cost functions, approximation in policy space, policy gradient methods",
+      "views": 1400
+    }
+  ]
+}

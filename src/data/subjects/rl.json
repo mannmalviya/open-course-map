@@ -18,7 +18,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS234 \u00b7 Brunskill \u00b7 Spring 2024",
+          "label": "Stanford CS234 · Brunskill · Spring 2024",
           "url": "https://web.stanford.edu/class/cs234/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX",
           "date": "Spring 2024",
@@ -26,7 +26,7 @@
           "primary": true
         },
         {
-          "label": "Stanford CS234 \u00b7 Winter 2019",
+          "label": "Stanford CS234 · Winter 2019",
           "url": "https://web.stanford.edu/class/cs234/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u",
           "date": "Winter 2019",
@@ -44,7 +44,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS224R \u00b7 Finn",
+          "label": "Stanford CS224R · Finn",
           "url": "https://cs224r.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL",
           "youtubeId": "EvHRQhMX7_w",
@@ -70,14 +70,14 @@
       },
       "versions": [
         {
-          "label": "Reinforcement Learning Course \u00b7 2018",
+          "label": "Reinforcement Learning Course · 2018",
           "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb",
           "date": "2018",
           "youtubeId": "ISk80iLhdfU",
           "primary": true
         },
         {
-          "label": "Intro to RL \u00b7 David Silver \u00b7 2015",
+          "label": "Intro to RL · David Silver · 2015",
           "url": "https://www.davidsilver.uk/teaching/",
           "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ",
           "date": "2015",
@@ -95,7 +95,7 @@
       },
       "versions": [
         {
-          "label": "Berkeley CS 285 \u00b7 Levine \u00b7 2023",
+          "label": "Berkeley CS 285 · Levine · 2023",
           "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
           "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps",
           "date": "Fall 2023",
@@ -103,32 +103,165 @@
           "primary": true
         },
         {
-          "label": "Berkeley CS 185/285 \u00b7 Levine \u00b7 Spring 2026",
+          "label": "Berkeley CS 185/285 · Levine · Spring 2026",
           "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
           "youtube": "https://www.youtube.com/playlist?list=PLKq1TCpsv3Y4",
           "date": "Spring 2026",
           "youtubeId": "DD8APgTEix4"
         },
         {
-          "label": "Berkeley CS 285 \u00b7 Levine \u00b7 Fall 2022",
+          "label": "Berkeley CS 285 · Levine · Fall 2022",
           "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
           "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9",
           "date": "Fall 2022",
           "youtubeId": "JHrlF10v2Og"
         },
         {
-          "label": "Berkeley CS 285 \u00b7 Levine \u00b7 Fall 2021",
+          "label": "Berkeley CS 285 · Levine · Fall 2021",
           "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
           "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH",
           "date": "Fall 2021",
           "youtubeId": "JHrlF10v2Og"
         },
         {
-          "label": "Berkeley CS 285 \u00b7 Levine \u00b7 Fall 2020",
+          "label": "Berkeley CS 285 · Levine · Fall 2020",
           "url": "https://rail.eecs.berkeley.edu/deeprlcourse/",
           "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc",
           "date": "Fall 2020",
           "youtubeId": "JHrlF10v2Og"
+        }
+      ]
+    },
+    "mit-adp": {
+      "title": "Approximate Dynamic Prog.",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT · Bertsekas · 2014",
+          "url": "http://adpthu2014.weebly.com/slides--materials.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4",
+          "date": "2014",
+          "youtubeId": "6CaUxbFX8Oc",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6884": {
+      "title": "Sensorimotor Learning",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MIT 6.884 · Agrawal · 2021",
+          "url": "https://pulkitag.github.io/6.884/lectures",
+          "youtube": "https://www.youtube.com/playlist?list=PLwNwxAG-kBxPMTIs2fKWSsf7HqL2TcC78",
+          "date": "Spring 2021",
+          "youtubeId": "wDaXGbCucsY",
+          "primary": true
+        }
+      ]
+    },
+    "asu-rl-optimal-control": {
+      "title": "RL & Optimal Control",
+      "university": "ASU",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "ASU · Bertsekas · 2022",
+          "url": "http://web.mit.edu/dimitrib/www/RLbook.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj",
+          "date": "Spring 2022",
+          "youtubeId": "AdxhPj0PDHM",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10703": {
+      "title": "10-703 Deep RL & Control",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "CMU 10-703 · Fragkiadaki, Mitchell · 2018",
+          "url": "http://www.andrew.cmu.edu/course/10-703/",
+          "youtube": "https://www.youtube.com/playlist?list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV",
+          "date": "2018",
+          "youtubeId": "DIE0jG1Jk8k",
+          "primary": true
+        }
+      ]
+    },
+    "waterloo-cs885": {
+      "title": "Reinforcement Learning",
+      "university": "Waterloo",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Waterloo CS885 · Poupart · 2018",
+          "url": "https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/",
+          "youtube": "https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc",
+          "date": "Spring 2018",
+          "youtubeId": "xoxz-OmcL1Q",
+          "primary": true
+        }
+      ]
+    },
+    "toronto-introrl": {
+      "title": "Intro to RL",
+      "university": "Toronto",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Toronto · Farahmand · 2021",
+          "url": "https://amfarahmand.github.io/IntroRL",
+          "youtube": "https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq",
+          "date": "Spring 2021",
+          "youtubeId": "YCy7dbGMNGo",
+          "primary": true
+        }
+      ]
+    },
+    "polymtl-inf8953de": {
+      "title": "INF8953DE RL",
+      "university": "Polytechnique Montréal",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Polytechnique Montréal · Chandar · 2021",
+          "url": "https://chandar-lab.github.io/INF8953DE",
+          "youtube": "https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua",
+          "date": "Fall 2021",
+          "youtubeId": "J9JZyyPCJcQ",
+          "primary": true
         }
       ]
     }

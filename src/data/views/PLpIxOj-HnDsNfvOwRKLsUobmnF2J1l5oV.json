@@ -1,0 +1,134 @@
+{
+  "lectures": [
+    {
+      "id": "DIE0jG1Jk8k",
+      "title": "Lecture 01 Introduction",
+      "views": 1500
+    },
+    {
+      "id": "CQoBDWGRrYQ",
+      "title": "Lecture 02 Markov Decision Processes",
+      "views": 423
+    },
+    {
+      "id": "fryc-yjgQts",
+      "title": "Lecture 03 Solving known MDPs",
+      "views": 197
+    },
+    {
+      "id": "P-uIPBuOPBs",
+      "title": "Lecture 04 Solving Known MDPs",
+      "views": 142
+    },
+    {
+      "id": "XvY6zK3gvn8",
+      "title": "Lecture 05 Monte Carlo Methods",
+      "views": 181
+    },
+    {
+      "id": "mkBWhqBEOHo",
+      "title": "Lecture 06 Temporal Difference Method",
+      "views": 203
+    },
+    {
+      "id": "iMqt0EuDcjM",
+      "title": "Lecture 07 Neural Networks Architectures for RL",
+      "views": 132
+    },
+    {
+      "id": "GKnGdmJahfE",
+      "title": "Lecture 08  Function Approximation for Prediction",
+      "views": 122
+    },
+    {
+      "id": "bVdlUjXCLv4",
+      "title": "Lecture 09 Value Function",
+      "views": 138
+    },
+    {
+      "id": "Sgv1XXEN3Hg",
+      "title": "Lecture 10 Policy Gradient Methods",
+      "views": 185
+    },
+    {
+      "id": "c3vxXBSF_is",
+      "title": "Lecture 11 Policy Gradient Methods Part 2",
+      "views": 93
+    },
+    {
+      "id": "K1Bj8gibSWI",
+      "title": "Lecture 12 Policy Gradient Methods  Part 3",
+      "views": 94
+    },
+    {
+      "id": "XeEDbe9O5hQ",
+      "title": "Lecture 13  Asynchronous RL",
+      "views": 113
+    },
+    {
+      "id": "yqYKeWtUSO8",
+      "title": "Lecture 14 Natural Policy Gradients, TRPO, PPO, ACKTR",
+      "views": 399
+    },
+    {
+      "id": "wmLH5R-4oYk",
+      "title": "Lecture 15  Pathwise derivatives",
+      "views": 138
+    },
+    {
+      "id": "Qk6W9C_yAVg",
+      "title": "Lecture 16 Exploration vs Exploitation",
+      "views": 83
+    },
+    {
+      "id": "V2HnLeTYy7Q",
+      "title": "Lecture 17  Exploration and Function Approximation",
+      "views": 125
+    },
+    {
+      "id": "g17ex3kCr2g",
+      "title": "Lecture 18 Exploration and Function Approximation Part 2",
+      "views": 102
+    },
+    {
+      "id": "JvGMfPAygOU",
+      "title": "Lecture 19  Model Based Reinforcement Learning",
+      "views": 231
+    },
+    {
+      "id": "QsO3uKg2jJM",
+      "title": "Lecture 20  Imitation Learning 1",
+      "views": 140
+    },
+    {
+      "id": "oYQupraTcVc",
+      "title": "Lecture 21  Maximum Entropy Inverse RL, Adversarial imitation learning",
+      "views": 255
+    },
+    {
+      "id": "cUW99V5x7fE",
+      "title": "Lecture  22 Neural Map Structured Memory for Deep RL Russ Salakhutdinov",
+      "views": 75
+    },
+    {
+      "id": "hpkLsE_1NzU",
+      "title": "Lecture 23  Machine Learning for Experiment Design Barnabas Poczos",
+      "views": 73
+    },
+    {
+      "id": "6A_7vVWWaAg",
+      "title": "Lecture 24  Self Driving Cars  Speakers Jeff Schneider and Nick Rhinehart",
+      "views": 107
+    },
+    {
+      "id": "gb5xcEwzKqg",
+      "title": "Lecture 25  Sim2Real  Katerina Fragkiadaki",
+      "views": 162
+    },
+    {
+      "id": "q1JlslntHOQ",
+      "title": "Lecture 26  Guest Speaker David Held",
+      "views": 77
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "wDaXGbCucsY",
+      "title": "CSL Spring'21 - Lecture 1: Introduction",
+      "views": 1600
+    },
+    {
+      "id": "dxIfm-pZTc4",
+      "title": "CSL Spring'21 - Lecture 2: Simple Decision Making",
+      "views": 705
+    },
+    {
+      "id": "71NvnyQLdrE",
+      "title": "CSL Spring'21 - Lecture 3: Solving Sequential Decision Making in Tabular Setups",
+      "views": 436
+    },
+    {
+      "id": "OeFHXxl_vd0",
+      "title": "CSL Spring'21 - Lecture 4: Deep Q-Learning",
+      "views": 415
+    },
+    {
+      "id": "UdNTnUhwsf0",
+      "title": "CSL Spring'21 - Lecture 5: Simulators, Benchmarks and Large Scale Experiments",
+      "views": 295
+    },
+    {
+      "id": "Un4pDbTfoAo",
+      "title": "CSL Spring'21 - Lecture 6: On Policy Learning",
+      "views": 379
+    },
+    {
+      "id": "0LBvVyU7ndU",
+      "title": "CSL Spring'21 - Lecture 7: Advanced Policy Gradients",
+      "views": 341
+    },
+    {
+      "id": "hj5GWf69h10",
+      "title": "CSL Spring'21 - Lecture 8: Reward Design & Shaping",
+      "views": 842
+    },
+    {
+      "id": "Hiw7-QrDQXQ",
+      "title": "CSL Spring'21 - Lecture 9: Advanced Deep Learning Topics",
+      "views": 276
+    },
+    {
+      "id": "IoQbrVVstho",
+      "title": "CSL Spring'21 - Lecture 10: Transfer from Simulation to Real World",
+      "views": 259
+    },
+    {
+      "id": "fuSjIa3ADIE",
+      "title": "CSL Spring'21 - Lecture 11: Lifelong and Transfer Learning",
+      "views": 200
+    },
+    {
+      "id": "sxM0RpZuNqQ",
+      "title": "CSL Spring'21 - Lecture 12: Learning from Demonstrations and Imitation Learning",
+      "views": 649
+    },
+    {
+      "id": "28ZJbnIeoOI",
+      "title": "CSL Spring'21 - Lecture 13: Inverse Reinforcement Learning",
+      "views": 412
+    },
+    {
+      "id": "jCiGSwTmQ9E",
+      "title": "CSL Spring'21 - Lecture 14: Learning with Models",
+      "views": 288
+    },
+    {
+      "id": "RbAdGX1AY_E",
+      "title": "CSL Spring'21 - Lecture 15: Self-Supervised Learning",
+      "views": 228
+    },
+    {
+      "id": "QpFvx0SltR0",
+      "title": "CSL Spring'21 - Lecture 16: Self-Supervised Learning, Part 2",
+      "views": 162
+    },
+    {
+      "id": "5dHvnqScZIk",
+      "title": "CSL Spring'21 - Lecture 17: Doing for our robots what nature did for us [Guest:  Leslie Kaelbling]",
+      "views": 205
+    },
+    {
+      "id": "buA-Y0eCZrk",
+      "title": "CSL Spring'21 - Lecture 18: Task Specification Problem",
+      "views": 155
+    },
+    {
+      "id": "pMbfbYX6lqg",
+      "title": "CSL Spring'21 - Lecture 19: Curriculum Learning and Exploration",
+      "views": 549
+    },
+    {
+      "id": "f52pMePdCGI",
+      "title": "CSL Spring'21 - Lecture 20: Exploration, Offline RL, and Self-Play (part 1)",
+      "views": 203
+    },
+    {
+      "id": "38vq5pSu61I",
+      "title": "CSL Spring'21 - Lecture 21:  Exploration, Offline RL, and Self-Play (part 2)",
+      "views": 160
+    },
+    {
+      "id": "cUIbg4aW73k",
+      "title": "CSL Spring'21 - Lecture 22: Applications of RL (Guest: Cathy Wu)",
+      "views": 313
+    },
+    {
+      "id": "4jGDnYu6OyA",
+      "title": "CSL Spring'21 - Lecture 23: Wrapping Up",
+      "views": 109
+    },
+    {
+      "id": "5k0NLTjlvwo",
+      "title": "CSL Spring'21 - Lecture 24: Project Presentations (1)",
+      "views": 187
+    },
+    {
+      "id": "hH9NiRnL3y4",
+      "title": "CSL Spring'21 - Lecture 24: Project Presentations (2)",
+      "views": 172
+    }
+  ]
+}

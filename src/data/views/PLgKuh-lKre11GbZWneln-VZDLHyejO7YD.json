@@ -1,0 +1,99 @@
+{
+  "lectures": [
+    {
+      "id": "f0qQsz4-o68",
+      "title": "Optimization for Machine Learning I",
+      "views": 46000
+    },
+    {
+      "id": "iXBp0OeD02Y",
+      "title": "Optimization for Machine Learning II",
+      "views": 7800
+    },
+    {
+      "id": "Y3u_hvxayDY",
+      "title": "Submodularity: Theory and Applications I",
+      "views": 18000
+    },
+    {
+      "id": "2RJZZbD8v58",
+      "title": "Submodularity: Theory and Applications II",
+      "views": 6800
+    },
+    {
+      "id": "fIKkhoI1kF4",
+      "title": "A Tutorial on Reinforcement Learning I",
+      "views": 57000
+    },
+    {
+      "id": "8hK0NnG_DhY",
+      "title": "A Tutorial on Reinforcement Learning II",
+      "views": 6300
+    },
+    {
+      "id": "7KQUhlZgsCo",
+      "title": "Interactive Learning of Classifiers and Other Structures",
+      "views": 2200
+    },
+    {
+      "id": "jtjW5Pye_44",
+      "title": "Deep Robotic Learning",
+      "views": 4700
+    },
+    {
+      "id": "I7bgrZjoRhM",
+      "title": "Nonparametric Bayesian Methods: Models, Algorithms, and Applications I",
+      "views": 58000
+    },
+    {
+      "id": "yfLoxwjCGNY",
+      "title": "Nonparametric Bayesian Methods: Models, Algorithms, and Applications II",
+      "views": 31000
+    },
+    {
+      "id": "2H2n4iUYpZE",
+      "title": "Nonparametric Bayesian Methods: Models, Algorithms, and Applications III",
+      "views": 13000
+    },
+    {
+      "id": "EUUyQbtUXR0",
+      "title": "Nonparametric Bayesian Methods: Models, Algorithms, and Applications IV",
+      "views": 11000
+    },
+    {
+      "id": "-SY4-GkDM8g",
+      "title": "Tutorial on Deep Learning I",
+      "views": 18000
+    },
+    {
+      "id": "R_o6nUC1Nzo",
+      "title": "Tutorial on Deep Learning II",
+      "views": 4900
+    },
+    {
+      "id": "jompe29_A74",
+      "title": "Tutorial on Deep Learning III",
+      "views": 3200
+    },
+    {
+      "id": "SNKypQ8y6SM",
+      "title": "Tutorial on Deep Learning IV",
+      "views": 3000
+    },
+    {
+      "id": "8sbMtAyHpZs",
+      "title": "Tensor Decompositions for Learning Latent Variable Models I",
+      "views": 4400
+    },
+    {
+      "id": "sneh-ESQKyw",
+      "title": "Tensor Decompositions for Learning Latent Variable Models II",
+      "views": 1200
+    },
+    {
+      "id": "mhHfnhh-pB4",
+      "title": "Natural Language Understanding: Foundations and State-of-the-Art",
+      "views": 25000
+    }
+  ]
+}

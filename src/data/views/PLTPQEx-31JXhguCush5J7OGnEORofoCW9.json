@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "3wbLr-NnIKI",
+      "title": "Statistical Learning I Robert Schapire Microsoft Research",
+      "views": 34000
+    },
+    {
+      "id": "bjzMmXgM0OU",
+      "title": "Statistical Learning II Robert Schapire Microsoft Research",
+      "views": 5500
+    },
+    {
+      "id": "YyhpS5ltuKA",
+      "title": "Statistical Learning III Robert Schapire Microsoft Research",
+      "views": 3700
+    },
+    {
+      "id": "yvdq0CE0l5g",
+      "title": "Statistical Learning IV Robert Schapire Microsoft Research",
+      "views": 2000
+    },
+    {
+      "id": "Hm4I05LH9ns",
+      "title": "Statistical Learning V Robert Schapire Microsoft Research",
+      "views": 1600
+    },
+    {
+      "id": "77DjImkfc9E",
+      "title": "Convex Optimization I Sebastien Bubeck Microsoft Research",
+      "views": 8700
+    },
+    {
+      "id": "XcMR_sSTP4Y",
+      "title": "Convex Optimization II Sebastien Bubeck Microsoft Research",
+      "views": 4200
+    },
+    {
+      "id": "ozuBeRdXx4Q",
+      "title": "Convex Optimization III Sebastien Bubeck Microsoft Research",
+      "views": 2200
+    },
+    {
+      "id": "_iWOyPKso6E",
+      "title": "Convex Optimization IV Sebastien Bubeck Microsoft Research",
+      "views": 1500
+    },
+    {
+      "id": "XZZ9W8ij6K0",
+      "title": "Convex Optimization V Sebastien Bubeck Microsoft Research",
+      "views": 1300
+    },
+    {
+      "id": "nhJXojfFsJ8",
+      "title": "Bandits I Kevin Jamieson  University of Washington",
+      "views": 2800
+    },
+    {
+      "id": "HqxXOp7VMOQ",
+      "title": "Bandits II Kevin Jamieson University of Washington",
+      "views": 1300
+    },
+    {
+      "id": "qVYit4F4TQI",
+      "title": "Bandits III Kevin Jamieson University of Washington",
+      "views": 793
+    },
+    {
+      "id": "aQLzZoTK25M",
+      "title": "Bandits IV Kevin Jamieson University of Washington",
+      "views": 974
+    },
+    {
+      "id": "T6CPTJthRfc",
+      "title": "Bandits V Kevin Jamieson University of Washington",
+      "views": 708
+    },
+    {
+      "id": "LiaEmNToeQA",
+      "title": "Reinforcement Learning I Emma Brunskill Stanford University",
+      "views": 2600
+    },
+    {
+      "id": "59YaHIkr9Vg",
+      "title": "Reinforcement Learning II Emma Brunskill Stanford University",
+      "views": 1900
+    },
+    {
+      "id": "i8YSRbbkLnM",
+      "title": "Reinforcement Learning III Emma Brunskill Stanford University",
+      "views": 907
+    },
+    {
+      "id": "nVBKnk1e3UM",
+      "title": "Reinforcement Learning IV Emma Brunskill Stanford University",
+      "views": 1700
+    },
+    {
+      "id": "bfeCKxRiduA",
+      "title": "Reinforcement Learning V Emma Brunskill Stanford University",
+      "views": 818
+    },
+    {
+      "id": "ImQ0YHryxfg",
+      "title": "Deep Learning I Joan Bruna NYU",
+      "views": 6400
+    },
+    {
+      "id": "8P6FLdNh7xo",
+      "title": "Deep Learning II Joan Bruna NYU",
+      "views": 1800
+    },
+    {
+      "id": "iJGq-vcETUQ",
+      "title": "Deep Learning III Joan Bruna NYU",
+      "views": 1500
+    },
+    {
+      "id": "7TXaQz6jSuM",
+      "title": "Deep Learning IV Joan Bruna NYU",
+      "views": 1200
+    },
+    {
+      "id": "00c168rl-TA",
+      "title": "Deep Learning V Joan Bruna NYU",
+      "views": 1200
+    }
+  ]
+}

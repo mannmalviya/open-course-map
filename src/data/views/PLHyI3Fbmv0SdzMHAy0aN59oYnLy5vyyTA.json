@@ -1,0 +1,334 @@
+{
+  "lectures": [
+    {
+      "id": "GJdWESd543Y",
+      "title": "Geoffrey Hinton: \"Introduction to Deep Learning & Deep Belief Nets\"",
+      "views": 90000
+    },
+    {
+      "id": "bO9nHq2AqbQ",
+      "title": "Geoffrey Hinton: \"Using Backpropagation for Fine-Tuning a Generative Model...\"",
+      "views": 6900
+    },
+    {
+      "id": "oOB4evKlEmQ",
+      "title": "Yann LeCun: \"Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction, Pt. 1\"",
+      "views": 12000
+    },
+    {
+      "id": "c-RDgtPAwIo",
+      "title": "Yann LeCun: \"Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction, Pt. 2\"",
+      "views": 3800
+    },
+    {
+      "id": "pfFyZY1RPZU",
+      "title": "Andrew Ng: \"Deep Learning, Self-Taught Learning and Unsupervised Feature Learning\"",
+      "views": 26000
+    },
+    {
+      "id": "z_54eqHPUfM",
+      "title": "Andrew Ng: \"Advanced Topics + Research Philosophy / Neural Networks: Representation\"",
+      "views": 13000
+    },
+    {
+      "id": "s9-MaMoR_Ww",
+      "title": "Andrew Ng: \"Non-linear Hypotheses, Pt. 1\"",
+      "views": 3700
+    },
+    {
+      "id": "6xNidCnNZwM",
+      "title": "Andrew Ng: \"Non-linear Hypotheses, Pt. 2\"",
+      "views": 2000
+    },
+    {
+      "id": "cE9fjXgT-o4",
+      "title": "Yann LeCun: \"Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction, Pt. 3\"",
+      "views": 2100
+    },
+    {
+      "id": "vYmclORWw5U",
+      "title": "Geoffrey Hinton: \"Some Applications of Deep Learning\"",
+      "views": 6900
+    },
+    {
+      "id": "05MpycrocRI",
+      "title": "Geoffrey Hinton: \"A Computational Principle that Explains Sex, the Brain, and Sparse Coding\"",
+      "views": 4500
+    },
+    {
+      "id": "Pq_QDH5LMGU",
+      "title": "Rob Fergus: \"Deep Learning Methods for Vision, Pt. 1\"",
+      "views": 1300
+    },
+    {
+      "id": "ew1RRO0jb-I",
+      "title": "Rob Fergus: \"Deep Learning Methods for Vision, Pt. 2\"",
+      "views": 484
+    },
+    {
+      "id": "TFIMqt0yT2I",
+      "title": "Geoffrey Hinton: \"Does the Brain do Inverse Graphics?\"",
+      "views": 18000
+    },
+    {
+      "id": "rGB46lNm2bk",
+      "title": "Alan Yuille: \"Compositional Models\"",
+      "views": 1000
+    },
+    {
+      "id": "1rI30S4J9hw",
+      "title": "Graham Taylor: \"Learning Representations of Sequences\"",
+      "views": 650
+    },
+    {
+      "id": "aqFTgZBYjNM",
+      "title": "Graham Taylor: \"Feature Learning for Comparing Examples\"",
+      "views": 380
+    },
+    {
+      "id": "mxoXj-5rBzc",
+      "title": "Alan Yuille: \"Unsupervised Compositional Learning of Object Models\"",
+      "views": 417
+    },
+    {
+      "id": "652LT8XpWtc",
+      "title": "Alan Yuille: \"Learning Discriminative Models of Objects and Images\"",
+      "views": 286
+    },
+    {
+      "id": "LK7OEgrxJiY",
+      "title": "Yann LeCun: \"Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction, Pt. 4\"",
+      "views": 3400
+    },
+    {
+      "id": "O6itYc2nnnM",
+      "title": "Yoshua Bengio: \"Representation Learning and Deep Learning, Pt. 1\"",
+      "views": 12000
+    },
+    {
+      "id": "VUixoO0jCIQ",
+      "title": "Yoshua Bengio: \"Representation Learning and Deep Learning, Pt. 2\"",
+      "views": 3500
+    },
+    {
+      "id": "LmOnyeqNpo8",
+      "title": "Stephen Wright: \" Some Relevant Topics in Optimization, Pt. 1\"",
+      "views": 1100
+    },
+    {
+      "id": "oAVCEoySN4Y",
+      "title": "Arthur Szlam: \"A Tutorial on Sparse Modeling\"",
+      "views": 1800
+    },
+    {
+      "id": "4hKxzCassvA",
+      "title": "Stephen Wright: \"Some Relevant Topics in Optimization, Pt. 2\"",
+      "views": 396
+    },
+    {
+      "id": "8Bu9HpUZGmY",
+      "title": "Stephen Wright: \"Sparse and Regularized Optimization, Pt. 1\"",
+      "views": 1100
+    },
+    {
+      "id": "uj0hgsA2Po0",
+      "title": "Stephen Wright: \"Sparse and Regularized Optimization, Pt. 2\"",
+      "views": 277
+    },
+    {
+      "id": "V8uOPEPVivY",
+      "title": "Arthur Szlam: \"Accelerating Sparse Coding Via Learning\"",
+      "views": 320
+    },
+    {
+      "id": "SYUhl2nV6Zk",
+      "title": "Yoshua Bengio: \"Representation Learning and Deep Learning, Pt. 4\"",
+      "views": 3000
+    },
+    {
+      "id": "mSJIW_Y7rlI",
+      "title": "Yoshua Bengio: \"Representation Learning and Deep Learning, Pt. 3\"",
+      "views": 2100
+    },
+    {
+      "id": "4eyUReyIPXg",
+      "title": "Stéphane Mallat: \"Scattering Invariant Deep Networks for Classification, Pt. 1\"",
+      "views": 21000
+    },
+    {
+      "id": "Gb8uaQn12Gk",
+      "title": "Stéphane Mallat: \"Scattering Invariant Deep Networks for Classification, Pt. 2\"",
+      "views": 9900
+    },
+    {
+      "id": "aHLNXDvjBGo",
+      "title": "Kai Yu: \"Image Classification Using Sparse Coding, Pt. 1\"",
+      "views": 3900
+    },
+    {
+      "id": "EGaEVOIS4X8",
+      "title": "Kai Yu: \"Image Classification Using Sparse Coding, Pt. 2\"",
+      "views": 949
+    },
+    {
+      "id": "dY249vF0Pps",
+      "title": "Jorge Nocedal: \"Tutorial on Optimization Methods for Machine Learning, Pt. 1\"",
+      "views": 5300
+    },
+    {
+      "id": "XM-1M8xquRs",
+      "title": "Jorge Nocedal: \"Tutorial on Optimization Methods for Machine Learning, Pt. 2\"",
+      "views": 1600
+    },
+    {
+      "id": "x4sd_ONTaQE",
+      "title": "Jorge Nocedal: \"Tutorial on Optimization Methods for Machine Learning, Pt. 3\"",
+      "views": 1100
+    },
+    {
+      "id": "-Y-FaVGWapQ",
+      "title": "Stéphane Mallat: \"Scattering Invariant Deep Networks for Classification, Pt. 3\"",
+      "views": 7500
+    },
+    {
+      "id": "tbFWvcZDpho",
+      "title": "Jason Morton: \"An Algebraic Perspective on Deep Learning, Pt. 1\"",
+      "views": 1300
+    },
+    {
+      "id": "FvV4aNujBWc",
+      "title": "Jason Morton: \"An Algebraic Perspective on Deep Learning, Pt. 2\"",
+      "views": 468
+    },
+    {
+      "id": "GM7V7surX2E",
+      "title": "Jason Morton: \"An Algebraic Perspective on Deep Learning, Pt. 3\"",
+      "views": 397
+    },
+    {
+      "id": "v5YMaIxEWYU",
+      "title": "Yoshua Bengio: \"Representation Learning and Deep Learning, Pt. 5\"",
+      "views": 1300
+    },
+    {
+      "id": "mgCIKnMgBmk",
+      "title": "Stanley Osher: \"Compressed Sensing: Recovery, Algorithms, and Analysis\"",
+      "views": 5400
+    },
+    {
+      "id": "iHnGqxGDkvY",
+      "title": "Stanley Osher: \"Linearized Bregman Algorithm for L1-regularized Logistic Regression\"",
+      "views": 2600
+    },
+    {
+      "id": "E4b3lss8wLA",
+      "title": "Ruslan Salakhutdinov: \"Learning Hierarchical Generative Models, Pt. 1\"",
+      "views": 1400
+    },
+    {
+      "id": "nODMf0AjPEs",
+      "title": "Ruslan Salakhutdinov: \"Learning Hierarchical Generative Models, Pt. 2\"",
+      "views": 551
+    },
+    {
+      "id": "6Rlbpoi3jyM",
+      "title": "Marc'Aurelio Ranzato: \"Deep Gated MRFs, Pt. 1\"",
+      "views": 212
+    },
+    {
+      "id": "ucw4vox3Ulo",
+      "title": "Marc'Aurelio Ranzato: \"Deep Gated MRFs, Pt. 2\"",
+      "views": 121
+    },
+    {
+      "id": "Fpd9UbIb-Js",
+      "title": "Jason Weston: \"Large Scale Supervised Embedding for Text and Images\"",
+      "views": 330
+    },
+    {
+      "id": "jqsHLy0nQOI",
+      "title": "Jason Weston: \"Deep Learning for Natural Language Processing\"",
+      "views": 1200
+    },
+    {
+      "id": "XRw39mI2SuE",
+      "title": "Jason Weston: \"Situated Learning: Hidden Representations for Grounding Language\"",
+      "views": 197
+    },
+    {
+      "id": "l0Yul3H0ki8",
+      "title": "Ruslan Salakhutdinov: \"Advanced Hierarchical Models\"",
+      "views": 676
+    },
+    {
+      "id": "6O-EE2JC-yA",
+      "title": "Bruno Olshausen: \"From Natural Scene Statistics to Models of Neural Coding & Representation, Pt. 1\"",
+      "views": 1600
+    },
+    {
+      "id": "k0ial5YBTYs",
+      "title": "Marc'Aurelio Ranzato: \"Large Scale Deep Learning\"",
+      "views": 940
+    },
+    {
+      "id": "r1pjoQm9j7M",
+      "title": "Thomas Serre: \"Deep Learning in the Visual Cortex, Pt. 1\"",
+      "views": 1600
+    },
+    {
+      "id": "S3Ye1FGRdNA",
+      "title": "Thomas Serre: \"Deep Learning in the Visual Cortex, Pt. 2\"",
+      "views": 727
+    },
+    {
+      "id": "AYlWB6gv680",
+      "title": "Roland Memisevic: \"Multiview Feature Learning, Pt. 1\"",
+      "views": 1400
+    },
+    {
+      "id": "Wi88lXVXnL4",
+      "title": "Roland Memisevic: \"Multiview Feature Learning, Pt. 2\"",
+      "views": 393
+    },
+    {
+      "id": "iA3ueTS9BSw",
+      "title": "Bruno Olshausen: \"From Natural Scene Statistics to Models of Neural Coding & Representation, Pt. 2\"",
+      "views": 923
+    },
+    {
+      "id": "Em6mQQy4wYA",
+      "title": "Iain Murray: \"Introduction to MCMC for Deep Learning\"",
+      "views": 24000
+    },
+    {
+      "id": "UYAGv2Tksy0",
+      "title": "Iain Murray: \"Density Estimation\"",
+      "views": 1100
+    },
+    {
+      "id": "XYEs7kK2efY",
+      "title": "Nando de Freitas: \"An Informal Mathematical Tour of Feature Learning, Pt. 1\"",
+      "views": 2000
+    },
+    {
+      "id": "JlONAaoW8rs",
+      "title": "Nando de Freitas: \"An Informal Mathematical Tour of Feature Learning, Pt. 2\"",
+      "views": 882
+    },
+    {
+      "id": "4v_-c0LeGrU",
+      "title": "Thomas Serre: \"Deep Learning in the Visual Cortex, Pt. 3\"",
+      "views": 415
+    },
+    {
+      "id": "t9sXdAEvecg",
+      "title": "Nando de Freitas: \"An Informal Mathematical Tour of Feature Learning, Pt. 3\"",
+      "views": 766
+    },
+    {
+      "id": "QhNeTe-rnak",
+      "title": "Nando de Freitas: \"An Informal Mathematical Tour of Feature Learning, Pt. 4\"",
+      "views": 553
+    }
+  ]
+}

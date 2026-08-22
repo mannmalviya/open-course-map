@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "NeqzL6jwgE0",
+      "title": "Sam Bowman: \"Toward natural language semantics in learned representations\"",
+      "views": 4100
+    },
+    {
+      "id": "as3RpspRb88",
+      "title": "Emily Fox: \"Interpretable Neural Network Models for Granger Causality Discovery\"",
+      "views": 4600
+    },
+    {
+      "id": "lCRs-Xn0Af8",
+      "title": "Ellie Pavlick: \"Should we care about linguistics?\"",
+      "views": 1500
+    },
+    {
+      "id": "RM-Jtc2ryfM",
+      "title": "Yann LeCun: \"Deep Learning and the Future of Artificial Intelligence”",
+      "views": 10000
+    },
+    {
+      "id": "gNHbyMONEVs",
+      "title": "Alán Aspuru-Guzik: \"Do androids dream of electric molecules?\"",
+      "views": 1400
+    },
+    {
+      "id": "_p8vFSUesNs",
+      "title": "Daniel Rueckert: \"Deep learning in medical imaging\"",
+      "views": 12000
+    },
+    {
+      "id": "5nSpiPg_96Q",
+      "title": "Kyle Cranmer: \"Deep Learning in the Physical Sciences\"",
+      "views": 1000
+    },
+    {
+      "id": "98KiH44yvok",
+      "title": "Stéphane Mallat: \"Deep Generative Networks as Inverse Problems\"",
+      "views": 5400
+    },
+    {
+      "id": "2bW4TkfTk-M",
+      "title": "Michael Elad: \"Sparse Modeling in Image Processing and Deep Learning\"",
+      "views": 12000
+    },
+    {
+      "id": "1_KhJv0Em5Y",
+      "title": "Yann LeCun: “AI Breakthroughs & Obstacles to Progress, Mathematical and Otherwise”",
+      "views": 4800
+    },
+    {
+      "id": "v3jZRkvIOIM",
+      "title": "Xavier Bresson: \"Convolutional Neural Networks on Graphs\"",
+      "views": 30000
+    },
+    {
+      "id": "nCv05re-8lQ",
+      "title": "Federico Monti: \"Deep Geometric Matrix Completion\"",
+      "views": 1100
+    },
+    {
+      "id": "ZSIZSVRvd4Q",
+      "title": "Joan Bruna: \"On Computational Hardness with Graph Neural Networks\"",
+      "views": 1300
+    },
+    {
+      "id": "oQL4E1gK3VU",
+      "title": "Jure Leskovec: \"Large-scale Graph Representation Learning\"",
+      "views": 32000
+    },
+    {
+      "id": "HzgfPNeqJuQ",
+      "title": "Yann LeCun: \"A Few (More) Approaches to Unsupervised Learning\"",
+      "views": 4200
+    },
+    {
+      "id": "NFeZ6MggJjw",
+      "title": "Pratik Chaudhari: \"Unraveling the mysteries of stochastic gradient descent on deep neural networks\"",
+      "views": 3800
+    },
+    {
+      "id": "zbg49SMP5kY",
+      "title": "Stefano Soatto: \"Invariance and disentanglement in deep representations\"",
+      "views": 3800
+    },
+    {
+      "id": "78vq6kgsTa8",
+      "title": "Tom Goldstein: \"What do neural loss surfaces look like?\"",
+      "views": 21000
+    },
+    {
+      "id": "WYLoNEcVeZo",
+      "title": "Stanley Osher: \"New Techniques in Optimization and Their Applications to Deep Learning...\"",
+      "views": 2600
+    },
+    {
+      "id": "r7oSmy_AtZY",
+      "title": "Arthur Szlam: \"Composable planning with attributes\"",
+      "views": 434
+    },
+    {
+      "id": "JtBWzI3OaxI",
+      "title": "Michael Bronstein: \"Deep functional maps: intrinsic structured prediction...\"",
+      "views": 1500
+    },
+    {
+      "id": "9fZ8JiDZqCA",
+      "title": "Sainbayar Sukhbaatar: \"Deep Architecture for Sets and Its Application to Multi-agent Communication\"",
+      "views": 1000
+    },
+    {
+      "id": "RuKPCVzlbCY",
+      "title": "Zuowei Shen: \"Deep Learning: Approximation of functions by composition\"",
+      "views": 1300
+    },
+    {
+      "id": "SqE6gjQadfs",
+      "title": "Wei Zhu: \"LDMnet: low dimensional manifold regularized neural networks\"",
+      "views": 1800
+    }
+  ]
+}

@@ -1515,9 +1515,9 @@ body {
 
 /* Marks sit at the weight of the count across from them — wordmarks, for the
    same reason the logo wall uses them: a square mark this small is a grey blob,
-   and here it is the only thing naming the school. They stay monochrome even on
-   hover, unlike the wall: at this size a brand colour is noise, and it would
-   fight the accent tint the card takes when you point at it. */
+   and here it is the only thing naming the school. Unlike the wall they are in
+   their own colours from the start, not on hover: a card names two or three
+   schools rather than twenty, so there is no row to even out. */
 .pathway-logos {
   display: flex;
   align-items: center;
@@ -1530,19 +1530,27 @@ body {
   height: 13px;
   width: auto;
   max-width: 84px;
-  opacity: 0.5;
-  filter: brightness(0);
-  transition: opacity 0.2s ease;
 }
 
-:root[data-theme='dark'] .pathway-logo {
-  opacity: 0.6;
-  filter: brightness(0) invert(1);
+/* The lifts the logo wall works out for its hovered marks, owed here for the
+   same reason: a mark drawn for paper in navy or near-black sinks into a dark
+   card. brightness() scales the channels rather than mixing in white, so the
+   colour brightens instead of fading. */
+:root[data-theme='dark'] .pathway-logo[src*='yale'],
+:root[data-theme='dark'] .pathway-logo[src*='uc-berkeley'],
+:root[data-theme='dark'] .pathway-logo[src*='santa-cruz'],
+:root[data-theme='dark'] .pathway-logo[src*='harvard'] {
+  filter: brightness(1.7);
 }
 
-.pathway-card:hover .pathway-logo,
-.pathway-card:focus-within .pathway-logo {
-  opacity: 0.9;
+:root[data-theme='dark'] .pathway-logo[src*='nyu'] {
+  filter: brightness(1.4);
+}
+
+/* ETH's wordmark is a single near-black shape that no lift rescues — the
+   brand's own reversed version is white, so invert to that. */
+:root[data-theme='dark'] .pathway-logo[src*='eth-zurich'] {
+  filter: invert(1);
 }
 
 /* Breadcrumb wordmark doubles as the way back to the landing */

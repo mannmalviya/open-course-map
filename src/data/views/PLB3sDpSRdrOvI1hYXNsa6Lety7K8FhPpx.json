@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "nsHbkVMaUGk",
+      "title": "lec3 18409 - Non-negative Matrix Factorization (NMF)",
+      "views": 8900
+    },
+    {
+      "id": "Ys7LECIrEN4",
+      "title": "lec4 18409 - Probablisitic Non-negative Matrix Factorization (NMF) and K-medians algorithm",
+      "views": 1200
+    },
+    {
+      "id": "vuwGn6y1uys",
+      "title": "lec5 18409 - Tensor Decompositions",
+      "views": 3600
+    },
+    {
+      "id": "2W03zuS9JyA",
+      "title": "lec6 18409 - Tensor Methods (topic models)",
+      "views": 690
+    },
+    {
+      "id": "BQUlMV_lkuU",
+      "title": "lec7 part1 18409 - Review and Motivation of Tensor Decompositions",
+      "views": 340
+    },
+    {
+      "id": "FUVgtU2a-gU",
+      "title": "lec7 part2 18409 - Learning Phylogenetic Tree",
+      "views": 290
+    },
+    {
+      "id": "WKOsfkgy7Q0",
+      "title": "lec8 18409 - Phylogenetic Trees (HMMs), Noisy Parity and Perturbation Bounds",
+      "views": 213
+    },
+    {
+      "id": "Dy9nXpoOsxI",
+      "title": "lec9 18409 - Perturbation Bounds (continued) and Open Questions",
+      "views": 179
+    },
+    {
+      "id": "qNXJ8vq4B30",
+      "title": "lec10 18409 - Independent Component Analysis (ICA)",
+      "views": 3900
+    },
+    {
+      "id": "3ixAUNuKWvA",
+      "title": "lec11 18409 - Semi-random Models",
+      "views": 216
+    },
+    {
+      "id": "FrJ-bpoHBdU",
+      "title": "lec12 18409 - Sparse Recovery",
+      "views": 731
+    },
+    {
+      "id": "84YhikoyDg0",
+      "title": "lec13 18409 - Algorithms for Sparse Recovery",
+      "views": 920
+    },
+    {
+      "id": "G3RV1PBGUZg",
+      "title": "lec14 18409 - Sparse Coding (Dictionary Learning)",
+      "views": 3700
+    },
+    {
+      "id": "cUxNrK77bxM",
+      "title": "lec15 18409 - Analyze Alternating Minimization",
+      "views": 412
+    },
+    {
+      "id": "qhbnO8CSvPw",
+      "title": "lec16 18409 - Gaussian Mixture Models",
+      "views": 836
+    },
+    {
+      "id": "HWcbkgpbqRE",
+      "title": "lec17 18409 - Clustering Samples from a mixture of Gaussians",
+      "views": 208
+    },
+    {
+      "id": "As0WPGkcxdc",
+      "title": "lec18 18409 - Beyond Clustering",
+      "views": 148
+    },
+    {
+      "id": "FzKONJ0Rjmw",
+      "title": "lec19 18409 - Univariate Algorithm",
+      "views": 136
+    },
+    {
+      "id": "VBwRZOnqs-I",
+      "title": "lec20 part1 18409 - A view from Algebraic Geometry",
+      "views": 625
+    },
+    {
+      "id": "sR9XkFoyskA",
+      "title": "lec20 part2 18409 - A view from Algebraic Geometry (continued)",
+      "views": 220
+    },
+    {
+      "id": "BNqj3vCkcWE",
+      "title": "lec21 18409 - Matrix Completion",
+      "views": 1300
+    },
+    {
+      "id": "K7Y4HjVDKFE",
+      "title": "lec22 18409 - Matrix Completion Continued (Quantum Golfing)",
+      "views": 369
+    },
+    {
+      "id": "-henAds_0QU",
+      "title": "lec23 18409 - Alternating Minimization for Matrix Completion",
+      "views": 1000
+    },
+    {
+      "id": "TzqYKdfgkmI",
+      "title": "lec24 18409 - Review of the whole course and Question for professor Ankur Moitra",
+      "views": 549
+    }
+  ]
+}

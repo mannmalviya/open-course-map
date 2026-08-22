@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "hM547xRIdzc",
+      "title": "MIT 6.854 Spring 2016 Lecture 3: Consistent Hashing and Random Trees",
+      "views": 58000
+    },
+    {
+      "id": "WoHDG95DXDQ",
+      "title": "MIT 6.854 Spring 2016 Lecture 3 part 2",
+      "views": 3700
+    },
+    {
+      "id": "Jg9huRQAbS0",
+      "title": "MIT 6.854 Spring 2016 Lecture 4: Distinct Elements and Heavy Hitters",
+      "views": 4900
+    },
+    {
+      "id": "Tw0J5Xv6xQw",
+      "title": "MIT 6.854 Spring 2016 Lecture 5: Johnson Lindenstrauss Lemma and Extensions",
+      "views": 10000
+    },
+    {
+      "id": "vAboxtLEeH0",
+      "title": "MIT 6.854 Spring 2016 Lecture 6: Nearest Neighbor Search and LSH",
+      "views": 7500
+    },
+    {
+      "id": "zgutyzA9JM4",
+      "title": "MIT 6.854 Spring 2016 Lecture 7: Flow Decomposition and Augmenting Paths",
+      "views": 6500
+    },
+    {
+      "id": "JxbPdIHNLqc",
+      "title": "MIT 6.854 Spring 2016 Lecture 8: Capacity Scaling and Min Cost Matching",
+      "views": 4000
+    },
+    {
+      "id": "Vm37AbvmmIU",
+      "title": "MIT 6.854 Spring 2016 Lecture 9: Min Cost Flow, Goldberg-Tarjan",
+      "views": 5100
+    },
+    {
+      "id": "T1BuzVLfipY",
+      "title": "MIT 6.854 Spring 2016 Lecture 10: Introduction to Linear Programming",
+      "views": 12000
+    },
+    {
+      "id": "JZt6Ewl192c",
+      "title": "MIT 6.854 Spring 2016 Lecture 11: Strong Duality, Zero Sum Games and Complementary Slackness",
+      "views": 4600
+    },
+    {
+      "id": "qWpYtfXeEn8",
+      "title": "MIT 6.854 Spring 2016 Lecture 12: From Separation to Optimization and Back; Ellipsoid Method",
+      "views": 6400
+    },
+    {
+      "id": "SDv18sickuM",
+      "title": "MIT 6.854 Spring 2016 Lecture 13: Submodular Functions",
+      "views": 5900
+    },
+    {
+      "id": "L97QMoo9YJI",
+      "title": "MIT 6.854 Spring 2016 Lecture 14: Rounding Linear Programming Relaxations",
+      "views": 1700
+    },
+    {
+      "id": "UQHDmG4qeq8",
+      "title": "MIT 6.854 Spring 2016 Lecture 15: Gradient Descent",
+      "views": 9000
+    },
+    {
+      "id": "4mpq-wsYBxw",
+      "title": "MIT 6.854 Spring 2016 Lecture 16: Interior Point Methods",
+      "views": 11000
+    },
+    {
+      "id": "2_T2MLIY0ho",
+      "title": "MIT 6.854 Spring 2016 Lecture 17: Multiplicative Weights and Zero Sum Games",
+      "views": 2500
+    },
+    {
+      "id": "MdMjpPffGDs",
+      "title": "MIT 6.854 Spring 2016 Lecture 18: Applications of Multiplicative Weights",
+      "views": 1700
+    },
+    {
+      "id": "-F_wHuoKDao",
+      "title": "MIT 6.854 Spring 2016 Lecture 19: Semidefinite Programming, MAXCUT",
+      "views": 10000
+    },
+    {
+      "id": "6q_gfTej-Bw",
+      "title": "MIT 6.854 Spring 2016 Lecture 20: Grothendieck's Inequality and the Lovasz Theta Function",
+      "views": 3300
+    },
+    {
+      "id": "gS39aAhfY1g",
+      "title": "MIT 6.854 Spring 2016 Lecture 21: Planted Clique and Random Matrix Theory",
+      "views": 1900
+    },
+    {
+      "id": "G3WLsZAoTuo",
+      "title": "MIT 6.854 Spring 2016 Lecture 22: Compressed Sensing",
+      "views": 12000
+    },
+    {
+      "id": "kZNBcvgGFdA",
+      "title": "MIT 6.854 Spring 2016 Lecture 23: Smoothed Analysis",
+      "views": 1900
+    },
+    {
+      "id": "n3umLs_SnhQ",
+      "title": "MIT 6.854 Spring 2016 Lecture 24: Oblivious Subspace Embeddings",
+      "views": 4000
+    },
+    {
+      "id": "IYmTSdpigl8",
+      "title": "MIT 6.854 Spring 2016 Lecture 25: Course Summary",
+      "views": 1800
+    }
+  ]
+}

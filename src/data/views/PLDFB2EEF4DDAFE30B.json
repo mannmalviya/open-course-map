@@ -1,0 +1,94 @@
+{
+  "lectures": [
+    {
+      "id": "kylzCoLwbvI",
+      "title": "Lecture 1a, Introduction;  Examples of unconstrained  and constrained optimization problems:",
+      "views": 37000
+    },
+    {
+      "id": "QDFpmrcoesM",
+      "title": "Lecture 1b, Linear algebra refresh:",
+      "views": 10000
+    },
+    {
+      "id": "G_p4QJrjdOw",
+      "title": "Lecture 2-3: Derivatives of multivariate functions: Gradient and Hessian",
+      "views": 25000
+    },
+    {
+      "id": "knBF1VfjSz4",
+      "title": "Lecture 4-5: Convex sets and functions",
+      "views": 33000
+    },
+    {
+      "id": "R9NGpE8mJb0",
+      "title": "Lecture 6. Local and global minimum.  Sufficient and necessary unconstrained optimality conditions",
+      "views": 16000
+    },
+    {
+      "id": "bGaIEiZWwqk",
+      "title": "Lecture 7(Heb). Optimality conditions; iterative methods of one-dimensional optimization",
+      "views": 5800
+    },
+    {
+      "id": "j5j0KBg7M4k",
+      "title": "Lecture 8  Iterative methods of multivariate unconstrained optimization",
+      "views": 11000
+    },
+    {
+      "id": "J0hVIQsFD3Q",
+      "title": "Lecture 9 More on Newton method",
+      "views": 6800
+    },
+    {
+      "id": "hZVK_PGE0_I",
+      "title": "Lecture 10 Method of Conjugate Gradients 1",
+      "views": 18000
+    },
+    {
+      "id": "wWewhecuT8I",
+      "title": "Lecture 11 Method of Conjugate Gradients 2",
+      "views": 6900
+    },
+    {
+      "id": "dpKhYVi0y1g",
+      "title": "Lecture 12 Sequential subspace optimization (SESOP) method and Quasi-Newton BFGS",
+      "views": 9800
+    },
+    {
+      "id": "POPYQLG6n00",
+      "title": "Lecture 13. Summary of unconstrained optimization. Optimization with constraints",
+      "views": 11000
+    },
+    {
+      "id": "3MrlbUoO1y4",
+      "title": "Lecture 14 Lagrange multipliers and penalty function method. Augmented Lagrangian",
+      "views": 17000
+    },
+    {
+      "id": "MFEkxYuoFqw",
+      "title": "Lecture 15 Minimax theorem, game theory and Lagrange duality",
+      "views": 11000
+    },
+    {
+      "id": "aGqjNrDriEE",
+      "title": "Lecture 16 Conic programming 1",
+      "views": 8400
+    },
+    {
+      "id": "NmNyZbkANMk",
+      "title": "Lecture 16b-17 Conic programming 2",
+      "views": 3900
+    },
+    {
+      "id": "S35vIgPXIlo",
+      "title": "Penalty method for semidefinite programming and homework on linear matrix approximation",
+      "views": 3500
+    },
+    {
+      "id": "ruuW4-InUxM",
+      "title": "Homework on analytical and numerical computation of gradient and Hessian",
+      "views": 8400
+    }
+  ]
+}

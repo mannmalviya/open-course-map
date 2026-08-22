@@ -234,6 +234,25 @@
           "primary": true
         }
       ]
+    },
+    "mit-18409": {
+      "title": "18.409 Algorithmic ML",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "MIT 18.409 · Moitra · 2015",
+          "url": "http://people.csail.mit.edu/moitra/409.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx",
+          "date": "Spring 2015",
+          "youtubeId": "nsHbkVMaUGk",
+          "primary": true
+        }
+      ]
     }
   }
 }

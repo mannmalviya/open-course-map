@@ -1,0 +1,99 @@
+{
+  "lectures": [
+    {
+      "id": "jbNVUCRMUP0",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 1 - course information",
+      "views": 38000
+    },
+    {
+      "id": "zGTrvVtk7MI",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture - 2 overview",
+      "views": 19000
+    },
+    {
+      "id": "8EfqiUVBI9s",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 3 - predictors",
+      "views": 10000
+    },
+    {
+      "id": "N2lwsB1qfJw",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 4 - validation",
+      "views": 5100
+    },
+    {
+      "id": "FcWpqMTz9jk",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 5 - features",
+      "views": 4100
+    },
+    {
+      "id": "SwH0rs5TW_Q",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 6 - empirical risk minimization",
+      "views": 6700
+    },
+    {
+      "id": "opjG0pQi_yo",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 7 - constant predictors",
+      "views": 2600
+    },
+    {
+      "id": "ED8ufzNGuag",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 8 - non quadratic losses",
+      "views": 2100
+    },
+    {
+      "id": "zpD4omYRleA",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 9 - house prices example",
+      "views": 2000
+    },
+    {
+      "id": "7BWI-58W42E",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 10 - non quadratic regularizers",
+      "views": 1800
+    },
+    {
+      "id": "NUUfXaGl5Lg",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 11 - neural networks",
+      "views": 1900
+    },
+    {
+      "id": "_hfGEcA5zoA",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 12 - classifiers",
+      "views": 2000
+    },
+    {
+      "id": "jqTsIHFQOX8",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 13 - erm for classifiers",
+      "views": 1600
+    },
+    {
+      "id": "MT91YDjIQcg",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 14 - Boolean classification",
+      "views": 1900
+    },
+    {
+      "id": "xX-hnw2lFBI",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 15 - multiclass classification",
+      "views": 2200
+    },
+    {
+      "id": "e0Pa5PC_8mQ",
+      "title": "Stanford EE104: Intro to Machine Learning | 2020 | Lecture 16 - probabilistic classification",
+      "views": 2700
+    },
+    {
+      "id": "qHGk2KU-_EI",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 17-erm for probabilistic classif.",
+      "views": 2000
+    },
+    {
+      "id": "B3OimYsCH9w",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 18 - unsupervised learning",
+      "views": 4400
+    },
+    {
+      "id": "c9JDVyUazKE",
+      "title": "Stanford EE104: Introduction to Machine Learning | 2020 | Lecture 19 - principal components analysis",
+      "views": 9400
+    }
+  ]
+}

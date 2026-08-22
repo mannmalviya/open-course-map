@@ -260,6 +260,195 @@
           "primary": true
         }
       ]
+    },
+    "iitm-pattern-recognition": {
+      "title": "Pattern Recognition",
+      "university": "IIT Madras",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IIT Madras · Das, Murthy · 2014",
+          "url": "https://nptel.ac.in/syllabus/106106046/",
+          "youtube": "https://www.youtube.com/playlist?list=PLbMVogVj5nJQJMLb2CYw9rry0d5s0TQRp",
+          "date": "2014",
+          "youtubeId": "mfePdDh9t6Q",
+          "primary": true
+        }
+      ]
+    },
+    "uva-prml": {
+      "title": "PRML Machine Learning",
+      "university": "UvA",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UvA · Bekkers · 2020",
+          "url": "https://uvaml1.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PL8FnQMH2k7jzhtVYbKmvrMyXDYMmgjj_n",
+          "date": "2020",
+          "youtubeId": "_XmGyd4smUs",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-ee104": {
+      "title": "EE104 Intro to ML",
+      "university": "Stanford",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Stanford EE104 · Lall, Boyd · 2020",
+          "url": "http://ee104.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK",
+          "date": "Spring 2020",
+          "youtubeId": "jbNVUCRMUP0",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-statml": {
+      "title": "CMU Statistical ML",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "CMU · Tibshirani, Wasserman · 2017",
+          "url": "http://www.stat.cmu.edu/~ryantibs/statml/",
+          "youtube": "https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv",
+          "date": "Spring 2017",
+          "youtubeId": "Z1cSby8ZzhA",
+          "primary": true
+        }
+      ]
+    },
+    "pisa-continual": {
+      "title": "Continual Learning",
+      "university": "Pisa",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Pisa · Lomonaco · 2021",
+          "url": "https://course.continualai.org/background/details",
+          "youtube": "https://www.youtube.com/playlist?list=PLm6QXeaB-XkBfM5RgQP6wCR7Jegdg51Px",
+          "date": "2021",
+          "youtubeId": "z9DDg2CJjeE",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-introml": {
+      "title": "Intro to ML",
+      "university": "Tübingen",
+      "pos": {
+        "x": 1130,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Kobak · 2020",
+          "url": "https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT",
+          "date": "2020",
+          "youtubeId": "lWGdFeMsjzg",
+          "primary": true
+        }
+      ]
+    },
+    "ubc-cpsc340": {
+      "title": "CPSC 340 ML & Data Mining",
+      "university": "UBC",
+      "level": "undergrad",
+      "pos": {
+        "x": 1480,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "UBC CPSC 340 · de Freitas · 2012",
+          "url": "https://www.cs.ubc.ca/~nando/340-2012/index.php",
+          "youtube": "https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf",
+          "date": "2012",
+          "youtubeId": "pid0lUH467o",
+          "primary": true
+        }
+      ]
+    },
+    "caltech-cms165": {
+      "title": "CMS165 Foundations of ML",
+      "university": "Caltech",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Caltech CMS165 · Anandkumar · 2020",
+          "url": "http://tensorlab.cms.caltech.edu/users/anima/cms165-2020.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg",
+          "date": "2020",
+          "youtubeId": "Hn6giCdZmMg",
+          "primary": true
+        }
+      ]
+    },
+    "waterloo-cs480": {
+      "title": "CS480 Machine Learning",
+      "university": "Waterloo",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Waterloo CS480 · Poupart · 2019",
+          "url": "https://cs.uwaterloo.ca/~ppoupart/teaching/cs480-spring19",
+          "youtube": "https://www.youtube.com/playlist?list=PLdAoL1zKcqTW-uzoSVBNEecKHsnug_M0k",
+          "date": "Spring 2019",
+          "youtubeId": "GouhgbE5gPk",
+          "primary": true
+        }
+      ]
+    },
+    "eth-introml": {
+      "title": "ETH Intro to ML",
+      "university": "ETH Zürich",
+      "level": "undergrad",
+      "pos": {
+        "x": 430,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "ETH Zürich · Krause · 2018",
+          "url": "https://las.inf.ethz.ch/teaching/introml-s18",
+          "youtube": "https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV",
+          "date": "2018",
+          "youtubeId": "CxoRoXYdArQ",
+          "primary": true
+        }
+      ]
     }
   }
 }

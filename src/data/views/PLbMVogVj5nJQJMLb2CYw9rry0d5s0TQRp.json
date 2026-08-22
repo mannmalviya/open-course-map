@@ -1,0 +1,219 @@
+{
+  "lectures": [
+    {
+      "id": "mfePdDh9t6Q",
+      "title": "Mod-01 Lec-01 Principles of Pattern Recognition I (Introduction and Uses)",
+      "views": 127000
+    },
+    {
+      "id": "bMcS1JIUvVI",
+      "title": "Mod-01 Lec-02 Principles of Pattern Recognition II (Mathematics)",
+      "views": 33000
+    },
+    {
+      "id": "1rdD9Qe6-4s",
+      "title": "Mod-01 Lec-03 Principles of Pattern Recognition III (Classification and Bayes Decision Rule)",
+      "views": 22000
+    },
+    {
+      "id": "vuc93jbO2Dw",
+      "title": "Mod-01 Lec-04 Clustering vs. Classification",
+      "views": 29000
+    },
+    {
+      "id": "keZHqsQ-r6I",
+      "title": "Mod-01 Lec-05 Relevant Basics of Linear Algebra, Vector Spaces",
+      "views": 14000
+    },
+    {
+      "id": "oz0bUB44LDg",
+      "title": "Mod-01 Lec-06 Eigen Value and Eigen Vectors",
+      "views": 47000
+    },
+    {
+      "id": "yflwVRIznVI",
+      "title": "Mod-01 Lec-07 Vector Spaces",
+      "views": 7600
+    },
+    {
+      "id": "5OPk6zaE_aY",
+      "title": "Mod-01 Lec-08 Rank of Matrix and SVD",
+      "views": 22000
+    },
+    {
+      "id": "xhBBv8huHyI",
+      "title": "Mod-02 Lec-09 Types of Errors",
+      "views": 10000
+    },
+    {
+      "id": "0SNSVjeTXao",
+      "title": "Mod-02 Lec-10 Examples of Bayes Decision Rule",
+      "views": 19000
+    },
+    {
+      "id": "lqeUEVVIDD0",
+      "title": "Mod-02 Lec-11 Normal Distribution and Parameter Estimation",
+      "views": 18000
+    },
+    {
+      "id": "BqFt6hMDOzw",
+      "title": "Mod-02 Lec-12 Training Set, Test Set",
+      "views": 7600
+    },
+    {
+      "id": "0HOqOcln3Z4",
+      "title": "Mod-02 Lec-13 Standardization, Normalization, Clustering and Metric Space",
+      "views": 8200
+    },
+    {
+      "id": "ghkPStfjsPM",
+      "title": "Mod-02 Lec-14 Normal Distribution and Decision Boundaries I",
+      "views": 8800
+    },
+    {
+      "id": "Nzje30sZqeI",
+      "title": "Mod-02 Lec-15 Normal Distribution and Decision Boundaries II",
+      "views": 5500
+    },
+    {
+      "id": "_2j0cwmHKBg",
+      "title": "Mod-02 Lec-17 Linear Discriminant Function and Perceptron",
+      "views": 12000
+    },
+    {
+      "id": "BdxbLWNtzr0",
+      "title": "Mod-02 Lec-18 Perceptron Learning and Decision Boundaries",
+      "views": 5700
+    },
+    {
+      "id": "SkJkmTN2-jU",
+      "title": "Mod-02 Lec-19 Linear and Non-Linear Decision Boundaries",
+      "views": 5300
+    },
+    {
+      "id": "DlQli0OCkf8",
+      "title": "Mod-02 Lec-20 K-NN Classifier",
+      "views": 16000
+    },
+    {
+      "id": "JlmJ5PEmIOo",
+      "title": "Mod-02 Lec-21 Principal Component Analysis (PCA)",
+      "views": 9600
+    },
+    {
+      "id": "GYu24VtiB1g",
+      "title": "Mod-02 Lec-22 Fisher’s LDA",
+      "views": 15000
+    },
+    {
+      "id": "ZBLyXgjBx3Q",
+      "title": "Mod-02 Lec-23 Gaussian Mixture Model (GMM)",
+      "views": 66000
+    },
+    {
+      "id": "PsGRGqMsKnY",
+      "title": "Mod-02 Lec-24 Assignments",
+      "views": 3400
+    },
+    {
+      "id": "LxjL_yLaFS8",
+      "title": "Mod-03 Lec-25 Basics of Clustering, Similarity/Dissimilarity Measures, Clustering Criteria.",
+      "views": 15000
+    },
+    {
+      "id": "pBAbMbgaBAk",
+      "title": "Mod-03 Lec-26 K-Means Algorithm and Hierarchical Clustering..",
+      "views": 16000
+    },
+    {
+      "id": "AxARUMZh0sk",
+      "title": "Mod-03 Lec-27 K-Medoids and DBSCAN",
+      "views": 25000
+    },
+    {
+      "id": "y2Jsa4sgD5w",
+      "title": "Mod-04 Lec-28 Feature Selection : Problem statement and Uses",
+      "views": 15000
+    },
+    {
+      "id": "QwS20ytvThE",
+      "title": "Mod-04 Lec-29 Feature Selection : Branch and Bound Algorithm",
+      "views": 15000
+    },
+    {
+      "id": "MtapFEwiiug",
+      "title": "Mod-04 Lec-30 Feature Selection : Sequential Forward and Backward Selection",
+      "views": 11000
+    },
+    {
+      "id": "GSEu5hn2q98",
+      "title": "Mod-02 Lec-16 Bayes Theorem",
+      "views": 13000
+    },
+    {
+      "id": "bZUdS4W0mMk",
+      "title": "Mod-04 Lec-31 Cauchy Schwartz Inequality",
+      "views": 26000
+    },
+    {
+      "id": "aeEv3-tSvjM",
+      "title": "Mod-04 Lec-32 Feature Selection Criteria Function: Probabilistic Separability Based",
+      "views": 3600
+    },
+    {
+      "id": "-2oGiVWVpSo",
+      "title": "Mod-04 Lec-33 Feature Selection Criteria Function: Interclass Distance Based",
+      "views": 3000
+    },
+    {
+      "id": "YSqFB7Srx-4",
+      "title": "Mod-05 Lec-34 Principal Components",
+      "views": 5200
+    },
+    {
+      "id": "hQQyuux45So",
+      "title": "Mod-06 Lec-35 Comparison Between Performance of Classifiers",
+      "views": 2000
+    },
+    {
+      "id": "-NJ-_S4MGeY",
+      "title": "Mod-06 Lec-36 Basics of Statistics, Covariance, and their Properties",
+      "views": 3500
+    },
+    {
+      "id": "q8gVpKl1f-4",
+      "title": "Mod-06 Lec-37 Data Condensation, Feature Clustering, Data Visualization",
+      "views": 2200
+    },
+    {
+      "id": "dLflHoGNofY",
+      "title": "Mod-06 Lec-38 Probability Density Estimation",
+      "views": 9300
+    },
+    {
+      "id": "-ckKBa4EB64",
+      "title": "Mod-06 Lec-39 Visualization and Aggregation",
+      "views": 1800
+    },
+    {
+      "id": "qnEZ1rF0H1Y",
+      "title": "Mod-06 Lec-40 Support Vector Machine (SVM)",
+      "views": 12000
+    },
+    {
+      "id": "MLlk6h692BQ",
+      "title": "Mod-06 Lec-41 FCM and Soft-Computing Techniques",
+      "views": 17000
+    },
+    {
+      "id": "ukpN74i6ifw",
+      "title": "Mod-06 Lec-42 Examples of Uses or Application of Pattern Recognition; And When to do clustering",
+      "views": 2200
+    },
+    {
+      "id": "iNvhgni89_I",
+      "title": "Mod-06 Lec-43 Examples of Real-Life Dataset",
+      "views": 2600
+    }
+  ]
+}

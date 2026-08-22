@@ -1,0 +1,319 @@
+{
+  "lectures": [
+    {
+      "id": "_XmGyd4smUs",
+      "title": "1.2 What Is Machine Learning (UvA - Machine Learning 1 - 2020)",
+      "views": 28000
+    },
+    {
+      "id": "ieAzK_Q2QHk",
+      "title": "1.3 Types Of Machine Learning (UvA - Machine Learning 1 - 2020)",
+      "views": 6100
+    },
+    {
+      "id": "0fCTk5ElCqg",
+      "title": "1.4 Probability Theory Bayes (UvA - Machine Learning 1 - 2020)",
+      "views": 9200
+    },
+    {
+      "id": "pO2bnMvkTT0",
+      "title": "1.5 Probability Theory: Example (UvA - Machine Learning 1 - 2020)",
+      "views": 5300
+    },
+    {
+      "id": "jDLT6YUbghE",
+      "title": "2.1 Expectation Variance (UvA - Machine Learning 1 - 2020)",
+      "views": 5300
+    },
+    {
+      "id": "VX1vEKxQCEo",
+      "title": "2.2 Gaussian (UvA - Machine Learning 1 - 2020)",
+      "views": 5900
+    },
+    {
+      "id": "UwulvIiS40M",
+      "title": "2.3 Maximum Likelihood (UvA - Machine Learning 1 - 2020)",
+      "views": 7600
+    },
+    {
+      "id": "Esr5MvJioUY",
+      "title": "2.4 Maximum Likelihood: Example (UvA - Machine Learning 1 - 2020)",
+      "views": 5500
+    },
+    {
+      "id": "4bvuBaDhQ4M",
+      "title": "2.5 Maximum A Posteriori (UvA - Machine Learning 1 - 2020)",
+      "views": 9600
+    },
+    {
+      "id": "5Zo6WxRyJW0",
+      "title": "2.6 Bayesian Prediction (UvA - Machine Learning 1 - 2020)",
+      "views": 5600
+    },
+    {
+      "id": "sfLm09wqSVk",
+      "title": "3.1 Linear Regression With Basis Functions (UvA - Machine Learning 1 - 2020)",
+      "views": 8800
+    },
+    {
+      "id": "u6T2d4AzsDM",
+      "title": "3.2 Linear Regression Via Maximum Likelihood (UvA - Machine Learning 1 - 2020)",
+      "views": 4900
+    },
+    {
+      "id": "Yns37Zp2G2o",
+      "title": "3.3 Stochastic Gradient Descent (UvA - Machine Learning 1 - 2020)",
+      "views": 3900
+    },
+    {
+      "id": "sGWhUfjXwGc",
+      "title": "3.4 Underfitting Overfitting (UvA - Machine Learning 1 - 2020)",
+      "views": 2400
+    },
+    {
+      "id": "B5Rd2ctb_kg",
+      "title": "3.5 Regularized Least Squares (UvA - Machine Learning 1 - 2020)",
+      "views": 5900
+    },
+    {
+      "id": "vNgHUeF3I00",
+      "title": "4.1 Model Selection (UvA - Machine Learning 1 - 2020)",
+      "views": 3300
+    },
+    {
+      "id": "q-17mNhq4rM",
+      "title": "4.2 Bias Variance Decomposition (UvA - Machine Learning 1 - 2020)",
+      "views": 5100
+    },
+    {
+      "id": "0y5d5r7A2ck",
+      "title": "4.3 Gaussian Posteriors (UvA - Machine Learning 1 - 2020)",
+      "views": 3500
+    },
+    {
+      "id": "Wehi81L66Ts",
+      "title": "4.4 Sequential Bayesian Learning (UvA - Machine Learning 1 - 2020)",
+      "views": 4100
+    },
+    {
+      "id": "ZyFQqd8r5Nw",
+      "title": "4.5 Bayesian Predictive Distributions (UvA - Machine Learning 1 - 2020)",
+      "views": 4400
+    },
+    {
+      "id": "ZxqOANjN2oM",
+      "title": "5.1 Equivalent Kernel (UvA - Machine Learning 1 - 2020)",
+      "views": 3100
+    },
+    {
+      "id": "1U9VAY8d33I",
+      "title": "5.2 Bayesian Model Comparison (UvA - Machine Learning 1 - 2020)",
+      "views": 4300
+    },
+    {
+      "id": "kBt9hPNxpI8",
+      "title": "5.3 Model Evidence Approximation and Empirical Bayes (UvA - Machine Learning 1 - 2020)",
+      "views": 3600
+    },
+    {
+      "id": "qJ8wGNSNmWU",
+      "title": "5.4 Classification With Decision Regions (UvA - Machine Learning 1 - 2020)",
+      "views": 2900
+    },
+    {
+      "id": "TeXo_3o9W80",
+      "title": "5.5 Decision Theory (UvA - Machine Learning 1 - 2020)",
+      "views": 3900
+    },
+    {
+      "id": "FfZJMTdvhA0",
+      "title": "5.6 Probabilistic Generative Models (UvA - Machine Learning 1 - 2020)",
+      "views": 7700
+    },
+    {
+      "id": "R6yNZ4diIQo",
+      "title": "6.1 Probabilistic Generative Modeling: Maximum Likelihood (UvA - Machine Learning 1 - 2020)",
+      "views": 4800
+    },
+    {
+      "id": "-5NiWddslNc",
+      "title": "6.2 Probabilistic Generative Modeling: Discrete Data (UvA - Machine Learning 1 - 2020)",
+      "views": 2800
+    },
+    {
+      "id": "icgwGh6Rq_o",
+      "title": "6.3 Discriminant Functions (UvA - Machine Learning 1 - 2020)",
+      "views": 8000
+    },
+    {
+      "id": "QiQmHzd9QfA",
+      "title": "6.4 Discriminant Functions: Least Squares Regression (UvA - Machine Learning 1 - 2020)",
+      "views": 3600
+    },
+    {
+      "id": "m9qgbaAZ1bo",
+      "title": "6.5 Discriminant Functions: The Perceptron (UvA - Machine Learning 1 - 2020)",
+      "views": 2600
+    },
+    {
+      "id": "IQJTlUvATbs",
+      "title": "7.1 Classification With Basis Functions (UvA - Machine Learning 1 - 2020)",
+      "views": 2700
+    },
+    {
+      "id": "HKU9Mp__rYg",
+      "title": "7.2 Probabilistic Discriminative Models: Logistic Regression (UvA - Machine Learning 1 - 2020)",
+      "views": 3800
+    },
+    {
+      "id": "nMrGFegAPd0",
+      "title": "7.3 Logistic Regression: Stochastic Gradient Descent (UvA - Machine Learning 1 - 2020)",
+      "views": 2700
+    },
+    {
+      "id": "cXiqYer7nk0",
+      "title": "7.4 Logistic Regression: Newton Raphson (UvA - Machine Learning 1 - 2020)",
+      "views": 3900
+    },
+    {
+      "id": "tIsyNTOIbyc",
+      "title": "8.1 Neural Networks (UvA - Machine Learning 1 - 2020)",
+      "views": 3300
+    },
+    {
+      "id": "XzVYb59oJVY",
+      "title": "8.2 Neural Networks: Universal Approximation Theorem (UvA - Machine Learning 1 - 2020)",
+      "views": 3300
+    },
+    {
+      "id": "S_M-Oo8jEQo",
+      "title": "8.3 Neural Networks: Losses (UvA - Machine Learning 1 - 2020)",
+      "views": 1600
+    },
+    {
+      "id": "qCMmuX4uGn0",
+      "title": "8.4 Neural Networks: Stochastic Gradient Descent (UvA - Machine Learning 1 - 2020)",
+      "views": 2000
+    },
+    {
+      "id": "Pz3yKyUYM7k",
+      "title": "8.5 Neural Networks: Backpropagation (UvA - Machine Learning 1 - 2020)",
+      "views": 2500
+    },
+    {
+      "id": "zFHwYvmDCCg",
+      "title": "9.1 Unsupervised Learning: Latent Variable Models (UvA - Machine Learning 1 - 2020)",
+      "views": 5800
+    },
+    {
+      "id": "KjE8X3q_p-Q",
+      "title": "9.2 K-Means Clustering (UvA - Machine Learning 1 - 2020)",
+      "views": 2400
+    },
+    {
+      "id": "E530RlujNUQ",
+      "title": "9.3 Intermezzo: Lagrange Multipliers (UvA - Machine Learning 1 - 2020)",
+      "views": 2600
+    },
+    {
+      "id": "TfMtshd5mgo",
+      "title": "9.4 Gaussian Mixture Models And Expectation Maximization (UvA - Machine Learning 1 - 2020)",
+      "views": 8100
+    },
+    {
+      "id": "-A64n7Ss35g",
+      "title": "10.1 Principal Component Analysis: Maximum Variance (UvA - Machine Learning 1 - 2020)",
+      "views": 8800
+    },
+    {
+      "id": "9EgXm_CtfBg",
+      "title": "10.2 Principal Component Analysis: Minimal Reconstruction Error (UvA - Machine Learning 1 - 2020)",
+      "views": 7400
+    },
+    {
+      "id": "invkqcdSkco",
+      "title": "10.3 Probabilistic Principal Component Analysis (UvA - Machine Learning 1 - 2020)",
+      "views": 9100
+    },
+    {
+      "id": "x0TuBFWxol8",
+      "title": "10.4 Non-Linear Principal Component Analysis (UvA - Machine Learning 1 - 2020)",
+      "views": 4200
+    },
+    {
+      "id": "QTzo2whcG2g",
+      "title": "11.1 Kernelizing Linear Models (UvA - Machine Learning 1 - 2020)",
+      "views": 3400
+    },
+    {
+      "id": "rqpetBLGXg4",
+      "title": "11.2 The Kernel Trick (UvA - Machine Learning 1 - 2020)",
+      "views": 2600
+    },
+    {
+      "id": "z3c7hUjjZME",
+      "title": "11.3 Support Vector Machines: Maximum Margin Classifiers (UvA - Machine Learning 1 - 2020)",
+      "views": 3100
+    },
+    {
+      "id": "gyz1pFObd5Y",
+      "title": "11.4 Intermezzo: Inequality Constraint Optimization (UvA - Machine Learning 1 - 2020)",
+      "views": 2700
+    },
+    {
+      "id": "oi_V-Cu8334",
+      "title": "11.5 Support Vector Machines: Kernel SVM (UvA - Machine Learning 1 - 2020)",
+      "views": 2500
+    },
+    {
+      "id": "Yq8N5capzEE",
+      "title": "11.6 Support Vector Machines: Soft-Margin Classifiers (UvA - Machine Learning 1 - 2020)",
+      "views": 2200
+    },
+    {
+      "id": "9JigLupB4bU",
+      "title": "12.1 Some Properties Of Gaussian Distributions (UvA - Machine Learning 1 - 2020)",
+      "views": 2100
+    },
+    {
+      "id": "Upc5pjXxGFE",
+      "title": "12.2 Kernelizing Bayesian Regression (UvA - Machine Learning 1 - 2020)",
+      "views": 2100
+    },
+    {
+      "id": "6m2IQ-y6_WM",
+      "title": "12.3 Gaussian Processes (UvA - Machine Learning 1 - 2020)",
+      "views": 2600
+    },
+    {
+      "id": "Ksb8SasoO10",
+      "title": "12.4 Gaussian Processes With An Exponential Kernel (UvA - Machine Learning 1 - 2020)",
+      "views": 3000
+    },
+    {
+      "id": "fBDlurqqbYY",
+      "title": "12.5 Gaussian Processes: Regression (UvA - Machine Learning 1 - 2020)",
+      "views": 7100
+    },
+    {
+      "id": "t9n4SPtHGw8",
+      "title": "13.1 Model Combination Methods Vs Bayesian Model Averaging (UvA - Machine Learning 1 - 2020)",
+      "views": 4700
+    },
+    {
+      "id": "SR-qDSGEtdQ",
+      "title": "13.2 Bootstrapping And Feature Bagging (UvA - Machine Learning 1 - 2020)",
+      "views": 1300
+    },
+    {
+      "id": "NDbtzCwIFBg",
+      "title": "13.3 Boosting (UvA - Machine Learning 1 - 2020)",
+      "views": 1100
+    },
+    {
+      "id": "TDwL-bkg2gc",
+      "title": "13.4 Decision Trees And Random Forests (UvA - Machine Learning 1 - 2020)",
+      "views": 1600
+    }
+  ]
+}

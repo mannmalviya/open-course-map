@@ -1,0 +1,54 @@
+{
+  "lectures": [
+    {
+      "id": "z9DDg2CJjeE",
+      "title": "[Continual Learning Course] Lecture #1: Introduction and Motivation",
+      "views": 22000
+    },
+    {
+      "id": "UnCAdBtvZhc",
+      "title": "[Continual Learning Course] Lecture #2: Understanding Catastrophic Forgetting",
+      "views": 8900
+    },
+    {
+      "id": "74C65r5qts4",
+      "title": "[Continual Learning Course] Lecture #3: Scenarios & Benchmarks",
+      "views": 5000
+    },
+    {
+      "id": "sPm40s3hmpY",
+      "title": "[Continual Learning Course] Lecture #4: Evaluation & Metrics",
+      "views": 3400
+    },
+    {
+      "id": "gsS9RPWiSvY",
+      "title": "[Continual Learning Course] Lecture #5: Methodologies (Part 1)",
+      "views": 3900
+    },
+    {
+      "id": "eyVL8IuCMi4",
+      "title": "[Continual Learning Course] Lecture #6: Methodologies (Part 2)",
+      "views": 2400
+    },
+    {
+      "id": "mjDhCyab3Sg",
+      "title": "[Continual Learning Course] Lecture #7: Methodologies (Part 3), Applications & Tools",
+      "views": 1600
+    },
+    {
+      "id": "vxX_DA7gsa4",
+      "title": "[Continual Learning Course] Lecture #8: Frontiers of Continual Learning",
+      "views": 1500
+    },
+    {
+      "id": "QPUCa23EygI",
+      "title": "[Continual Learning Course] Extra Lecture: Avalanche Dev Day",
+      "views": 854
+    },
+    {
+      "id": "_MYppmNaS1k",
+      "title": "[Continual Learning Course] Extra Lecture: Invited Talks",
+      "views": 775
+    }
+  ]
+}

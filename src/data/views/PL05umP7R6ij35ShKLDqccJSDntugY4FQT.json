@@ -1,0 +1,59 @@
+{
+  "lectures": [
+    {
+      "id": "lWGdFeMsjzg",
+      "title": "Introduction to Machine Learning - 01 - Baby steps towards linear regression",
+      "views": 67000
+    },
+    {
+      "id": "MnRskV3NY1k",
+      "title": "Introduction to Machine Learning - 11 - Manifold learning and t-SNE",
+      "views": 57000
+    },
+    {
+      "id": "C0u_v7vEDBY",
+      "title": "Introduction to Machine Learning - 06 - Linear discriminant analysis",
+      "views": 34000
+    },
+    {
+      "id": "FaGjn9eZIVE",
+      "title": "Introduction to Machine Learning - 02 - Multiple linear regression and SVD",
+      "views": 17000
+    },
+    {
+      "id": "brkS6rAKTl4",
+      "title": "Introduction to Machine Learning - 03 - Likelihood, bias, and variance",
+      "views": 14000
+    },
+    {
+      "id": "cGUjiHyQWPk",
+      "title": "Introduction to Machine Learning - 05 - Logistic regression",
+      "views": 12000
+    },
+    {
+      "id": "thR9ncsyMBE",
+      "title": "Introduction to Machine Learning - 08 - Boosting, bagging, and random forests",
+      "views": 11000
+    },
+    {
+      "id": "9ku_jgTyC4Y",
+      "title": "Introduction to Machine Learning - 04 - Regularization and cross-validation",
+      "views": 11000
+    },
+    {
+      "id": "xBf_LZ5ZgY4",
+      "title": "Introduction to Machine Learning - 10 - Principal component analysis",
+      "views": 8900
+    },
+    {
+      "id": "mU3GZaOoVDA",
+      "title": "Introduction to Machine Learning - 09 - Clustering and expectation-maximization",
+      "views": 7800
+    },
+    {
+      "id": "Uf9xJDJt1KA",
+      "title": "Introduction to Machine Learning - 07 - Neural networks and deep learning",
+      "views": 7400
+    }
+  ]
+}

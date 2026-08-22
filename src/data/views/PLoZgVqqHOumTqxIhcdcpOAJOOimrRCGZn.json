@@ -1,0 +1,144 @@
+{
+  "lectures": [
+    {
+      "id": "oqvdH_8lmCA",
+      "title": "Lecture 01 Introduction",
+      "views": 31000
+    },
+    {
+      "id": "aJviHlCgy7U",
+      "title": "Lecture 02 Undirected GMs",
+      "views": 9700
+    },
+    {
+      "id": "cyXQkRwszE8",
+      "title": "Lecture 03 Directed GMs",
+      "views": 4300
+    },
+    {
+      "id": "LEBeACzpYvY",
+      "title": "Lecture 04  Exact Inference",
+      "views": 5000
+    },
+    {
+      "id": "stSWElRm6mw",
+      "title": "Lecture 05  Parameter Estimation",
+      "views": 3800
+    },
+    {
+      "id": "sZN6S4q1p_Q",
+      "title": "Lecture 06 Case Studies: HMM and CRF",
+      "views": 6400
+    },
+    {
+      "id": "_fMDYpdwSOw",
+      "title": "Lecture 07 Variational Inference 1",
+      "views": 3600
+    },
+    {
+      "id": "UOtJBjZy3b4",
+      "title": "Lecture 08 Variational Inference 2",
+      "views": 1700
+    },
+    {
+      "id": "iE9PPB4bHiw",
+      "title": "Lecture 09 Monte Carlo Methods",
+      "views": 1900
+    },
+    {
+      "id": "gc1u1Ds7SnI",
+      "title": "Lecture 10  Advanced MCMC Methods",
+      "views": 1900
+    },
+    {
+      "id": "W1a4gEoDrJQ",
+      "title": "Lecture 11  Statistical and Algorithmic Foundations of Deep Learning",
+      "views": 1400
+    },
+    {
+      "id": "mroxN3nuDAw",
+      "title": "Lecture 12 Deep Generative Models 1",
+      "views": 1600
+    },
+    {
+      "id": "QH1OD-eaTI0",
+      "title": "Lecture 13 Deep Generative Models 2",
+      "views": 832
+    },
+    {
+      "id": "s3PY5L2F83s",
+      "title": "Lecture 14 Deep Sequence Models",
+      "views": 826
+    },
+    {
+      "id": "_RldNVZOc1w",
+      "title": "Lecture 15 Case Study of Deep Generative Models: Text Generation",
+      "views": 697
+    },
+    {
+      "id": "aQXIdBsa-hU",
+      "title": "Lecture 16 Structure Learning",
+      "views": 1400
+    },
+    {
+      "id": "Cw887D_sE04",
+      "title": "Lecture 17 Causality 1",
+      "views": 1600
+    },
+    {
+      "id": "R4JGk4JyrHw",
+      "title": "Lecture 18 Causality 2",
+      "views": 947
+    },
+    {
+      "id": "6Ycbfg1wLGs",
+      "title": "Lecture 20 RL as Inference 2",
+      "views": 820
+    },
+    {
+      "id": "cnXzQY5Ovlw",
+      "title": "Lecture 19 RL as Inference 1",
+      "views": 1200
+    },
+    {
+      "id": "8Kaybx8SMUY",
+      "title": "Lecture 21 Gaussian Processes",
+      "views": 1500
+    },
+    {
+      "id": "A4U7bjuYiUo",
+      "title": "Lecture 22 Determinantal Point Process",
+      "views": 2800
+    },
+    {
+      "id": "bNbdsq8xlds",
+      "title": "Lecture 23 Dirichlet Processes",
+      "views": 9700
+    },
+    {
+      "id": "XZ1UZyw7_D8",
+      "title": "Lecture 24 Indian Buffet Process",
+      "views": 2500
+    },
+    {
+      "id": "X0Au6hwe1aY",
+      "title": "Lecture 25 Spectral Learning for Graphical Models",
+      "views": 853
+    },
+    {
+      "id": "dxklnbTUgqM",
+      "title": "Lecture 26 Large-scale Algorithms and Systems",
+      "views": 683
+    },
+    {
+      "id": "ChVkofz64Hk",
+      "title": "Lecture 27 Meta-Learning",
+      "views": 1100
+    },
+    {
+      "id": "nGUhAUfPhKU",
+      "title": "Lecture 28 Trustworthy Machine Learning",
+      "views": 1300
+    }
+  ]
+}

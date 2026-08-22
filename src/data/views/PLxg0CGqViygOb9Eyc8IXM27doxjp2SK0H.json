@@ -1,0 +1,169 @@
+{
+  "lectures": [
+    {
+      "id": "-NHytx_bcho",
+      "title": "Uncertainty Modeling in AI | Lecture 1 (Part 1): Introduction to Probabilistic Reasoning",
+      "views": 13000
+    },
+    {
+      "id": "HyPt_Dg6Wug",
+      "title": "Uncertainty Modeling in AI | Lecture 1 (Part 2): Introduction to Probabilistic Reasoning",
+      "views": 3000
+    },
+    {
+      "id": "crTssBLKbEY",
+      "title": "Uncertainty Modeling in AI | Lecture 1 (Part 3): Introduction to Probabilistic Reasoning",
+      "views": 2100
+    },
+    {
+      "id": "3ICyb0ixVIE",
+      "title": "Uncertainty Modeling in AI | Lecture 2 (Part 1): Bayesian networks (Directed graphical models)",
+      "views": 2700
+    },
+    {
+      "id": "yp7PW_Alw10",
+      "title": "Uncertainty Modeling in AI | Lecture 2 (Part 2): Bayesian networks (Directed graphical models)",
+      "views": 1400
+    },
+    {
+      "id": "5lZk0ueviWc",
+      "title": "Uncertainty Modeling in AI | Lecture 3 (Part 1): Markov random Fields (Undirected graphical models)",
+      "views": 2700
+    },
+    {
+      "id": "VSLHMOA6j2U",
+      "title": "Uncertainty Modeling in AI | Lecture 3 (Part 2): Markov random Fields (Undirected graphical models)",
+      "views": 1600
+    },
+    {
+      "id": "TwDxUjvuoHY",
+      "title": "Uncertainty Modeling in AI | Lecture 3 (Part 3): Markov random Fields (Undirected graphical models)",
+      "views": 1200
+    },
+    {
+      "id": "rWFEn75Fbxg",
+      "title": "Uncertainty Modeling in AI | Lecture 4 (Part 1): Variable elimination and belief propagation",
+      "views": 1200
+    },
+    {
+      "id": "PzXjOnx9Dlg",
+      "title": "Uncertainty Modeling in AI | Lecture 4 (Part 2): Variable elimination and belief propagation",
+      "views": 1000
+    },
+    {
+      "id": "v0LeWyhGZgM",
+      "title": "Uncertainty Modeling in AI | Lecture 5 (Part 1): Factor graph and the junction tree algorithm",
+      "views": 1100
+    },
+    {
+      "id": "Mf9SNlqD6gg",
+      "title": "Uncertainty Modeling in AI | Lecture 5 (Part 2): Factor graph and the junction tree algorithm",
+      "views": 927
+    },
+    {
+      "id": "4i42UOewHkM",
+      "title": "Uncertainty Modeling in AI | Lecture 5 (Part 3): Factor graph and the junction tree algorithm",
+      "views": 745
+    },
+    {
+      "id": "oEKwkJ_nuwM",
+      "title": "Uncertainty Modeling in AI | Lecture 5 (Part 4): Factor graph and the junction tree algorithm",
+      "views": 1000
+    },
+    {
+      "id": "PnOIWvrzJTA",
+      "title": "Uncertainty Modeling in AI | Lecture 6 (Part 1): Parameter learning with complete data",
+      "views": 1000
+    },
+    {
+      "id": "5W5L2yoeFwY",
+      "title": "Uncertainty Modeling in AI | Lecture 6 (Part 2): Parameter learning with complete data",
+      "views": 690
+    },
+    {
+      "id": "saumvKYEIZE",
+      "title": "Uncertainty Modeling in AI | Lecture 6 (Part 3): Parameter learning with complete data",
+      "views": 687
+    },
+    {
+      "id": "JLptVRcb8DI",
+      "title": "Uncertainty Modeling in AI | Lecture 7 (Part 1): Mixture models and the EM algorithm",
+      "views": 831
+    },
+    {
+      "id": "DqwuAPia-Ks",
+      "title": "Uncertainty Modeling in AI | Lecture 7 (Part 2): Mixture models and the EM algorithm",
+      "views": 764
+    },
+    {
+      "id": "ZnSFcEYP2BI",
+      "title": "Uncertainty Modeling in AI | Lecture 7 (Part 3):  Mixture models and the EM algorithm",
+      "views": 618
+    },
+    {
+      "id": "oHfDTMSPtKA",
+      "title": "Uncertainty Modeling in AI | Lecture 8 (Part 1):  Hidden Markov Models (HMM)",
+      "views": 938
+    },
+    {
+      "id": "arcWpCzbn7A",
+      "title": "Uncertainty Modeling in AI | Lecture 8 (Part 2): Hidden Markov Models (HMM)",
+      "views": 766
+    },
+    {
+      "id": "62Q4ml623VI",
+      "title": "Uncertainty Modeling in AI | Lecture 8 (Part 3): Hidden Markov Models (HMM)",
+      "views": 486
+    },
+    {
+      "id": "iHSfQctfsY0",
+      "title": "Uncertainty Modeling in AI | Lecture 9 (Part 1): Monte Carlo inference (Sampling)",
+      "views": 825
+    },
+    {
+      "id": "wojSqo9ndsg",
+      "title": "Uncertainty Modeling in AI | Lecture 9 (Part 2): Monte Carlo inference (Sampling)",
+      "views": 690
+    },
+    {
+      "id": "S8Wk8WrXKZY",
+      "title": "Uncertainty Modeling in AI | Lecture 9 (Part 3):  Monte Carlo inference (Sampling)",
+      "views": 572
+    },
+    {
+      "id": "tN_ss4D2e7U",
+      "title": "Uncertainty Modeling in AI | Lecture 10 (Part 1): Variational inference",
+      "views": 900
+    },
+    {
+      "id": "1c6kes7MLdI",
+      "title": "Uncertainty Modeling in AI | Lecture 10 (Part 2): Variational inference",
+      "views": 558
+    },
+    {
+      "id": "-EGA7S-qcwY",
+      "title": "Uncertainty Modeling in AI | Lecture 11 (Part 1): VAE and Mixture Density Networks",
+      "views": 2200
+    },
+    {
+      "id": "9Is3acKEkF8",
+      "title": "Uncertainty Modeling in AI | Lecture 11 (Part 2): VAE and Mixture Density Networks",
+      "views": 1500
+    },
+    {
+      "id": "PWtAFqysFXQ",
+      "title": "Uncertainty Modeling in AI | Lecture 11 (Part 3): VAE and Mixture Density Networks",
+      "views": 732
+    },
+    {
+      "id": "EAT3jLvr0HI",
+      "title": "Uncertainty Modeling in AI | Lecture 12 (Part 1): Graph cut and alpha expansion",
+      "views": 1600
+    },
+    {
+      "id": "EnKvla6mIGU",
+      "title": "Uncertainty Modeling in AI | Lecture 12 (Part 2): Graph cut and alpha expansion",
+      "views": 1200
+    }
+  ]
+}

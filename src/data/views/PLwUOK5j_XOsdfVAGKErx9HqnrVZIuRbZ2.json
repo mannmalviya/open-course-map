@@ -1,0 +1,54 @@
+{
+  "lectures": [
+    {
+      "id": "5KdWhDpeQvU",
+      "title": "Lecture 1 (part 1): Introduction to Probabilistic Modelling and Machine Learning",
+      "views": 40000
+    },
+    {
+      "id": "bl943JuIPEw",
+      "title": "Lecture 1 (part 2): Introduction to Probabilistic Modelling and Machine Learning",
+      "views": 8800
+    },
+    {
+      "id": "naN41kICcEQ",
+      "title": "Lecture 1 (part 3): Introduction to Probabilistic Modelling and Machine Learning",
+      "views": 5100
+    },
+    {
+      "id": "ofHn99_uBwA",
+      "title": "Lecture 2 (part 1): Graphical models: inference and structure learning",
+      "views": 8400
+    },
+    {
+      "id": "HurQRI_HLHI",
+      "title": "Lecture 2 (part 2): Graphical models: inference and structure learning",
+      "views": 3700
+    },
+    {
+      "id": "IEpc2ClaYH8",
+      "title": "Lecture 3 (part 1):  Gaussian processes and Bayesian kernel machines",
+      "views": 8100
+    },
+    {
+      "id": "Z9cdlQ-WDLM",
+      "title": "Lecture 3 (part 2):  Gaussian processes and Bayesian kernel machines",
+      "views": 4800
+    },
+    {
+      "id": "fBZlV2TLtqA",
+      "title": "Lecture 4: Bayesian non-parametrics I",
+      "views": 5400
+    },
+    {
+      "id": "JACDAlXfiGc",
+      "title": "Lecture 5: Bayesian non-parametrics II",
+      "views": 2600
+    },
+    {
+      "id": "mgBrXnjF8R4",
+      "title": "Bayesian Inference 1 - Zoubin Ghahramani - MLSS 2013 Tübingen",
+      "views": 29000
+    }
+  ]
+}

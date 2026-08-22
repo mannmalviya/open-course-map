@@ -1,3 +1,23 @@
 {
-  "courses": {}
+  "courses": {
+    "cambridge-ghahramani": {
+      "title": "Probabilistic Modelling",
+      "university": "Cambridge",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cambridge · Ghahramani · 2013",
+          "url": "https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2",
+          "date": "2013",
+          "youtubeId": "5KdWhDpeQvU",
+          "primary": true
+        }
+      ]
+    }
+  }
 }

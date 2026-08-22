@@ -1,3 +1,80 @@
 {
-  "courses": {}
+  "courses": {
+    "cmu-10708": {
+      "title": "10-708 Graphical Models",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "CMU 10-708 · Xing · 2020",
+          "url": "https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn",
+          "date": "Spring 2020",
+          "youtubeId": "oqvdH_8lmCA",
+          "primary": true
+        }
+      ]
+    },
+    "nus-cs5340": {
+      "title": "CS5340 Uncertainty in AI",
+      "university": "NUS",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "NUS CS5340 · Lee",
+          "url": "https://github.com/clear-nus/CS5340-notebooks",
+          "youtube": "https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H",
+          "date": "2020–21",
+          "youtubeId": "-NHytx_bcho",
+          "primary": true
+        }
+      ]
+    },
+    "notredame-pgm": {
+      "title": "Graphical Models",
+      "university": "Notre Dame",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Notre Dame · Zabaras · 2018",
+          "url": "https://www.zabaras.com/probabilistic-graphical-models",
+          "youtube": "https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM",
+          "date": "Spring 2018",
+          "youtubeId": "IpfVQ223hME",
+          "primary": true
+        }
+      ]
+    },
+    "ist-structured-data": {
+      "title": "Learning Structured Data",
+      "university": "IST Austria",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "IST Austria · Lampert · 2016",
+          "url": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf",
+          "youtube": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf",
+          "date": "2016",
+          "youtubeId": "uAsys22y5mY",
+          "primary": true
+        }
+      ]
+    }
+  }
 }

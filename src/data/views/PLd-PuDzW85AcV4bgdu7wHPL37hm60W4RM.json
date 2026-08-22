@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "IpfVQ223hME",
+      "title": "Lecture 1. Introduction to Probabilistic Graphical Models: Terminology and Examples",
+      "views": 16000
+    },
+    {
+      "id": "VPIrtkZUTqE",
+      "title": "Lecture 2. Directed Graphical Models and Conditional Independence Relations",
+      "views": 3200
+    },
+    {
+      "id": "3DoFIViGzS8",
+      "title": "Lecture 3. Conditional Independence Relations, D-Separation and the Bayes Ball Algorithm",
+      "views": 3300
+    },
+    {
+      "id": "pVlAgZpoXN4",
+      "title": "Lecture 4. Inference in DAGs, Parametrized Conditional Distributions",
+      "views": 1000
+    },
+    {
+      "id": "9nGv3XgpYu0",
+      "title": "Lecture 5. Inference in DAGs (Continued) and Elimination Algorithm",
+      "views": 875
+    },
+    {
+      "id": "R6XXhposcfs",
+      "title": "Lecture 6. Elimination Algorithm (Continued) and Introduction to Undirected Graphical Models (MRF)",
+      "views": 1100
+    },
+    {
+      "id": "Z_09OtDZQno",
+      "title": "Lecture 7. Inference in Probabilistic Graphical Models, Sum-Product Algorithm",
+      "views": 3100
+    },
+    {
+      "id": "o63DfrhkmMc",
+      "title": "Lecture 8. The Sum-Product Algorithm on Factor-Trees",
+      "views": 4300
+    },
+    {
+      "id": "DnietH1VAQ8",
+      "title": "Lecture 9. Belief Propagation, Max-Sum Algorithm, and Introduction to the Junction Tree Algorithm",
+      "views": 5300
+    },
+    {
+      "id": "Zc7cnXu2Qeo",
+      "title": "Lecture 10. The Junction Tree Algorithm",
+      "views": 3400
+    },
+    {
+      "id": "xSfRb-R0wwQ",
+      "title": "Lecture 10-continue: Belief Propagation in MRFs, Application to HMM",
+      "views": 666
+    },
+    {
+      "id": "VWdTRj9d_7U",
+      "title": "Lecture 11. Markov and Hidden Markov Models (HMMs)",
+      "views": 642
+    },
+    {
+      "id": "agM1sqaQoiI",
+      "title": "Lecture 12: Markov and Hidden Markov Models",
+      "views": 429
+    },
+    {
+      "id": "AEA_YZKZ-bY",
+      "title": "Lecture 13: State Space Models",
+      "views": 390
+    },
+    {
+      "id": "8cO64X9uiGg",
+      "title": "Lecture 14: State Space Models, Linear Gaussian Models cont.",
+      "views": 865
+    },
+    {
+      "id": "yJdJYnrciTc",
+      "title": "Lecture 15: Variational Algorithms for Approximate Bayesian Inference: An Introduction",
+      "views": 956
+    },
+    {
+      "id": "i0dkEmKIT9k",
+      "title": "Lecture 16: Variational Algorithms for Approximate Bayesian Inference Cont.",
+      "views": 359
+    },
+    {
+      "id": "8EE6JWaNBlY",
+      "title": "Lecture 17: Variational Algorithms for Approximate Bayesian Inference: Linear Regression",
+      "views": 668
+    },
+    {
+      "id": "4r51RHPWei0",
+      "title": "Lecture 18: Variational Algorithms for Approximate Bayesian Inference: Local Variational Methods",
+      "views": 420
+    },
+    {
+      "id": "h9i9C9lXJow",
+      "title": "Lecture 19: Variational Algorithms for Approximate Bayesian Inference: Local Variational Methods",
+      "views": 407
+    },
+    {
+      "id": "_WLtPYYzgU4",
+      "title": "Lecture 20: Undirected Graphical Models",
+      "views": 1100
+    },
+    {
+      "id": "Hoc1jaDn1eQ",
+      "title": "Lecture 21: Completely Observed Graphical Models",
+      "views": 264
+    },
+    {
+      "id": "npVdNiVUL7U",
+      "title": "Lecture 21: A Bayesian Network Approach to Predict Wildfire Consequence",
+      "views": 281
+    },
+    {
+      "id": "jND_7QdUMe0",
+      "title": "Lecture 22: Inferring Neuronal Network Structure",
+      "views": 213
+    },
+    {
+      "id": "IfgbDRaTE2w",
+      "title": "Lecture 23: Large-Scale L1-Regularized and L2-Regularized Logistic  Regression",
+      "views": 333
+    }
+  ]
+}

@@ -3,17 +3,17 @@
     {
       "id": "6FkRvTtUc-o",
       "title": "Lec 01. Introduction to Deep Learning",
-      "views": 469000
+      "views": 477000
     },
     {
       "id": "vidCX_dMCu0",
       "title": "Lec 02. How to Train a Neural Net",
-      "views": 50000
+      "views": 52000
     },
     {
       "id": "ySaoWrv3T_Q",
       "title": "Lec 03. Approximation Theory",
-      "views": 16000
+      "views": 17000
     },
     {
       "id": "bxVkZ4M-hIE",
@@ -28,12 +28,12 @@
     {
       "id": "EiO8BBa-xdc",
       "title": "Lec 06. Generalization Theory",
-      "views": 7200
+      "views": 7500
     },
     {
       "id": "VcGPE4s_oNw",
       "title": "Lec 07. Scaling Rules for Optimization",
-      "views": 4900
+      "views": 5000
     },
     {
       "id": "Q1HOKrNeh2M",
@@ -48,62 +48,62 @@
     {
       "id": "IiHknRHA-Gk",
       "title": "Lec 10. Architectures: Memory",
-      "views": 4800
+      "views": 5000
     },
     {
       "id": "QxOzQRtd440",
       "title": "Lec 11. Representation Learning: Reconstruction-Based",
-      "views": 6300
+      "views": 6500
     },
     {
       "id": "yUh1fEGGdl4",
       "title": "Lec 12. Representation Learning: Similarity-Based",
-      "views": 5000
+      "views": 5200
     },
     {
       "id": "-eC0-5mXHQg",
       "title": "Lec 13. Representation Learning: Theory",
-      "views": 3800
+      "views": 3900
     },
     {
       "id": "hJlrAHqGOS8",
       "title": "Lec 14. Generative Models: Basics",
-      "views": 5100
+      "views": 5200
     },
     {
       "id": "8zzfcYIELdo",
       "title": "Lec 15. Generative Models: Representation Learning Meets Generative Modeling",
-      "views": 4000
+      "views": 4100
     },
     {
       "id": "zaMcHuJwe1w",
       "title": "Lec 16. Generative Models: Conditional Models",
-      "views": 3100
+      "views": 3200
     },
     {
       "id": "tjD9LIzIIek",
       "title": "Lec 17. Generalization: Out-of-Distribution (OOD)",
-      "views": 3300
+      "views": 3400
     },
     {
       "id": "tNfuZ9Imt3M",
       "title": "Lec 18. Transfer Learning: Models",
-      "views": 4000
+      "views": 4100
     },
     {
       "id": "RUdQMHV-7KM",
       "title": "Lec 19. Transfer Learning: Data",
-      "views": 2300
+      "views": 2400
     },
     {
       "id": "7hbf4klU3ks",
       "title": "Lec 20. Scaling Laws",
-      "views": 3500
+      "views": 3600
     },
     {
       "id": "9GWd3SAWLbA",
       "title": "Lec 21. Language Models",
-      "views": 3800
+      "views": 3900
     },
     {
       "id": "zBvsoxC6tAo",
@@ -113,12 +113,12 @@
     {
       "id": "mbgFTqKxR7A",
       "title": "Lec 24. Inference Methods for Deep Learning",
-      "views": 4100
+      "views": 4200
     },
     {
       "id": "o5gPABcGZwc",
       "title": "PyTorch Tutorial",
-      "views": 40000
+      "views": 41000
     }
   ]
 }

@@ -3,137 +3,137 @@
     {
       "id": "DD8APgTEix4",
       "title": "CS 185/285 (Spring 2026): Lecture 1, Deep Reinforcement Learning",
-      "views": 1600
+      "views": 5600
     },
     {
       "id": "yatA09E0J00",
       "title": "CS 185/285 (Spring 2026): Lecture 2, Supervised Learning of Behaviors",
-      "views": 219
+      "views": 1300
     },
     {
       "id": "AdiI3l2hZHI",
       "title": "CS 185/285 (Spring 2026): Lecture 3, Supervised Learning of Behaviors",
-      "views": 67
+      "views": 435
     },
     {
       "id": "FcpIul7rAEE",
       "title": "CS 185/285 (Spring 2026): Lecture 4, Reinforcement Learning Basics",
-      "views": 75
+      "views": 359
     },
     {
       "id": "S0D9REIVdg4",
       "title": "CS 185/285 (Spring 2026): Lecture 5, Policy Gradients",
-      "views": 65
+      "views": 286
     },
     {
       "id": "MzIWiNzrCvw",
       "title": "CS 185/285 (Spring 2026): Lecture 6, Actor-Critic",
-      "views": 50
+      "views": 207
     },
     {
       "id": "PCOyNjwyFvk",
       "title": "CS 185/285 (Spring 2026): Lecture 7, Value-Based RL",
-      "views": 34
+      "views": 124
     },
     {
       "id": "lQaVa53pS-Q",
       "title": "CS 185/285 (Spring 2026): Lecture 8, Q-Learning in Practice",
-      "views": 51
+      "views": 159
     },
     {
       "id": "xtZe3ulf6aM",
       "title": "CS 185/285 (Spring 2026): Lecture 9, Off-Policy Policy Gradient",
-      "views": 48
+      "views": 203
     },
     {
       "id": "m7IU5KBS4sw",
       "title": "CS 185/285 (Spring 2026): Lecture 10, Advanced Policy Gradient",
-      "views": 28
+      "views": 126
     },
     {
       "id": "62V4ailxwEs",
       "title": "CS 185/285 (Spring 2026): Lecture 11, Variational Inference",
-      "views": 43
+      "views": 131
     },
     {
       "id": "998Zp-fHniU",
       "title": "CS 185/285 (Spring 2026): Lecture 12, Variational Inference in RL",
-      "views": 30
+      "views": 111
     },
     {
       "id": "H4jYNHZy8GQ",
       "title": "CS 185/285 (Spring 2026): Lecture 13, Control as Variational Inference",
-      "views": 18
+      "views": 73
     },
     {
       "id": "dlpeF1--e0E",
       "title": "CS 185/285 (Spring 2026): Lecture 14, RL with Sequences & LLMs",
-      "views": 26
+      "views": 138
     },
     {
       "id": "WRdDOzVNN8I",
       "title": "CS 185/285 (Spring 2026): Lecture 15, Model-Based RL",
-      "views": 37
+      "views": 96
     },
     {
       "id": "fgSHHNhoLDs",
       "title": "CS 185/285 (Spring 2026): Lecture 16, Model-Based RL Algorithms",
-      "views": 29
+      "views": 83
     },
     {
       "id": "u2Ug046R0xk",
       "title": "CS 185/285 (Spring 2026): Lecture 17, Offline Reinforcement Learning",
-      "views": 23
+      "views": 73
     },
     {
       "id": "XVwSLpXEFjE",
       "title": "CS 185/285 (Spring 2026): Lecture 18, Offline RL Algorithms",
-      "views": 23
+      "views": 68
     },
     {
       "id": "tHq2gcdtumQ",
       "title": "CS 185/285 (Spring 2026): Lecture 19, Exploration",
-      "views": 32
+      "views": 72
     },
     {
       "id": "Z0X7SKKE2VI",
       "title": "CS 185/285 (Spring 2026): Lecture 20, Reinforcement Learning Theory",
-      "views": 32
+      "views": 76
     },
     {
       "id": "I_GE9_LBAPI",
       "title": "CS 185/285 (Spring 2026): Lecture 21, Midterm Review 1",
-      "views": 24
+      "views": 74
     },
     {
       "id": "HNEJYMVFRMs",
       "title": "CS 185/285 (Spring 2026): Lecture 22, Midterm Review 2",
-      "views": 25
+      "views": 71
     },
     {
       "id": "O5jPvCAPytI",
       "title": "CS 185/285 (Spring 2026): Lecture 23, Exploration and Skill Learning",
-      "views": 43
+      "views": 105
     },
     {
       "id": "zSJ7vDBWkPk",
       "title": "CS 185/285 (Spring 2026): Lecture 24, Multi-Task and Hierarchical RL",
-      "views": 74
+      "views": 218
     },
     {
       "id": "TjnD0sY4e0Y",
       "title": "CS 185/285 (Spring 2026): Lecture 25, Challenges and Open Problems",
-      "views": 54
+      "views": 173
     },
     {
       "id": "uHiD_k96OL8",
       "title": "CS 185/285 (Spring 2026): Guest Lecture, Kevin Frans",
-      "views": 80
+      "views": 180
     },
     {
       "id": "ntncGdwDUiY",
       "title": "CS 185/285 (Spring 2026): Guest Lecture, Seohong Park",
-      "views": 141
+      "views": 388
     }
   ]
 }

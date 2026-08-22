@@ -8,22 +8,22 @@
     {
       "id": "UdEX0E9lIQM",
       "title": "Lecture 2: Strings, Input/Output, and Branching",
-      "views": 359000
+      "views": 363000
     },
     {
       "id": "lzYrMcI92kw",
       "title": "Lecture 3: Iteration",
-      "views": 175000
+      "views": 176000
     },
     {
       "id": "fWNZAw5Bmco",
       "title": "Lecture 4: Loops over Strings, Guess-and-Check, and Binary",
-      "views": 153000
+      "views": 154000
     },
     {
       "id": "OF2sr5e7PrY",
       "title": "Lecture 5: Floats and Approximation Methods",
-      "views": 92000
+      "views": 93000
     },
     {
       "id": "PJ_5VNvJGtA",
@@ -43,22 +43,22 @@
     {
       "id": "h5abkZ_Ch6c",
       "title": "Lecture 9: Lambda Functions, Tuples, and Lists",
-      "views": 57000
+      "views": 58000
     },
     {
       "id": "Z4bm7xzYpKM",
       "title": "Lecture 10: Lists and Mutability",
-      "views": 51000
+      "views": 52000
     },
     {
       "id": "hpsp-LQurco",
       "title": "Lecture 11: Aliasing and Cloning",
-      "views": 40000
+      "views": 41000
     },
     {
       "id": "AZBxs3OvFrY",
       "title": "Lecture 12: List Comprehension, Functions as Objects, Testing, and Debugging",
-      "views": 46000
+      "views": 47000
     },
     {
       "id": "qT3_7FMuv-U",
@@ -68,7 +68,7 @@
     {
       "id": "lTgLOuaQsvk",
       "title": "Lecture 14: Dictionaries",
-      "views": 54000
+      "views": 55000
     },
     {
       "id": "Bbyp4VRbmyY",
@@ -83,12 +83,12 @@
     {
       "id": "tsMrUdynbQQ",
       "title": "Lecture 17: Python Classes",
-      "views": 48000
+      "views": 49000
     },
     {
       "id": "gLnCmUkgUQk",
       "title": "Lecture 18: More Python Class Methods",
-      "views": 39000
+      "views": 40000
     },
     {
       "id": "rgM7Z9BNm1s",
@@ -98,7 +98,7 @@
     {
       "id": "-wyc5FwzkcM",
       "title": "Lecture 20: Fitness Tracker Object-Oriented Programming Example",
-      "views": 39000
+      "views": 40000
     },
     {
       "id": "lvp4NfED6K4",
@@ -108,7 +108,7 @@
     {
       "id": "RJhoT5PEf_0",
       "title": "Lecture 22: Big Oh and Theta",
-      "views": 31000
+      "views": 32000
     },
     {
       "id": "loX34ct0hxs",
@@ -128,7 +128,7 @@
     {
       "id": "4H0GXzQ41t0",
       "title": "Lecture 26: List Access, Hashing, Simulations, and Wrap-Up",
-      "views": 35000
+      "views": 36000
     }
   ]
 }

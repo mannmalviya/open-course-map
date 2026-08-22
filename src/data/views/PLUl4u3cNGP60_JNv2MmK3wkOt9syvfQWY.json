@@ -3,12 +3,12 @@
     {
       "id": "9syvZr-9xwk",
       "title": "1. Introduction, Finite Automata, Regular Expressions",
-      "views": 576000
+      "views": 578000
     },
     {
       "id": "oNsscmUwjMU",
       "title": "2. Nondeterminism, Closure Properties, Conversion of Regular Expressions to FA",
-      "views": 155000
+      "views": 156000
     },
     {
       "id": "KAySmSEGc9U",
@@ -18,7 +18,7 @@
     {
       "id": "m9eHViDPAJQ",
       "title": "4. Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion",
-      "views": 122000
+      "views": 123000
     },
     {
       "id": "IycOPFmEQk8",
@@ -53,7 +53,7 @@
     {
       "id": "N-_XmLanPYg",
       "title": "11. Recursion Theorem and Logic",
-      "views": 26000
+      "views": 27000
     },
     {
       "id": "asjAc90L8rE",
@@ -103,7 +103,7 @@
     {
       "id": "N32bnUliSzo",
       "title": "22. Provably Intractable Problems, Oracles",
-      "views": 8300
+      "views": 8400
     },
     {
       "id": "Vp_AzDGQyrA",

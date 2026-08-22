@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "IzGS8uKc5E4",
+      "title": "Lecture 1 on kernel methods: Positive definite kernels",
+      "views": 25000
+    },
+    {
+      "id": "2uvpOKoiYoI",
+      "title": "Lecture 2 on kernel methods: RKHS",
+      "views": 10000
+    },
+    {
+      "id": "pK4LWasnh8A",
+      "title": "Lecture 3 on kernel methods: Examples of RKHSs and smoothing effect of the KRHS norm",
+      "views": 5000
+    },
+    {
+      "id": "Ra06l4fqlSU",
+      "title": "Lecture 4 on kernel methods: Kernel Trick",
+      "views": 5100
+    },
+    {
+      "id": "mNW4PsfYXII",
+      "title": "Lecture 5 on kernel methods: Representer theorem",
+      "views": 5900
+    },
+    {
+      "id": "BJj3auMlt8U",
+      "title": "Lecture 6 on kernel methods: Supervised learning, kernel ridge and logistic regression",
+      "views": 5500
+    },
+    {
+      "id": "HjW_atNFYbo",
+      "title": "Lecture 7 on kernel methods: Supervised learning, large-margin classifiers, a bit of learning theory",
+      "views": 2200
+    },
+    {
+      "id": "glDhR4Iq1sE",
+      "title": "Lecture 8 on kernel methods: Supervised learning, support vector machines (SVM)",
+      "views": 2400
+    },
+    {
+      "id": "oCt70znxn34",
+      "title": "Lecture 9 on kernel methods: kernel PCA",
+      "views": 6200
+    },
+    {
+      "id": "7o2Hny_5lk0",
+      "title": "Lecture 10 on kernel methods: kernel K-means, spectral clustering, kernel CCA",
+      "views": 4500
+    },
+    {
+      "id": "9uV0vEW782s",
+      "title": "Lecture 11a of kernel methods: Green kernels",
+      "views": 1600
+    },
+    {
+      "id": "2eEMExbpVLU",
+      "title": "Lecture 11b of kernel methods: Mercer kernels",
+      "views": 2900
+    },
+    {
+      "id": "yjHwZfcUsKA",
+      "title": "Lecture 11c of kernel methods: Convergence rates of kernel ridge regression for Mercer kernels",
+      "views": 1000
+    },
+    {
+      "id": "bar4CREefOc",
+      "title": "Lecture 11d of kernel methods: Translation invariant kernels, Herglotz and Bochner's theorems",
+      "views": 2100
+    },
+    {
+      "id": "RioMipTmHhQ",
+      "title": "Lecture 12a of kernel methods: Kernels for graphs",
+      "views": 3700
+    },
+    {
+      "id": "koLfZP5H7pw",
+      "title": "Lecture 12b of kernel methods: Kernels on graphs",
+      "views": 1700
+    },
+    {
+      "id": "PN1qZAQ8xtA",
+      "title": "Lecture 13a on kernel methods: Multiple kernels learning",
+      "views": 1900
+    },
+    {
+      "id": "H3e9Jud7Y_U",
+      "title": "Lecture 13 on kernel methods: large-scale learning",
+      "views": 1800
+    },
+    {
+      "id": "6mvUxSpGxgo",
+      "title": "Lecture 14 on kernel methods: deep learning, dot-product kernels, NTKs, CKNs",
+      "views": 1600
+    },
+    {
+      "id": "ois8qSzDzr0",
+      "title": "Lecture 15 on kernel methods: stability of convolutional representations",
+      "views": 701
+    },
+    {
+      "id": "ja8nVyqEzN0",
+      "title": "Lecture 16 on kernel methods: deep learning / applications to graphs and sequences",
+      "views": 834
+    },
+    {
+      "id": "8gVPPdXqyP8",
+      "title": "Lecture 11 on kernel methods: string kernels",
+      "views": 2100
+    },
+    {
+      "id": "w_Kwtziev2g",
+      "title": "Lecture 17 on kernel methods: kernels for probabilistic models",
+      "views": 1500
+    },
+    {
+      "id": "KYTYPFJ3YQk",
+      "title": "Lecture 8 of kernel methods: Kernel Mean Embeddings",
+      "views": 3100
+    },
+    {
+      "id": "i11SNTVtarc",
+      "title": "Lecture 8b of kernel methods: Characteristic kernels",
+      "views": 841
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "lectures": [
+    {
+      "id": "UbaVGD4Lfis",
+      "title": "Welcome back — Summer 2021",
+      "views": 52000
+    },
+    {
+      "id": "M2fUmhGTNrQ",
+      "title": "Probabilistic ML - Lecture 1 - Introduction",
+      "views": 56000
+    },
+    {
+      "id": "YWK74ZNPrHc",
+      "title": "Probabilistic ML - Lecture 2 - Reasoning under Uncertainty",
+      "views": 28000
+    },
+    {
+      "id": "qp53qOOTaAI",
+      "title": "Probabilistic ML - Lecture 3 - Continuous Variables (updated 2021)",
+      "views": 14000
+    },
+    {
+      "id": "7Pha7POTJ5Y",
+      "title": "Probabilistic ML - Lecture 4 - Sampling",
+      "views": 18000
+    },
+    {
+      "id": "1MRY6Ruu6RU",
+      "title": "Probabilistic ML - Lecture 5 - Markov Chain Monte Carlo",
+      "views": 20000
+    },
+    {
+      "id": "FIheKQ55l4c",
+      "title": "Probabilistic ML - Lecture 6 - Gaussian Distributions",
+      "views": 19000
+    },
+    {
+      "id": "EF1BfKnINw0",
+      "title": "Probabilistic ML - Lecture 7 - Gaussian Parametric Regression",
+      "views": 12000
+    },
+    {
+      "id": "Zb0K_S5JJU4",
+      "title": "Probabilistic ML - Lecture 8 - Learning Representations",
+      "views": 9200
+    },
+    {
+      "id": "s2_L86D4kUE",
+      "title": "Probabilistic ML - Lecture 9 - Gaussian Processes",
+      "views": 14000
+    },
+    {
+      "id": "mezshT9r_80",
+      "title": "Probabilistic ML - Lecture 10 - Understanding Kernels",
+      "views": 11000
+    },
+    {
+      "id": "VXTIPfS_vV8",
+      "title": "Probabilistic ML - Lecture 11 - Example of GP Regression",
+      "views": 5900
+    },
+    {
+      "id": "FydcrDtZroU",
+      "title": "Probabilistic ML - Lecture 12 - Gauss-Markov Models",
+      "views": 6300
+    },
+    {
+      "id": "iatPLQd7qcg",
+      "title": "Probabilistic ML - Lecture 13 - Gaussian Process Classification",
+      "views": 9900
+    },
+    {
+      "id": "V93pFwd4fiI",
+      "title": "Probabilistic ML - Lecture 14 - Generalized Linear Models",
+      "views": 6100
+    },
+    {
+      "id": "BdtlrPA5hrs",
+      "title": "Probabilistic ML - Lecture 15 - Exponential Families",
+      "views": 7400
+    },
+    {
+      "id": "BosZK5E_q70",
+      "title": "Probabilistic ML - Lecture 16 - Graphical Models",
+      "views": 18000
+    },
+    {
+      "id": "fXD6KJB1U20",
+      "title": "Probabilistic ML - Lecture 17 - Factor Graphs",
+      "views": 22000
+    },
+    {
+      "id": "VHLvOHwvbzs",
+      "title": "Probabilistic ML - Lecture 18 - The Sum-Product Algorithm",
+      "views": 17000
+    },
+    {
+      "id": "9GsPsDW4QKQ",
+      "title": "Probabilistic ML — Lecture 19 — Extended Example: Topic Modelling",
+      "views": 4300
+    },
+    {
+      "id": "z2q7LhsnWNg",
+      "title": "Probabilistic ML — Lecture 20 — Latent Dirichlet Allocation",
+      "views": 9100
+    },
+    {
+      "id": "hOgn0zgXvgA",
+      "title": "Probabilistic ML — Lecture 21 — Efficient Inference and k-Means",
+      "views": 2400
+    },
+    {
+      "id": "hYbctXabBd4",
+      "title": "Probabilistic ML — Lecture 22 — Mixture Models",
+      "views": 4000
+    },
+    {
+      "id": "1GJjO7AE8JY",
+      "title": "Probabilistic ML — Lecture 23 — Free Energy",
+      "views": 4000
+    },
+    {
+      "id": "TcgeofQJYyM",
+      "title": "Probabilistic ML — Lecture 24 — Variational Inference",
+      "views": 6900
+    },
+    {
+      "id": "TML7iF93NTg",
+      "title": "Probabilistic ML — Lecture 25 — Customizing Probabilistic Models & Algorithms",
+      "views": 2400
+    },
+    {
+      "id": "NhIoQGpvYtA",
+      "title": "Probabilistic ML — Lecture 26 — Making Decisions",
+      "views": 3000
+    },
+    {
+      "id": "s8GTRJLXf34",
+      "title": "Probabilistic ML — Lecture 27 — Revision",
+      "views": 2800
+    },
+    {
+      "id": "y1ZzvhYwcbY",
+      "title": "Thanks and Goodbye - Probabilistic and Statistical Machine Learning",
+      "views": 2400
+    }
+  ]
+}

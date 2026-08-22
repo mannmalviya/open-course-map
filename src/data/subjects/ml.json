@@ -10,7 +10,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS229 \u00b7 Ng \u00b7 2018",
+          "label": "Stanford CS229 · Ng · 2018",
           "url": "https://cs229.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU",
           "date": "Autumn 2018",
@@ -18,28 +18,28 @@
           "primary": true
         },
         {
-          "label": "Stanford CS229 \u00b7 2026",
+          "label": "Stanford CS229 · 2026",
           "url": "https://cs229.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLaqpC4kq8Gpw",
           "date": "Spring 2026",
           "youtubeId": "DATnpGoGhM8"
         },
         {
-          "label": "Stanford CS229 \u00b7 2022",
+          "label": "Stanford CS229 · 2022",
           "url": "https://cs229.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy",
           "date": "Spring 2022",
           "youtubeId": "Bl4Feh_Mjvo"
         },
         {
-          "label": "Stanford CS229 \u00b7 Avati \u00b7 2019",
+          "label": "Stanford CS229 · Avati · 2019",
           "url": "https://cs229.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh",
           "date": "Summer 2019",
           "youtubeId": "KzH1ovd4Ots"
         },
         {
-          "label": "Stanford CS229 \u00b7 Ng \u00b7 2008",
+          "label": "Stanford CS229 · Ng · 2008",
           "url": "https://cs229.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599",
           "date": "Fall 2008",
@@ -57,7 +57,7 @@
       },
       "versions": [
         {
-          "label": "MIT 6.036 \u00b7 Broderick \u00b7 2020",
+          "label": "MIT 6.036 · Broderick · 2020",
           "url": "https://tamarabroderick.com/ml.html",
           "youtube": "https://www.youtube.com/playlist?list=PLNOJGc_M1CQNF_xSbkYDoGXmPskpotbnr",
           "date": "Fall 2020",
@@ -83,11 +83,180 @@
       },
       "versions": [
         {
-          "label": "Caltech CS 156 \u00b7 Abu-Mostafa",
+          "label": "Caltech CS 156 · Abu-Mostafa",
           "url": "https://work.caltech.edu/telecourse.html",
           "youtube": "https://www.youtube.com/playlist?list=PLD63A284B7615313A",
           "date": "Spring 2012",
           "youtubeId": "mbyG85GZ0PI",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-probml": {
+      "title": "Probabilistic ML",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Hennig · 2020",
+          "url": "https://uni-tuebingen.de/en/180804",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd",
+          "date": "Spring 2020",
+          "youtubeId": "UbaVGD4Lfis",
+          "primary": true
+        }
+      ]
+    },
+    "waterloo-ml-theory": {
+      "title": "Machine Learning Theory",
+      "university": "Waterloo",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Waterloo · Ben-David · 2015",
+          "url": "https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO",
+          "youtube": "https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO",
+          "date": "2015",
+          "youtubeId": "b5NlRg8SjZg",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-statml": {
+      "title": "Statistical ML",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Tübingen · von Luxburg · 2020",
+          "url": "https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC",
+          "date": "Spring 2020",
+          "youtubeId": "jFcYpBOeCOQ",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-isl": {
+      "title": "Statistical Learning (ISL)",
+      "university": "Stanford",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford · Hastie, Tibshirani · 2014",
+          "url": "https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about",
+          "youtube": "https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V",
+          "date": "2014",
+          "youtubeId": "5N9V07EIfIg",
+          "primary": true
+        }
+      ]
+    },
+    "cornell-cs4780": {
+      "title": "CS4780 Machine Learning",
+      "university": "Cornell",
+      "level": "undergrad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cornell CS4780 · Weinberger · 2018",
+          "url": "http://www.cs.cornell.edu/courses/cs4780/2018fa/",
+          "youtube": "https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS",
+          "date": "Fall 2018",
+          "youtubeId": "MrLPzBxG95I",
+          "primary": true
+        }
+      ]
+    },
+    "ens-kernel-methods": {
+      "title": "Kernel Methods",
+      "university": "ENS Paris-Saclay",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "ENS Paris-Saclay · Mairal, Vert · 2021",
+          "url": "http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2021mva/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLD93kGj6_EdrkNj27AZMecbRlQ1SMkp_o",
+          "date": "2021",
+          "youtubeId": "IzGS8uKc5E4",
+          "primary": true
+        }
+      ]
+    },
+    "columbia-applied-ml": {
+      "title": "Applied Machine Learning",
+      "university": "Columbia",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Columbia · Müller · 2020",
+          "url": "https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/",
+          "youtube": "https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM",
+          "date": "Spring 2020",
+          "youtubeId": "d79mzijMAw0",
+          "primary": true
+        }
+      ]
+    },
+    "mit-9520": {
+      "title": "9.520 Statistical Learning",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 9.520 · Poggio, Rosasco, Rakhlin · 2018",
+          "url": "https://cbmm.mit.edu/lh-9-520",
+          "youtube": "https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY",
+          "date": "Fall 2018",
+          "youtubeId": "EXhOuehvPAw",
+          "primary": true
+        }
+      ]
+    },
+    "udacity-ud120": {
+      "title": "Intro to Machine Learning",
+      "university": "Udacity",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Udacity · Thrun, Malone · 2015",
+          "url": "https://www.udacity.com/course/ud120",
+          "youtube": "https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH",
+          "date": "2015",
+          "youtubeId": "ICKBWIkfeJ8",
           "primary": true
         }
       ]

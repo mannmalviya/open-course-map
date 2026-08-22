@@ -35,6 +35,24 @@
           "primary": true
         }
       ]
+    },
+    "mathematicalmonk-ml": {
+      "title": "Machine Learning",
+      "university": "mathematicalmonk",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "mathematicalmonk · Miller · 2011",
+          "url": "https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA",
+          "youtube": "https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA",
+          "date": "2011",
+          "youtubeId": "yDLKJtOVx5c",
+          "primary": true
+        }
+      ]
     }
   }
 }

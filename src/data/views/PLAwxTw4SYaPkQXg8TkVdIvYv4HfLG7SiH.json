@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "ICKBWIkfeJ8",
+      "title": "Introduction",
+      "views": 330000
+    },
+    {
+      "id": "2ldF64FPWw4",
+      "title": "Introduction Part II",
+      "views": 137000
+    },
+    {
+      "id": "0ZuxGhiqo5U",
+      "title": "Introduction Pt. III",
+      "views": 101000
+    },
+    {
+      "id": "0ANDJ8i_deE",
+      "title": "Prerequisites",
+      "views": 102000
+    },
+    {
+      "id": "lL16AQItG1g",
+      "title": "Machine Learning in the Google Self-Driving Car",
+      "views": 125000
+    },
+    {
+      "id": "TeFF9wXiFfs",
+      "title": "Quiz - Intro to Machine Learning",
+      "views": 199000
+    },
+    {
+      "id": "M5pj2CrO-2w",
+      "title": "Solution - Intro to Machine Learning",
+      "views": 84000
+    },
+    {
+      "id": "buxApBhZCO0",
+      "title": "Supervised Classification Example Quiz - Intro to Machine Learning",
+      "views": 191000
+    },
+    {
+      "id": "t18YC5rLyWg",
+      "title": "Supervised Classification Example - Intro to Machine Learning",
+      "views": 82000
+    },
+    {
+      "id": "rnv0-lG9yKU",
+      "title": "Features and Labels Musical Example",
+      "views": 95000
+    },
+    {
+      "id": "t0iflCpBUDA",
+      "title": "Features Visualization Quiz - Intro to Machine Learning",
+      "views": 161000
+    },
+    {
+      "id": "aMOZWZO5hZ8",
+      "title": "Features Visualization Solution - Intro to Machine Learning",
+      "views": 64000
+    },
+    {
+      "id": "xeMDpSRTLWc",
+      "title": "Classification By Eye Quiz - Intro to Machine Learning",
+      "views": 146000
+    },
+    {
+      "id": "_kmNXcYlrco",
+      "title": "Classification By Eye Solution - Intro to Machine Learning",
+      "views": 63000
+    },
+    {
+      "id": "TwFhCeov85E",
+      "title": "Intro To Stanley Terrain Classification",
+      "views": 59000
+    },
+    {
+      "id": "IMWsjjIeOrY",
+      "title": "Speed Scatterplot: Grade and Bumpiness - Intro to Machine Learning",
+      "views": 137000
+    },
+    {
+      "id": "v2UbL0SOm9A",
+      "title": "Speed Scatterplot: Grade and Bumpiness - Intro to Machine Learning",
+      "views": 41000
+    },
+    {
+      "id": "T4GbEVybNlY",
+      "title": "Speed Scatterplot 2 - Intro to Machine Learning",
+      "views": 119000
+    },
+    {
+      "id": "ijy0n1EjY0M",
+      "title": "Speed Scatterplot 2 - Intro to Machine Learning",
+      "views": 42000
+    },
+    {
+      "id": "PaE5caOJ5kg",
+      "title": "Speed Scatterplot 3 - Intro to Machine Learning",
+      "views": 116000
+    },
+    {
+      "id": "4qJwfAWG_wQ",
+      "title": "Speed Scatterplot 3 - Intro to Machine Learning",
+      "views": 42000
+    },
+    {
+      "id": "dGS0SKu1ox0",
+      "title": "Scatterplots to Predictions - Intro to Machine Learning",
+      "views": 119000
+    },
+    {
+      "id": "SuGzxfoye9s",
+      "title": "Scatterplots to Predictions - Intro to Machine Learning",
+      "views": 37000
+    },
+    {
+      "id": "tkllhaHoko8",
+      "title": "Scatterplots to Predictions 2 - Intro to Machine Learning",
+      "views": 113000
+    },
+    {
+      "id": "vG3ahYyLHlQ",
+      "title": "Scatterplots to Predictions 2 - Intro to Machine Learning",
+      "views": 38000
+    },
+    {
+      "id": "gbkORDbJM50",
+      "title": "Scatterplots to Decision Surface - Intro to Machine Learning",
+      "views": 116000
+    },
+    {
+      "id": "DLCq1-kOGX0",
+      "title": "Scatterplot to Decision Surface - Intro to Machine Learning",
+      "views": 38000
+    },
+    {
+      "id": "sudTOiG-NJo",
+      "title": "Good Linear Decision Surface - Intro to Machine Learning",
+      "views": 117000
+    },
+    {
+      "id": "z-cX1kYbC1w",
+      "title": "Good Linear Decision Surface - Intro to Machine Learning",
+      "views": 39000
+    },
+    {
+      "id": "2_dJXh1qqe0",
+      "title": "Transition to Using Naive Bayes",
+      "views": 48000
+    },
+    {
+      "id": "pauohSxuCVs",
+      "title": "NB Decision Boundary in Python",
+      "views": 52000
+    },
+    {
+      "id": "olGPVtH7KGU",
+      "title": "Getting Started With sklearn",
+      "views": 54000
+    },
+    {
+      "id": "wpnDwiqTCJA",
+      "title": "Gaussian NB Example",
+      "views": 72000
+    },
+    {
+      "id": "VBs6D4ggnYY",
+      "title": "GaussianNB Deployment on Terrain Data - Intro to Machine Learning",
+      "views": 158000
+    },
+    {
+      "id": "TcSnd3_hAy8",
+      "title": "Gaussian Deployment Solution - Intro to Machine Learning",
+      "views": 34000
+    },
+    {
+      "id": "-gJJmckPBAg",
+      "title": "Accuracy of Naive Bayes - Intro to Machine Learning",
+      "views": 124000
+    },
+    {
+      "id": "m989etSymQQ",
+      "title": "Accuracy of Naive Bayes - Intro to Machine Learning",
+      "views": 34000
+    },
+    {
+      "id": "x2dmBUEKQIA",
+      "title": "Training and Testing Data",
+      "views": 39000
+    },
+    {
+      "id": "lGREq530kfU",
+      "title": "Unpacking NB Using Bayes Rule",
+      "views": 33000
+    },
+    {
+      "id": "1biLtViOQDc",
+      "title": "Bayes Rule",
+      "views": 36000
+    },
+    {
+      "id": "EL5z2lUuxY4",
+      "title": "Cancer Test - Intro to Machine Learning",
+      "views": 106000
+    },
+    {
+      "id": "uHIZl6MCiPY",
+      "title": "Cancer Test Solution - Intro to Machine Learning",
+      "views": 28000
+    },
+    {
+      "id": "HEnJRwJ23us",
+      "title": "Prior and Posterior - Intro to Machine Learning",
+      "views": 110000
+    },
+    {
+      "id": "45_uUhPcz38",
+      "title": "Prior and Posterior Solution - Intro to Machine Learning",
+      "views": 24000
+    },
+    {
+      "id": "aALYYSwS7MM",
+      "title": "Normalizing 1 - Intro to Machine Learning",
+      "views": 77000
+    },
+    {
+      "id": "GR1ZsrwhZUs",
+      "title": "Normalizing 1 Solution - Intro to Machine Learning",
+      "views": 26000
+    },
+    {
+      "id": "EPrrQaYp7H0",
+      "title": "Normalizing 2 - Intro to Machine Learning",
+      "views": 69000
+    },
+    {
+      "id": "rnaZpqIqA2g",
+      "title": "Normalizing 2 Solution - Intro to Machine Learning",
+      "views": 23000
+    },
+    {
+      "id": "FBRK-XwPC54",
+      "title": "Normalizing 3 - Intro to Machine Learning",
+      "views": 64000
+    },
+    {
+      "id": "L4elyDe8pFk",
+      "title": "Normalizing 3 Solution - Intro to Machine Learning",
+      "views": 21000
+    },
+    {
+      "id": "FlbDcNPGgUE",
+      "title": "Total Probability - Intro to Machine Learning",
+      "views": 68000
+    },
+    {
+      "id": "AjI84ujXBHk",
+      "title": "Total Probability Solution - Intro to Machine Learning",
+      "views": 20000
+    },
+    {
+      "id": "LIQrs3dviIs",
+      "title": "Bayes Rule Diagram",
+      "views": 29000
+    },
+    {
+      "id": "wPI9WOfpZbM",
+      "title": "Bayes Rule for Classification - Intro to Machine Learning",
+      "views": 106000
+    },
+    {
+      "id": "oNTklG8dh-0",
+      "title": "Bayes Rule for Classification - Intro to Machine Learning",
+      "views": 18000
+    },
+    {
+      "id": "nNna_SLlIT8",
+      "title": "Chris or Sara - Intro to Machine Learning",
+      "views": 68000
+    },
+    {
+      "id": "c-pfYggUsdQ",
+      "title": "[sol: Chris or Sara] - Intro to Machine Learning",
+      "views": 19000
+    },
+    {
+      "id": "lJlS-Xdlu5o",
+      "title": "Posterior Probabilities - Intro to Machine Learning",
+      "views": 73000
+    },
+    {
+      "id": "OIxLJeZ_jNI",
+      "title": "Posterior Probabilities - Intro to Machine Learning",
+      "views": 21000
+    },
+    {
+      "id": "2StCBxTOoK0",
+      "title": "Bayesian Probabilities On Your Own - Intro to Machine Learning",
+      "views": 63000
+    },
+    {
+      "id": "vjnKnaZa43M",
+      "title": "Bayesian Probabilities On Your Own - Intro to Machine Learning",
+      "views": 24000
+    },
+    {
+      "id": "H7IlFC5wbjk",
+      "title": "Why Is Naive Bayes Naive - Intro to Machine Learning",
+      "views": 114000
+    },
+    {
+      "id": "Bw6sYY84cYg",
+      "title": "Why Is Naive Bayes Naive - Intro to Machine Learning",
+      "views": 18000
+    },
+    {
+      "id": "nfbKTrufPOs",
+      "title": "Naive Bayes Strengths and Weaknesses",
+      "views": 26000
+    },
+    {
+      "id": "nQsYfzO7-00",
+      "title": "Congrats on Learning Naive Bayes",
+      "views": 18000
+    },
+    {
+      "id": "UH2oSijkszo",
+      "title": "Naive Bayes Mini-Project Video",
+      "views": 22000
+    },
+    {
+      "id": "gnAmmyQ_ZcQ",
+      "title": "Welcome to SVM",
+      "views": 24000
+    },
+    {
+      "id": "mzKPXz-Yhwk",
+      "title": "Separating Line - Intro to Machine Learning",
+      "views": 63000
+    },
+    {
+      "id": "NTm_mA4akP4",
+      "title": "Separating Line - Intro to Machine Learning",
+      "views": 16000
+    },
+    {
+      "id": "swoZxkrxIB0",
+      "title": "Choosing Between Separating Lines - Intro to Machine Learning",
+      "views": 55000
+    },
+    {
+      "id": "ppSLADGROp8",
+      "title": "Choosing Between Separating Lines - Intro to Machine Learning",
+      "views": 16000
+    },
+    {
+      "id": "cwjvMYPB1Fk",
+      "title": "What Makes A Good Separating Line - Intro to Machine Learning",
+      "views": 55000
+    },
+    {
+      "id": "yH2wQQt-Rjo",
+      "title": "What Makes a Good Separating Line - Intro to Machine Learning",
+      "views": 17000
+    },
+    {
+      "id": "l3zXhTxQiTs",
+      "title": "Practice With Margins - Intro to Machine Learning",
+      "views": 52000
+    },
+    {
+      "id": "ICUYxC-8d7o",
+      "title": "Practice With Margins - Intro to Machine Learning",
+      "views": 16000
+    },
+    {
+      "id": "wbCq7wm81BU",
+      "title": "SVMs and Tricky Data Distributions - Intro to Machine Learning",
+      "views": 54000
+    },
+    {
+      "id": "yD9C03vqNeI",
+      "title": "SVMs and Tricky Data Distributions - Intro to Machine Learning",
+      "views": 17000
+    },
+    {
+      "id": "w-czJptEyBk",
+      "title": "SVM Response to Outliers - Intro to Machine Learning",
+      "views": 56000
+    },
+    {
+      "id": "TEAGqUkQVdM",
+      "title": "SVM Response to Outliers - Intro to Machine Learning",
+      "views": 18000
+    },
+    {
+      "id": "WxAO6ByCvew",
+      "title": "SVM Outlier Practice - Intro to Machine Learning",
+      "views": 53000
+    },
+    {
+      "id": "osn2fVnCVgQ",
+      "title": "SVM Outlier Practice - Intro to Machine Learning",
+      "views": 17000
+    },
+    {
+      "id": "GkqOdgZnkig",
+      "title": "Handoff to Katie",
+      "views": 17000
+    },
+    {
+      "id": "R7xQtQzkvTk",
+      "title": "SVM in SKlearn",
+      "views": 24000
+    },
+    {
+      "id": "8hEjeR0qLnA",
+      "title": "SVM Decision Boundary",
+      "views": 23000
+    },
+    {
+      "id": "CvTXyvw7QLc",
+      "title": "sklearn SVM Documentation - Intro to Machine Learning",
+      "views": 54000
+    },
+    {
+      "id": "2ieszOqnpWs",
+      "title": "Coding Up the SVM - Intro to Machine Learning",
+      "views": 17000
+    },
+    {
+      "id": "6UgInp_gf1w",
+      "title": "Nonlinear SVMs",
+      "views": 17000
+    },
+    {
+      "id": "EllzeBecnkU",
+      "title": "Nonlinear Data - Intro to Machine Learning",
+      "views": 52000
+    },
+    {
+      "id": "PxE2bbG2Hkw",
+      "title": "Nonlinear Data - Intro to Machine Learning",
+      "views": 14000
+    },
+    {
+      "id": "8xFV-I4VqZ0",
+      "title": "A New Feature - Intro to Machine Learning",
+      "views": 48000
+    },
+    {
+      "id": "8TqVHRan4Fo",
+      "title": "A New Feature - Intro to Machine Learning",
+      "views": 13000
+    },
+    {
+      "id": "sAdM20gFi2M",
+      "title": "Visualizing the New Feature",
+      "views": 16000
+    },
+    {
+      "id": "9KAHkienFWk",
+      "title": "Separating with the New Feature - Intro to Machine Learning",
+      "views": 45000
+    },
+    {
+      "id": "-_jNi_5zEEQ",
+      "title": "Separating with the New Feature - Intro to Machine Learning",
+      "views": 13000
+    },
+    {
+      "id": "ygveMIhCtDg",
+      "title": "Practice Making a New Feature - Intro to Machine Learning",
+      "views": 47000
+    },
+    {
+      "id": "MXXTeWLXliY",
+      "title": "Practice Making a New Feature - Intro to Machine Learning",
+      "views": 14000
+    },
+    {
+      "id": "3Xw6FKYP7e4",
+      "title": "Kernel Trick",
+      "views": 127000
+    },
+    {
+      "id": "krV6r7HxmZU",
+      "title": "Playing Around with Kernel Choices - Intro to Machine Learning",
+      "views": 51000
+    },
+    {
+      "id": "sy_jiSEy-Nw",
+      "title": "Playing Around with Kernel Choices - Intro to Machine Learning",
+      "views": 12000
+    },
+    {
+      "id": "pH51jLfGXe0",
+      "title": "Kernel and Gamma - Intro to Machine Learning",
+      "views": 58000
+    }
+  ]
+}

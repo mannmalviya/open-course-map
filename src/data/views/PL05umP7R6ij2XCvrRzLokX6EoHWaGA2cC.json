@@ -1,0 +1,294 @@
+{
+  "lectures": [
+    {
+      "id": "jFcYpBOeCOQ",
+      "title": "Introduction -  Probabilistic and Statistical Machine Learning 2020",
+      "views": 82000
+    },
+    {
+      "id": "WB8eYZSZyaE",
+      "title": "Statistical Machine Learning Part 1 - Machine learning and inductive bias",
+      "views": 43000
+    },
+    {
+      "id": "0dR7XIWYYjM",
+      "title": "Statistical Machine Learning Part 2 - Warmup: The kNN Classifier",
+      "views": 17000
+    },
+    {
+      "id": "vY4cXRGpGTo",
+      "title": "Statistical Machine Learning Part 3 - Formal setup, risk, consistency",
+      "views": 11000
+    },
+    {
+      "id": "XN9A6lU7Xqg",
+      "title": "Statistical Machine Learning Part 4 - Bayesian decision theory",
+      "views": 13000
+    },
+    {
+      "id": "u4LBC_RI3Ho",
+      "title": "Statistical Machine Learning Part 5: The Bayes classifier",
+      "views": 8300
+    },
+    {
+      "id": "KNHzGHhe08o",
+      "title": "Statistical Machine Learning Part 6 - Risk minimization, approximation and estimation error",
+      "views": 9000
+    },
+    {
+      "id": "pD6HHyhbGCI",
+      "title": "Statistical Machine Learning Part 7a - What is a convex optimization problem?",
+      "views": 7300
+    },
+    {
+      "id": "TBd2OXpDCuM",
+      "title": "Statistical Machine Learning Part 7 - Linear least squares",
+      "views": 6500
+    },
+    {
+      "id": "X4AOhUgeBtI",
+      "title": "Statistical Machine Learning Part 8 - Feature representation",
+      "views": 4500
+    },
+    {
+      "id": "CFXYcn16meE",
+      "title": "Statistical Machine Learning Part 9 - Ridge regression",
+      "views": 4700
+    },
+    {
+      "id": "3Gt0FiRhoFI",
+      "title": "Statistical Machine Learning Part 10 - Lasso",
+      "views": 3700
+    },
+    {
+      "id": "aJ77m-2sTaI",
+      "title": "Statistical Machine Learning Part 11 - Cross validation",
+      "views": 2900
+    },
+    {
+      "id": "eIi7GOmR_6I",
+      "title": "Statistical Machine Learning Part 12 - Risk minimization vs. probabilistic approaches",
+      "views": 3100
+    },
+    {
+      "id": "zv29D6XktHo",
+      "title": "Statistical Machine Learning Part 13 - Linear discriminant analysis",
+      "views": 3600
+    },
+    {
+      "id": "y0cRqLw2J3Y",
+      "title": "Statistical Machine Learning Part 14 - Logistic regression",
+      "views": 3200
+    },
+    {
+      "id": "wtpHmTSLZ4c",
+      "title": "Statistical Machine Learning Part 15 - Convex optimization, Lagrangian, dual problem",
+      "views": 9700
+    },
+    {
+      "id": "0cZwSzsE-UA",
+      "title": "Statistical Machine Learning Part 16 - Support vector machines: hard and soft margin",
+      "views": 6400
+    },
+    {
+      "id": "zzn80wmclnw",
+      "title": "Statistical Machine Learning Part 17 - Support vector machines: the dual problem",
+      "views": 4500
+    },
+    {
+      "id": "ABOEE3ThPGQ",
+      "title": "Statistical Machine Learning Part 18 - Kernels: definitions and examples",
+      "views": 11000
+    },
+    {
+      "id": "EoM_DF3VAO8",
+      "title": "Statistical Machine Learning Part 19 - The reproducing kernel Hilbert space",
+      "views": 31000
+    },
+    {
+      "id": "rH3gfp4aNC4",
+      "title": "Statistical Machine Learning Part 20 - Kernel SVMs",
+      "views": 4500
+    },
+    {
+      "id": "0N3acZIqCeQ",
+      "title": "Statistical Machine Learning Part 21 - Kernelizing least squares regression",
+      "views": 2700
+    },
+    {
+      "id": "e8CzX-7Syjg",
+      "title": "Statistical Machine Learning Part 22 - How to center and normalize in feature space",
+      "views": 2300
+    },
+    {
+      "id": "uxyoHvUTX7A",
+      "title": "Statistical Machine Learning Part 23a  -  Random forests: building the trees",
+      "views": 2900
+    },
+    {
+      "id": "Dlfu1iFvrXk",
+      "title": "Statistical Machine Learning Part 23b - Random forests: building the forests",
+      "views": 1600
+    },
+    {
+      "id": "4B5sp5Hw9Qc",
+      "title": "Statistical Machine Learning Part 24 - Boosting",
+      "views": 2100
+    },
+    {
+      "id": "AVSMZI_LZNk",
+      "title": "Statistical Machine Learning Part 25 - Principle Component Analysis",
+      "views": 4200
+    },
+    {
+      "id": "7kfkGyhPDu0",
+      "title": "Statistical Machine Learning Part 26 - Kernel PCA",
+      "views": 9200
+    },
+    {
+      "id": "tJBVC2kzPCY",
+      "title": "Statistical Machine Learning Part 27 - Multidimensional scaling",
+      "views": 5200
+    },
+    {
+      "id": "j9qbuGSjzeE",
+      "title": "Statistical Machine Learning Part 28 - Random projections and the Theorem of Johnson-Lindenstrauss",
+      "views": 7300
+    },
+    {
+      "id": "8dxc3_00m3M",
+      "title": "Statistical Machine Learning Part 29 - Neighborhood graphs",
+      "views": 1800
+    },
+    {
+      "id": "PNcxAbZX5X0",
+      "title": "Statistical Machine Learning Part 30 - Isomap",
+      "views": 7100
+    },
+    {
+      "id": "StqH9kjDsv4",
+      "title": "Statistical Machine Learning Part 31 - t-SNE",
+      "views": 2400
+    },
+    {
+      "id": "wYzcnPR8XWU",
+      "title": "Statistical Machine Learning Part 32 - Introduction to clustering",
+      "views": 1800
+    },
+    {
+      "id": "SQUjEPcm508",
+      "title": "Statistical Machine Learning Part 33 - k-means clustering",
+      "views": 2200
+    },
+    {
+      "id": "TQIdgl5SPGk",
+      "title": "Statistical Machine Learning Part 34 - Linkage algorithms for hierarchical clustering",
+      "views": 1400
+    },
+    {
+      "id": "vCQmmeeSuuQ",
+      "title": "Statistical Machine Learning Part 35 - Spectral graph theory",
+      "views": 6400
+    },
+    {
+      "id": "5FQfEjDic84",
+      "title": "Statistical Machine Learning Part 36 - Spectral clustering, unnormalized case",
+      "views": 3600
+    },
+    {
+      "id": "9vGkY5TL6rM",
+      "title": "Statistical Machine Learning Part 37 - Spectral clustering: normalized, regularized",
+      "views": 2300
+    },
+    {
+      "id": "dt27WWxfOLQ",
+      "title": "Statistical Machine Learning Part 38 - Statistical learning theory: Convergence and consistency",
+      "views": 4300
+    },
+    {
+      "id": "DA5mfzMgRoQ",
+      "title": "Statistical Machine Learning Part 39 - Statistical learning theory: finite function classes",
+      "views": 2600
+    },
+    {
+      "id": "RgtUrGQmA-w",
+      "title": "Statistical Machine Learning Part 40 - Statistical learning theory: shattering coefficient",
+      "views": 2800
+    },
+    {
+      "id": "-PFbhLYb-20",
+      "title": "Statistical Machine Learning Part 41 - Statistical learning theory: VC dimension",
+      "views": 3300
+    },
+    {
+      "id": "247PDzFw6d0",
+      "title": "Statistical Machine Learning Part 42 - Statistical learning theory: Rademacher complexity",
+      "views": 7900
+    },
+    {
+      "id": "W3Wb3Cfr-wo",
+      "title": "Statistical Machine Learning Part 43 - Statistical learning theory: consistency of regularization",
+      "views": 1900
+    },
+    {
+      "id": "arKTHJz7XVc",
+      "title": "Statistical Machine Learning Part 44 - Statistical learning theory: Revisiting Occam and outlook",
+      "views": 1500
+    },
+    {
+      "id": "5CH2qcZQrpk",
+      "title": "Statistical Machine Learning Part 45 - ML and Society: The general debate",
+      "views": 1700
+    },
+    {
+      "id": "QgsRvQYjgKo",
+      "title": "Statistical Machine Learning Part 46 - ML and Society: (Un)fairness in ML",
+      "views": 1200
+    },
+    {
+      "id": "QWfJj0OxKso",
+      "title": "Statistical Machine Learning Part 47 - ML and Society: Formal approaches to fairness",
+      "views": 1100
+    },
+    {
+      "id": "mi9kCpFNQNw",
+      "title": "Statistical Machine Learning Part 48 - ML and Society: Algorithmic approaches to fairness",
+      "views": 1100
+    },
+    {
+      "id": "WJCZzlRri-U",
+      "title": "Statistical Machine Learning Part 49 - ML and Society: Explainable ML",
+      "views": 1100
+    },
+    {
+      "id": "FHzSd8sKrQI",
+      "title": "Statistical Machine Learning Part 50 - ML and Society: The energy footprint of ML",
+      "views": 1000
+    },
+    {
+      "id": "HzM1n4V5anA",
+      "title": "Statistical Machine Learning Part 51 - Low rank matrix completion: algorithms",
+      "views": 4000
+    },
+    {
+      "id": "Oil0R6R4JiY",
+      "title": "Statistical Machine Learning Part 52 - Low rank matrix completion: theory",
+      "views": 1900
+    },
+    {
+      "id": "v89i3KBI5IQ",
+      "title": "Statistical Machine Learning Part 53 - Compressed sensing",
+      "views": 2000
+    },
+    {
+      "id": "vuJqMsAXsWE",
+      "title": "Statistical Machine Learning Part 54 - ML pipeline: data, preprocessing, learning",
+      "views": 1900
+    },
+    {
+      "id": "POPXWdSaC70",
+      "title": "Statistical Machine Learning Part 55 - ML pipeline: evaluation",
+      "views": 1600
+    }
+  ]
+}

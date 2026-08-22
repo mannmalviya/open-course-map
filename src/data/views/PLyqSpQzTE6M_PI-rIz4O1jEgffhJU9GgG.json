@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "wXSmG9pxOlE",
+      "title": "Course Introduction and Overview",
+      "views": 41000
+    },
+    {
+      "id": "1u4eOUXSlx4",
+      "title": "History",
+      "views": 34000
+    },
+    {
+      "id": "4pbPQwA1m0o",
+      "title": "Image Formation",
+      "views": 42000
+    },
+    {
+      "id": "PyoJdMrUMqI",
+      "title": "Image Representation",
+      "views": 35000
+    },
+    {
+      "id": "LiuMJvpSbOU",
+      "title": "Linear Filtering",
+      "views": 47000
+    },
+    {
+      "id": "QdM-QariW30",
+      "title": "Image in Frequency Domain",
+      "views": 28000
+    },
+    {
+      "id": "nfEaPWZ_dRQ",
+      "title": "Image Sampling",
+      "views": 19000
+    },
+    {
+      "id": "9r8ph2pb9aw",
+      "title": "Edge Detection",
+      "views": 40000
+    },
+    {
+      "id": "1E44Sw8-RG0",
+      "title": "From Edges to Blobs and Corners",
+      "views": 19000
+    },
+    {
+      "id": "f4mL4Thr9hc",
+      "title": "Scale Space, Image Pyramids and Filter Banks",
+      "views": 23000
+    },
+    {
+      "id": "gEoWMLXk0Ys",
+      "title": "Feature Detectors : SIFT and Variants",
+      "views": 20000
+    },
+    {
+      "id": "0HbRnFTOOms",
+      "title": "Image Segmentation",
+      "views": 16000
+    },
+    {
+      "id": "hBMOK2YCpXc",
+      "title": "Other Feature Spaces",
+      "views": 7800
+    },
+    {
+      "id": "WP6Viubo5b8",
+      "title": "Human Visual System",
+      "views": 5700
+    },
+    {
+      "id": "Bcm264VX6r8",
+      "title": "Feature Matching",
+      "views": 11000
+    },
+    {
+      "id": "uJ_8byXUqGc",
+      "title": "Hough Transform",
+      "views": 9800
+    },
+    {
+      "id": "CwJPEMcuAxY",
+      "title": "From Points to Images:Bag-of-Words and VLAD Representations",
+      "views": 9100
+    },
+    {
+      "id": "pHbQeVWuAfI",
+      "title": "Image Descriptor Matching",
+      "views": 5900
+    },
+    {
+      "id": "-s4D_QTzpuo",
+      "title": "Pyramid Matching",
+      "views": 4600
+    },
+    {
+      "id": "CAhVHKRjORA",
+      "title": "From Traditional Vision to Deep Learning",
+      "views": 5200
+    },
+    {
+      "id": "47d0M3UAXNc",
+      "title": "Neural Networks: A Review - Part 1",
+      "views": 11000
+    },
+    {
+      "id": "OKVn7q20dEY",
+      "title": "Neural Networks: A Review - Part 2",
+      "views": 7400
+    },
+    {
+      "id": "8sjbwfHdqW8",
+      "title": "Feedforward Neural Networks and Backpropagation - Part 1",
+      "views": 11000
+    },
+    {
+      "id": "XV20CvRsIJU",
+      "title": "Feedforward Neural Networks and Backpropagation - Part 2",
+      "views": 7600
+    },
+    {
+      "id": "UkEThLiReTY",
+      "title": "Gradient Descent and Variants - Part 1",
+      "views": 7100
+    },
+    {
+      "id": "g_bV6bo5dL0",
+      "title": "Gradient Descent and Variants - Part 2",
+      "views": 4900
+    },
+    {
+      "id": "fS1aoHtTKMs",
+      "title": "Regularization in Neural Networks - Part 1",
+      "views": 6700
+    },
+    {
+      "id": "oHtOFQR0Wng",
+      "title": "Regularization in Neural Networks - Part 2",
+      "views": 4400
+    },
+    {
+      "id": "9Z5C-bOMafs",
+      "title": "Improving Training of Neural Networks - Part 1",
+      "views": 4300
+    },
+    {
+      "id": "Q364dPTYsrk",
+      "title": "Improving Training of Neural Networks - Part 2",
+      "views": 3600
+    },
+    {
+      "id": "tH6uRl6f3bc",
+      "title": "Convolutional Neural Networks: An Introduction - Part 01",
+      "views": 11000
+    },
+    {
+      "id": "H_JtjeSNhA0",
+      "title": "Convolutional Neural Networks: An Introduction - Part 02",
+      "views": 8100
+    },
+    {
+      "id": "pUCCd2-17vI",
+      "title": "Backpropagation in CNNs",
+      "views": 21000
+    },
+    {
+      "id": "rEFTKAXEBgY",
+      "title": "Evolution of CNN Architectures for Image Classification-Part 01",
+      "views": 9000
+    },
+    {
+      "id": "YizB_RoGrMs",
+      "title": "Evolution of CNN Architectures for Image Classification-Part 02",
+      "views": 6400
+    },
+    {
+      "id": "p047WxBf-qA",
+      "title": "Recent CNN Architectures",
+      "views": 6600
+    },
+    {
+      "id": "cDvkwPBOWdo",
+      "title": "Finetuning in CNNs",
+      "views": 5600
+    },
+    {
+      "id": "u3FBpyUA1dc",
+      "title": "Explaining CNNs: Visualization Methods",
+      "views": 6900
+    },
+    {
+      "id": "a4TDSLGhKi8",
+      "title": "Explaining CNNs: Early Methods",
+      "views": 5100
+    },
+    {
+      "id": "VmbBnSv3otc",
+      "title": "Explaining CNNs: Class Attribution Map Methods",
+      "views": 28000
+    },
+    {
+      "id": "-ZGmpoRBBaw",
+      "title": "Explaining CNNs: Recent Methods - Part 01",
+      "views": 5100
+    },
+    {
+      "id": "9OzwN-Ub6Lg",
+      "title": "Explaining CNNs: Recent Methods -Part 02",
+      "views": 3100
+    },
+    {
+      "id": "9Moxmab_Y4I",
+      "title": "Going Beyond Explaining CNNs",
+      "views": 2600
+    },
+    {
+      "id": "yqyLWUKftI0",
+      "title": "CNNs for Object Detection I PART 01",
+      "views": 16000
+    },
+    {
+      "id": "VQXD6ZfYT6o",
+      "title": "CNNs for Object Detection I PART 02",
+      "views": 10000
+    },
+    {
+      "id": "JI-bxTnnSTg",
+      "title": "CNNs for Object Detection II",
+      "views": 9500
+    },
+    {
+      "id": "4zuAYazbCQ0",
+      "title": "CNNs for Segmentation",
+      "views": 12000
+    },
+    {
+      "id": "q5Up_IPfYuw",
+      "title": "CNNs for Human Understanding  Faces- Part 01",
+      "views": 4400
+    },
+    {
+      "id": "k4mNPA7WOVs",
+      "title": "CNNs for Human Understanding  Faces PART 02",
+      "views": 3800
+    },
+    {
+      "id": "q8tB0jviYzU",
+      "title": "CNNs for Human Understanding  Human Pose and Crowd",
+      "views": 7300
+    },
+    {
+      "id": "KbmoTrbSNw8",
+      "title": "CNNs for Other Image Tasks",
+      "views": 2700
+    },
+    {
+      "id": "c-k79rJagjQ",
+      "title": "Recurrent Neural Networks  Introduction",
+      "views": 10000
+    },
+    {
+      "id": "I4_lyJVnpMg",
+      "title": "Backpropagation in RNNs",
+      "views": 18000
+    },
+    {
+      "id": "4vryB1QhBNc",
+      "title": "LSTMs and GRUs",
+      "views": 10000
+    },
+    {
+      "id": "P84OW5GovBE",
+      "title": "Video Understanding using CNNs and RNNs",
+      "views": 4800
+    },
+    {
+      "id": "msiQiqXgOkk",
+      "title": "Attention in Vision Models: An Introduction",
+      "views": 14000
+    },
+    {
+      "id": "BPL3hHNvJmU",
+      "title": "Vision and Language: Image Captioning",
+      "views": 6700
+    },
+    {
+      "id": "Atf7uJ1JIZU",
+      "title": "Beyond Captioning: Visual QA, Visual Dialog",
+      "views": 6400
+    },
+    {
+      "id": "Pbc8QHMBhik",
+      "title": "Other Attention Models",
+      "views": 2800
+    },
+    {
+      "id": "phOc25QfNS0",
+      "title": "Self-Attention and Transformers",
+      "views": 22000
+    },
+    {
+      "id": "v_ksUIpToGk",
+      "title": "Deep Generative Models: An Introduction",
+      "views": 17000
+    },
+    {
+      "id": "LMpyYPzxQ9w",
+      "title": "Generative Adversarial Networks-Part 01",
+      "views": 7200
+    },
+    {
+      "id": "X3SJ2mRodF0",
+      "title": "Generative Adversarial Networks-Part 02",
+      "views": 4800
+    },
+    {
+      "id": "psaDtRj_8oA",
+      "title": "Variational Autoencoders",
+      "views": 10000
+    },
+    {
+      "id": "0OgFW2W9LRY",
+      "title": "Combining VAEs and GANs",
+      "views": 4200
+    },
+    {
+      "id": "RPkf516rXgw",
+      "title": "Beyond VAEs and GANs: Other Deep Generative Models-01",
+      "views": 4100
+    },
+    {
+      "id": "Lcpqkh1Y9wQ",
+      "title": "Beyond VAEs and GANs: Other Deep Generative Models-02",
+      "views": 2000
+    },
+    {
+      "id": "oRQ67il-hdY",
+      "title": "GAN Improvements",
+      "views": 3500
+    },
+    {
+      "id": "DyiZW9uQwVE",
+      "title": "Deep Generative Models across Multiple Domains",
+      "views": 2100
+    },
+    {
+      "id": "hq6V5i3Xrgk",
+      "title": "VAEs and DIsentanglement",
+      "views": 6000
+    },
+    {
+      "id": "R9tEJhUfFL4",
+      "title": "Deep Generative Models: Image Applications",
+      "views": 2600
+    },
+    {
+      "id": "go6w8bPmV6s",
+      "title": "Deep Generative Models: Video Applications",
+      "views": 1600
+    },
+    {
+      "id": "ppC9ruaVuQQ",
+      "title": "Few-shot and Zero-shot Learning - Part 01",
+      "views": 12000
+    },
+    {
+      "id": "Ex3FwzOGIkY",
+      "title": "Few-shot and Zero-shot Learning - Part 02",
+      "views": 6700
+    },
+    {
+      "id": "hTroTWINb5w",
+      "title": "Self-Supervised Learning",
+      "views": 8800
+    },
+    {
+      "id": "Rn-OsIOnCI4",
+      "title": "Adversarial Robustness",
+      "views": 4900
+    },
+    {
+      "id": "AgezOkBTV90",
+      "title": "Pruning and Model Compression",
+      "views": 11000
+    },
+    {
+      "id": "8_Tb1pjtjRE",
+      "title": "Neural Architecture Search",
+      "views": 7500
+    },
+    {
+      "id": "4-EMqgdJmK4",
+      "title": "Course Conclusion",
+      "views": 2100
+    },
+    {
+      "id": "VOxWdQxWcLg",
+      "title": "Neural Networks: A Review - Part 1",
+      "views": 3500
+    },
+    {
+      "id": "SMRF9c-xAtY",
+      "title": "Neural Networks: A Review - Part 2",
+      "views": 2100
+    },
+    {
+      "id": "KuM8C6_XCTU",
+      "title": "Feedforward Neural Networks and Backpropagation - Part 1",
+      "views": 2200
+    },
+    {
+      "id": "uYpZyzxxyII",
+      "title": "Feedforward Neural Networks and Backpropagation - Part 2",
+      "views": 1800
+    },
+    {
+      "id": "Azuoh-WlQuY",
+      "title": "Gradient Descent and Variants - Part 1",
+      "views": 1900
+    },
+    {
+      "id": "9zYxWHU9Ick",
+      "title": "Gradient Descent and Variants - Part 2",
+      "views": 1500
+    },
+    {
+      "id": "uJir_khrGBY",
+      "title": "Regularization in Neural Networks - Part 1",
+      "views": 1700
+    },
+    {
+      "id": "AGxz3mY7WZg",
+      "title": "Regularization in Neural Networks - Part 2",
+      "views": 1400
+    },
+    {
+      "id": "mFIYldBMyEQ",
+      "title": "Improving Training of Neural Networks - Part 1",
+      "views": 1400
+    },
+    {
+      "id": "OiIVNcfruzE",
+      "title": "Improving Training of Neural Networks - Part 2",
+      "views": 1200
+    },
+    {
+      "id": "cUBWTR3-bCc",
+      "title": "Convolutional Neural Networks: An Introduction - Part 01",
+      "views": 2600
+    },
+    {
+      "id": "jGbVN6LOYj4",
+      "title": "02 Convolutional Neural Networks  An Introduction   Part 02",
+      "views": 2000
+    },
+    {
+      "id": "pp6LPJuw0Po",
+      "title": "03 Backpropagation in CNNs",
+      "views": 1900
+    },
+    {
+      "id": "1ic-vzTpJCE",
+      "title": "04 Evolution of CNN Architectures for Image Classification Part 01",
+      "views": 2100
+    },
+    {
+      "id": "Pls1_qRA0fY",
+      "title": "Evolution of CNN Architectures: InceptionNet, ResNet",
+      "views": 2500
+    },
+    {
+      "id": "_ermvion1M0",
+      "title": "Newer and Recent CNN Architectures",
+      "views": 2000
+    },
+    {
+      "id": "A8MjQoeiSgo",
+      "title": "Finetuning CNNs",
+      "views": 1800
+    },
+    {
+      "id": "tmpzLPmMBD0",
+      "title": "Visualizing CNNs",
+      "views": 2000
+    },
+    {
+      "id": "4o-4_VUwRKw",
+      "title": "CNNs for Object Detection: Pre-Deep Learning Era and Initial Steps",
+      "views": 1900
+    },
+    {
+      "id": "XAZxEx8jI1w",
+      "title": "CNNs for Object Detection: Two-Stage Models",
+      "views": 1800
+    },
+    {
+      "id": "kAbHOo5t2jM",
+      "title": "CNNs for Object Detection: Single-stage Models",
+      "views": 1500
+    }
+  ]
+}

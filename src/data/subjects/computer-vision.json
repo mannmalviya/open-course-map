@@ -10,7 +10,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS231N \u00b7 2025",
+          "label": "Stanford CS231N · 2025",
           "url": "https://cs231n.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16",
           "date": "Spring 2025",
@@ -18,14 +18,14 @@
           "primary": true
         },
         {
-          "label": "Stanford CS231n \u00b7 Spring 2017",
+          "label": "Stanford CS231n · Spring 2017",
           "url": "https://cs231n.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk",
           "date": "Spring 2017",
           "youtubeId": "vT1JzLTH4G4"
         },
         {
-          "label": "Stanford CS231n \u00b7 Karpathy \u00b7 Winter 2016",
+          "label": "Stanford CS231n · Karpathy · Winter 2016",
           "url": "https://cs231n.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC",
           "date": "Winter 2016",
@@ -43,7 +43,7 @@
       },
       "versions": [
         {
-          "label": "MIT 6.801 \u00b7 Horn \u00b7 Fall 2020",
+          "label": "MIT 6.801 · Horn · Fall 2020",
           "url": "https://ocw.mit.edu/courses/6-801-machine-vision-fall-2020/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O",
           "date": "Fall 2020",
@@ -62,7 +62,7 @@
       },
       "versions": [
         {
-          "label": "UMich EECS 498 \u00b7 Johnson \u00b7 Winter 2022",
+          "label": "UMich EECS 498 · Johnson · Winter 2022",
           "url": "https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/",
           "youtube": "https://www.youtube.com/playlist?list=PLLhQgjrONLVFP1E7p2jWMMeM2FWUf2Qc7",
           "date": "Winter 2022",
@@ -70,11 +70,236 @@
           "primary": true
         },
         {
-          "label": "UMich EECS 498 \u00b7 Johnson \u00b7 Fall 2019",
+          "label": "UMich EECS 498 · Johnson · Fall 2019",
           "url": "https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/",
           "youtube": "https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r",
           "date": "Fall 2019",
           "youtubeId": "dJYGatp4SvA"
+        }
+      ]
+    },
+    "rpi-improc": {
+      "title": "Digital Image Processing",
+      "university": "RPI",
+      "level": "undergrad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "RPI · Radke · 2015",
+          "url": "https://www.ecse.rpi.edu/~rjradke/improccourse.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX",
+          "date": "Spring 2015",
+          "youtubeId": "UhDlL-tLT2U",
+          "primary": true
+        }
+      ]
+    },
+    "tum-mvg": {
+      "title": "Multiple View Geometry",
+      "university": "TUM",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "TUM · Cremers · 2013",
+          "url": "https://vision.in.tum.de/teaching/ss2014/mvg2014",
+          "youtube": "https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4",
+          "date": "2013",
+          "youtubeId": "RDkwklFGMfo",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-levoy-photography": {
+      "title": "Digital Photography",
+      "university": "Stanford",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford · Levoy · 2016",
+          "url": "https://sites.google.com/site/marclevoylectures/",
+          "youtube": "https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i",
+          "date": "2016",
+          "youtubeId": "y7HrM-fk_Rc",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-cv": {
+      "title": "Computer Vision",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Geiger · 2021",
+          "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_",
+          "date": "Spring 2021",
+          "youtubeId": "YW1cIaOBkI8",
+          "primary": true
+        }
+      ]
+    },
+    "ucf-cap5415": {
+      "title": "CAP5415 Computer Vision",
+      "university": "UCF",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UCF CAP5415 · Shah · 2012",
+          "url": "http://crcv.ucf.edu/courses/CAP5415/Fall2012/index.php",
+          "youtube": "https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm",
+          "date": "Fall 2012",
+          "youtubeId": "715uLCHt4jE",
+          "primary": true
+        }
+      ]
+    },
+    "gatech-cv": {
+      "title": "Intro to Computer Vision",
+      "university": "Georgia Tech",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Georgia Tech · Bobick, Essa · 2016",
+          "url": "https://eu.udacity.com/course/introduction-to-computer-vision--ud810",
+          "youtube": "https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm",
+          "date": "2016",
+          "youtubeId": "2S4nn7S8Hk4",
+          "primary": true
+        }
+      ]
+    },
+    "tum-vmcv": {
+      "title": "Variational Methods",
+      "university": "TUM",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "TUM · Cremers · 2017",
+          "url": "https://vision.in.tum.de/teaching/ws2016/vmcv2016",
+          "youtube": "https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI",
+          "date": "2017",
+          "youtubeId": "fpw26tpHGr8",
+          "primary": true
+        }
+      ]
+    },
+    "mines-eeng512": {
+      "title": "EENG512 Computer Vision",
+      "university": "Colorado Mines",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Colorado Mines EENG512 · Hoff · 2012",
+          "url": "http://inside.mines.edu/~whoff/courses/EENG512/index.htm",
+          "youtube": "https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3",
+          "date": "2012",
+          "youtubeId": "skaQfPQFSyY",
+          "primary": true
+        }
+      ]
+    },
+    "uw-cse455": {
+      "title": "CSE455 Computer Vision",
+      "university": "UW",
+      "level": "undergrad",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UW CSE455 · Redmon, Farhadi · 2018",
+          "url": "https://pjreddie.com/courses/computer-vision/",
+          "youtube": "https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p",
+          "date": "Spring 2018",
+          "youtubeId": "8jXIAWg_yHU",
+          "primary": true
+        }
+      ]
+    },
+    "nus-3dcv": {
+      "title": "3D Computer Vision",
+      "university": "NUS",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "NUS · Lee · 2021",
+          "url": "https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz",
+          "youtube": "https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz",
+          "date": "2021",
+          "youtubeId": "LAHQ_qIzNGU",
+          "primary": true
+        }
+      ]
+    },
+    "iith-dlcv": {
+      "title": "NPTEL DL for Vision",
+      "university": "IIT Hyderabad",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "IIT Hyderabad · Balasubramanian · 2020",
+          "url": "https://onlinecourses.nptel.ac.in/noc20_cs88/preview",
+          "youtube": "https://www.youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG",
+          "date": "2020",
+          "youtubeId": "wXSmG9pxOlE",
+          "primary": true
+        }
+      ]
+    },
+    "dlai-cnn": {
+      "title": "Convolutional Neural Nets",
+      "university": "deeplearning.ai",
+      "pos": {
+        "x": 780,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "deeplearning.ai · Ng · 2017",
+          "url": "https://www.deeplearning.ai/deep-learning-specialization/",
+          "youtube": "https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF",
+          "date": "2017",
+          "youtubeId": "ArPaAX_PhIs",
+          "primary": true
         }
       ]
     }

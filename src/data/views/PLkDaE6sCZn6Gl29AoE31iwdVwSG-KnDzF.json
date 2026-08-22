@@ -1,0 +1,214 @@
+{
+  "lectures": [
+    {
+      "id": "ArPaAX_PhIs",
+      "title": "C4W1L01 Computer Vision",
+      "views": 634000
+    },
+    {
+      "id": "XuD4C8vJzEQ",
+      "title": "C4W1L02 Edge Detection Examples",
+      "views": 339000
+    },
+    {
+      "id": "am36dePheDc",
+      "title": "C4W1L03 More Edge Detection",
+      "views": 186000
+    },
+    {
+      "id": "smHa2442Ah4",
+      "title": "C4W1L04 Padding",
+      "views": 173000
+    },
+    {
+      "id": "tQYZaDn_kSg",
+      "title": "C4W1L05 Strided Convolutions",
+      "views": 160000
+    },
+    {
+      "id": "KTB_OFoAQcc",
+      "title": "C4W1L06 Convolutions Over Volumes",
+      "views": 268000
+    },
+    {
+      "id": "jPOAS7uCODQ",
+      "title": "C4W1L07 One Layer of a Convolutional Net",
+      "views": 184000
+    },
+    {
+      "id": "3PyJA9AfwSk",
+      "title": "C4W1L08 Simple Convolutional Network Example",
+      "views": 213000
+    },
+    {
+      "id": "8oOgPUO-TBY",
+      "title": "C4W1L09 Pooling Layers",
+      "views": 177000
+    },
+    {
+      "id": "bXJx7y51cl0",
+      "title": "C4W1L10 CNN Example",
+      "views": 140000
+    },
+    {
+      "id": "ay3zYUeuyhU",
+      "title": "C4W1L11 Why Convolutions",
+      "views": 115000
+    },
+    {
+      "id": "-bvTzZCEOdM",
+      "title": "C4W2L01 Why look at case studies?",
+      "views": 72000
+    },
+    {
+      "id": "dZVkygnKh1M",
+      "title": "C4W2L02 Classic Network",
+      "views": 114000
+    },
+    {
+      "id": "ZILIbUvp5lk",
+      "title": "C4W2L03 Resnets",
+      "views": 210000
+    },
+    {
+      "id": "RYth6EbBUqM",
+      "title": "C4W2L04 Why ResNets Work",
+      "views": 157000
+    },
+    {
+      "id": "c1RBQzKsDCk",
+      "title": "C4W2L05 Network In Network",
+      "views": 124000
+    },
+    {
+      "id": "C86ZXvgpejM",
+      "title": "C4W2L06 Inception Network Motivation",
+      "views": 142000
+    },
+    {
+      "id": "KfV8CJh7hE0",
+      "title": "C4W2L07 Inception Network",
+      "views": 123000
+    },
+    {
+      "id": "cFFu__mcoIw",
+      "title": "C4W2L08 Using Open Source Implementation",
+      "views": 51000
+    },
+    {
+      "id": "FQM13HkEfBk",
+      "title": "C4W2L09 Transfer Learning",
+      "views": 71000
+    },
+    {
+      "id": "JI8saFjK84o",
+      "title": "C4W2L10 Data Augmentation",
+      "views": 74000
+    },
+    {
+      "id": "c3zw6KI6dLc",
+      "title": "C4W2L11 State of Computer Vision",
+      "views": 55000
+    },
+    {
+      "id": "GSwYGkTfOKk",
+      "title": "C4W3L01 Object Localization",
+      "views": 177000
+    },
+    {
+      "id": "rRB9iymNy1w",
+      "title": "C4W3L02 Landmark Detection",
+      "views": 99000
+    },
+    {
+      "id": "5e5pjeojznk",
+      "title": "C4W3L03 Object Detection",
+      "views": 106000
+    },
+    {
+      "id": "XdsmlBGOK-k",
+      "title": "C4W3L04 Convolutional Implementation Sliding Windows",
+      "views": 132000
+    },
+    {
+      "id": "ANIzQ5G-XPE",
+      "title": "C4W3L06 Intersection Over Union",
+      "views": 90000
+    },
+    {
+      "id": "VAo84c1hQX8",
+      "title": "C4W3L07 Nonmax Suppression",
+      "views": 110000
+    },
+    {
+      "id": "RTlwl2bv0Tg",
+      "title": "C4W3L08 Anchor Boxes",
+      "views": 155000
+    },
+    {
+      "id": "9s_FpMpdYW8",
+      "title": "C4W3L09 YOLO Algorithm",
+      "views": 252000
+    },
+    {
+      "id": "6ykvU9WuIws",
+      "title": "C4W3L10 Region Proposals",
+      "views": 102000
+    },
+    {
+      "id": "-FfMVnwXrZ0",
+      "title": "C4W4L01 What is face recognition",
+      "views": 60000
+    },
+    {
+      "id": "96b_weTZb2w",
+      "title": "C4W4L02 One Shot Learning",
+      "views": 111000
+    },
+    {
+      "id": "6jfw8MuKwpI",
+      "title": "C4W4L03 Siamese Network",
+      "views": 152000
+    },
+    {
+      "id": "d2XB5-tuCWU",
+      "title": "C4W4L04 Triplet loss",
+      "views": 141000
+    },
+    {
+      "id": "0NSLgoEtdnw",
+      "title": "C4W4L05 Face Verification",
+      "views": 60000
+    },
+    {
+      "id": "R39tWYYKNcI",
+      "title": "C4W4L06 What is neural style transfer?",
+      "views": 50000
+    },
+    {
+      "id": "ChoV5h7tw5A",
+      "title": "C4W4L07 What are deep CNs learning?",
+      "views": 44000
+    },
+    {
+      "id": "xY-DMAJpIP4",
+      "title": "C4W4L08 Cost Function",
+      "views": 37000
+    },
+    {
+      "id": "b1I5X3UfEYI",
+      "title": "C4W4L09 Content Cost Function",
+      "views": 31000
+    },
+    {
+      "id": "QgkLfjfGul8",
+      "title": "C4W4L10 Style Cost Function",
+      "views": 34000
+    },
+    {
+      "id": "Cn8AtS-9Nwc",
+      "title": "C4W4L11 1D and 3D Generalizations",
+      "views": 31000
+    }
+  ]
+}

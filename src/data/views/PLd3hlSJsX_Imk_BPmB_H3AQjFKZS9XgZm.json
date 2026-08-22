@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "id": "715uLCHt4jE",
+      "title": "Lecture 01 Introduction to Computer Vision",
+      "views": 379000
+    },
+    {
+      "id": "1THuCOKNn6U",
+      "title": "Lecture 02 - Filtering",
+      "views": 145000
+    },
+    {
+      "id": "lC-IrZsdTrw",
+      "title": "Lecture 03 - Edge Detection",
+      "views": 101000
+    },
+    {
+      "id": "sm9m5QSC7Dk",
+      "title": "Matlab Tutorial Video",
+      "views": 225000
+    },
+    {
+      "id": "_qgKQGsuKeQ",
+      "title": "Lecture 04 - Interest Point Detection",
+      "views": 112000
+    },
+    {
+      "id": "NPcMS49V5hg",
+      "title": "Lecture 05 - Scale-invariant Feature Transform (SIFT)",
+      "views": 268000
+    },
+    {
+      "id": "0Zib1YEE4LU",
+      "title": "Histograms of Oriented Gradients (HOG)",
+      "views": 136000
+    },
+    {
+      "id": "5VyLAH8BhF8",
+      "title": "Lecture 06 - Optical Flow",
+      "views": 151000
+    },
+    {
+      "id": "NiGcuurpV5o",
+      "title": "Lecture 07 - Pyramids",
+      "views": 52000
+    },
+    {
+      "id": "dW_F2C-kNfo",
+      "title": "Lecture 08 - Motion Models",
+      "views": 27000
+    },
+    {
+      "id": "fI6-02ATz4w",
+      "title": "Lecture 9 - Global Motion",
+      "views": 19000
+    },
+    {
+      "id": "tzO245uWQxA",
+      "title": "Lecture 10 - Lucas-Kanade Tracker (KLT)",
+      "views": 74000
+    },
+    {
+      "id": "M8B3RZVqgOo",
+      "title": "Lecture 11: Mean Shift",
+      "views": 65000
+    },
+    {
+      "id": "NWOL8yXL6xI",
+      "title": "Lecture 12: Camera Model",
+      "views": 44000
+    },
+    {
+      "id": "K-j704F6F7Q",
+      "title": "Lecture 13: Fundamental Matrix",
+      "views": 39000
+    },
+    {
+      "id": "LYgBqJorF44",
+      "title": "Lecture 14: Face Recognition",
+      "views": 42000
+    },
+    {
+      "id": "zdKX7Xo3Cb8",
+      "title": "Lecture 15: Structure from Motion",
+      "views": 45000
+    },
+    {
+      "id": "jzis4WE3Vc8",
+      "title": "Lecture 16: Stereo",
+      "views": 32000
+    },
+    {
+      "id": "iGZpJZhqEME",
+      "title": "Lecture 17: Bag-of-Features (Bag-of-Words)",
+      "views": 69000
+    },
+    {
+      "id": "hYcugbbf9ug",
+      "title": "Lecture 18: Hough Transform",
+      "views": 70000
+    }
+  ]
+}

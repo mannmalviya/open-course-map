@@ -1,0 +1,199 @@
+{
+  "lectures": [
+    {
+      "id": "LAHQ_qIzNGU",
+      "title": "3D Computer Vision | Lecture 1 (Part 1): 2D and 1D projective geometry",
+      "views": 61000
+    },
+    {
+      "id": "gQ7IUS8NKCI",
+      "title": "3D Computer Vision | Lecture 1 (Part 2): 2D and 1D projective geometry",
+      "views": 16000
+    },
+    {
+      "id": "p05akAOSrUA",
+      "title": "3D Computer Vision | Lecture 2 (Part 1): Rigid body motion and 3D projective geometry",
+      "views": 9800
+    },
+    {
+      "id": "wpqTPTQcNAM",
+      "title": "3D Computer Vision | Lecture 2 (Part 2): Rigid body motion and 3D projective geometry",
+      "views": 6300
+    },
+    {
+      "id": "T-p6d7av32Y",
+      "title": "3D Computer Vision | Lecture 3 (Part 1): Circular points and Absolute conic",
+      "views": 7800
+    },
+    {
+      "id": "tsO6VO1s_x8",
+      "title": "3D Computer Vision | Lecture 3 (Part 2): Circular points and Absolute conic",
+      "views": 3900
+    },
+    {
+      "id": "k63Bi74Meyc",
+      "title": "3D Computer Vision | Lecture 3 (Part 3): Circular points and Absolute conic",
+      "views": 3300
+    },
+    {
+      "id": "W8vgVoQdwAM",
+      "title": "3D Computer Vision | Lecture 4 (Part 1): Robust homography estimation",
+      "views": 8000
+    },
+    {
+      "id": "v3322cNhCTk",
+      "title": "3D Computer Vision | Lecture 4 (Part 2): Robust homography estimation",
+      "views": 3600
+    },
+    {
+      "id": "sae97GVUXcg",
+      "title": "3D Computer Vision | Lecture 5 (Part 1): Camera models and calibration",
+      "views": 10000
+    },
+    {
+      "id": "oyGCk4idsaU",
+      "title": "3D Computer Vision | Lecture 5 (Part 2): Camera models and calibration",
+      "views": 4400
+    },
+    {
+      "id": "77kpTQUfIBg",
+      "title": "3D Computer Vision | Lecture 5 (Part 3): Camera models and calibration",
+      "views": 3500
+    },
+    {
+      "id": "D6Pm5id_LK4",
+      "title": "3D Computer Vision | Lecture 6 (Part 1): Single view metrology",
+      "views": 4900
+    },
+    {
+      "id": "XSflleJr4qM",
+      "title": "3D Computer Vision | Lecture 6 (Part 2): Single view metrology",
+      "views": 2500
+    },
+    {
+      "id": "9TuPY67JBpo",
+      "title": "3D Computer Vision | Lecture 6 (Part 3): Single view metrology",
+      "views": 2500
+    },
+    {
+      "id": "eJnG1vwGJkE",
+      "title": "3D Computer Vision | Lecture 7 (Part 1): The fundamental and essential matrices",
+      "views": 4700
+    },
+    {
+      "id": "mNThwULGR-g",
+      "title": "3D Computer Vision | Lecture 7 (Part 2): The fundamental and essential matrices",
+      "views": 2600
+    },
+    {
+      "id": "7QYq7qNkmtg",
+      "title": "3D Computer Vision | Lecture 7 (Part 3): The fundamental and essential matrices",
+      "views": 2500
+    },
+    {
+      "id": "WQvJICS3Ecc",
+      "title": "3D Computer Vision | Lecture 7 (Part 4): The fundamental and essential matrices",
+      "views": 3100
+    },
+    {
+      "id": "C5L7LnNL4oo",
+      "title": "3D Computer Vision | Lecture 8 (Part 1): Absolute pose estimation from points or lines",
+      "views": 4200
+    },
+    {
+      "id": "8Nh1UeuD9-k",
+      "title": "3D Computer Vision | Lecture 8 (Part 2): Absolute pose estimation from points or lines",
+      "views": 2300
+    },
+    {
+      "id": "9peph2zvSyY",
+      "title": "3D Computer Vision | Lecture 8 (Part 3): Absolute pose estimation from points or lines",
+      "views": 1700
+    },
+    {
+      "id": "5wBKv74MtMc",
+      "title": "3D Computer Vision | Lecture 9 (Part 1): Three-view geometry from points and/or lines",
+      "views": 3500
+    },
+    {
+      "id": "gQ1ge1fySIw",
+      "title": "3D Computer Vision | Lecture 9 (Part 2): Three-view geometry from points and/or lines",
+      "views": 1700
+    },
+    {
+      "id": "ofDScwvfSvM",
+      "title": "3D Computer Vision | Lecture 9 (Part 3): Three-view geometry from points and/or lines",
+      "views": 1300
+    },
+    {
+      "id": "rysdVwyM9FQ",
+      "title": "3D Computer Vision | Lecture 9 (Part 4): Three-view geometry from points and/or lines",
+      "views": 1100
+    },
+    {
+      "id": "MUadR35FFqk",
+      "title": "3D Computer Vision | Lecture 10 (Part 1): Structure-from-Motion (SfM) and bundle adjustment",
+      "views": 18000
+    },
+    {
+      "id": "j3VSmUCKZDM",
+      "title": "3D Computer Vision | Lecture 10 (Part 2): Structure-from-Motion (SfM) and bundle adjustment",
+      "views": 7300
+    },
+    {
+      "id": "m7sChPmkFjE",
+      "title": "3D Computer Vision | Lecture 10 (Part 3): Structure-from-Motion (SfM) and bundle adjustment",
+      "views": 3900
+    },
+    {
+      "id": "J5OX0hipzd4",
+      "title": "3D Computer Vision | Lecture 10 (Part 4): Structure-from-Motion (SfM) and bundle adjustment",
+      "views": 2700
+    },
+    {
+      "id": "OpZs7kfjFPA",
+      "title": "3D Computer Vision | Lecture 11 (Part 1): Two-view and multi-view stereo",
+      "views": 7200
+    },
+    {
+      "id": "N_iECTqZtQQ",
+      "title": "3D Computer Vision | Lecture 11 (Part 2): Two-view and multi-view stereo",
+      "views": 2900
+    },
+    {
+      "id": "hfQR7X8eH9s",
+      "title": "3D Computer Vision | Lecture 11 (Part 3): Two-view and multi-view stereo",
+      "views": 2400
+    },
+    {
+      "id": "YgOC9DjHyJs",
+      "title": "3D Computer Vision | Lecture 11 (Part 4): Two-view and multi-view stereo",
+      "views": 2600
+    },
+    {
+      "id": "PUgr2VKlNbc",
+      "title": "3D Computer Vision | Lecture 12 (Part 1): Generalized cameras",
+      "views": 2500
+    },
+    {
+      "id": "HuxLHhvdBLY",
+      "title": "3D Computer Vision | Lecture 12 (Part 2): Generalized cameras",
+      "views": 1500
+    },
+    {
+      "id": "E-YXFI5xzNM",
+      "title": "3D Computer Vision | Lecture 12 (Part 3): Generalized cameras",
+      "views": 2200
+    },
+    {
+      "id": "QsfybIs774o",
+      "title": "3D Computer Vision | 3D Point Cloud Processing",
+      "views": 7700
+    },
+    {
+      "id": "a5hbNFRxZT4",
+      "title": "3D Computer Vision | Neural Field Representations",
+      "views": 3500
+    }
+  ]
+}

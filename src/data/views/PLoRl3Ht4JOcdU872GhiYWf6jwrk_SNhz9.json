@@ -1,0 +1,394 @@
+{
+  "lectures": [
+    {
+      "id": "cbeTc-Urqak",
+      "title": "Lecture 1.1 — Why do we need machine learning  [Neural Networks for Machine Learning]",
+      "views": 230000
+    },
+    {
+      "id": "0J5tM9bSbwA",
+      "title": "Lecture 1.2 — What are neural networks  [Neural Networks for Machine Learning]",
+      "views": 60000
+    },
+    {
+      "id": "iKKfoP-naN8",
+      "title": "Lecture 1.3 — Some simple models of neurons  [Neural Networks for Machine Learning]",
+      "views": 48000
+    },
+    {
+      "id": "RcgfwZ-FFBI",
+      "title": "Lecture 1.4 — A simple example of learning  [Neural Networks for Machine Learning]",
+      "views": 43000
+    },
+    {
+      "id": "zKgRocke94k",
+      "title": "Lecture 1.5 — Three types of learning  [Neural Networks for Machine Learning]",
+      "views": 39000
+    },
+    {
+      "id": "l0foB9mUrc4",
+      "title": "Lecture 2.1 — Types of neural network architectures  [Neural Networks for Machine Learning]",
+      "views": 46000
+    },
+    {
+      "id": "YRMvQuutgS8",
+      "title": "Lecture 2.2 — Perceptrons: first-generation neural networks  [Neural Networks for Machine Learning]",
+      "views": 32000
+    },
+    {
+      "id": "0T57_yjjB58",
+      "title": "Lecture 2.3 — A geometrical view of perceptrons  [Neural Networks for Machine Learning]",
+      "views": 25000
+    },
+    {
+      "id": "d6nFTN081S8",
+      "title": "Lecture 2.4 — Why the learning works  [Neural Networks for Machine Learning]",
+      "views": 20000
+    },
+    {
+      "id": "mI6jTc-8sUY",
+      "title": "Lecture 2.5 — What perceptrons can't do [Neural Networks for Machine Learning]",
+      "views": 20000
+    },
+    {
+      "id": "Q0mTl9dQ4_I",
+      "title": "Lecture 3.1 — Learning the weights of a linear neuron  [Neural Networks for Machine Learning]",
+      "views": 23000
+    },
+    {
+      "id": "tIovUOirJkE",
+      "title": "Lecture 3.2 — The error surface for a linear neuron  [Neural Networks for Machine Learning]",
+      "views": 15000
+    },
+    {
+      "id": "Z8jzCvb62e8",
+      "title": "Lecture 3.3 — Learning weights of logistic output neuron [Neural Networks for Machine Learning]",
+      "views": 14000
+    },
+    {
+      "id": "LOc_y67AzCA",
+      "title": "Lecture 3.4 — The backpropagation algorithm  [Neural Networks for Machine Learning]",
+      "views": 35000
+    },
+    {
+      "id": "vlSI79ringA",
+      "title": "Lecture 3.5 — Using the derivatives from backpropagation  [Neural Networks for Machine Learning]",
+      "views": 15000
+    },
+    {
+      "id": "ReUrmqStBd4",
+      "title": "Lecture 4.1 — Learning to predict the next word  [Neural Networks for Machine Learning]",
+      "views": 15000
+    },
+    {
+      "id": "gzUhkCnE8_U",
+      "title": "Lecture 4.2 — A brief diversion into cognitive science  [Neural Networks for Machine Learning]",
+      "views": 9800
+    },
+    {
+      "id": "mlaLLQofmR8",
+      "title": "Lecture 4.3 — The softmax output function  [Neural Networks for Machine Learning]",
+      "views": 64000
+    },
+    {
+      "id": "_1zwTzpc50Q",
+      "title": "Lecture 4.4 — Neuro-probabilistic language models  [Neural Networks for Machine Learning]",
+      "views": 11000
+    },
+    {
+      "id": "hd2opRsjmEI",
+      "title": "Lecture 4.5 — Dealing with many possible outputs  [Neural Networks for Machine Learning]",
+      "views": 9800
+    },
+    {
+      "id": "Qx3i7VWYwhI",
+      "title": "Lecture 5.1 — Why object recognition is difficult  [Neural Networks for Machine Learning]",
+      "views": 9100
+    },
+    {
+      "id": "SxD-YVxIygc",
+      "title": "Lecture 5.2 — Achieving viewpoint invariance  [Neural Networks for Machine Learning]",
+      "views": 8600
+    },
+    {
+      "id": "UxY2pA_veBs",
+      "title": "Lecture 5.3 — Convolutional nets for digit recognition  [Neural Networks for Machine Learning]",
+      "views": 11000
+    },
+    {
+      "id": "k4UEWXABWs4",
+      "title": "Lecture 5.4 — Convolutional nets for object recognition  [Neural Networks for Machine Learning]",
+      "views": 8200
+    },
+    {
+      "id": "4BZBog1Zx6c",
+      "title": "Lecture 6.1 — Overview of mini batch gradient descent  [Neural Networks for Machine Learning]",
+      "views": 13000
+    },
+    {
+      "id": "Xjtu1L7RwVM",
+      "title": "Lecture 6.2 — A bag of tricks for mini batch gradient descent [Neural Networks for Machine Learning]",
+      "views": 16000
+    },
+    {
+      "id": "LdkkZglLZ0Q",
+      "title": "Lecture 6.3 — The momentum method  [Neural Networks for Machine Learning]",
+      "views": 10000
+    },
+    {
+      "id": "GZG1hmWA-oA",
+      "title": "Lecture 6.4 — Adaptive learning rates for each connection  [Neural Networks for Machine Learning]",
+      "views": 8700
+    },
+    {
+      "id": "defQQqkXEfE",
+      "title": "Lecture 6.5 — Rmsprop: normalize the gradient [Neural Networks for Machine Learning]",
+      "views": 14000
+    },
+    {
+      "id": "enI1YMvCJ34",
+      "title": "Lecture 7.1 — Modeling sequences: a brief overview  [Neural Networks for Machine Learning]",
+      "views": 11000
+    },
+    {
+      "id": "hTcm8AJjvfE",
+      "title": "Lecture 7.2 — Training RNNs with back propagation  [Neural Networks for Machine Learning]",
+      "views": 9300
+    },
+    {
+      "id": "bVGdxHgxG34",
+      "title": "Lecture 7.3 — A toy example of training an RNN  [Neural Networks for Machine Learning]",
+      "views": 8200
+    },
+    {
+      "id": "YZZye-AZCdQ",
+      "title": "Lecture 7.4 — Why it is difficult to train an RNN?  [Neural Networks for Machine Learning]",
+      "views": 6800
+    },
+    {
+      "id": "93rzMHtYT_0",
+      "title": "Lecture 7.5 — Long term Short term memory [Neural Networks for Machine Learning]",
+      "views": 18000
+    },
+    {
+      "id": "K2X0eBd-0lc",
+      "title": "Lecture 8.1 — A brief overview of Hessian-free optimization  [Neural Networks for Machine Learning]",
+      "views": 8300
+    },
+    {
+      "id": "qhFF6-K-5kM",
+      "title": "Lecture 8.2 — Modeling character strings [Neural Networks for Machine Learning]",
+      "views": 4700
+    },
+    {
+      "id": "bNcb4MhSZ0s",
+      "title": "Lecture 8.3 — Predicting the next character using HF  [Neural Networks for Machine Learning]",
+      "views": 3500
+    },
+    {
+      "id": "vlRwUV_sGcs",
+      "title": "Lecture 8.4 — Echo State Networks  [Neural Networks for Machine Learning]",
+      "views": 15000
+    },
+    {
+      "id": "W0SP8FTmGW0",
+      "title": "Lecture 9.1 — Overview of ways to improve generalization  [Neural Networks for Machine Learning]",
+      "views": 6900
+    },
+    {
+      "id": "oUZrj0Jz4Bc",
+      "title": "Lecture 9.2 — Limiting the size of the weights  [Neural Networks for Machine Learning]",
+      "views": 4400
+    },
+    {
+      "id": "LN0xtUuJsEI",
+      "title": "Lecture 9.3 — Using noise as a regularizer  [Neural Networks for Machine Learning]",
+      "views": 7000
+    },
+    {
+      "id": "YcwZFNd3UvI",
+      "title": "Lecture 9.4 — Introduction to the full Bayesian approach  [Neural Networks for Machine Learning]",
+      "views": 34000
+    },
+    {
+      "id": "vEPQNwxd1Y4",
+      "title": "Lecture 9.5 — The Bayesian interpretation of weight decay  [Neural Networks for Machine Learning]",
+      "views": 11000
+    },
+    {
+      "id": "EJfqOAi_rj8",
+      "title": "Lecture 9.6 — MacKay 's quick and dirty method  [Neural Networks for Machine Learning]",
+      "views": 4800
+    },
+    {
+      "id": "yIIFnTkvhrQ",
+      "title": "10.1 — Why it helps to combine models  [Neural Networks for Machine Learning]",
+      "views": 5400
+    },
+    {
+      "id": "d_GVvIBlWtI",
+      "title": "Lecture 10.2 — Mixtures of Experts  [Neural Networks for Machine Learning]",
+      "views": 8800
+    },
+    {
+      "id": "mAoSCUZQEMY",
+      "title": "Lecture 10.3 — The idea of full Bayesian learning  [Neural Networks for Machine Learning]",
+      "views": 5700
+    },
+    {
+      "id": "OC6w_LZIyRo",
+      "title": "Lecture 10.4 — Making full Bayesian learning practical  [Neural Networks for Machine Learning]",
+      "views": 4700
+    },
+    {
+      "id": "vAVOY8frLlQ",
+      "title": "Lecture 10.5 — Dropout  [Neural Networks for Machine Learning]",
+      "views": 8600
+    },
+    {
+      "id": "DS6k0PhBjpI",
+      "title": "Lecture 11.1 — Hopfield Nets  [Neural Networks for Machine Learning]",
+      "views": 36000
+    },
+    {
+      "id": "GgLNhHQ4ACY",
+      "title": "Lecture 11.2 — Dealing with spurious minima  [Neural Networks for Machine Learning]",
+      "views": 7100
+    },
+    {
+      "id": "vVEju0zMCaA",
+      "title": "Lecture 11.3 — Hopfield nets with hidden units  [Neural Networks for Machine Learning]",
+      "views": 7200
+    },
+    {
+      "id": "hmL9Kozwf7A",
+      "title": "Lecture 11.4 — Using stochastic units to improve search  [Neural Networks for Machine Learning]",
+      "views": 6700
+    },
+    {
+      "id": "5jaBneYd5Ig",
+      "title": "Lecture 11.5 — How a Boltzmann machine models data  [Neural Networks for Machine Learning]",
+      "views": 18000
+    },
+    {
+      "id": "MMBX--6_hA4",
+      "title": "Lecture 12.1 — Boltzmann machine learning  [Neural Networks for Machine Learning]",
+      "views": 22000
+    },
+    {
+      "id": "ltv1KjVLCdE",
+      "title": "Lecture 12.2 — More efficient ways to get the statistics  [Neural Networks for Machine Learning]",
+      "views": 4700
+    },
+    {
+      "id": "JvF3gninXi8",
+      "title": "Lecture 12.3 — Restricted Boltzmann Machines  [Neural Networks for Machine Learning]",
+      "views": 7700
+    },
+    {
+      "id": "2gWEP6IewgM",
+      "title": "Lecture 12.4 — An example of RBM learning  [Neural Networks for Machine Learning]",
+      "views": 6200
+    },
+    {
+      "id": "6xbPLDAoZ-U",
+      "title": "Lecture 12.5 — RBMs for collaborative filtering  [Neural Networks for Machine Learning]",
+      "views": 4900
+    },
+    {
+      "id": "KSevMPjHgx4",
+      "title": "Lecture 13.1 — The ups and downs of backpropagation  [Neural Networks for Machine Learning]",
+      "views": 3600
+    },
+    {
+      "id": "6yxJeySclIc",
+      "title": "Lecture 13.2 — Belief Nets  [Neural Networks for Machine Learning]",
+      "views": 4600
+    },
+    {
+      "id": "VxfSqmxFl1c",
+      "title": "Lecture 13.3 — Learning sigmoid belief nets  [Neural Networks for Machine Learning]",
+      "views": 6200
+    },
+    {
+      "id": "VKpc_z7b9I0",
+      "title": "Lecture 13.4 — The wake sleep algorithm  [Neural Networks for Machine Learning]",
+      "views": 6400
+    },
+    {
+      "id": "cYAlxZI-VM8",
+      "title": "Lecture 14.1 — Learning layers of features by stacking RBMs  [Neural Networks for Machine Learning]",
+      "views": 3600
+    },
+    {
+      "id": "0gX4BtLSqIY",
+      "title": "Lecture 14.2 — Discriminative learning for DBNs  [Neural Networks for Machine Learning]",
+      "views": 2600
+    },
+    {
+      "id": "MJs9JHr8C-s",
+      "title": "Lecture 14.3 — Discriminative fine tuning  [Neural Networks for Machine Learning]",
+      "views": 2600
+    },
+    {
+      "id": "XV7dYI9RLP4",
+      "title": "Lecture 14.4 — Modeling real valued data with an RBM  [Neural Networks for Machine Learning]",
+      "views": 2500
+    },
+    {
+      "id": "evnofrn-QHo",
+      "title": "Lecture 14.5 — RBMs are infinite sigmoid belief nets  [Neural Networks for Machine Learning]",
+      "views": 2300
+    },
+    {
+      "id": "hbU7nbVDzGE",
+      "title": "Lecture 15.1 — From PCA to autoencoders  [Neural Networks for Machine Learning]",
+      "views": 12000
+    },
+    {
+      "id": "_Ex1Ur85AVs",
+      "title": "Lecture 15.2 — Deep autoencoders  [Neural Networks for Machine Learning]",
+      "views": 9200
+    },
+    {
+      "id": "ARQ6PZh8vgE",
+      "title": "Lecture 15.3 — Deep autoencoders for document retrieval  [Neural Networks for Machine Learning]",
+      "views": 6900
+    },
+    {
+      "id": "swjncYpcLsk",
+      "title": "Lecture 15.4 — Semantic Hashing  [Neural Networks for Machine Learning]",
+      "views": 5000
+    },
+    {
+      "id": "MSYmyJgYOnU",
+      "title": "Lecture 15.5 — Learning binary codes for image retrieval  [Neural Networks for Machine Learning]",
+      "views": 3500
+    },
+    {
+      "id": "e_n2hht9Yc8",
+      "title": "Lecture 15.6 — Shallow autoencoders for pre-training  [Neural Networks for Machine Learning]",
+      "views": 3900
+    },
+    {
+      "id": "I8vlnVa721w",
+      "title": "Lecture 16.1 — Learning a joint model of images and captions  [Neural Networks for Machine Learning]",
+      "views": 3000
+    },
+    {
+      "id": "z0qPxIf4l9I",
+      "title": "Lecture 16.2 — Hierarchical Coordinate Frames  [Neural Networks for Machine Learning]",
+      "views": 2800
+    },
+    {
+      "id": "con_ONbhD2I",
+      "title": "Lecture 16.3 — Bayesian optimization of hyper-parameters  [Neural Networks for Machine Learning]",
+      "views": 18000
+    },
+    {
+      "id": "IXJhAL6FEj0",
+      "title": "Lecture 16.4 — The fog of progress  [Neural Networks for Machine Learning]",
+      "views": 5700
+    }
+  ]
+}

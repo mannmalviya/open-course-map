@@ -1,0 +1,234 @@
+{
+  "lectures": [
+    {
+      "id": "BHBAnUAdeyE",
+      "title": "Deep Learning - Lecture 1.1 (Introduction: Organization)",
+      "views": 23000
+    },
+    {
+      "id": "0CFl1ZRc5TI",
+      "title": "Deep Learning - Lecture 1.2 (Introduction: History of Deep Learning)",
+      "views": 19000
+    },
+    {
+      "id": "UNbLjVEYvLQ",
+      "title": "Deep Learning - Lecture 1.3 (Introduction: Machine Learning Basics)",
+      "views": 19000
+    },
+    {
+      "id": "_Z50ROXYs6s",
+      "title": "Deep Learning - Lecture 2.1 (Computation Graphs: Logistic Regression)",
+      "views": 14000
+    },
+    {
+      "id": "OK_BqkyBmKA",
+      "title": "Deep Learning - Lecture 2.2 (Computation Graphs: Computation Graphs)",
+      "views": 9000
+    },
+    {
+      "id": "IvmNouLN8ds",
+      "title": "Deep Learning - Lecture 2.3 (Computation Graphs: Backpropagation)",
+      "views": 9600
+    },
+    {
+      "id": "JAwhmJCaow0",
+      "title": "Deep Learning - Lecture 2.4 (Computation Graphs: Educational Framework)",
+      "views": 6900
+    },
+    {
+      "id": "1WGcE4hK_b0",
+      "title": "Deep Learning - Lecture 3.1 (Deep Neural Networks: Backpropagation with Tensors)",
+      "views": 9300
+    },
+    {
+      "id": "CCcoZzB_OXY",
+      "title": "Deep Learning - Lecture 3.2 (Deep Neural Networks: The XOR Problem)",
+      "views": 6900
+    },
+    {
+      "id": "xaW9nZUS_8I",
+      "title": "Deep Learning - Lecture 3.3 (Deep Neural Networks: Multi-Layer Perceptrons)",
+      "views": 5900
+    },
+    {
+      "id": "a0jefKspxFU",
+      "title": "Deep Learning - Lecture 3.4 (Deep Neural Networks: Universal Approximation)",
+      "views": 5700
+    },
+    {
+      "id": "7xTyZE9mRNk",
+      "title": "Deep Learning - Lecture 4.1 (Deep Neural Networks II: Output and Loss Functions)",
+      "views": 7900
+    },
+    {
+      "id": "hVCOL99HL0I",
+      "title": "Deep Learning - Lecture 4.2 (Deep Neural Networks II: Activation Functions)",
+      "views": 5100
+    },
+    {
+      "id": "Y9iEd8x6ivg",
+      "title": "Deep Learning - Lecture 4.3 (Deep Neural Networks II: Preprocessing and Initialization)",
+      "views": 4700
+    },
+    {
+      "id": "OEbu8oDsMms",
+      "title": "Deep Learning - Lecture 5.1 (Regularization: Parameter Penalties)",
+      "views": 8300
+    },
+    {
+      "id": "PVec2wps_N0",
+      "title": "Deep Learning - Lecture 5.2 (Regularization: Early Stopping)",
+      "views": 3800
+    },
+    {
+      "id": "63DK_PeGIeM",
+      "title": "Deep Learning - Lecture 5.3 (Regularization: Ensemble Methods)",
+      "views": 3400
+    },
+    {
+      "id": "yP1o4UY9U6U",
+      "title": "Deep Learning - Lecture 5.4 (Regularization: Dropout)",
+      "views": 3600
+    },
+    {
+      "id": "qFowQQDWDho",
+      "title": "Deep Learning - Lecture 5.5 (Regularization: Data Augmentation)",
+      "views": 3500
+    },
+    {
+      "id": "ZW0i-iYho74",
+      "title": "Deep Learning - Lecture 6.1 (Optimization: Optimization Challenges)",
+      "views": 5500
+    },
+    {
+      "id": "ck_ebwdxf-A",
+      "title": "Deep Learning - Lecture 6.2 (Optimization: Optimization Algorithms)",
+      "views": 5100
+    },
+    {
+      "id": "4EJKlREyIZ4",
+      "title": "Deep Learning - Lecture 6.3 (Optimization: Optimization Strategies)",
+      "views": 3500
+    },
+    {
+      "id": "mdBNMgVAiYA",
+      "title": "Deep Learning - Lecture 6.4 (Optimization: Debugging Strategies)",
+      "views": 3700
+    },
+    {
+      "id": "5dJlhYJmrzw",
+      "title": "Deep Learning - Lecture 7.1 (Convolutional Neural Networks: Convolution)",
+      "views": 6700
+    },
+    {
+      "id": "xnkDcNPg1-c",
+      "title": "Deep Learning - Lecture 7.2 (Convolutional Neural Networks: Downsampling)",
+      "views": 4200
+    },
+    {
+      "id": "va9NW8qbp7k",
+      "title": "Deep Learning - Lecture 7.3 (Convolutional Neural Networks: Upsampling)",
+      "views": 5400
+    },
+    {
+      "id": "iNgH57KBEfY",
+      "title": "Deep Learning - Lecture 7.4 (Convolutional Neural Networks: Architectures)",
+      "views": 3200
+    },
+    {
+      "id": "d19_WuTtCt8",
+      "title": "Deep Learning - Lecture 7.5 (Convolutional Neural Networks: Visualization)",
+      "views": 3300
+    },
+    {
+      "id": "qqaOIObSas0",
+      "title": "Deep Learning - Lecture 8.1 (Sequence Models: Recurrent Networks)",
+      "views": 5800
+    },
+    {
+      "id": "Zg2WuGoT_7A",
+      "title": "Deep Learning - Lecture 8.2 (Sequence Models: Recurrent Network Applications)",
+      "views": 3400
+    },
+    {
+      "id": "CsX0TelwR-s",
+      "title": "Deep Learning - Lecture 8.3 (Sequence Models: Gated Recurrent Networks)",
+      "views": 3800
+    },
+    {
+      "id": "vwG3KWzuACo",
+      "title": "Deep Learning - Lecture 8.4 (Sequence Models: Autoregressive Models)",
+      "views": 7400
+    },
+    {
+      "id": "xTiSIyizVZA",
+      "title": "Deep Learning - Lecture 9.1 (Natural Language Processing: Language Models)",
+      "views": 4600
+    },
+    {
+      "id": "iBba_5KBgKA",
+      "title": "Deep Learning - Lecture 9.2 (Natural Language Processing: Traditional Language Models)",
+      "views": 2600
+    },
+    {
+      "id": "HdqyAim2UNE",
+      "title": "Deep Learning - Lecture 9.3 (Natural Language Processing: Neural Language Models)",
+      "views": 2800
+    },
+    {
+      "id": "z1OXlLakxuA",
+      "title": "Deep Learning - Lecture 9.4 (Natural Language Processing: Neural Machine Translation)",
+      "views": 3000
+    },
+    {
+      "id": "j8fKYusDqBs",
+      "title": "Deep Learning - 10.1 (Graph Neural Networks: Machine Learning on Graphs)",
+      "views": 4200
+    },
+    {
+      "id": "FKuAus8pvlI",
+      "title": "Deep Learning - 10.2 (Graph Neural Networks: Graph Convolution Filters)",
+      "views": 3500
+    },
+    {
+      "id": "fedPvvbtW6E",
+      "title": "Deep Learning - 10.3 (Graph Neural Networks: Graph Convolution Networks)",
+      "views": 2800
+    },
+    {
+      "id": "MU32huwC-_U",
+      "title": "Deep Learning - Lecture 11.1 (Autoencoders: Latent Variable Models)",
+      "views": 5200
+    },
+    {
+      "id": "sF1cHf5pknU",
+      "title": "Deep Learning - Lecture 11.2 (Autoencoders: Principal Component Analysis",
+      "views": 3700
+    },
+    {
+      "id": "YrnrlPVpr74",
+      "title": "Deep Learning - Lecture 11.3 (Autoencoders: Autoencoders)",
+      "views": 3100
+    },
+    {
+      "id": "Myz8UPECgdI",
+      "title": "Deep Learning - Lecture 11.4 (Autoencoders: Variational Autoencoders)",
+      "views": 5100
+    },
+    {
+      "id": "k2sFTUx5dX8",
+      "title": "Deep Learning - Lecture 12.1 (Generative Adversarial Networks: Generative Adversarial Networks)",
+      "views": 5300
+    },
+    {
+      "id": "CNWZgOM52-g",
+      "title": "Deep Learning - Lecture 12.2 (Generative Adversarial Networks: GAN Developments)",
+      "views": 2900
+    },
+    {
+      "id": "CPLiIf8pU3M",
+      "title": "Deep Learning - Lecture 12.3 (Generative Adversarial Networks: Research at AVG)",
+      "views": 2700
+    }
+  ]
+}

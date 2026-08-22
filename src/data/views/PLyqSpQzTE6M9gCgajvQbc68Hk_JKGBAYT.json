@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "aPfkYu_qiF4",
+      "title": "Deep Learning - Course Introduction",
+      "views": 594000
+    },
+    {
+      "id": "4TC5s_xNKSs",
+      "title": "Deep Learning(CS7015): Lec 1.1 Biological Neuron",
+      "views": 272000
+    },
+    {
+      "id": "WpR8eOLUo9Q",
+      "title": "Deep Learning(CS7015): Lec 1.2 From Spring to Winter of AI",
+      "views": 156000
+    },
+    {
+      "id": "DpK_i6iA0i0",
+      "title": "Deep Learning(CS7015): Lec 1.3 The Deep Revival",
+      "views": 113000
+    },
+    {
+      "id": "6USgwLa-7ks",
+      "title": "Deep Learning(CS7015): Lec 1.4 From Cats to Convolutional Neural Networks",
+      "views": 96000
+    },
+    {
+      "id": "0DKOUFrP7xI",
+      "title": "Deep Learning(CS7015): Lec 1.5 Faster, higher, stronger",
+      "views": 83000
+    },
+    {
+      "id": "H_ptjlq8pH0",
+      "title": "Deep Learning(CS7015): Lec 1.6 The Curious Case of Sequences",
+      "views": 82000
+    },
+    {
+      "id": "_z27qjHjqiM",
+      "title": "Deep Learning(CS7015): Lec 1.7 Beating humans at their own games (literally)",
+      "views": 69000
+    },
+    {
+      "id": "-7l-Pl_pwu4",
+      "title": "Deep Learning(CS7015): Lec 1.8 The Madness (2013-)",
+      "views": 69000
+    },
+    {
+      "id": "rSY5YLLcPs8",
+      "title": "Deep Learning(CS7015): Lec 1.9 (Need for) Sanity",
+      "views": 68000
+    },
+    {
+      "id": "qQmMp8fL82w",
+      "title": "Deep Learning(CS7015): Lec 2.1 Motivation from Biological Neurons",
+      "views": 102000
+    },
+    {
+      "id": "6XhSJbfT1pk",
+      "title": "Deep Learning(CS7015): Lec 2.2 McCulloch Pitts Neuron, Thresholding Logic",
+      "views": 189000
+    },
+    {
+      "id": "XKnBn1XZpQI",
+      "title": "Deep Learning(CS7015): Lec 2.3 Perceptrons",
+      "views": 163000
+    },
+    {
+      "id": "f8tod7wt2Vw",
+      "title": "Deep Learning(CS7015): Lec 2.4 Error and Error Surfaces",
+      "views": 109000
+    },
+    {
+      "id": "VRcixOuG-TU",
+      "title": "Deep Learning(CS7015): Lec 2.5 Perceptron Learning Algorithm",
+      "views": 167000
+    },
+    {
+      "id": "vAOI9kTDVoo",
+      "title": "Deep Learning(CS7015): Lec 2.6 Proof of Convergence of Perceptron Learning Algorithm",
+      "views": 123000
+    },
+    {
+      "id": "AjUgxQNZhck",
+      "title": "Deep Learning(CS7015): Lec 2.7 Linearly Separable Boolean Functions",
+      "views": 101000
+    },
+    {
+      "id": "CJr4Dst0uZE",
+      "title": "Deep Learning(CS7015): Lec 2.8 Representation Power of a Network of Perceptrons",
+      "views": 104000
+    },
+    {
+      "id": "X4RmokyD3U8",
+      "title": "Deep Learning(CS7015): Lec 3.1 Sigmoid Neuron",
+      "views": 105000
+    },
+    {
+      "id": "uDcU3ZzH7hs",
+      "title": "Deep Learning(CS7015): Lec 3.2 A typical Supervised Machine Learning Setup",
+      "views": 82000
+    },
+    {
+      "id": "HnaBcIL2shc",
+      "title": "Deep Learning(CS7015): Lec 3.3 Learning Parameters: (Infeasible) guess work",
+      "views": 76000
+    },
+    {
+      "id": "giZD8yzXEZ4",
+      "title": "Deep Learning(CS7015): Lec 3.4 Learning Parameters: Gradient Descent",
+      "views": 109000
+    },
+    {
+      "id": "d1K-6b5guh0",
+      "title": "Deep Learning(CS7015): Lec 3.5 Representation Power of Multilayer Network of Sigmoid Neurons",
+      "views": 85000
+    },
+    {
+      "id": "AASR9rOzhhA",
+      "title": "Deep Learning(CS7015): Lec 4.1 Feedforward Neural Networks (a.k.a multilayered network of neurons)",
+      "views": 118000
+    },
+    {
+      "id": "4gm4sXPndUY",
+      "title": "Deep Learning(CS7015): Lec 4.2 Learning Paramters of Feedforward Neural Networks (Intuition)",
+      "views": 67000
+    },
+    {
+      "id": "hMkRDNzH9vs",
+      "title": "Deep Learning(CS7015): Lec 4.3 Output functions and Loss functions",
+      "views": 79000
+    },
+    {
+      "id": "DSqgn2lAN1M",
+      "title": "Deep Learning(CS7015): Lec 4.4 Backpropagation (Intuition)",
+      "views": 79000
+    },
+    {
+      "id": "JSfRBOWp3Es",
+      "title": "Deep Learning(CS7015): Lec 4.5 Backpropagation: Computing Gradients w.r.t. the Output Units",
+      "views": 67000
+    },
+    {
+      "id": "MDVVUY-sftQ",
+      "title": "Deep Learning(CS7015): Lec 4.6 Backpropagation: Computing Gradients w.r.t. Hidden Units",
+      "views": 54000
+    },
+    {
+      "id": "DirgOcmERwA",
+      "title": "Deep Learning(CS7015): Lec 4.7 Backpropagation: Computing Gradients w.r.t. Parameters",
+      "views": 43000
+    },
+    {
+      "id": "Qdh4NEkQRuo",
+      "title": "Deep Learning(CS7015): Lec 4.8 Backpropagation: Pseudo code",
+      "views": 39000
+    },
+    {
+      "id": "0OHLbVEOq04",
+      "title": "Deep Learning(CS7015): Lec 4.9 Derivative of the activation function",
+      "views": 36000
+    },
+    {
+      "id": "mvljKZtGTj4",
+      "title": "Deep Learning(CS7015): Lec 6.6 PCA : Interpretation 3",
+      "views": 27000
+    },
+    {
+      "id": "sbvv-uQmwVY",
+      "title": "Deep Learning(CS7015): Lec 4.10 Information content, Entropy & cross entropy",
+      "views": 59000
+    },
+    {
+      "id": "joKs2EJ9Z8w",
+      "title": "Deep Learning(CS7015): Lec 5.1 & Lec 5.2 Recap: Learning Parameters: Guess Work, Gradient Descent",
+      "views": 48000
+    },
+    {
+      "id": "pHarJN7Wo0M",
+      "title": "Deep Learning(CS7015): Lec 5.3 Contours Maps",
+      "views": 39000
+    },
+    {
+      "id": "ewN0vFYFJ7A",
+      "title": "Deep Learning(CS7015): Lec 5.4 Momentum based Gradient Descent",
+      "views": 65000
+    },
+    {
+      "id": "sV9aiEsXanE",
+      "title": "Deep Learning(CS7015): Lec 5.5 Nesterov Accelerated Gradient Descent",
+      "views": 58000
+    },
+    {
+      "id": "Vc-jG_LdOLw",
+      "title": "Deep Learning(CS7015): Lec 5.6 Stochastic And Mini-Batch Gradient Descent",
+      "views": 48000
+    },
+    {
+      "id": "t5Q2z-MM1X4",
+      "title": "Deep Learning(CS7015): Lec 5.7 Tips for Adjusting Learning Rate and Momentum",
+      "views": 37000
+    },
+    {
+      "id": "CxgYyBut6i0",
+      "title": "Deep Learning(CS7015): Lec 5.8 Line Search",
+      "views": 34000
+    },
+    {
+      "id": "FKCV76N9Ys0",
+      "title": "Deep Learning(CS7015): Lec 5.9 Gradient Descent with Adaptive Learning Rate",
+      "views": 62000
+    },
+    {
+      "id": "-0ZMU-gnm2g",
+      "title": "Deep Learning(CS7015): Lec 5.9 (Part-2) Bias Correction in Adam",
+      "views": 36000
+    },
+    {
+      "id": "BTzz3BuYuM8",
+      "title": "Deep Learning(CS7015): Lec 6.1 Eigenvalues and Eigenvectors",
+      "views": 67000
+    },
+    {
+      "id": "FsWX2c7Q6Qg",
+      "title": "Deep Learning(CS7015): Lec 6.2 Linear Algebra : Basic Definitions",
+      "views": 39000
+    },
+    {
+      "id": "mdZVysybPrk",
+      "title": "Deep Learning(CS7015): Lec 6.3 Eigenvalue Decompositon",
+      "views": 46000
+    },
+    {
+      "id": "5eEPs8XS5AQ",
+      "title": "Deep Learning(CS7015): Lec 6.4 Principal Component Analysis and its Interpretations",
+      "views": 66000
+    },
+    {
+      "id": "_EwqeZcZ9KY",
+      "title": "Deep Learning(CS7015): Lec 6.5 PCA : Interpretation 2",
+      "views": 38000
+    },
+    {
+      "id": "tcR5I2pPk3o",
+      "title": "Deep Learning(CS7015): Lec 6.6 (Part-2) PCA : Interpretation 3 (Contd.)",
+      "views": 22000
+    },
+    {
+      "id": "wHHxkWcqokY",
+      "title": "Deep Learning(CS7015): Lec 6.7 PCA : Practical Example",
+      "views": 27000
+    },
+    {
+      "id": "xV1Q3go0S1Y",
+      "title": "Deep Learning(CS7015): Lec 6.8 Singular Value Decomposition",
+      "views": 41000
+    },
+    {
+      "id": "wPz3MPl5jvY",
+      "title": "Deep Learning(CS7015): Lec 7.1 Introduction to Autoncoders",
+      "views": 98000
+    },
+    {
+      "id": "0ZQxPIwuA4o",
+      "title": "Deep Learning(CS7015): Lec 7.2 Link between PCA and Autoencoders",
+      "views": 43000
+    },
+    {
+      "id": "mNUAt7umSiw",
+      "title": "Deep Learning(CS7015): Lec 7.3 Regularization in autoencoders (Motivation)",
+      "views": 41000
+    },
+    {
+      "id": "0n2x_D-ZmmU",
+      "title": "Deep Learning(CS7015): Lec 7.4 Denoising Autoencoders",
+      "views": 43000
+    },
+    {
+      "id": "REzrCEDMQws",
+      "title": "Deep Learning(CS7015): Lec 7.5 Sparse Autoencoders",
+      "views": 43000
+    },
+    {
+      "id": "BW7P1fvnAWk",
+      "title": "Deep Learning(CS7015): Lec 7.6 Contractive Autoencoders",
+      "views": 31000
+    },
+    {
+      "id": "Y0m136XU65o",
+      "title": "Deep Learning(CS7015): Lec 8.1 Bias and Variance",
+      "views": 44000
+    },
+    {
+      "id": "gyGMaNUaeic",
+      "title": "Deep Learning(CS7015): Lec 8.2 Train error vs Test error",
+      "views": 33000
+    },
+    {
+      "id": "aVAs2YwiDoA",
+      "title": "Deep Learning(CS7015): Lec 8.2 (Part-2) Train error vs Test error (Recap)",
+      "views": 28000
+    },
+    {
+      "id": "y_tQBokE94s",
+      "title": "Deep Learning(CS7015): Lec 8.3 True error and Model complexity",
+      "views": 25000
+    },
+    {
+      "id": "lg4OLAjxRcQ",
+      "title": "Deep Learning(CS7015): Lec 8.4 L2 regularization",
+      "views": 38000
+    },
+    {
+      "id": "KHMHOieuJuw",
+      "title": "Deep Learning(CS7015): Lec 8.5 Dataset augmentation",
+      "views": 25000
+    },
+    {
+      "id": "EZ4X5rFzLFE",
+      "title": "Deep Learning(CS7015): Lec 8.6 Parameter sharing and tying",
+      "views": 25000
+    },
+    {
+      "id": "agGUR06jM_g",
+      "title": "Deep Learning(CS7015): Lec 8.7 Adding Noise to the inputs",
+      "views": 24000
+    },
+    {
+      "id": "TtU9GhLeOk4",
+      "title": "Deep Learning(CS7015): Lec 8.8 Adding Noise to the outputs",
+      "views": 18000
+    },
+    {
+      "id": "zm5cqvfKO-o",
+      "title": "Deep Learning(CS7015): Lec 8.9 Early stopping",
+      "views": 26000
+    },
+    {
+      "id": "qlNDzNjR3eA",
+      "title": "Deep Learning(CS7015): Lec 8.10 Ensemble Methods",
+      "views": 25000
+    },
+    {
+      "id": "qfsacbIe9AI",
+      "title": "Deep Learning(CS7015): Lec 8.11 Dropout",
+      "views": 32000
+    },
+    {
+      "id": "P2x8qi5xT-8",
+      "title": "Deep Learning(CS7015): Lec 9.1 A quick recap of training deep neural networks",
+      "views": 24000
+    },
+    {
+      "id": "_GRvjpJVr5A",
+      "title": "Deep Learning(CS7015): Lec 9.2 Unsupervised pre-training",
+      "views": 28000
+    },
+    {
+      "id": "HxKaLyyGq50",
+      "title": "Deep Learning(CS7015): Lec 9.3 Better activation functions",
+      "views": 30000
+    },
+    {
+      "id": "1pgahpCZeF0",
+      "title": "Deep Learning(CS7015): Lec 9.4 Better initialization strategies",
+      "views": 29000
+    },
+    {
+      "id": "1XMjfhEFbFA",
+      "title": "Deep Learning(CS7015): Lec 9.5 Batch Normalization",
+      "views": 40000
+    },
+    {
+      "id": "M2T36PlRv1U",
+      "title": "Deep Learning(CS7015): Lec 10.1 One-hot representations of words",
+      "views": 39000
+    },
+    {
+      "id": "74clhgHhR2M",
+      "title": "Deep Learning(CS7015): Lec 10.2 Distributed Representations of words",
+      "views": 33000
+    },
+    {
+      "id": "SSpSk1Io52w",
+      "title": "Deep Learning(CS7015): Lec 10.3 SVD for learning word representations",
+      "views": 33000
+    },
+    {
+      "id": "05L1tSvzWHs",
+      "title": "Deep Learning(CS7015): Lec 10.3 (Part-2) SVD for learning word representations (Contd.)",
+      "views": 21000
+    },
+    {
+      "id": "yBmtXtVya9A",
+      "title": "Deep Learning(CS7015): Lec 10.4 Continuous bag of words model",
+      "views": 42000
+    },
+    {
+      "id": "XO2GHDm-ZoI",
+      "title": "Deep Learning(CS7015): Lec 10.5 Skip-gram model",
+      "views": 33000
+    },
+    {
+      "id": "3F6KInYCJxI",
+      "title": "Deep Learning(CS7015): Lec 10.5 (Part-2) Skip-gram model (Contd.)",
+      "views": 20000
+    },
+    {
+      "id": "XZUGn36eAgA",
+      "title": "Deep Learning(CS7015): Lec 10.6 Contrastive estimation",
+      "views": 21000
+    },
+    {
+      "id": "ioe1eeEWU0I",
+      "title": "Deep Learning(CS7015): Lec 10.7 Hierarchical softmax",
+      "views": 24000
+    },
+    {
+      "id": "zA0U8C_q04M",
+      "title": "Deep Learning(CS7015): Lec 10.8 GloVe representations",
+      "views": 25000
+    },
+    {
+      "id": "b0M0AzjpPqc",
+      "title": "Deep Learning(CS7015): Lec 10.9 Evaluating word representations",
+      "views": 16000
+    },
+    {
+      "id": "MBcnPueElDU",
+      "title": "Deep Learning(CS7015): Lec 10.10 Relation between SVD and Word2Vec",
+      "views": 16000
+    },
+    {
+      "id": "yw8xwS15Pf4",
+      "title": "Deep Learning(CS7015): Lec 11.1 The convolution operation",
+      "views": 64000
+    },
+    {
+      "id": "7eiYBFladus",
+      "title": "Deep Learning(CS7015): Lec 11.2 Relation between input size, output size and filter size",
+      "views": 46000
+    },
+    {
+      "id": "PmZp5VtMwLE",
+      "title": "Deep Learning(CS7015): Lec 11.3 Convolutional Neural Networks",
+      "views": 71000
+    },
+    {
+      "id": "9eZN8U-68eI",
+      "title": "Deep Learning(CS7015): Lec 11.3 (Part-2) Convolutional Neural Networks (Contd.)",
+      "views": 56000
+    },
+    {
+      "id": "53ysOFHCaqI",
+      "title": "Deep Learning(CS7015): Lec 11.4 CNNs (success stories on ImageNet)",
+      "views": 44000
+    },
+    {
+      "id": "mHhhXlEB32c",
+      "title": "Deep Learning(CS7015): Lec 11.4 (Par-2) CNNs (success stories on ImageNet) (Contd.)",
+      "views": 25000
+    },
+    {
+      "id": "UukbB6q6CTo",
+      "title": "Deep Learning(CS7015): Lec 11.5 Image Classification continued (GoogLeNet and ResNet)",
+      "views": 41000
+    },
+    {
+      "id": "nBxy_vzmO_M",
+      "title": "Deep Learning(CS7015): Lec 12.1 Visualizing patches which maximally activate a neuron",
+      "views": 25000
+    },
+    {
+      "id": "XE8O5p5mceA",
+      "title": "Deep Learning(CS7015): Lec 12.2 Visualizing filters of a CNN",
+      "views": 22000
+    },
+    {
+      "id": "DaLZRH6D7wo",
+      "title": "Deep Learning(CS7015): Lec 12.3 Occlusion experiments",
+      "views": 18000
+    },
+    {
+      "id": "SPJnlFtw6h0",
+      "title": "Deep Learning(CS7015): Lec 12.4 Finding influence of input pixels using backpropagation",
+      "views": 17000
+    },
+    {
+      "id": "rcXOEzAuvu4",
+      "title": "Deep Learning(CS7015): Lec 12.5 Guided Backpropagation",
+      "views": 24000
+    },
+    {
+      "id": "a4k8YorzUdI",
+      "title": "Deep Learning(CS7015): Lec 12.6 Optimization over images",
+      "views": 17000
+    },
+    {
+      "id": "orTNf_R5odY",
+      "title": "Deep Learning(CS7015): Lec 12.7 Create images from embeddings",
+      "views": 16000
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+{
+  "lectures": [
+    {
+      "id": "SGZ6BttHMPw",
+      "title": "Neural networks [1.1] : Feedforward neural network - artificial neuron",
+      "views": 300000
+    },
+    {
+      "id": "tCHIkgWZLOQ",
+      "title": "Neural networks [1.2] : Feedforward neural network - activation function",
+      "views": 82000
+    },
+    {
+      "id": "iT5P4z6Fzj8",
+      "title": "Neural networks [1.3] : Feedforward neural network - capacity of single neuron",
+      "views": 60000
+    },
+    {
+      "id": "apPiZd-qnZ8",
+      "title": "Neural networks [1.4] : Feedforward neural network - multilayer neural network",
+      "views": 66000
+    },
+    {
+      "id": "O4I7dQC4VtU",
+      "title": "Neural networks [1.5] : Feedforward neural network - capacity of neural network",
+      "views": 43000
+    },
+    {
+      "id": "cuJ4IC5_pGs",
+      "title": "Neural networks [1.6] : Feedforward neural network - biological inspiration",
+      "views": 40000
+    },
+    {
+      "id": "5adNQvSlF50",
+      "title": "Neural networks [2.1] : Training neural networks - empirical risk minimization",
+      "views": 56000
+    },
+    {
+      "id": "PpFTODTztsU",
+      "title": "Neural networks [2.2] : Training neural networks - loss function",
+      "views": 62000
+    },
+    {
+      "id": "1N837i4s1T8",
+      "title": "Neural networks [2.3] : Training neural networks - output layer gradient",
+      "views": 51000
+    },
+    {
+      "id": "xFhM_Kwqw48",
+      "title": "Neural networks [2.4] : Training neural networks - hidden layer gradient",
+      "views": 40000
+    },
+    {
+      "id": "tf9p1xQbWNM",
+      "title": "Neural networks [2.5] : Training neural networks - activation function derivative",
+      "views": 22000
+    },
+    {
+      "id": "p5tL2JqCRDo",
+      "title": "Neural networks [2.6] : Training neural networks - parameter gradient",
+      "views": 22000
+    },
+    {
+      "id": "_KoWTD8T45Q",
+      "title": "Neural networks [2.7] : Training neural networks - backpropagation",
+      "views": 34000
+    },
+    {
+      "id": "JfkbyODyujw",
+      "title": "Neural networks [2.8] : Training neural networks - regularization",
+      "views": 25000
+    },
+    {
+      "id": "sLfogkzFNfc",
+      "title": "Neural networks [2.9] : Training neural networks - parameter initialization",
+      "views": 19000
+    },
+    {
+      "id": "Fs-raHUnF2M",
+      "title": "Neural networks [2.10] : Training neural networks - model selection",
+      "views": 20000
+    },
+    {
+      "id": "Bver7Ttgb9M",
+      "title": "Neural networks [2.11] : Training neural networks - optimization",
+      "views": 31000
+    },
+    {
+      "id": "GF3iSJkgPbA",
+      "title": "Neural networks [3.1] : Conditional random fields - motivation",
+      "views": 88000
+    },
+    {
+      "id": "PGBlyKtfB74",
+      "title": "Neural networks [3.2] : Conditional random fields - linear chain CRF",
+      "views": 64000
+    },
+    {
+      "id": "G4lnHc2M1CA",
+      "title": "Neural networks [3.3] : Conditional random fields - context window",
+      "views": 33000
+    },
+    {
+      "id": "fGdXkVv1qNQ",
+      "title": "Neural networks [3.4] : Conditional random fields - computing the partition function",
+      "views": 25000
+    },
+    {
+      "id": "hjkwp-eDwt8",
+      "title": "Neural networks [3.5] : Conditional random fields - computing marginals",
+      "views": 15000
+    },
+    {
+      "id": "pQJvX9U-MyE",
+      "title": "Neural networks [3.6] : Conditional random fields - performing classification",
+      "views": 14000
+    },
+    {
+      "id": "uXV2an9TdJY",
+      "title": "Neural networks [3.7] : Conditional random fields - factors, sufficient statistics and linear CRF",
+      "views": 12000
+    },
+    {
+      "id": "ZYUnyyVgtyA",
+      "title": "Neural networks [3.8] : Conditional random fields - Markov network",
+      "views": 18000
+    },
+    {
+      "id": "Q5GTCHVsHXY",
+      "title": "Neural networks [3.9] : Conditional random fields - factor graph",
+      "views": 14000
+    },
+    {
+      "id": "-z5lKPHcumo",
+      "title": "Neural networks [3.10] : Conditional random fields - belief propagation",
+      "views": 20000
+    },
+    {
+      "id": "6dpGB60Q1Ts",
+      "title": "Neural networks [4.1] : Training CRFs - loss function",
+      "views": 11000
+    },
+    {
+      "id": "fU2W7KRoS2U",
+      "title": "Neural networks [4.2] : Training CRFs - unary log-factor gradient",
+      "views": 7700
+    },
+    {
+      "id": "1W2lkcGV2Zo",
+      "title": "Neural networks [4.3] : Training CRFs - pairwise log-factor gradient",
+      "views": 5200
+    },
+    {
+      "id": "MD4mY3Zj5E4",
+      "title": "Neural networks [4.4] : Training CRFs - discriminative vs. generative learning",
+      "views": 7200
+    },
+    {
+      "id": "aMi2xnYEwbc",
+      "title": "Neural networks [4.5] : Training CRFs - maximum-entropy Markov model",
+      "views": 14000
+    },
+    {
+      "id": "jdlJfM707MM",
+      "title": "Neural networks [4.6] : Training CRFs - hidden Markov model",
+      "views": 12000
+    },
+    {
+      "id": "QY9k7tJistU",
+      "title": "Neural networks [4.7] : Training CRFs - general conditional random field",
+      "views": 7400
+    },
+    {
+      "id": "ltRT1m7vaBU",
+      "title": "Neural networks [4.8] : Training CRFs - pseudolikelihood",
+      "views": 5400
+    },
+    {
+      "id": "p4Vh_zMw-HQ",
+      "title": "Neural networks [5.1] : Restricted Boltzmann machine - definition",
+      "views": 129000
+    },
+    {
+      "id": "lekCh_i32iE",
+      "title": "Neural networks [5.2] : Restricted Boltzmann machine - inference",
+      "views": 55000
+    },
+    {
+      "id": "e0Ts_7Y6hZU",
+      "title": "Neural networks [5.3] : Restricted Boltzmann machine - free energy",
+      "views": 38000
+    },
+    {
+      "id": "MD8qXWucJBY",
+      "title": "Neural networks [5.4] : Restricted Boltzmann machine - contrastive divergence",
+      "views": 49000
+    },
+    {
+      "id": "wMb7cads0go",
+      "title": "Neural networks [5.5] : Restricted Boltzmann machine - contrastive divergence (parameter update)",
+      "views": 27000
+    },
+    {
+      "id": "S0kFFiHzR8M",
+      "title": "Neural networks [5.6] : Restricted Boltzmann machine - persistent CD",
+      "views": 17000
+    },
+    {
+      "id": "n26NdEtma8U",
+      "title": "Neural networks [5.7] : Restricted Boltzmann machine - example",
+      "views": 34000
+    },
+    {
+      "id": "iPuqoQih9xk",
+      "title": "Neural networks [5.8] : Restricted Boltzmann machine - extensions",
+      "views": 13000
+    },
+    {
+      "id": "FzS3tMl4Nsc",
+      "title": "Neural networks [6.1] : Autoencoder - definition",
+      "views": 84000
+    },
+    {
+      "id": "xTU79Zs4XKY",
+      "title": "Neural networks [6.2] : Autoencoder - loss function",
+      "views": 50000
+    },
+    {
+      "id": "6DO_jVbDP3I",
+      "title": "Neural networks [6.3] : Autoencoder - example",
+      "views": 32000
+    },
+    {
+      "id": "xq-I0Rl8mt0",
+      "title": "Neural networks [6.4] : Autoencoder - linear autoencoder",
+      "views": 24000
+    },
+    {
+      "id": "5rLgoM2Pkso",
+      "title": "Neural networks [6.5] : Autoencoder - undercomplete vs. overcomplete hidden layer",
+      "views": 21000
+    },
+    {
+      "id": "t2NQ_c5BFOc",
+      "title": "Neural networks [6.6] : Autoencoder - denoising autoencoder",
+      "views": 51000
+    },
+    {
+      "id": "79sYlJ8Cvlc",
+      "title": "Neural networks [6.7] : Autoencoder - contractive autoencoder",
+      "views": 25000
+    },
+    {
+      "id": "vXMpKYRhpmI",
+      "title": "Neural networks [7.1] : Deep learning - motivation",
+      "views": 27000
+    },
+    {
+      "id": "YoiUlN_77LU",
+      "title": "Neural networks [7.2] : Deep learning - difficulty of training",
+      "views": 19000
+    },
+    {
+      "id": "Oq38pINmddk",
+      "title": "Neural networks [7.3] : Deep learning - unsupervised pre-training",
+      "views": 43000
+    },
+    {
+      "id": "SXnG-lQ7RJo",
+      "title": "Neural networks [7.4] : Deep learning - example",
+      "views": 21000
+    },
+    {
+      "id": "UcKPdAM8cnI",
+      "title": "Neural networks [7.5] : Deep learning - dropout",
+      "views": 48000
+    },
+    {
+      "id": "z5ZYm_wJ37c",
+      "title": "Neural networks [7.6] : Deep learning - deep autoencoder",
+      "views": 22000
+    },
+    {
+      "id": "vkb6AWYXZ5I",
+      "title": "Neural networks [7.7] : Deep learning - deep belief network",
+      "views": 40000
+    },
+    {
+      "id": "pStDscJh2Wo",
+      "title": "Neural networks [7.8] : Deep learning - variational bound",
+      "views": 13000
+    },
+    {
+      "id": "35MUlYCColk",
+      "title": "Neural networks [7.9] : Deep learning - DBN pre-training",
+      "views": 12000
+    },
+    {
+      "id": "7a0_iEruGoM",
+      "title": "Neural networks [8.1] : Sparse coding - definition",
+      "views": 52000
+    },
+    {
+      "id": "L6qhzWWtqQs",
+      "title": "Neural networks [8.2] : Sparse coding - inference (ISTA algorithm)",
+      "views": 20000
+    },
+    {
+      "id": "bhqNSjJ_A20",
+      "title": "Neural networks [8.3] : Sparse coding - dictionary update with projected gradient descent",
+      "views": 11000
+    },
+    {
+      "id": "UMdNfhgPKTc",
+      "title": "Neural networks [8.4] : Sparse coding - dictionary update with block-coordinate descent",
+      "views": 10000
+    },
+    {
+      "id": "PzNMff7cYjM",
+      "title": "Neural networks [8.5] : Sparse coding - dictionary learning algorithm",
+      "views": 16000
+    },
+    {
+      "id": "IePxTepLvQc",
+      "title": "Neural networks [8.6] : Sparse coding - online dictionary learning algorithm",
+      "views": 8700
+    },
+    {
+      "id": "eUiwhV1QcQ4",
+      "title": "Neural networks [8.7] : Sparse coding - ZCA preprocessing",
+      "views": 7800
+    },
+    {
+      "id": "FL81zSjAEEg",
+      "title": "Neural networks [8.8] : Sparse coding - feature extraction",
+      "views": 22000
+    },
+    {
+      "id": "MdomgSiL86Q",
+      "title": "Neural networks [8.9] : relationship with V1",
+      "views": 4700
+    },
+    {
+      "id": "rxKrCa4bg1I",
+      "title": "Neural networks [9.1] : Computer vision - motivation",
+      "views": 15000
+    },
+    {
+      "id": "vLf3KVe2Z1k",
+      "title": "Neural networks [9.2] : Computer vision - local connectivity",
+      "views": 14000
+    },
+    {
+      "id": "aAT1t9p7ShM",
+      "title": "Neural networks [9.3] : Computer vision - parameter sharing",
+      "views": 25000
+    },
+    {
+      "id": "Y7TMwqAWEdo",
+      "title": "Neural networks [9.4] : Computer vision - discrete convolution",
+      "views": 15000
+    },
+    {
+      "id": "I-JKxcpbRT4",
+      "title": "Neural networks [9.5] : Computer vision - pooling and subsampling",
+      "views": 24000
+    },
+    {
+      "id": "cDdpwAIsuD8",
+      "title": "Neural networks [9.6] : Computer vision - convolutional network",
+      "views": 24000
+    },
+    {
+      "id": "eU83LSM3xnk",
+      "title": "Neural networks [9.7] : Computer vision - object recognition",
+      "views": 11000
+    },
+    {
+      "id": "Gk8VvSL3IMk",
+      "title": "Neural networks [9.8] : Computer vision - example",
+      "views": 7500
+    },
+    {
+      "id": "Km1Q5VcSKAg",
+      "title": "Neural networks [9.9] : Computer vision - data set expansion",
+      "views": 6000
+    },
+    {
+      "id": "y0SISi_T6s8",
+      "title": "Neural networks [9.10] : Computer vision - convolutional RBM",
+      "views": 8200
+    },
+    {
+      "id": "OzZIOiMVUyM",
+      "title": "Neural networks [10.1] : Natural language processing - motivation",
+      "views": 12000
+    },
+    {
+      "id": "jcrhYEYwO9k",
+      "title": "Neural networks [10.2] : Natural language processing - preprocessing",
+      "views": 11000
+    },
+    {
+      "id": "iZ3e_cifP7Y",
+      "title": "Neural networks [10.3] : Natural language processing - one-hot encoding",
+      "views": 16000
+    },
+    {
+      "id": "PKszi8iogak",
+      "title": "Neural networks [10.4] : Natural language processing - word representations",
+      "views": 21000
+    },
+    {
+      "id": "iGmHnICXDss",
+      "title": "Neural networks [10.5] : Natural language processing - language modeling",
+      "views": 21000
+    },
+    {
+      "id": "FoDz01QNSiY",
+      "title": "Neural networks [10.6] : Natural language processing - neural network language model",
+      "views": 28000
+    },
+    {
+      "id": "B95LTf2rVWM",
+      "title": "Neural networks [10.7] : Natural language processing - hierarchical output layer",
+      "views": 26000
+    },
+    {
+      "id": "pCLIo4Z-PsM",
+      "title": "Neural networks [10.8] : Natural language processing - word tagging",
+      "views": 8600
+    },
+    {
+      "id": "6jCDUQ-e-fY",
+      "title": "Neural networks [10.9] : Natural language processing - convolutional network",
+      "views": 11000
+    },
+    {
+      "id": "ciNBQupWsAc",
+      "title": "Neural networks [10.10] : Natural language processing - multitask learning",
+      "views": 7000
+    },
+    {
+      "id": "AqEF2HIMjYA",
+      "title": "Neural networks [10.11] : Natural language processing - recursive network",
+      "views": 23000
+    },
+    {
+      "id": "gPNPINa7PaM",
+      "title": "Neural networks [10.12] : Natural language processing - merging representations",
+      "views": 7700
+    },
+    {
+      "id": "NJozqoejJnA",
+      "title": "Neural networks [10.13] : Natural language processing - tree inference",
+      "views": 7900
+    },
+    {
+      "id": "oRxgRHJztPI",
+      "title": "Neural networks [10.14] : Natural language processing - recursive network training",
+      "views": 10000
+    }
+  ]
+}

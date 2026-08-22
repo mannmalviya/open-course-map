@@ -561,6 +561,24 @@ body {
   position: relative;
 }
 
+/* Hand-drawn pill around a short label — see SketchTag in sketch.tsx */
+.sketch-tag {
+  position: relative;
+  display: inline-flex;
+}
+
+/* The rough stroke wanders past its nominal box, so the frame must not clip */
+.sketch-tag-frame {
+  position: absolute;
+  inset: 0;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.sketch-tag-label {
+  position: relative;
+}
+
 /* Frame drawn over its contents rather than behind — for outlining an image */
 .thumb-frame > .sketch-box-frame {
   z-index: 1;
@@ -1386,20 +1404,20 @@ body {
   cursor: pointer;
 }
 
-/* Kind and field share one line — two facts, one row of chrome */
+/* Kind and field share one line, but they are not equals: the field is what
+   you scan the list by, so it is written in the hand and the kind is the aside */
 .pathway-tags {
   display: flex;
-  align-items: center;
-  gap: 8px;
+  align-items: baseline;
+  gap: 10px;
 }
 
+/* The word is written, not set: the hand font in its own case, so the tag reads
+   as a note left on the card rather than a status chip from a UI kit */
 .pathway-kind {
-  padding: 1px 8px;
-  border: 1px solid currentColor;
-  border-radius: 999px;
-  font-size: 10px;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  padding: 2px 10px 3px;
+  font-family: var(--hand-font);
+  font-size: 12px;
   color: var(--muted);
 }
 
@@ -1409,8 +1427,9 @@ body {
 }
 
 .pathway-field {
-  font-size: 11px;
-  color: var(--muted);
+  font-family: var(--hand-font);
+  font-size: 16px;
+  color: var(--ink);
 }
 
 .pathway-title {

@@ -64,6 +64,13 @@ function boxRoughness(w: number, h: number): number {
   return Math.min(1.4 * Math.sqrt(Math.max(w, h) / COURSE_W), 2.6);
 }
 
+interface SketchTagProps {
+  /** Stable string so a tag's jitter stays put across re-renders */
+  seedKey: string;
+  className?: string;
+  children: ReactNode;
+}
+
 interface SketchBoxProps {
   /** Stable string so a card's jitter stays put across re-renders */
   seedKey: string;
@@ -119,6 +126,64 @@ export function SketchBox({
       )}
       <div className="sketch-box-body">{children}</div>
     </div>
+  );
+}
+
+/** A pill outline as an SVG path, for rough.js to redraw by hand. */
+function pillPath(w: number, h: number): string {
+  const r = h / 2;
+  return `M ${r} 0 L ${w - r} 0 A ${r} ${r} 0 0 1 ${w - r} ${h} L ${r} ${h} A ${r} ${r} 0 0 1 ${r} 0 Z`;
+}
+
+/**
+ * A hand-drawn pill around a short label. A CSS `border-radius: 999px` was the
+ * one perfectly round thing on a page where everything else is drawn, so the
+ * outline is a rough path instead. The wobble is dialled well below a card's:
+ * at 18px tall, a card's roughness reads as a smudge rather than a hand.
+ */
+export function SketchTag({ seedKey, className, children }: SketchTagProps) {
+  const ref = useRef<HTMLSpanElement>(null);
+  const [size, setSize] = useState({ w: 0, h: 0 });
+
+  useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+    const measure = () => setSize({ w: el.clientWidth, h: el.clientHeight });
+    const ro = new ResizeObserver(measure);
+    ro.observe(el);
+    measure();
+    return () => ro.disconnect();
+  }, []);
+
+  const paths = useMemo(() => {
+    if (size.w < 2 || size.h < 2) return [];
+    const drawable = gen.path(pillPath(size.w - 2, size.h - 2), {
+      seed: seedFor(seedKey),
+      roughness: 0.55,
+      bowing: 0.8,
+      strokeWidth: 1,
+    });
+    return gen.toPaths(drawable);
+  }, [size.w, size.h, seedKey]);
+
+  return (
+    <span ref={ref} className={'sketch-tag' + (className ? ' ' + className : '')}>
+      {paths.length > 0 && (
+        <svg className="sketch-tag-frame" width={size.w} height={size.h} aria-hidden="true">
+          <g transform="translate(1 1)">
+            {paths.map((p, i) => (
+              <path
+                key={i}
+                d={p.d}
+                style={{ fill: 'none', stroke: 'currentColor', strokeWidth: 1 }}
+                strokeLinecap="round"
+              />
+            ))}
+          </g>
+        </svg>
+      )}
+      <span className="sketch-tag-label">{children}</span>
+    </span>
   );
 }
 

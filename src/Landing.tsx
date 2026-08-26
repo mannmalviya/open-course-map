@@ -48,8 +48,6 @@ export function Landing({ background, onOpen }: LandingProps) {
           </SketchBox>
         </div>
 
-        {/* The whole point of the project, stated once and set apart */}
-        <p className="landing-free">Always free</p>
         <p className="landing-stats">
           {courseCount} courses · {schools.length} universities · every lecture on YouTube
         </p>

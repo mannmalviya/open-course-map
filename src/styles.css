@@ -1197,36 +1197,9 @@ body {
   cursor: pointer;
 }
 
-/* Set apart by rules rather than a badge — a sticker would cheapen the claim */
-.landing-free {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 18px;
-  margin-top: 30px;
-  font-family: var(--hand-font);
-  font-size: 20px;
-  color: var(--ink);
-}
-
-.landing-free::before,
-.landing-free::after {
-  content: '';
-  width: 72px;
-  height: 1px;
-  background: var(--rule);
-}
-
-.landing-free::before {
-  background: linear-gradient(to right, transparent, var(--rule));
-}
-
-.landing-free::after {
-  background: linear-gradient(to left, transparent, var(--rule));
-}
-
+/* Took over the gap the "Always free" line used to hold under the button */
 .landing-stats {
-  margin-top: 10px;
+  margin-top: 30px;
   font-size: 13px;
   color: var(--muted);
 }

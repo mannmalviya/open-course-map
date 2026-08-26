@@ -1,9 +1,9 @@
 {
-  "title": "Enough math for ML",
+  "title": "Math for ML",
   "kind": "curated",
   "field": "Math",
   "source": "Mann's picks — opinion, not a department's requirements",
-  "blurb": "Linear algebra, calculus, probability, optimization \u2014 the math ML assumes you have.",
+  "blurb": "The prerequisite linear algebra, probability, calculus & optimization theory you need for ML.",
   "steps": [
     {
       "course": "mit-1806",

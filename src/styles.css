@@ -1454,14 +1454,6 @@ body {
   cursor: pointer;
 }
 
-/* Kind and field share one line, but they are not equals: the field is what
-   you scan the list by, so it is written in the hand and the kind is the aside */
-.pathway-tags {
-  display: flex;
-  align-items: baseline;
-  gap: 10px;
-}
-
 /* The word is written, not set: the hand font in its own case, so the tag reads
    as a note left on the card rather than a status chip from a UI kit */
 .pathway-kind {
@@ -1474,12 +1466,6 @@ body {
 /* Curated is opinion, so it wears the accent; official stays deliberately plain */
 .pathway-kind.kind-curated {
   color: var(--accent);
-}
-
-.pathway-field {
-  font-family: var(--hand-font);
-  font-size: 16px;
-  color: var(--ink);
 }
 
 .pathway-title {

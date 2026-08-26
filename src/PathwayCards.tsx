@@ -28,12 +28,9 @@ export function PathwayCards({ onOpen }: PathwayCardsProps) {
             fill="var(--sketch-fill, var(--node-fill))"
           >
             <button className="pathway-hit" onClick={() => onOpen(id)}>
-              <span className="pathway-tags">
-                <SketchTag seedKey={'kind:' + id} className={'pathway-kind kind-' + group.kind}>
-                  {KIND_LABEL[group.kind ?? 'curated']}
-                </SketchTag>
-                <span className="pathway-field">{group.field}</span>
-              </span>
+              <SketchTag seedKey={'kind:' + id} className={'pathway-kind kind-' + group.kind}>
+                {KIND_LABEL[group.kind ?? 'curated']}
+              </SketchTag>
               <span className="pathway-title">{group.title}</span>
               <span className="pathway-blurb">{group.blurb}</span>
               <span className="pathway-meta">

@@ -69,7 +69,7 @@ export interface Group {
   blurb?: string;
   /** Where the ordering came from, e.g. "transcribed from MIT's 6-3 requirements" */
   source?: string;
-  /** Field this pathway is filed under on the landing page, e.g. "Physics" */
+  /** Section this pathway is listed under, e.g. "CS" — see SECTIONS in PathwayCards */
   field?: string;
   /**
    * Marks on this pathway's landing card, as `university` keys. An override:

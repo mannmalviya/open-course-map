@@ -1378,15 +1378,35 @@ body {
   color: var(--muted);
 }
 
-.pathways-inner .pathway-cards {
+.pathways-inner .pathway-sections {
   margin-top: 20px;
 }
 
+/* Sections are headed, so the gap between them has to beat the gap between
+   the cards inside one — otherwise a heading reads as belonging to the row
+   above it rather than the row below */
+.pathway-section + .pathway-section {
+  margin-top: 44px;
+}
+
+/* The section names are written in the hand, a size down from the page's own
+   headings: they label a shelf rather than open a part of the page */
+.pathway-section-title {
+  font-family: var(--hand-font);
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--ink);
+  text-align: left;
+}
+
+/* A card is a fixed size, not a share of the row: auto-fill keeps the tracks
+   whether or not a section has cards for them, and the 300px ceiling stops a
+   lone pathway — or a short last row — from stretching across the page */
 .pathway-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(260px, 300px));
   gap: 22px;
-  margin-top: 28px;
+  margin-top: 14px;
   text-align: left;
 }
 

@@ -78,6 +78,11 @@ export interface Group {
    * Left out, the card marks the schools its own steps come from.
    */
   logos?: string[];
+  /**
+   * Picked by hand for the landing page's shortlist. The Pathways tab lists
+   * every pathway regardless; this only decides what the front page leads with.
+   */
+  featured?: boolean;
 }
 
 export interface Edge {
@@ -156,6 +161,8 @@ export interface PathwayFile {
   field: string;
   /** School marks for the landing card — see `logos` on Group */
   logos?: string[];
+  /** Show this one on the landing page's shortlist — see `featured` on Group */
+  featured?: boolean;
   /** Ordered for readability; the edges are what actually define the sequence */
   steps: Array<{ course: string; pos: XY; note?: string }>;
   gaps?: Array<Omit<Gap, 'inGroup'>>;

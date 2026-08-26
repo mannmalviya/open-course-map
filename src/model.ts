@@ -55,6 +55,7 @@ function loadMap(): CourseMap {
       source: file.source,
       field: file.field,
       logos: file.logos,
+      featured: file.featured,
     };
     for (const step of file.steps) {
       if (!merged.courses[step.course]) {

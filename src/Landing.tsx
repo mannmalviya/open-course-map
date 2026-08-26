@@ -79,7 +79,7 @@ export function Landing({ background, onOpen }: LandingProps) {
           A pathway is a route through the map, in order.
         </p>
 
-        <PathwayCards onOpen={onOpen} />
+        <PathwayCards onOpen={onOpen} featured />
 
         <div className="logo-wall">
           <SketchRule seedKey="rule:wall" />

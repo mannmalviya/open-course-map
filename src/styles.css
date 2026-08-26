@@ -1410,6 +1410,13 @@ body {
   text-align: left;
 }
 
+/* The shortlist has no heading to sit under and the page around it is centred,
+   so it centres too rather than hugging the left edge of a mostly empty row */
+.pathway-cards-featured {
+  justify-content: center;
+  margin-top: 28px;
+}
+
 /* The drawn frame wanders outside the box, so cards need room not to collide */
 .pathway-card {
   margin: 4px;

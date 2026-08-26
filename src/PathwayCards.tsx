@@ -7,10 +7,27 @@ const SECTIONS = ['CS', 'Math', 'Physics', 'Chemistry', 'Bio'];
 
 interface PathwayCardsProps {
   onOpen: (groupId: string) => void;
+  /** Landing page: the hand-picked shortlist, in one row, with no headings */
+  featured?: boolean;
 }
 
-/** The pathway list, drawn the same way on the landing page and the Pathways tab. */
-export function PathwayCards({ onOpen }: PathwayCardsProps) {
+/** The pathway list — every pathway under subject headings, or the shortlist. */
+export function PathwayCards({ onOpen, featured = false }: PathwayCardsProps) {
+  if (featured) {
+    const all = pathways();
+    const picks = all.filter((pathway) => pathway.group.featured);
+    // Before anything is picked the front page would otherwise lose the whole
+    // section, so an empty shortlist falls back to the full list
+    const shown = picks.length > 0 ? picks : all;
+    return (
+      <div className="pathway-cards pathway-cards-featured">
+        {shown.map(({ id, group }) => (
+          <PathwayCard key={id} id={id} group={group} onOpen={onOpen} />
+        ))}
+      </div>
+    );
+  }
+
   const byField = new Map<string, Array<{ id: string; group: Group }>>();
   for (const pathway of pathways()) {
     const field = pathway.group.field ?? 'Other';

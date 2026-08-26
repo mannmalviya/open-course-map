@@ -1427,20 +1427,6 @@ body {
   cursor: pointer;
 }
 
-/* The word is written, not set: the hand font in its own case, so the tag reads
-   as a note left on the card rather than a status chip from a UI kit */
-.pathway-kind {
-  padding: 2px 10px 3px;
-  font-family: var(--hand-font);
-  font-size: 12px;
-  color: var(--muted);
-}
-
-/* Curated is opinion, so it wears the accent; official stays deliberately plain */
-.pathway-kind.kind-curated {
-  color: var(--accent);
-}
-
 .pathway-title {
   font-family: var(--hand-font);
   font-size: 21px;

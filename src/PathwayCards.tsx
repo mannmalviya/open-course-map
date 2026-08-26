@@ -1,10 +1,5 @@
-import { SketchBox, SketchTag } from './sketch';
+import { SketchBox } from './sketch';
 import { pathways, pathwayCourseCount, pathwaySchools, wordmarkFor } from './model';
-
-const KIND_LABEL = {
-  official: 'official',
-  curated: 'curated',
-} as const;
 
 interface PathwayCardsProps {
   onOpen: (groupId: string) => void;
@@ -28,9 +23,6 @@ export function PathwayCards({ onOpen }: PathwayCardsProps) {
             fill="var(--sketch-fill, var(--node-fill))"
           >
             <button className="pathway-hit" onClick={() => onOpen(id)}>
-              <SketchTag seedKey={'kind:' + id} className={'pathway-kind kind-' + group.kind}>
-                {KIND_LABEL[group.kind ?? 'curated']}
-              </SketchTag>
               <span className="pathway-title">{group.title}</span>
               <span className="pathway-blurb">{group.blurb}</span>
               <span className="pathway-meta">

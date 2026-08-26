@@ -76,8 +76,7 @@ export function Landing({ background, onOpen }: LandingProps) {
 
         <h2>Or follow a pathway</h2>
         <p className="landing-sub">
-          A pathway is a route through the map, in order. Official ones are transcribed from
-          a department's own requirements; curated ones are one person's picks.
+          A pathway is a route through the map, in order.
         </p>
 
         <PathwayCards onOpen={onOpen} />

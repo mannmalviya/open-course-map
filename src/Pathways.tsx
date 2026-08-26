@@ -13,8 +13,7 @@ export function Pathways({ background, onOpen }: PathwaysProps) {
       <BackgroundLayer background={background} />
       <div className="pathways-inner">
         <p className="pathways-intro">
-          A pathway is a route through the map, in order. Official ones are transcribed from
-          a department's own requirements; curated ones are one person's picks.
+          A pathway is a route through the map, in order.
         </p>
         <PathwayCards onOpen={onOpen} />
       </div>

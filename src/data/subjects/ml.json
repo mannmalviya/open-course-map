@@ -6,7 +6,7 @@
       "level": "grad",
       "pos": {
         "x": 430,
-        "y": 160
+        "y": 120
       },
       "versions": [
         {
@@ -79,7 +79,7 @@
       ],
       "pos": {
         "x": 780,
-        "y": 160
+        "y": 120
       },
       "versions": [
         {
@@ -116,8 +116,8 @@
       "university": "Waterloo",
       "level": "grad",
       "pos": {
-        "x": 430,
-        "y": 120
+        "x": 780,
+        "y": 1020
       },
       "versions": [
         {
@@ -135,8 +135,8 @@
       "university": "Tübingen",
       "level": "grad",
       "pos": {
-        "x": 780,
-        "y": 120
+        "x": 1130,
+        "y": 1020
       },
       "versions": [
         {

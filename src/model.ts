@@ -394,12 +394,15 @@ export function levelLabel(level: Level): string {
 /**
  * Picking a school means asking for that school, so a course from anywhere else
  * goes — including one whose school the filter never listed, and one carrying no
- * school at all. Same for level. Pick nothing and nothing is narrowed.
+ * school at all. Same for level. Pick nothing and nothing is narrowed, and since
+ * there are only two levels, picking both is picking nothing — otherwise ticking
+ * every box would quietly drop the courses that carry no level at all.
  */
 function courseVisible(c: Course): boolean {
+  const levelNarrowed = selectedLevels.size > 0 && selectedLevels.size < LEVELS.length;
   return (
     (selectedSchools.size === 0 || (!!c.university && selectedSchools.has(c.university))) &&
-    (selectedLevels.size === 0 || (!!c.level && selectedLevels.has(c.level)))
+    (!levelNarrowed || (!!c.level && selectedLevels.has(c.level)))
   );
 }
 

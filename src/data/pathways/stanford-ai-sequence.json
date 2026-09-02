@@ -3,7 +3,7 @@
   "kind": "curated",
   "field": "CS",
   "source": "Mann's picks — the order Stanford's own AI courses assume, not a department's requirements",
-  "blurb": "TODO",
+  "blurb": "Probability, linear algebra, machine learning, deep learning, vision, NLP, reinforcement learning.",
   "steps": [
     {
       "course": "stanford-cs109",

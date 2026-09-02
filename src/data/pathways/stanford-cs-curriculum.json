@@ -3,7 +3,7 @@
   "kind": "curated",
   "field": "CS",
   "source": "Mann's picks from the Stanford CS courses on the map — not the department's requirements",
-  "blurb": "TODO",
+  "blurb": "Algorithms, probability, linear algebra, parallel systems, numerical methods, AI.",
   "steps": [
     {
       "course": "stanford-alg1",

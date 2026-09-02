@@ -3,7 +3,7 @@
   "kind": "official",
   "field": "CS",
   "source": "Transcribed from MIT's 6-3 degree requirements",
-  "blurb": "TODO",
+  "blurb": "Python, calculus, discrete math, algorithms, computation theory, computer architecture.",
   "steps": [
     {
       "course": "mit-intro-python",

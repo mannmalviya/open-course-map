@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks. The bar is a full, freely watchable lecture series from a university, or an open series taught like one — see [what belongs on the map](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md#what-belongs-on-the-map). If you would rather add it yourself, [CONTRIBUTING.md](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md) walks through the JSON.
+        Thanks. The bar is a full, freely watchable lecture series from a university, or an open series taught like one — see [what belongs on the map](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md#3-what-belongs-on-the-map). If you would rather add it yourself, [CONTRIBUTING.md](https://github.com/mannmalviya/open-course-map/blob/main/CONTRIBUTING.md) walks through the JSON.
   - type: input
     id: course
     attributes:

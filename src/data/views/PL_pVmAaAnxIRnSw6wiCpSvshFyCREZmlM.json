@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "d79mzijMAw0",
+      "title": "Channel Intro - Applied Machine Learning",
+      "views": 49000
+    },
+    {
+      "id": "rbvpiPJuK64",
+      "title": "Applied ML 2020 - 01 Introduction",
+      "views": 32000
+    },
+    {
+      "id": "OW3oco7nlV4",
+      "title": "Applied ML 2020 - 02 Visualization and matplotlib",
+      "views": 16000
+    },
+    {
+      "id": "7_YzyMYC2zM",
+      "title": "Applied ML 2020 - 03 Supervised learning and model validation",
+      "views": 14000
+    },
+    {
+      "id": "XpOBSaktb6s",
+      "title": "Applied ML 2020 - 04 - Preprocessing",
+      "views": 12000
+    },
+    {
+      "id": "-OOsfj5Revo",
+      "title": "Applied ML 2020 - 05 - Linear Models for Regression",
+      "views": 9000
+    },
+    {
+      "id": "_dqBhUrq09U",
+      "title": "Applied ML 2020 - 06 - Linear Models for Classification",
+      "views": 6500
+    },
+    {
+      "id": "nomd5ylZ2dw",
+      "title": "Applied ML 2020 - 07 - Decision Trees and Random Forests",
+      "views": 7200
+    },
+    {
+      "id": "yrTW5YTmFjw",
+      "title": "Applied ML 2020 - 08 - Gradient Boosting",
+      "views": 5100
+    },
+    {
+      "id": "trg3YkCsjqE",
+      "title": "Applied ML 2020 - 09 - Model Evaluation and Metrics",
+      "views": 6400
+    },
+    {
+      "id": "w3OPq0V8fr8",
+      "title": "Applied ML 2020 - 10 - Calibration, Imbalanced data",
+      "views": 19000
+    },
+    {
+      "id": "FDhyS6Xjxa8",
+      "title": "Applied ML 2020 - 11 - Model Inspection and Feature Selection",
+      "views": 5100
+    },
+    {
+      "id": "bmBezdqHTAg",
+      "title": "Applied ML 2020 - 12 - AutoML (plus some feature selection)",
+      "views": 3800
+    },
+    {
+      "id": "CrFOGyU32PM",
+      "title": "Applied ML 2020 - 13 - Dimensionality reduction",
+      "views": 3400
+    },
+    {
+      "id": "HFioJ62H7dM",
+      "title": "Applied ML 2020 - 14 - Clustering and Mixture Models",
+      "views": 3000
+    },
+    {
+      "id": "A8yDjNsUQJA",
+      "title": "Applied ML 2020 - 15 - Working with Text Data",
+      "views": 2700
+    },
+    {
+      "id": "xdmFx4-3Ukw",
+      "title": "Applied ML 2020 - 16 - Topic models for text data",
+      "views": 2200
+    },
+    {
+      "id": "xgjnlGBpLUs",
+      "title": "Applied ML 2020 - 17 - Word vectors and document embeddings",
+      "views": 2800
+    },
+    {
+      "id": "CRRPLlgYWZw",
+      "title": "Applied ML 2020 - 18 - Neural Networks",
+      "views": 2900
+    },
+    {
+      "id": "PP7Hr3tGbIo",
+      "title": "Applied ML 2020 - 19 - Keras and Convolutional neural nets",
+      "views": 2400
+    },
+    {
+      "id": "2FNmbX901r0",
+      "title": "Applied ML 2020 - 20 - Advanced neural networks",
+      "views": 2400
+    },
+    {
+      "id": "GVGEnaJsuu8",
+      "title": "Applied ML 2020 - 21 - Time Series and Forecasting",
+      "views": 5300
+    }
+  ]
+}

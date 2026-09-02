@@ -331,6 +331,18 @@
         "h": 160
       }
     },
+    "summer-schools": {
+      "title": "Summer Schools",
+      "parent": "ai",
+      "pos": {
+        "x": 430,
+        "y": 500
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
     "computer-vision": {
       "title": "Computer Vision",
       "parent": "ai-advanced",
@@ -654,6 +666,42 @@
         "w": 250,
         "h": 160
       }
+    },
+    "unsorted": {
+      "title": "Unsorted",
+      "parent": "root",
+      "pos": {
+        "x": 1080,
+        "y": 400
+      },
+      "size": {
+        "w": 300,
+        "h": 190
+      }
+    },
+    "video-series": {
+      "title": "Video Series",
+      "parent": "unsorted",
+      "pos": {
+        "x": 80,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
+    "unplaced": {
+      "title": "Unplaced",
+      "parent": "unsorted",
+      "pos": {
+        "x": 430,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
     }
   },
   "edges": [
@@ -859,16 +907,16 @@
       "node": "stanford-cs229",
       "inGroup": "dl",
       "pos": {
-        "x": 80,
-        "y": 165
+        "x": 430,
+        "y": 20
       }
     },
     {
       "node": "mit-6036",
       "inGroup": "dl",
       "pos": {
-        "x": 80,
-        "y": 465
+        "x": 430,
+        "y": 320
       }
     },
     {
@@ -972,7 +1020,7 @@
       "inGroup": "dl",
       "pos": {
         "x": 1130,
-        "y": 470
+        "y": 320
       }
     },
     {

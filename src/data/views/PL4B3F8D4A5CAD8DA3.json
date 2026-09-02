@@ -1,0 +1,289 @@
+{
+  "lectures": [
+    {
+      "id": "skaQfPQFSyY",
+      "title": "CSCI 512 - Lecture 02-1 Sensors and Image Formation",
+      "views": 97000
+    },
+    {
+      "id": "A-MzzCasnuM",
+      "title": "CSCI 512 - Lecture 02-2 Sensors and Image Formation",
+      "views": 21000
+    },
+    {
+      "id": "Sc4l0GUgb6U",
+      "title": "CSCI 512 - Lecture 02-3 Sensors and Image Formation",
+      "views": 15000
+    },
+    {
+      "id": "oO48j5J-h4Y",
+      "title": "CSCI 512 - Lecture 02-4 Sensors and Image Formation",
+      "views": 13000
+    },
+    {
+      "id": "bLdajzHkVjc",
+      "title": "CSCI 512 - Lecture 04-1 3D-3D Transforms",
+      "views": 17000
+    },
+    {
+      "id": "DjuuwTwekqA",
+      "title": "CSCI 512 - Lecture 04-2 3D-3D Transforms",
+      "views": 10000
+    },
+    {
+      "id": "deolH_0eyDw",
+      "title": "CSCI 512 - Lecture 04-3 3D-3D Transforms",
+      "views": 9100
+    },
+    {
+      "id": "wiV1mynE8P0",
+      "title": "CSCI 512 - Lecture 04-4 3D-3D Transforms",
+      "views": 8200
+    },
+    {
+      "id": "8wv0W2u2Nb8",
+      "title": "EGGN 512 - Lecture 4-5 3D-3D Transforms",
+      "views": 6600
+    },
+    {
+      "id": "DFNjOUMuecU",
+      "title": "EGGN 512 - Lecture 5-1 3D-2D Transforms",
+      "views": 8700
+    },
+    {
+      "id": "5gesrLgNuQo",
+      "title": "EGGN 512 - Lecture 5-2 3D-2D Transforms",
+      "views": 7000
+    },
+    {
+      "id": "60swbj6chMg",
+      "title": "CSCI 512 - Lecture 06-1 Image Filtering",
+      "views": 11000
+    },
+    {
+      "id": "DyyIgzFwH3I",
+      "title": "CSCI 512 - Lecture 06-2 Image Filtering",
+      "views": 10000
+    },
+    {
+      "id": "-tRVd5imiE0",
+      "title": "CSCI 512 - Lecture 06-3 Image Filtering",
+      "views": 7200
+    },
+    {
+      "id": "7PSyzVf_Oe8",
+      "title": "CSCI 512 - Lecture 06-4 Image Filtering",
+      "views": 7300
+    },
+    {
+      "id": "oud_lSbDuJk",
+      "title": "EGGN 512 - Lecture 7-1 Binary Image Processing",
+      "views": 13000
+    },
+    {
+      "id": "2aNctKtXQNU",
+      "title": "EGGN 512 - Lecture 7-2 Binary Image Processing",
+      "views": 22000
+    },
+    {
+      "id": "8Ta-OcdJMMo",
+      "title": "EGGN 512 - Lecture 7-3 Binary Image Processing",
+      "views": 6900
+    },
+    {
+      "id": "mDdZBCJnn7Q",
+      "title": "CSCI 512 - Lecture 08-1 2D Image Transforms",
+      "views": 9000
+    },
+    {
+      "id": "sg3P4RpMej0",
+      "title": "CSCI 512 - Lecture 08-2 2D Image Transforms",
+      "views": 5200
+    },
+    {
+      "id": "07qwMn2c5iY",
+      "title": "CSCI 512 - Lecture 09-1 Edge Detection",
+      "views": 34000
+    },
+    {
+      "id": "PUcbhaGhgtE",
+      "title": "CSCI 512 - Lecture 09-2 Edge Detection",
+      "views": 9200
+    },
+    {
+      "id": "FXe9IdzocJk",
+      "title": "EGGN 512 - Lecture 10-1 Image Patches",
+      "views": 6800
+    },
+    {
+      "id": "hI5m-xpV6bs",
+      "title": "CSCI 512 - Lecture 11-1 Corners",
+      "views": 6700
+    },
+    {
+      "id": "7IJ8L4MrftA",
+      "title": "CSCI 512 - Lecture 11-2 Corners",
+      "views": 4400
+    },
+    {
+      "id": "KQNqxf6-wlg",
+      "title": "CSCI 512 - Lecture 11-3 Corners",
+      "views": 3500
+    },
+    {
+      "id": "U0wqePj4Mx0",
+      "title": "CSCI 512 - Lecture 12-1 SIFT",
+      "views": 73000
+    },
+    {
+      "id": "uDB2qGqnQ1g",
+      "title": "EGGN 512 - Lecture 13-1 Hough",
+      "views": 88000
+    },
+    {
+      "id": "o-n7NoLArcs",
+      "title": "EGGN 512 - Lecture 13-2 Hough",
+      "views": 33000
+    },
+    {
+      "id": "GZ61BRH9KFE",
+      "title": "EGGN 512 - Lecture 13-3 Hough",
+      "views": 14000
+    },
+    {
+      "id": "UcU4814hvR8",
+      "title": "EGGN 512 - Lecture 14-1 Alignment",
+      "views": 5800
+    },
+    {
+      "id": "XxEKMecNZk0",
+      "title": "EGGN 512 - Lecture 14-2 Alignment",
+      "views": 3600
+    },
+    {
+      "id": "lSXfv4baMwk",
+      "title": "EGGN 512 - Lecture 14-3 Alignment",
+      "views": 3100
+    },
+    {
+      "id": "PU6BKIh1y4o",
+      "title": "EGGN 512 - Lecture 15-1 SIFT Object Recognition",
+      "views": 12000
+    },
+    {
+      "id": "0KLuBlGdFvw",
+      "title": "EGGN 512 - Lecture 15-2 SIFT Object Recognition",
+      "views": 5600
+    },
+    {
+      "id": "kq3c6QpcAGc",
+      "title": "EGGN 512 - Lecture 16-1 Pose Estimation",
+      "views": 26000
+    },
+    {
+      "id": "D_4eUoqgWdc",
+      "title": "EGGN 512 - Lecture 17-1 Pose from Lines",
+      "views": 5400
+    },
+    {
+      "id": "C852P1JrHXI",
+      "title": "EGGN 512 - Lecture 18-1 SVD",
+      "views": 5600
+    },
+    {
+      "id": "aIkzK4CdYes",
+      "title": "EGGN 512 - Lecture 18-2 SVD",
+      "views": 3600
+    },
+    {
+      "id": "HojSSrxsB4Q",
+      "title": "EGGN 512 - Lecture 19-1 Linear Pose Estimation",
+      "views": 6400
+    },
+    {
+      "id": "ik8dFybnyPY",
+      "title": "EGGN 512 - Lecture 19-2 Linear Pose Estimation",
+      "views": 3800
+    },
+    {
+      "id": "OS5b-3Xfn1M",
+      "title": "EGGN 512 - Lecture 19-3 Linear Pose Estimation",
+      "views": 3300
+    },
+    {
+      "id": "cb8JDjnwgts",
+      "title": "EGGN 512 - Lecture 21-1 Stereo Vision",
+      "views": 33000
+    },
+    {
+      "id": "tXys4guXlIo",
+      "title": "EGGN 512 - Lecture 21-2 Stereo Vision",
+      "views": 12000
+    },
+    {
+      "id": "wdUEXvoIvu0",
+      "title": "EGGN 512 - Lecture 21-3 Stereo Vision",
+      "views": 11000
+    },
+    {
+      "id": "Ce7dJL0bjz8",
+      "title": "EGGN 512 - Lecture 22-1 Uncertainty",
+      "views": 4100
+    },
+    {
+      "id": "QYjEi9LyVXA",
+      "title": "EGGN 512 - Lecture 22-2 Uncertainty",
+      "views": 2400
+    },
+    {
+      "id": "Opy8xMGCDrE",
+      "title": "EGGN 512 - Lecture 23-1 Epipolar and Essential",
+      "views": 69000
+    },
+    {
+      "id": "ViNChG-0yX4",
+      "title": "EGGN 512 - Lecture 23-2 Epipolar and Essential",
+      "views": 27000
+    },
+    {
+      "id": "kfN76APa4HE",
+      "title": "EGGN 512 - Lecture 24-1 Structure from Motion",
+      "views": 20000
+    },
+    {
+      "id": "5wuWKTJCV1w",
+      "title": "EGGN 512 - Lecture 24-2 Structure from Motion",
+      "views": 12000
+    },
+    {
+      "id": "EIkOp4DDi9w",
+      "title": "EGGN 512 - Lecture 25-1 Bundle Adjust",
+      "views": 10000
+    },
+    {
+      "id": "wb9245ZAoaE",
+      "title": "EGGN 512 - Lecture 26-1 Fundamental Matrix",
+      "views": 11000
+    },
+    {
+      "id": "NKxXGsZdDp8",
+      "title": "EGGN 512 - Lecture 27-1 RANSAC",
+      "views": 23000
+    },
+    {
+      "id": "UH829vxArEQ",
+      "title": "EGGN 512 - Lecture 29-1 Motion Segmentation",
+      "views": 6200
+    },
+    {
+      "id": "B205e9EEyFk",
+      "title": "EGGN 512 - Lecture 30-1 Deformable Models",
+      "views": 7500
+    },
+    {
+      "id": "H1LIvDoUufk",
+      "title": "EGGN 512 - Lecture 30-2 Deformable Models",
+      "views": 4700
+    }
+  ]
+}

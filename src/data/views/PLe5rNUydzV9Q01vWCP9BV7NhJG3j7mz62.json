@@ -1,0 +1,139 @@
+{
+  "lectures": [
+    {
+      "id": "h6ajHkgM3ZU",
+      "title": "[DeepBayes2018]: Day 1, practical session 2. Bayesian reasoning",
+      "views": 11000
+    },
+    {
+      "id": "cn4sI39uD_Q",
+      "title": "[DeepBayes2018]: Day 1, lecture 3. Models with latent variables and EM-algorithm",
+      "views": 4800
+    },
+    {
+      "id": "CYeCeQ-pULE",
+      "title": "[DeepBayes2018]: Day 1, practical session 4. EM-algorithm (part 1)",
+      "views": 1700
+    },
+    {
+      "id": "c4Q3ONCH_7k",
+      "title": "[DeepBayes2018]: Day 1, practical session 5. EM-algorithm (part 2)",
+      "views": 872
+    },
+    {
+      "id": "JFbME-MjreE",
+      "title": "[DeepBayes2018]: Day 2, lecture 1. Introduction to stochastic optimization",
+      "views": 3400
+    },
+    {
+      "id": "d0LZE6Drqyc",
+      "title": "[DeepBayes2018]: Day 2, lecture 2. Scalable Bayesian methods",
+      "views": 1300
+    },
+    {
+      "id": "RdFqBHCizp8",
+      "title": "[DeepBayes2018]: Day 2, lecture 3. Variational autoencoders",
+      "views": 2600
+    },
+    {
+      "id": "-KzvHc16HlM",
+      "title": "[DeepBayes2018]: Day 2, lecture 4. Discrete latent variables",
+      "views": 1300
+    },
+    {
+      "id": "T6mZQsgNONU",
+      "title": "[DeepBayes2018]: Day 2, practical session 5. Variational autoencoders",
+      "views": 706
+    },
+    {
+      "id": "mCBnid-1slI",
+      "title": "[DeepBayes2018]: Day 3, Invited talk 1. Advanced methods of variational inference",
+      "views": 5800
+    },
+    {
+      "id": "6v3RxQycT0E",
+      "title": "[DeepBayes2018]: Day 3, IT 2. Reinforcement learning through the lense of variational inference",
+      "views": 1100
+    },
+    {
+      "id": "uOl5WZS5_vc",
+      "title": "[DeepBayes2018]: Day 3, Practical session 3. Reinforcement learning",
+      "views": 472
+    },
+    {
+      "id": "LzIWBb2FhZU",
+      "title": "[DeepBayes2018]: Day 3, lecture 4. Distributional reinforcement learning",
+      "views": 1400
+    },
+    {
+      "id": "_Ve8Wd3Uyos",
+      "title": "[DeepBayes2018]: Day 3, Practical session 5. Distributional reinforcement learning",
+      "views": 600
+    },
+    {
+      "id": "3wXxGwsTHoU",
+      "title": "[DeepBayes2018]: Day 4, lecture 1. Generative models",
+      "views": 738
+    },
+    {
+      "id": "1QBLkzH_1ro",
+      "title": "[DeepBayes2018]: Day 4, Practical session 2. Adversarial learning",
+      "views": 308
+    },
+    {
+      "id": "BV465lgleHA",
+      "title": "[DeepBayes2018]: Day 4, Invited talk 3. Extending the Reparameterization Trick",
+      "views": 2800
+    },
+    {
+      "id": "f6T7FZAPABk",
+      "title": "[DeepBayes2018]: Day 4, Sponsor talk 4. Yaroslav LabutinRymsho. Samsung Research",
+      "views": 287
+    },
+    {
+      "id": "2nKzdbvAoAU",
+      "title": "[DeepBayes2018]: Day 5, Lecture 1. Gaussian processes",
+      "views": 883
+    },
+    {
+      "id": "vZePurXEJ5Q",
+      "title": "[DeepBayes2018]: Day 5, Practical session 2. Bayesian optimization",
+      "views": 482
+    },
+    {
+      "id": "zBEV5ezyYmI",
+      "title": "[DeepBayes2018]: Day 5, Invited talk 3. Deep Gaussian processes",
+      "views": 1600
+    },
+    {
+      "id": "4ZuSfbOmHqE",
+      "title": "[DeepBayes2018]: Day 5, lecture 4. Markov chain Monte Carlo",
+      "views": 598
+    },
+    {
+      "id": "y6rf3WUGapM",
+      "title": "[DeepBayes2018]: Day 5, Lecture 5. Stochastic Markov chain Monte Carlo",
+      "views": 732
+    },
+    {
+      "id": "JCMzMAHDBik",
+      "title": "[DeepBayes2018]: Day 6, Lecture 1. Bayesian neural networks and variational dropout",
+      "views": 3500
+    },
+    {
+      "id": "UFpy4V2ONVY",
+      "title": "[DeepBayes2018]: Day 6, Lecture 2. Sparse variational dropout and variance networks",
+      "views": 933
+    },
+    {
+      "id": "u-uOS-JXQE0",
+      "title": "[DeepBayes2018]: Day 6,   Practical session 3. Neural networks sparsification",
+      "views": 386
+    },
+    {
+      "id": "Wgvcxd98tvU",
+      "title": "[DeepBayes2018]: Day 6, Invited talk 4. Information bottleneck",
+      "views": 1200
+    }
+  ]
+}

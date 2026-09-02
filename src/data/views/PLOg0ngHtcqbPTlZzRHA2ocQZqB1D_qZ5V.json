@@ -1,0 +1,344 @@
+{
+  "lectures": [
+    {
+      "id": "5N9V07EIfIg",
+      "title": "StatsLearning Lecture 1 - part1",
+      "views": 231000
+    },
+    {
+      "id": "Z0v9QMkA3dA",
+      "title": "StatsLearning Lecture 1 - part2",
+      "views": 73000
+    },
+    {
+      "id": "p9n2w236B48",
+      "title": "StatsLearning Chapter 2 - part 1",
+      "views": 88000
+    },
+    {
+      "id": "HndOzII4jzs",
+      "title": "StatsLearning Chapter 2 - part 2",
+      "views": 56000
+    },
+    {
+      "id": "VaN1RUDuioQ",
+      "title": "StatsLearning Chapter 2 - part 3",
+      "views": 46000
+    },
+    {
+      "id": "TnVRhLqThR4",
+      "title": "StatsLearning Chapter 2 - part 4",
+      "views": 40000
+    },
+    {
+      "id": "PrIt1t-uCC4",
+      "title": "StatsLearning Chapter 2 - R Studio - part 5",
+      "views": 30000
+    },
+    {
+      "id": "7TgVO_K75EY",
+      "title": "StatsLearning Chapter 3 - part 1",
+      "views": 66000
+    },
+    {
+      "id": "z10DqaVJh3c",
+      "title": "StatsLearning Chapter 3 - part 2",
+      "views": 41000
+    },
+    {
+      "id": "yzQHONabWhs",
+      "title": "StatsLearning Chapter 3 - part 3",
+      "views": 35000
+    },
+    {
+      "id": "lo7KnnvyEU0",
+      "title": "StatsLearning Chapter 3 - part 4",
+      "views": 32000
+    },
+    {
+      "id": "sK80ZnhiaRI",
+      "title": "StatsLearning Chapter 3 - part 5",
+      "views": 28000
+    },
+    {
+      "id": "W0WILgmAGao",
+      "title": "StatsLearning Chapter 3 - R - part 6",
+      "views": 24000
+    },
+    {
+      "id": "RN_dweQpcpo",
+      "title": "StatsLearning Chapter 4 - part 1",
+      "views": 46000
+    },
+    {
+      "id": "RIW3H03MNrE",
+      "title": "StatsLearning Chapter 4 - part 2",
+      "views": 34000
+    },
+    {
+      "id": "gPOMLCR1oF8",
+      "title": "StatsLearning Chapter 4 - part 3",
+      "views": 28000
+    },
+    {
+      "id": "pZodpSfe9IA",
+      "title": "StatsLearning Chapter 4 - part 4",
+      "views": 25000
+    },
+    {
+      "id": "Wklfvk2BH88",
+      "title": "StatsLearning Lect10 R A LDA 111213",
+      "views": 14000
+    },
+    {
+      "id": "OUqMjCfWKiQ",
+      "title": "StatsLearning Lect10 R B Knearest 111213",
+      "views": 9700
+    },
+    {
+      "id": "MGertB06qjQ",
+      "title": "StatsLearning Lect10 R classification1 111213",
+      "views": 12000
+    },
+    {
+      "id": "ngrOYWgJjb4",
+      "title": "StatsLearning Chapter 5 - part 1",
+      "views": 33000
+    },
+    {
+      "id": "rSGzUy13F_0",
+      "title": "StatsLearning Chapter 5 - part 2",
+      "views": 21000
+    },
+    {
+      "id": "r64tRyHFAJ8",
+      "title": "StatsLearning Chapter 5 - part 3",
+      "views": 17000
+    },
+    {
+      "id": "fBaqG3vpIIg",
+      "title": "StatsLearning Chapter 5 - part 4",
+      "views": 15000
+    },
+    {
+      "id": "uX5kPAK0lpo",
+      "title": "StatsLearning Chapter 5 - part 5",
+      "views": 13000
+    },
+    {
+      "id": "kfl_32v3P_E",
+      "title": "StatsLearning Lect10 R C validation 111213",
+      "views": 9600
+    },
+    {
+      "id": "X_UCeAGdAHE",
+      "title": "StatsLearning Lect10 R D bootstrap 111213",
+      "views": 6100
+    },
+    {
+      "id": "XgNub00Uovs",
+      "title": "StatsLearning Chapter 6 - part 1",
+      "views": 32000
+    },
+    {
+      "id": "3WA-UjeTdQM",
+      "title": "StatsLearning Chapter 6 - part 2",
+      "views": 19000
+    },
+    {
+      "id": "JNTe6T26xss",
+      "title": "StatsLearning Chapter 6 - part 3",
+      "views": 15000
+    },
+    {
+      "id": "WWuvcg23O_M",
+      "title": "StatsLearning Chapter 6 - part 4",
+      "views": 17000
+    },
+    {
+      "id": "f_hkP_We0JY",
+      "title": "StatsLearning Chapter 6 - part 5",
+      "views": 15000
+    },
+    {
+      "id": "I8bPQ272Pbs",
+      "title": "StatsLearning Chapter 6 - part 6",
+      "views": 17000
+    },
+    {
+      "id": "FlSQgXv7Dvw",
+      "title": "StatsLearning Chapter 6 - part 7",
+      "views": 16000
+    },
+    {
+      "id": "8oEZkHqf_Rk",
+      "title": "StatsLearning Chapter 6 - part 8",
+      "views": 12000
+    },
+    {
+      "id": "-jgfdSprgnQ",
+      "title": "StatsLearning Chapter 6 - part 9",
+      "views": 12000
+    },
+    {
+      "id": "v4lqtr9YZec",
+      "title": "StatsLearning Chapter 6 - part 10",
+      "views": 12000
+    },
+    {
+      "id": "MR7rpjN3C6I",
+      "title": "StatsLearning Lect10 R modelselection A 111213",
+      "views": 9400
+    },
+    {
+      "id": "2QV3RAOmZ2k",
+      "title": "StatsLearning Lect10 R modelselection B 111213",
+      "views": 6400
+    },
+    {
+      "id": "6COMEmQMTLQ",
+      "title": "StatsLearning Lect10 R modelselection C 111213",
+      "views": 5700
+    },
+    {
+      "id": "ldqJ2sfosqA",
+      "title": "StatsLearning Lect10 R modelselection D 111213",
+      "views": 6200
+    },
+    {
+      "id": "ItEnKfxKreo",
+      "title": "StatsLearning Chapter 7 - part 1",
+      "views": 18000
+    },
+    {
+      "id": "s86bsq_EgzU",
+      "title": "StatsLearning Chapter 7 - part 2",
+      "views": 12000
+    },
+    {
+      "id": "UDDXkffB-aE",
+      "title": "StatsLearning Chapter 7 - part 3",
+      "views": 11000
+    },
+    {
+      "id": "h-ExScLnj24",
+      "title": "StatsLearning Chapter 7 - part 4",
+      "views": 9800
+    },
+    {
+      "id": "u-rVXhsFyxo",
+      "title": "LearningStats R nonlinear A 112113",
+      "views": 15000
+    },
+    {
+      "id": "Str26mJDDXI",
+      "title": "LearningStats R nonlinear B 112113",
+      "views": 5000
+    },
+    {
+      "id": "XvdLKUOldkE",
+      "title": "StatsLearning Chapter 8 - part 1",
+      "views": 32000
+    },
+    {
+      "id": "U9ypJ7UFL3I",
+      "title": "StatsLearning Chapter 8 - part 2",
+      "views": 21000
+    },
+    {
+      "id": "8foe-MKLgtU",
+      "title": "StatsLearning Chapter 8 - part 3",
+      "views": 18000
+    },
+    {
+      "id": "omSN-shKM1Y",
+      "title": "StatsLearning Chapter 8 - part 4",
+      "views": 17000
+    },
+    {
+      "id": "RSWg_islt9c",
+      "title": "StatsLearning Chapter 8 - part 5",
+      "views": 14000
+    },
+    {
+      "id": "YPz2J5lHeVM",
+      "title": "StatsLearning Lect10 R trees A 111213",
+      "views": 9600
+    },
+    {
+      "id": "MpDEU96Ss8E",
+      "title": "StatsLearning Lect10 R trees B 111213",
+      "views": 7000
+    },
+    {
+      "id": "m59UOo5jAFU",
+      "title": "StatsLearning Chapter 9 - part 1",
+      "views": 16000
+    },
+    {
+      "id": "_TR28WOymkE",
+      "title": "StatsLearning Chapter 9 - part 2",
+      "views": 9900
+    },
+    {
+      "id": "ooYwHNvH-YU",
+      "title": "StatsLearning Chapter 9 - part 3",
+      "views": 10000
+    },
+    {
+      "id": "6EFgNdwpB7s",
+      "title": "StatsLearning Chapter 9 - part 4",
+      "views": 7800
+    },
+    {
+      "id": "4KoL9vUI7xs",
+      "title": "StatsLearning Lect12 R SVM A 111213",
+      "views": 5800
+    },
+    {
+      "id": "327P9vMz19Y",
+      "title": "StatsLearning Lect12 R SVM B 111213",
+      "views": 3600
+    },
+    {
+      "id": "WIMgMBYqhKE",
+      "title": "StatsLearning Chapter 10 - part 1",
+      "views": 21000
+    },
+    {
+      "id": "zMfomUERNww",
+      "title": "StatsLearning Chapter 10 - part 2",
+      "views": 13000
+    },
+    {
+      "id": "6psm_Y5QREU",
+      "title": "StatsLearning Chapter 10 - part 3",
+      "views": 14000
+    },
+    {
+      "id": "7r3jfKKXhjY",
+      "title": "StatsLearning Chapter 10 - part 4",
+      "views": 10000
+    },
+    {
+      "id": "59TkGcuh5FA",
+      "title": "StatsLearning Chapter 10 - part 5",
+      "views": 7600
+    },
+    {
+      "id": "pOUE0_3aPX8",
+      "title": "StatsLearning R Unsupervised A 112713",
+      "views": 6300
+    },
+    {
+      "id": "Zp4FJApjOY0",
+      "title": "StatsLearning R Unsupervised B 112713",
+      "views": 4300
+    },
+    {
+      "id": "-yxzBiesg48",
+      "title": "StatsLearning R Unsupervised C 112713",
+      "views": 4100
+    }
+  ]
+}

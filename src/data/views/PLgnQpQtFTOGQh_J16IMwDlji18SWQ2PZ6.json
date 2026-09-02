@@ -1,0 +1,189 @@
+{
+  "lectures": [
+    {
+      "id": "mQvKhmWagB4",
+      "title": "Welcome to the Mobile Sensing and Robotics 2 Course (Cyrill Stachniss, 2021)",
+      "views": 16000
+    },
+    {
+      "id": "BuRCJ2fegcc",
+      "title": "SLAM - 5 Minutes with Cyrill",
+      "views": 73000
+    },
+    {
+      "id": "0I30M6yTklo",
+      "title": "Introduction to SLAM (Cyrill Stachniss)",
+      "views": 45000
+    },
+    {
+      "id": "87S82fh4rI4",
+      "title": "Least Squares - 5 Minutes with Cyrill",
+      "views": 22000
+    },
+    {
+      "id": "r2cyMQ5NB1o",
+      "title": "Least Squares - An Informal Introduction (Cyrill Stachniss)",
+      "views": 19000
+    },
+    {
+      "id": "QWDM4cFdKrE",
+      "title": "Iterative Closest Point (ICP) - 5 Minutes with Cyrill",
+      "views": 57000
+    },
+    {
+      "id": "dhzLQfDBx2Q",
+      "title": "ICP & Point Cloud Registration - Part 1: Known Data Association & SVD (Cyrill Stachniss, 2021)",
+      "views": 52000
+    },
+    {
+      "id": "ktRqKxddjJk",
+      "title": "ICP & Point Cloud Registration - Part 2: Unknown Data Association (Cyrill Stachniss, 2021)",
+      "views": 27000
+    },
+    {
+      "id": "2hC9IG6MFD0",
+      "title": "Point-to-Plane and Generalized ICP - 5 Minutes with Cyrill",
+      "views": 15000
+    },
+    {
+      "id": "CJE59i8oxIE",
+      "title": "ICP & Point Cloud Registration - Part 3: Non-linear Least Squares (Cyrill Stachniss, 2021)",
+      "views": 17000
+    },
+    {
+      "id": "uHbRKvD8TWg",
+      "title": "Graph-based SLAM using Pose Graphs (Cyrill Stachniss)",
+      "views": 67000
+    },
+    {
+      "id": "mZBdPgBtrCM",
+      "title": "Graph-Based SLAM with Landmarks (Cyrill Stachniss)",
+      "views": 18000
+    },
+    {
+      "id": "lmj2Jk5tl60",
+      "title": "Bundle Adjustment - 5 Minutes with Cyrill",
+      "views": 42000
+    },
+    {
+      "id": "uRSow8nMEw8",
+      "title": "Hierarchical Pose Graphs for SLAM (Cyrill Stachniss)",
+      "views": 4700
+    },
+    {
+      "id": "z60RbiY18I8",
+      "title": "Robust Least Squares for Graph-Based SLAM (Cyrill Stachniss)",
+      "views": 9000
+    },
+    {
+      "id": "ViCqs7J2yi0",
+      "title": "What Cameras Measure - 5 Minutes with Cyrill",
+      "views": 13000
+    },
+    {
+      "id": "nGya59Je4Bs",
+      "title": "Visual Feature Part 1: Computing Keypoints (Cyrill Stachniss)",
+      "views": 23000
+    },
+    {
+      "id": "4AvTMVD9ig0",
+      "title": "SIFT - 5 Minutes with Cyrill",
+      "views": 104000
+    },
+    {
+      "id": "25GkgxClSaU",
+      "title": "Binary Features - 5 Minutes with Cyrill",
+      "views": 11000
+    },
+    {
+      "id": "CMolhcwtGAU",
+      "title": "Visual Features Part 2: Features Descriptors (Cyrill Stachniss)",
+      "views": 19000
+    },
+    {
+      "id": "9D5rrtCC_E0",
+      "title": "RANSAC - 5 Minutes with Cyrill",
+      "views": 84000
+    },
+    {
+      "id": "Cu1f6vpEilg",
+      "title": "RANSAC - Random Sample Consensus (Cyrill Stachniss)",
+      "views": 35000
+    },
+    {
+      "id": "ND2fa08vxkY",
+      "title": "Camera Intrinsics and Extrinsics - 5 Minutes with Cyrill",
+      "views": 62000
+    },
+    {
+      "id": "uHApDqH-8UE",
+      "title": "Camera Parameters - Extrinsics and Intrinsics (Cyrill Stachniss)",
+      "views": 43000
+    },
+    {
+      "id": "nRVuLFQ_Bng",
+      "title": "Mapping the 3D World to an Image - 5 Minutes with Cyrill",
+      "views": 45000
+    },
+    {
+      "id": "Fdwa0UEJ_F8",
+      "title": "Direct Linear Transform - 5 Minutes with Cyrill",
+      "views": 22000
+    },
+    {
+      "id": "3NcQbZu6xt8",
+      "title": "Direct Linear Transform for Camera Calibration and Localization (Cyrill Stachniss)",
+      "views": 39000
+    },
+    {
+      "id": "26nV4oDLiqc",
+      "title": "Intrinsic Camera Calibration - 5 Minutes with Cyrill",
+      "views": 20000
+    },
+    {
+      "id": "-9He7Nu3u8s",
+      "title": "Camera Calibration using Zhang's Method (Cyrill Stachniss)",
+      "views": 55000
+    },
+    {
+      "id": "xdlLXEyCoJY",
+      "title": "Projective 3 Point Algorithm - 5 Minutes with Cyrill",
+      "views": 17000
+    },
+    {
+      "id": "N1aCvzFll6Q",
+      "title": "Projective 3-Point Algorithm using Grunert's Method (Cyrill Stachniss)",
+      "views": 17000
+    },
+    {
+      "id": "auhpPoAqprk",
+      "title": "Fundamental and Essential Matrix - 5 Minutes with Cyrill",
+      "views": 34000
+    },
+    {
+      "id": "gYYumFSDsvA",
+      "title": "Relative Orientation, Fundamental and Essential Matrix (Cyrill Stachniss)",
+      "views": 19000
+    },
+    {
+      "id": "OpiqzVkwNz4",
+      "title": "Stereo Normal Case - 5 Minutes with Cyrill",
+      "views": 5700
+    },
+    {
+      "id": "cLeF-KNHgwU",
+      "title": "Epipolar Geometry Basics (Cyrill Stachniss)",
+      "views": 24000
+    },
+    {
+      "id": "z92eUJjIJeY",
+      "title": "8 Point Algorithm - 5 Minutes with Cyrill",
+      "views": 21000
+    },
+    {
+      "id": "zX5NeY-GTO0",
+      "title": "Direct Solution for Estimating the Fundamental and Essential Matrix (Cyrill Stachniss)",
+      "views": 24000
+    }
+  ]
+}

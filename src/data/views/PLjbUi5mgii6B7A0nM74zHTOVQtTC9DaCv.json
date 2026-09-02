@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "Z1cSby8ZzhA",
+      "title": "Lecture 01: Linear regression",
+      "views": 33000
+    },
+    {
+      "id": "ngAOF4ikBhk",
+      "title": "Lecture 02: Linear classification",
+      "views": 4400
+    },
+    {
+      "id": "xFvnbFq5yNA",
+      "title": "Lecture 03: Nonparametric regression",
+      "views": 6800
+    },
+    {
+      "id": "89ymQHrvOks",
+      "title": "Lecture 04: Nonparametric regression",
+      "views": 2700
+    },
+    {
+      "id": "aM1JfBq5YPk",
+      "title": "Lecture 05: Nonparametric classification",
+      "views": 2400
+    },
+    {
+      "id": "U_Vqb7bUKv0",
+      "title": "Lecture 06: Nonparametric classification",
+      "views": 1600
+    },
+    {
+      "id": "gb25CfVZm3Q",
+      "title": "Lecture 07: RKHS",
+      "views": 8900
+    },
+    {
+      "id": "iCEVfnfv5fs",
+      "title": "Lecture 08: Density estimation",
+      "views": 2200
+    },
+    {
+      "id": "ByUwKWY_xlw",
+      "title": "Lecture 09: Clustering",
+      "views": 1500
+    },
+    {
+      "id": "-2QK3BiUEvg",
+      "title": "Lecture 10: Clustering",
+      "views": 906
+    },
+    {
+      "id": "hbTNNz3CaK8",
+      "title": "Lecture 11: Clustering",
+      "views": 780
+    },
+    {
+      "id": "8zEOARsNH9A",
+      "title": "Lecture 12: High Dimensional Testing",
+      "views": 1400
+    },
+    {
+      "id": "Gx3p94j_088",
+      "title": "Lecture 13: Concentration of Measure",
+      "views": 1400
+    },
+    {
+      "id": "K0H_eQcLsWM",
+      "title": "Lecture 14: Concentration of measure",
+      "views": 957
+    },
+    {
+      "id": "bdkuAyFmUt8",
+      "title": "Lecture 15: Minimax theory",
+      "views": 2300
+    },
+    {
+      "id": "kezCd4prM7Q",
+      "title": "Lecture 16: Minimax theory",
+      "views": 1200
+    },
+    {
+      "id": "Qa9fmocsEvE",
+      "title": "Lecture 17: Sparsity and the lasso",
+      "views": 5500
+    },
+    {
+      "id": "4Jddwwdk3sI",
+      "title": "Lecture 18: Sparsity and the lasso",
+      "views": 2400
+    },
+    {
+      "id": "DQTv8_aoztc",
+      "title": "Lecture 19: Sparsity and the lasso",
+      "views": 3200
+    },
+    {
+      "id": "Hn8NtydkeDs",
+      "title": "Lecture 20: Sparsity and the lasso",
+      "views": 2400
+    },
+    {
+      "id": "wfHKBktMdDU",
+      "title": "Lecture 21: Graphical models",
+      "views": 2200
+    },
+    {
+      "id": "Cdpfpy4bXPI",
+      "title": "Lecture 22: Graphical models",
+      "views": 2400
+    }
+  ]
+}

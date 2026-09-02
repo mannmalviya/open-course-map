@@ -1,0 +1,62 @@
+{
+  "title": "Stanford's CS Curriculum",
+  "kind": "curated",
+  "field": "CS",
+  "source": "Mann's picks from the Stanford CS courses on the map — not the department's requirements",
+  "blurb": "Algorithms, probability, linear algebra, parallel systems, numerical methods, AI.",
+  "steps": [
+    {
+      "course": "stanford-alg1",
+      "pos": { "x": 40, "y": 0 },
+      "note": "Roughgarden. Divide and conquer, sorting, graphs — the half of algorithms you use every day."
+    },
+    {
+      "course": "stanford-cs109",
+      "pos": { "x": 400, "y": 0 },
+      "note": "Probability written for programmers, and the prerequisite everything on the ML side assumes."
+    },
+    {
+      "course": "stanford-engr108",
+      "pos": { "x": 760, "y": 0 },
+      "note": "Boyd's applied linear algebra. Stanford's own courses point at Math 51 here, which is not online."
+    },
+    {
+      "course": "stanford-cs149",
+      "pos": { "x": 1120, "y": 0 },
+      "note": "The systems course on this route. Parallel hardware and how to write for it — take it whenever."
+    },
+    {
+      "course": "stanford-alg2",
+      "pos": { "x": 40, "y": 380 },
+      "note": "The second half: greedy, dynamic programming, and what to do when a problem turns out to be NP-hard."
+    },
+    {
+      "course": "stanford-cs205a",
+      "pos": { "x": 1120, "y": 380 },
+      "note": "Numerical methods for graphics, vision and robotics. Worth it if you are heading near any of those."
+    },
+    {
+      "course": "stanford-cs221",
+      "pos": { "x": 40, "y": 760 },
+      "note": "AI the broad way — search, logic, planning — before CS229 narrows it to learning from data."
+    },
+    {
+      "course": "stanford-cs229",
+      "pos": { "x": 400, "y": 1140 },
+      "note": "Machine learning, and where this route runs into Stanford's AI Curriculum."
+    },
+    {
+      "course": "stanford-cs124",
+      "pos": { "x": 760, "y": 1140 },
+      "note": "Text, search and information retrieval. It stands on its own — no arrow, because nothing here is its prerequisite."
+    }
+  ],
+  "edges": [
+    { "from": "stanford-alg1", "to": "stanford-alg2" },
+    { "from": "stanford-alg2", "to": "stanford-cs221" },
+    { "from": "stanford-cs109", "to": "stanford-cs221" },
+    { "from": "stanford-cs109", "to": "stanford-cs229" },
+    { "from": "stanford-engr108", "to": "stanford-cs229" },
+    { "from": "stanford-cs221", "to": "stanford-cs229" }
+  ]
+}

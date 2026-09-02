@@ -1,0 +1,258 @@
+{
+  "courses": {
+    "cmu-10708": {
+      "title": "10-708 Graphical Models",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "CMU 10-708 · Xing · 2020",
+          "url": "https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn",
+          "date": "Spring 2020",
+          "youtubeId": "oqvdH_8lmCA",
+          "primary": true
+        }
+      ]
+    },
+    "nus-cs5340": {
+      "title": "CS5340 Uncertainty in AI",
+      "university": "NUS",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "NUS CS5340 · Lee",
+          "url": "https://github.com/clear-nus/CS5340-notebooks",
+          "youtube": "https://www.youtube.com/playlist?list=PLxg0CGqViygOb9Eyc8IXM27doxjp2SK0H",
+          "date": "2020–21",
+          "youtubeId": "-NHytx_bcho",
+          "primary": true
+        }
+      ]
+    },
+    "notredame-pgm": {
+      "title": "Graphical Models",
+      "university": "Notre Dame",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Notre Dame · Zabaras · 2018",
+          "url": "https://www.zabaras.com/probabilistic-graphical-models",
+          "youtube": "https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM",
+          "date": "Spring 2018",
+          "youtubeId": "IpfVQ223hME",
+          "primary": true
+        }
+      ]
+    },
+    "ist-structured-data": {
+      "title": "Learning Structured Data",
+      "university": "IST Austria",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "IST Austria · Lampert · 2016",
+          "url": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf",
+          "youtube": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf",
+          "date": "2016",
+          "youtubeId": "uAsys22y5mY",
+          "primary": true
+        }
+      ]
+    },
+    "mit-6s897": {
+      "title": "6.S897 ML for Healthcare",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MIT 6.S897 · Sontag, Szolovits · 2019",
+          "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j",
+          "date": "Spring 2019",
+          "youtubeId": "vof7x8r_ZUA",
+          "primary": true
+        }
+      ]
+    },
+    "mila-causal-inference": {
+      "title": "Causal Inference",
+      "university": "Mila",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Mila · Neal · 2020",
+          "url": "https://www.bradyneal.com/causal-inference-course",
+          "youtube": "https://www.youtube.com/playlist?list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0",
+          "date": "Fall 2020",
+          "youtubeId": "CfzO4IEMVUk",
+          "primary": true
+        }
+      ]
+    },
+    "cambridge-itprnn": {
+      "title": "Information Theory",
+      "university": "Cambridge",
+      "level": "undergrad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cambridge · MacKay · 2012",
+          "url": "http://www.inference.org.uk/mackay/itprnn",
+          "youtube": "https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6",
+          "date": "2012",
+          "youtubeId": "BCiZc0n6COY",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-math4ml": {
+      "title": "Mathematics for ML",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Tübingen · von Luxburg · 2020",
+          "url": "https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS",
+          "date": "Winter 2020",
+          "youtubeId": "PZwxF59DhYA",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10606": {
+      "title": "Math Background for ML",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "CMU 10-606/607 · Gordon · 2017",
+          "url": "https://canvas.cmu.edu/courses/603/assignments/syllabus",
+          "youtube": "https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA",
+          "date": "Fall 2017",
+          "youtubeId": "ssWr6Q0mGIA",
+          "primary": true
+        }
+      ]
+    },
+    "princeton-cos302": {
+      "title": "COS 302 Math for ML",
+      "university": "Princeton",
+      "level": "undergrad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Princeton COS 302 · Adams · 2021",
+          "url": "https://www.cs.princeton.edu/courses/archive/spring21/cos302",
+          "youtube": "https://www.youtube.com/playlist?list=PLCO4cUaBLHFEHo42HVIVWaSOvbAiH30uc",
+          "date": "Spring 2021",
+          "youtubeId": "kqLbTYdYcPc",
+          "primary": true
+        },
+        {
+          "label": "Princeton COS 302 · Rusinkiewicz · 2020",
+          "url": "https://www.cs.princeton.edu/courses/archive/fall20/cos302/outline.html",
+          "youtube": "https://www.youtube.com/playlist?list=PL88aSuXxl_dSjC5pIG8bGkC5wsUPyW_Hh",
+          "date": "Fall 2020",
+          "youtubeId": "3I7Vpof52FQ"
+        }
+      ]
+    },
+    "arizona-math-camp": {
+      "title": "Math Camp",
+      "university": "Arizona",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Arizona · Walker · 2019",
+          "url": "http://www.u.arizona.edu/~mwalker/MathCamp2019.htm",
+          "youtube": "https://www.youtube.com/playlist?list=PLcjqUUQt__ZGLhwUacPm7_RKs2eJNFwco",
+          "date": "2019",
+          "youtubeId": "IxjC6Z5cu_Q",
+          "primary": true
+        }
+      ]
+    },
+    "iisc-info-theory": {
+      "title": "IISc Information Theory",
+      "university": "IISc",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IISc · Tyagi · 2020",
+          "url": "https://ece.iisc.ac.in/~htyagi/course-E2201-2020.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLgMDNELGJ1CYS-8dlMGPIaowVfeda4nUj",
+          "date": "2018–2020",
+          "youtubeId": "TlzTNjD_t8I",
+          "primary": true
+        }
+      ]
+    },
+    "mit-18409": {
+      "title": "18.409 Algorithmic ML",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "MIT 18.409 · Moitra · 2015",
+          "url": "http://people.csail.mit.edu/moitra/409.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx",
+          "date": "Spring 2015",
+          "youtubeId": "nsHbkVMaUGk",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

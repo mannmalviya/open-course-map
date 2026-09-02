@@ -1,0 +1,64 @@
+{
+  "lectures": [
+    {
+      "id": "V9Roouqfu-M",
+      "title": "L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020",
+      "views": 61000
+    },
+    {
+      "id": "iyEOk8KCRUw",
+      "title": "L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020",
+      "views": 45000
+    },
+    {
+      "id": "JBb5sSC0JoY",
+      "title": "L3 Flow Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley -- Spring 2020",
+      "views": 30000
+    },
+    {
+      "id": "FMuvUZXMzKM",
+      "title": "L4 Latent Variable Models (VAE) -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley",
+      "views": 37000
+    },
+    {
+      "id": "1CT-kxjYbFU",
+      "title": "Lecture 5 Implicit Models -- GANs  Part I --- UC Berkeley, Spring 2020",
+      "views": 23000
+    },
+    {
+      "id": "0W1dixJfKL4",
+      "title": "Lecture 6  Implicit Models / GANs part II --- CS294-158-SP20 Deep Unsupervised Learning -- Berkeley",
+      "views": 8400
+    },
+    {
+      "id": "dMUes74-nYY",
+      "title": "Lecture 7 Self-Supervised Learning -- UC Berkeley Spring 2020 - CS294-158 Deep Unsupervised Learning",
+      "views": 35000
+    },
+    {
+      "id": "1sJuWg5dULg",
+      "title": "L8 Round-up of Strengths and Weaknesses of Unsupervised Learning Methods -- UC Berkeley SP20",
+      "views": 4800
+    },
+    {
+      "id": "PXOhi6m09bA",
+      "title": "L9 Semi-Supervised Learning and Unsupervised Distribution Alignment -- CS294-158-SP20 UC Berkeley",
+      "views": 15000
+    },
+    {
+      "id": "pPyOlGvWoXA",
+      "title": "L10 Compression -- UC Berkeley, Spring 2020, CS294-158 Deep Unsupervised Learning",
+      "views": 9100
+    },
+    {
+      "id": "BnpB3GrpsfM",
+      "title": "L11 Language Models -- guest instructor: Alec Radford (OpenAI) --- Deep Unsupervised Learning SP20",
+      "views": 30000
+    },
+    {
+      "id": "YqvhDPd1UEw",
+      "title": "L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020",
+      "views": 11000
+    }
+  ]
+}

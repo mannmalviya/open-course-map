@@ -56,10 +56,35 @@
           "primary": true
         }
       ]
+    },
+    "iitr-multivariable": {
+      "title": "NPTEL Multivariable Calc",
+      "university": "IIT Roorkee",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "IIT Roorkee · Gupta, Kumar",
+          "url": "https://nptel.ac.in/syllabus/111107108/",
+          "youtube": "https://www.youtube.com/playlist?list=PLq-Gm0yRYwTiQtK374NzhFOcQkWmJ71vx",
+          "date": "2018",
+          "youtubeId": "Ld9AtgPmyvM",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [
-    { "from": "mit-1801", "to": "mit-1802" },
-    { "from": "mit-1802", "to": "mit-1803" }
+    {
+      "from": "mit-1801",
+      "to": "mit-1802"
+    },
+    {
+      "from": "mit-1802",
+      "to": "mit-1803"
+    }
   ]
 }

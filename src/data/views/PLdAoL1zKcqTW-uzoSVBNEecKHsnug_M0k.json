@@ -1,0 +1,159 @@
+{
+  "lectures": [
+    {
+      "id": "GouhgbE5gPk",
+      "title": "CS480/680 Lecture 1: Course Introduction",
+      "views": 60000
+    },
+    {
+      "id": "5AXF14_OCNE",
+      "title": "CS480/680 Lecture 2: K-nearest neighbours",
+      "views": 22000
+    },
+    {
+      "id": "z9SUst3X5iU",
+      "title": "CS480/680 Lecture 3: Linear Regression",
+      "views": 12000
+    },
+    {
+      "id": "hSZGE_CJnGg",
+      "title": "CS480/680 Lecture 4: Statistical Learning",
+      "views": 12000
+    },
+    {
+      "id": "bvh_HObXZmQ",
+      "title": "CS480/680 Lecture 5: Statistical Linear Regression",
+      "views": 9700
+    },
+    {
+      "id": "5rk4wWKvd6c",
+      "title": "CS480/680 Lecture 6: Tools for surveys (Paulo Pacheco)",
+      "views": 2300
+    },
+    {
+      "id": "WoLTLru_UBI",
+      "title": "CS480/680 Lecture 6: Kaggle datasets and competitions",
+      "views": 2300
+    },
+    {
+      "id": "3nmBnudFAR8",
+      "title": "CS480/680 Lecture 6: Normalizing flows (Priyank Jaini)",
+      "views": 4700
+    },
+    {
+      "id": "8XZolToe1jM",
+      "title": "CS480/680 Lecture 6: Unsupervised word translation (Kira Selby)",
+      "views": 2700
+    },
+    {
+      "id": "bmczQuXw7ak",
+      "title": "CS480/680 Lecture 6: Fact checking and reinforcement learning (Vik Goel)",
+      "views": 1600
+    },
+    {
+      "id": "IaLGMJzCdIw",
+      "title": "CS480/680 Lecture 6: Sum-product networks (Pranav Subramani)",
+      "views": 3600
+    },
+    {
+      "id": "jeo7Cpsyttc",
+      "title": "CS480/680 Lecture 6: EM and mixture models (Guojun Zhang)",
+      "views": 2100
+    },
+    {
+      "id": "tRNgLb0S2mo",
+      "title": "CS480/680 Lecture 6: Model compression for NLP (Ashutosh Adhikari)",
+      "views": 1900
+    },
+    {
+      "id": "Weq0KiSTHAs",
+      "title": "CS480/680 Lecture 7: Mixture of Gaussians",
+      "views": 8300
+    },
+    {
+      "id": "CXV-vVoPFHw",
+      "title": "CS480/680 Lecture 8: Logistic regression and generalized linear models",
+      "views": 9000
+    },
+    {
+      "id": "dXxuCARJ1CY",
+      "title": "CS480/680 Lecture 9: Perceptrons and single layer neural nets",
+      "views": 8000
+    },
+    {
+      "id": "-SCDyTz0mWI",
+      "title": "CS480/680 Lecture 10: Multi-layer neural networks and backpropagation",
+      "views": 6600
+    },
+    {
+      "id": "nzSBvINmg28",
+      "title": "CS480/680 Lecture 11: Kernel Methods",
+      "views": 10000
+    },
+    {
+      "id": "exqpaqaPG2M",
+      "title": "CS480/680 Lecture 12: Gaussian Processes",
+      "views": 39000
+    },
+    {
+      "id": "pM14uopquiA",
+      "title": "CS480/680 Lecture 13: Support vector machines",
+      "views": 6100
+    },
+    {
+      "id": "-9aO4sM_zHg",
+      "title": "CS480/680 Lecture 14: Support vector machines (continued)",
+      "views": 2700
+    },
+    {
+      "id": "j-O9Fu45zdU",
+      "title": "CS480/680 Lecture 15: Deep neural networks",
+      "views": 6200
+    },
+    {
+      "id": "F08TkdjdrL8",
+      "title": "CS480/680 Lecture 16: Convolutional neural networks",
+      "views": 6600
+    },
+    {
+      "id": "9EHWTHJkqUY",
+      "title": "CS480/680 Lecture 17: Hidden Markov Models",
+      "views": 21000
+    },
+    {
+      "id": "lClNhXVNZ-0",
+      "title": "CS480/680 Lecture 18: Recurrent and recursive neural networks",
+      "views": 24000
+    },
+    {
+      "id": "OyFJWRnt_AY",
+      "title": "CS480/680 Lecture 19: Attention and Transformer Networks",
+      "views": 371000
+    },
+    {
+      "id": "E28CVTbNoSA",
+      "title": "CS480/680 Lecture 20: Autoencoders",
+      "views": 21000
+    },
+    {
+      "id": "DWVlEw0D3gA",
+      "title": "CS480/680 Lecture 21: Generative networks (variational autoencoders and GANs)",
+      "views": 17000
+    },
+    {
+      "id": "gTUigPt8fVo",
+      "title": "CS480/680 Lecture 22: Ensemble learning (bagging and boosting)",
+      "views": 10000
+    },
+    {
+      "id": "3KUvxIOJD0k",
+      "title": "CS480/680 Lecture 23: Normalizing flows (Priyank Jaini)",
+      "views": 21000
+    },
+    {
+      "id": "B3sN1BymGdc",
+      "title": "CS480/680 Lecture 24: Gradient boosting, bagging, decision forests",
+      "views": 7800
+    }
+  ]
+}

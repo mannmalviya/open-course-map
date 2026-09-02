@@ -1,0 +1,209 @@
+{
+  "lectures": [
+    {
+      "id": "MrLPzBxG95I",
+      "title": "Lecture 1 \"Supervised Learning Setup\" -Cornell CS4780 Machine Learning for Decision Making SP17",
+      "views": 277000
+    },
+    {
+      "id": "zj-5nkNKAow",
+      "title": "Lecture 2 \"Supervised Learning Setup Continued\" -Cornell CS4780 SP17",
+      "views": 74000
+    },
+    {
+      "id": "oymtGlGdT-k",
+      "title": "Lecture 3 \"k-nearest neighbors\" -Cornell CS4780 SP17",
+      "views": 91000
+    },
+    {
+      "id": "BbYV8UfMJSA",
+      "title": "Lecture 4 \"Curse of Dimensionality / Perceptron\" -Cornell CS4780 SP17",
+      "views": 91000
+    },
+    {
+      "id": "wl7gVvI-HuY",
+      "title": "Lecture 5 \"Perceptron\" -Cornell CS4780 SP17",
+      "views": 55000
+    },
+    {
+      "id": "kObhWlqIeD8",
+      "title": "Lecture 6 \"Perceptron Convergence Proof\" -Cornell CS4780 SP17",
+      "views": 48000
+    },
+    {
+      "id": "RIawrYLVdIw",
+      "title": "Lecture 7 \"Estimating Probabilities from Data: Maximum Likelihood Estimation\" -Cornell CS4780 SP17",
+      "views": 70000
+    },
+    {
+      "id": "pDHEX2usCS0",
+      "title": "Machine Learning Lecture 8 \"Estimating Probabilities from Data: Naive Bayes\" -Cornell CS4780 SP17",
+      "views": 56000
+    },
+    {
+      "id": "VDK0nkjFh5U",
+      "title": "Machine Learning Lecture 9 \"Naive Bayes continued\" -Cornell CS4780 SP17",
+      "views": 30000
+    },
+    {
+      "id": "rqB0XWoMreU",
+      "title": "Machine Learning Lecture 10 \"Naive Bayes continued\" -Cornell CS4780 SP17",
+      "views": 25000
+    },
+    {
+      "id": "GnkDzIOxfzI",
+      "title": "Machine Learning Lecture 11 \"Logistic Regression\" -Cornell CS4780 SP17",
+      "views": 49000
+    },
+    {
+      "id": "o6FfdP2uYh4",
+      "title": "Machine Learning Lecture 12 \"Gradient Descent / Newton's Method\" -Cornell CS4780 SP17",
+      "views": 54000
+    },
+    {
+      "id": "_21o_ylL0q4",
+      "title": "Machine Learning Lecture 13 \"Linear / Ridge Regression\" -Cornell CS4780 SP17",
+      "views": 40000
+    },
+    {
+      "id": "xpHQ6UhMlx4",
+      "title": "Machine Learning Lecture 14 \"(Linear) Support Vector Machines\" -Cornell CS4780 SP17",
+      "views": 52000
+    },
+    {
+      "id": "FwYNPomeBBg",
+      "title": "Machine Learning Lecture 15 \"(Linear) Support Vector Machines continued\" -Cornell CS4780 SP17",
+      "views": 31000
+    },
+    {
+      "id": "AkmPv2WEsHw",
+      "title": "Machine Learning Lecture 16 \"Empirical Risk Minimization\" -Cornell CS4780 SP17",
+      "views": 31000
+    },
+    {
+      "id": "NLBwFyT9Qks",
+      "title": "Machine Learning Lecture 17 \"Regularization / Review\" -Cornell CS4780 SP17",
+      "views": 19000
+    },
+    {
+      "id": "YeBowxFenjw",
+      "title": "Machine Learning Lecture 18 \"Review Lecture II\" -Cornell CS4780 SP17",
+      "views": 13000
+    },
+    {
+      "id": "zUJbRO0Wavo",
+      "title": "Machine Learning Lecture 19 \"Bias Variance Decomposition\" -Cornell CS4780 SP17",
+      "views": 58000
+    },
+    {
+      "id": "65UJPA10dW8",
+      "title": "Machine Learning Lecture 20 \"Model Selection / Regularization / Overfitting\" -Cornell CS4780 SP17",
+      "views": 25000
+    },
+    {
+      "id": "a7cofmFgwIk",
+      "title": "Machine Learning Lecture 21 \"Model Selection / Kernels\" -Cornell CS4780 SP17",
+      "views": 32000
+    },
+    {
+      "id": "FgTQG2IozlM",
+      "title": "Machine Learning Lecture 22 \"More on Kernels\" -Cornell CS4780 SP17",
+      "views": 27000
+    },
+    {
+      "id": "erqL3y2es1I",
+      "title": "Machine Learning Lecture 23 \"Kernels Continued Continued\" -Cornell CS4780 SP17",
+      "views": 16000
+    },
+    {
+      "id": "RwF1esLCG4U",
+      "title": "Machine Learning Lecture 24 \"Kernel Support Vector Machine\" -Cornell CS4780 SP17",
+      "views": 22000
+    },
+    {
+      "id": "7LlpTABc27s",
+      "title": "Machine Learning Lecture 25 \"Kernelized algorithms\" -Cornell CS4780 SP17",
+      "views": 16000
+    },
+    {
+      "id": "R-NUdqxKjos",
+      "title": "Machine Learning Lecture 26 \"Gaussian Processes\" -Cornell CS4780 SP17",
+      "views": 87000
+    },
+    {
+      "id": "BzHJ57QCdVo",
+      "title": "Machine Learning Lecture 27 \"Gaussian Processes II / KD-Trees / Ball-Trees\" -Cornell CS4780 SP17",
+      "views": 34000
+    },
+    {
+      "id": "E1_WCdUAtyE",
+      "title": "Machine Learning Lecture 28 \"Ball Trees / Decision Trees\" -Cornell CS4780 SP17",
+      "views": 36000
+    },
+    {
+      "id": "a3ioGSwfVpE",
+      "title": "Machine Learning Lecture 29 \"Decision Trees / Regression Trees\" -Cornell CS4780 SP17",
+      "views": 52000
+    },
+    {
+      "id": "0LB1cy2sCXc",
+      "title": "Machine Learning Lecture 30 \"Bagging\" -Cornell CS4780 SP17",
+      "views": 30000
+    },
+    {
+      "id": "4EOCQJgqAOY",
+      "title": "Machine Learning Lecture 31 \"Random Forests / Bagging\" -Cornell CS4780 SP17",
+      "views": 53000
+    },
+    {
+      "id": "dosOtgSdbnY",
+      "title": "Machine Learning Lecture 32 \"Boosting\" -Cornell CS4780 SP17",
+      "views": 43000
+    },
+    {
+      "id": "Vd6hzcwEa2k",
+      "title": "Machine Learning Lecture 33 \"Boosting Continued\" -Cornell CS4780 SP17",
+      "views": 19000
+    },
+    {
+      "id": "toOAToTaGV4",
+      "title": "Machine Learning Lecture 34 \"Boosting / Adaboost\" -Cornell CS4780 SP17",
+      "views": 19000
+    },
+    {
+      "id": "kPXxbmBsFxs",
+      "title": "Machine Learning Lecture 35 \"Neural Networks / Deep Learning\" -Cornell CS4780 SP17",
+      "views": 24000
+    },
+    {
+      "id": "zmu9wR2c7Z4",
+      "title": "Machine Learning Lecture 36 \"Neural Networks / Deep Learning Continued\" -Cornell CS4780 SP17",
+      "views": 16000
+    },
+    {
+      "id": "wqpIohLjsAY",
+      "title": "Machine Learning Lecture 37 \"Neural Networks / Deep Learning\" -Cornell CS4780 SP17",
+      "views": 17000
+    },
+    {
+      "id": "LzkBBjj1rHs",
+      "title": "In-class Kaggle Competition in less than 5 Minutes",
+      "views": 12000
+    },
+    {
+      "id": "k3UvZD6DGbQ",
+      "title": "Machine Learning Certificate from Cornell University",
+      "views": 17000
+    },
+    {
+      "id": "Nu7VZeW5TaE",
+      "title": "CS4780 Transformers (additional lecture 2023)",
+      "views": 10000
+    },
+    {
+      "id": "4AW_5nYQkuc",
+      "title": "The DBSCAN Clustering Algorithm Explained",
+      "views": 10000
+    }
+  ]
+}

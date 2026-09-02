@@ -1,0 +1,69 @@
+{
+  "lectures": [
+    {
+      "id": "Ntl_WNW8yGc",
+      "title": "Generalization I",
+      "views": 10000
+    },
+    {
+      "id": "KU6IaE37B9o",
+      "title": "Approximation Power",
+      "views": 3100
+    },
+    {
+      "id": "QO8HOqQ_6BQ",
+      "title": "Generalization II",
+      "views": 3500
+    },
+    {
+      "id": "8hZD5bMBbY4",
+      "title": "Generalization III",
+      "views": 2400
+    },
+    {
+      "id": "uC2IGoTE2u4",
+      "title": "Recent Developments in Over-parametrized Neural Networks, Part I",
+      "views": 3300
+    },
+    {
+      "id": "n5Zxi22801Q",
+      "title": "Generalization IV",
+      "views": 1500
+    },
+    {
+      "id": "QWjPGHVrcEQ",
+      "title": "Adversarial Examples",
+      "views": 2400
+    },
+    {
+      "id": "NGon2JyjO6Y",
+      "title": "Recent Developments in Over-parametrized Neural Networks, Part II",
+      "views": 2000
+    },
+    {
+      "id": "g4bu_6GaMK8",
+      "title": "Nearest Neighbors I",
+      "views": 1500
+    },
+    {
+      "id": "7uRVR9hsF0g",
+      "title": "Implicit Regularization I",
+      "views": 3100
+    },
+    {
+      "id": "IkuOmf7ey14",
+      "title": "Implicit Regularization II",
+      "views": 1500
+    },
+    {
+      "id": "tvYpLysVmcs",
+      "title": "Generative Models",
+      "views": 1500
+    },
+    {
+      "id": "8zUWHvg9DM0",
+      "title": "Nearest Neighbors II",
+      "views": 841
+    }
+  ]
+}

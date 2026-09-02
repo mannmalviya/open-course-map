@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "vi7lACKOUao",
+      "title": "Deep Learning Chapter 1 Introduction presented by Ian Goodfellow",
+      "views": 210000
+    },
+    {
+      "id": "mJ5PSaHeA0k",
+      "title": "Deep Learning Chapter 2 Linear Algebra presented by Gavin Crooks",
+      "views": 49000
+    },
+    {
+      "id": "NMhK2A_N0Nc",
+      "title": "Deep Learning Q&A with Yaroslav Bulatov",
+      "views": 7200
+    },
+    {
+      "id": "lAkUEnR3fKw",
+      "title": "Deep Learing Chapter 3 Probability presented by Pierre Dueck",
+      "views": 22000
+    },
+    {
+      "id": "lru0sx5E9tk",
+      "title": "Deep Learning Q&A with Alexander Toshev",
+      "views": 3400
+    },
+    {
+      "id": "zCZJKMI4Q-U",
+      "title": "Deep Learning Chapter 3 Information Theory presented by Yaroslav Bulatov",
+      "views": 10000
+    },
+    {
+      "id": "YHB2reIlNsI",
+      "title": "Deep Learning Chapter 4 Numerical Computation presented by Yaroslav Bulatov",
+      "views": 15000
+    },
+    {
+      "id": "h3MdSft3iyM",
+      "title": "Deep Learning Book Club CH5 live stream",
+      "views": 16000
+    },
+    {
+      "id": "CuCUCLIKa-Q",
+      "title": "Deep Learning Book Club CH5 (Part 2) live stream",
+      "views": 5700
+    },
+    {
+      "id": "oFa0Xe6fcBk",
+      "title": "Deep Learning Chapter 6 Deep Feedforward Networks presented by Timothee Cour",
+      "views": 18000
+    },
+    {
+      "id": "N9tBKAJLUzs",
+      "title": "Deep Learning Book Club CH7 live stream",
+      "views": 6600
+    },
+    {
+      "id": "hPlGXESi5f4",
+      "title": "Deep Learning Book Club CH8 live stream",
+      "views": 3800
+    },
+    {
+      "id": "Zqob4Rf6WWI",
+      "title": "Deep Learning Book Club CH9 CNNs live stream",
+      "views": 4500
+    },
+    {
+      "id": "ZVN14xYm7JA",
+      "title": "Deep Learning Chapter 10 Sequence Modeling: Recurrent and Recursive Nets presented by Ian Goodfellow",
+      "views": 33000
+    },
+    {
+      "id": "FgmP2MFBZnk",
+      "title": "Deep Learning Book Club CH11 Practical Methodology",
+      "views": 2800
+    },
+    {
+      "id": "4ZOn_OkrjRM",
+      "title": "Low Res Live Stream Chapter 12: Applications with author Ian Goodfellow",
+      "views": 2700
+    },
+    {
+      "id": "bgfOB8_zPoc",
+      "title": "Live Stream Chapter 13: Linear Factor Models with  Pankaj Kumar",
+      "views": 2800
+    },
+    {
+      "id": "2t7xafQ2l2A",
+      "title": "Low Res Live Stream Capter 14: Autoencoders with Yaroslav Bulatov",
+      "views": 3100
+    },
+    {
+      "id": "Xizde5FTAQ0",
+      "title": "Live Stream Chapter 15: Representation Learning with Cosmin Negruseri",
+      "views": 2800
+    },
+    {
+      "id": "L14c_D9Pc3U",
+      "title": "Live Stream Chapter 16: Structured Probabilistic Models for Deep Learning with Rajhans Samdani",
+      "views": 4600
+    },
+    {
+      "id": "M1fpAJArJA0",
+      "title": "Live Stream Chapter 17: Monte Carlo Methods with Don Dini",
+      "views": 2700
+    },
+    {
+      "id": "XewOh0m2ibs",
+      "title": "Live Stream Chapter18: Partition Function with Gavin Crooks",
+      "views": 2200
+    },
+    {
+      "id": "ngEf1ZOXeok",
+      "title": "Live Stream Chapter 19: Approximate Inference with Mimee Xu",
+      "views": 5400
+    },
+    {
+      "id": "mjs_8mksYTc",
+      "title": "Live Stream Chapter 20: Deep Generative Models with Vincent Marron",
+      "views": 4200
+    }
+  ]
+}

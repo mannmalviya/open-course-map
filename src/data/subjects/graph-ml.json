@@ -31,6 +31,44 @@
           "youtubeId": "K6anQieeurc"
         }
       ]
+    },
+    "ammi-gdl": {
+      "title": "Geometric Deep Learning",
+      "university": "AMMI",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "AMMI · Bronstein, Bruna, Cohen, Veličković · 2021",
+          "url": "https://geometricdeeplearning.com/lectures",
+          "youtube": "https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3",
+          "date": "2021",
+          "youtubeId": "PtA0lg_e5nA",
+          "primary": true
+        }
+      ]
+    },
+    "technion-graphs-manifolds": {
+      "title": "Graphs & Manifolds",
+      "university": "Technion",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Technion · Bronstein · 2017",
+          "url": "https://www.youtube.com/playlist?list=PLH39kM3nuavcVOUIIBraBNHjv-CwEd1uV",
+          "youtube": "https://www.youtube.com/playlist?list=PLH39kM3nuavcVOUIIBraBNHjv-CwEd1uV",
+          "date": "2017",
+          "youtubeId": "x3M-82Qcehw",
+          "primary": true
+        }
+      ]
     }
   }
 }

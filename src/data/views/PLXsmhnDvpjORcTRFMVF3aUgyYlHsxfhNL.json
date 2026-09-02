@@ -1,0 +1,359 @@
+{
+  "lectures": [
+    {
+      "id": "G27vjNQUoh4",
+      "title": "1.1 Introduction",
+      "views": 23000
+    },
+    {
+      "id": "1AX0U8Jd-pA",
+      "title": "2.1 Polytopes and Extreme Points",
+      "views": 7100
+    },
+    {
+      "id": "LMxT7A-Cc5w",
+      "title": "2.2 The Simplex Method, Part I",
+      "views": 3100
+    },
+    {
+      "id": "gZWfH7GZ0As",
+      "title": "2.3 The Simplex Method, Part II",
+      "views": 1700
+    },
+    {
+      "id": "Bg6B6Xj8Bb0",
+      "title": "2.4 The Simplex Method, Part III",
+      "views": 1500
+    },
+    {
+      "id": "t6-MpXo6aW4",
+      "title": "3.1 LP Duality, Part I",
+      "views": 2100
+    },
+    {
+      "id": "56wQKLLPynY",
+      "title": "3.2 LP Duality, Part II",
+      "views": 1000
+    },
+    {
+      "id": "zD2wqlw4Nyw",
+      "title": "3.3 LP Duality, Part III",
+      "views": 746
+    },
+    {
+      "id": "6XXYgGrRzVM",
+      "title": "3.4 The Primal Dual Framework, Part I",
+      "views": 2000
+    },
+    {
+      "id": "3xtebuct9f0",
+      "title": "3.5 The Primal Dual Framework, Part II",
+      "views": 1000
+    },
+    {
+      "id": "dAF__hro7xA",
+      "title": "4.1 Some Network Flow Problems",
+      "views": 3100
+    },
+    {
+      "id": "oORHVlR6kW0",
+      "title": "4.2 Primal Dual Applied to Shortest Path",
+      "views": 3300
+    },
+    {
+      "id": "cIaa7sT_-DM",
+      "title": "4.3 Primal Dual Applied to Max Flow",
+      "views": 1900
+    },
+    {
+      "id": "DQ-Op5UFpwU",
+      "title": "4.4 Ford Fulkerson, Part I",
+      "views": 824
+    },
+    {
+      "id": "hcVEdoo5dqs",
+      "title": "4.5 Ford Fulkerson, Part II",
+      "views": 383
+    },
+    {
+      "id": "0l3sRJ4-q78",
+      "title": "4.6 r-Arborescences",
+      "views": 1100
+    },
+    {
+      "id": "ZFiJHuBulFc",
+      "title": "5.1 Ellipsoid Algorithm, Part I",
+      "views": 1400
+    },
+    {
+      "id": "5bfllHzrgwA",
+      "title": "5.2 Ellipsoid Algorithm, Part II",
+      "views": 625
+    },
+    {
+      "id": "PiILEEAjKuc",
+      "title": "5.3 Ellipsoid Algorithm, Part III",
+      "views": 445
+    },
+    {
+      "id": "j01pieT0XeA",
+      "title": "5.4 Strong and Weak Oracles, Part I",
+      "views": 429
+    },
+    {
+      "id": "bHkkyVo0K1g",
+      "title": "5.5 Strong and Weak Oracles, Part II",
+      "views": 291
+    },
+    {
+      "id": "lPg78kbLIsM",
+      "title": "5.6 Rational Polyhedra",
+      "views": 320
+    },
+    {
+      "id": "a2JNaHp88sA",
+      "title": "6.1 Bipartite Matching, Part I",
+      "views": 894
+    },
+    {
+      "id": "0aMcu7da8QM",
+      "title": "6.2 Bipartite Matching, Part II",
+      "views": 596
+    },
+    {
+      "id": "sKljREy6PFY",
+      "title": "7.1 Totally Unimodular Matrices, Part I",
+      "views": 1700
+    },
+    {
+      "id": "FBny6I9QxwM",
+      "title": "7.2 Totally Unimodular Matrices, Part II",
+      "views": 592
+    },
+    {
+      "id": "Lmc7NzGu30Y",
+      "title": "7.3 Total Unimodularity, Part III",
+      "views": 440
+    },
+    {
+      "id": "xDBQmrwrBA8",
+      "title": "7.4 Total Dual Integrality, Part I",
+      "views": 624
+    },
+    {
+      "id": "l8YdPRxqlXo",
+      "title": "7.5 Total Dual Integrality, Part II",
+      "views": 399
+    },
+    {
+      "id": "JfsHAqY3ONc",
+      "title": "7.6 Total Dual Integrality, Part III",
+      "views": 311
+    },
+    {
+      "id": "1kR6frn3uIg",
+      "title": "7.7 r-Arborescences and TDI, Part I",
+      "views": 287
+    },
+    {
+      "id": "YsuxkNWFfJg",
+      "title": "7.8 r-Arborescences and TDI, Part II",
+      "views": 157
+    },
+    {
+      "id": "vD4R93U5_xs",
+      "title": "8.1 Non-Bipartite Matching, Part I",
+      "views": 1500
+    },
+    {
+      "id": "vgkAcydk7gw",
+      "title": "8.2 Non-Bipartite Matching, Part II",
+      "views": 612
+    },
+    {
+      "id": "08r8sszFJ-Y",
+      "title": "8.3 Non-Bipartite Matching, Part III",
+      "views": 439
+    },
+    {
+      "id": "lqRUeSQBDJA",
+      "title": "8.4 Non Bipartite Matching, Part IV",
+      "views": 309
+    },
+    {
+      "id": "PQkma12JEr8",
+      "title": "8.5 Non Bipartite Matching, Part V",
+      "views": 420
+    },
+    {
+      "id": "NkHHXn8pfQs",
+      "title": "8.6 The Matching Polytope, Part I",
+      "views": 823
+    },
+    {
+      "id": "vbzGfWQWizY",
+      "title": "8.7 The Matching Polytope, Part II",
+      "views": 448
+    },
+    {
+      "id": "GBn06GuYjRI",
+      "title": "8.8 The Matching Polytope, Part III",
+      "views": 275
+    },
+    {
+      "id": "Z0eSQapcE6A",
+      "title": "8.9 Max Weight Matching, Part I",
+      "views": 977
+    },
+    {
+      "id": "JYiiw-9Ke14",
+      "title": "8.10 Weighted Matching, Part II",
+      "views": 325
+    },
+    {
+      "id": "10oLc1yqZqM",
+      "title": "8.11 Weighted Matching, Part III",
+      "views": 201
+    },
+    {
+      "id": "gmVHSQNS_A0",
+      "title": "8.12 Weighted Matching, Part IV",
+      "views": 217
+    },
+    {
+      "id": "Z2BBK3Se_-s",
+      "title": "9.1 Matroids, Part I",
+      "views": 3300
+    },
+    {
+      "id": "00LtTNWnEU8",
+      "title": "9.2 Matroids, Part II",
+      "views": 1100
+    },
+    {
+      "id": "_6Z4cS0fCg0",
+      "title": "9.3 Matroids, Part III",
+      "views": 737
+    },
+    {
+      "id": "x05JH4JEv6E",
+      "title": "9.4 Matroids, Part IV",
+      "views": 547
+    },
+    {
+      "id": "A82QmMg2fm8",
+      "title": "9.5 Matroids, Part V",
+      "views": 546
+    },
+    {
+      "id": "q8zZdCdJO8M",
+      "title": "9.6 Matroids, Part VI",
+      "views": 401
+    },
+    {
+      "id": "im_wh2hqSVk",
+      "title": "9.7 Matroids, Part VII",
+      "views": 359
+    },
+    {
+      "id": "ftEgEYjJEak",
+      "title": "9.8 Matroid Intersection, Part I",
+      "views": 1900
+    },
+    {
+      "id": "-unoN9uBWn8",
+      "title": "9.9 Matroid Intersection, Part II",
+      "views": 507
+    },
+    {
+      "id": "AXCL_f0HJ9I",
+      "title": "9.10 Matroid Intersection, Part III",
+      "views": 423
+    },
+    {
+      "id": "gjDmXSy5UcQ",
+      "title": "9.11 Matroid Intersection, Part IV",
+      "views": 392
+    },
+    {
+      "id": "oGE6Gk4KDIo",
+      "title": "9.12 Matroid Intersection, Part V",
+      "views": 275
+    },
+    {
+      "id": "FtCm0ILwXBI",
+      "title": "9.13 Matroid Intersection, Part VI",
+      "views": 222
+    },
+    {
+      "id": "RqKb1lISY4M",
+      "title": "10.1 Submodular Functions, Part I",
+      "views": 3000
+    },
+    {
+      "id": "4dWY_F05Npk",
+      "title": "10.2 Submodular Functions, Part II",
+      "views": 718
+    },
+    {
+      "id": "7y6BmN0x-vc",
+      "title": "10.3 Submodular Functions, Part III",
+      "views": 603
+    },
+    {
+      "id": "HBCJ-5GTSDU",
+      "title": "10.4 Continuous Extensions, Part I",
+      "views": 847
+    },
+    {
+      "id": "4bxvRBEC0cY",
+      "title": "10.5 Continuous Extensions, Part II",
+      "views": 445
+    },
+    {
+      "id": "wxT0bsCgB0M",
+      "title": "10.6 Continuous Greedy, Part I",
+      "views": 580
+    },
+    {
+      "id": "LjJEN0tROF0",
+      "title": "10.7 Continuous Greedy, Part II",
+      "views": 278
+    },
+    {
+      "id": "TvQMV8GTwSw",
+      "title": "11.1 Extended Formulations, Part I",
+      "views": 422
+    },
+    {
+      "id": "_NWgluhUkLg",
+      "title": "11.2 Extended Formulations, Part II",
+      "views": 252
+    },
+    {
+      "id": "PE1owqWlL5M",
+      "title": "11.3 Lower Bounding Extension Complexity, Part I",
+      "views": 338
+    },
+    {
+      "id": "GvdtOUT-Glc",
+      "title": "11.4 Lower Bounding Extension Complexity, Part II",
+      "views": 236
+    },
+    {
+      "id": "YTdkstndu-E",
+      "title": "11.5 Lower Bounding Extension Complexity, Part III",
+      "views": 287
+    },
+    {
+      "id": "Eu6Ka-qO5mk",
+      "title": "11.6 Lower Bounding Extension Complexity, Part IV",
+      "views": 232
+    },
+    {
+      "id": "3_d9tvO6gIk",
+      "title": "11.7 Lower Bounding Extension Complexity, Part V",
+      "views": 470
+    }
+  ]
+}

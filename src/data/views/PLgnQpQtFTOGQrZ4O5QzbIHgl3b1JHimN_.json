@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "U6vr3iNrwRA",
+      "title": "SLAM-Course - 00 - Course Introduction (2013/14; Cyrill Stachniss)",
+      "views": 181000
+    },
+    {
+      "id": "wVsfCnyt5jA",
+      "title": "SLAM-Course - 01 - Introduction to Robot Mapping (2013/14; Cyrill Stachniss)",
+      "views": 360000
+    },
+    {
+      "id": "6EJKuq9Vv_w",
+      "title": "SLAM-Course - 02 - Homogeneous Coordinates (2013/14; Cyrill Stachniss)",
+      "views": 81000
+    },
+    {
+      "id": "5Pu558YtjYM",
+      "title": "SLAM-Course - 03 - Bayes Filter (2013/14; Cyrill Stachniss)",
+      "views": 97000
+    },
+    {
+      "id": "DE6Jn2cB4J4",
+      "title": "SLAM-Course - 04 - Extended Kalman Filter (2013/14; Cyrill Stachniss)",
+      "views": 135000
+    },
+    {
+      "id": "XeWG5D71gC0",
+      "title": "SLAM Course - 05 -  EKF SLAM (2013/14; Cyrill Stachniss)",
+      "views": 80000
+    },
+    {
+      "id": "DWDzmweTKsQ",
+      "title": "SLAM Course - 06 - Unscented Kalman Filter (2013/14; Cyrill Stachniss)",
+      "views": 75000
+    },
+    {
+      "id": "wD6BGkGOW4A",
+      "title": "SLAM Course - 07 - Extended Information Filter (2013/14; Cyrill Stachniss)",
+      "views": 20000
+    },
+    {
+      "id": "iQPvH6WgFvM",
+      "title": "SLAM Course - 08 - Sparse Extended Information Filter - Part 1 (2013/14; Cyrill Stachniss)",
+      "views": 17000
+    },
+    {
+      "id": "4hFlTw2mXwo",
+      "title": "SLAM Course - 08 - Sparse Extended Information Filter - Part 2 (2013/14; Cyrill Stachniss)",
+      "views": 9600
+    },
+    {
+      "id": "VBfVxEiXyGM",
+      "title": "SLAM Course - 09 - Short Kalman Filter Wrap-Up (2013/14; Cyrill Stachniss)",
+      "views": 10000
+    },
+    {
+      "id": "Cj91xll94U4",
+      "title": "SLAM Course - 10 - Grid Maps (2013/14; Cyrill Stachniss)",
+      "views": 31000
+    },
+    {
+      "id": "eAqAFSrTGGY",
+      "title": "SLAM Course - 11 - Particle Filters - A Short Intro (2013/14; Cyrill Stachniss)",
+      "views": 73000
+    },
+    {
+      "id": "Tz3pg3d1TIo",
+      "title": "SLAM Course - 12 - FastSLAM (2013/14; Cyrill Stachniss)",
+      "views": 41000
+    },
+    {
+      "id": "3Yl2aq28LFQ",
+      "title": "SLAM Course - 13 - Grid-Based SLAM with Rao-Blackwellized PFs (2013/14; Cyrill Stachniss)",
+      "views": 27000
+    },
+    {
+      "id": "yVd-QDy0K6k",
+      "title": "SLAM Course - 14 - Least Squares - Cyrill Stachniss",
+      "views": 19000
+    },
+    {
+      "id": "VRGOLRGwAjg",
+      "title": "SLAM Course - 15 - Least Squares SLAM - Cyrill Stachniss",
+      "views": 23000
+    },
+    {
+      "id": "eE-T9CfQmqU",
+      "title": "SLAM-Course - 15/16 - Least Squares SLAM Revisited & Hierarchical  (2013/14; Cyrill Stachniss)",
+      "views": 13000
+    },
+    {
+      "id": "DkmSrvtK_Fk",
+      "title": "SLAM-Course - 17 - LS SLAM with Landmarks  (2013/14; Cyrill Stachniss)",
+      "views": 11000
+    },
+    {
+      "id": "9StnBu5BsCc",
+      "title": "SLAM-Course - 18 - Robust LS SLAM (2013/14; Cyrill Stachniss)",
+      "views": 8200
+    },
+    {
+      "id": "Ejw1HBj3Apg",
+      "title": "SLAM Course - 20 - SLAM Frontends (2013/14; Cyrill Stachniss)",
+      "views": 11000
+    },
+    {
+      "id": "op0byxn7IzI",
+      "title": "SLAM Course - 21 - Short Summary (2013/14; Cyrill Stachniss)",
+      "views": 10000
+    }
+  ]
+}

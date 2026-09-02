@@ -1,9 +1,9 @@
 {
-  "title": "Stanford's AI sequence",
+  "title": "Stanford's AI Curriculum",
   "kind": "curated",
-  "field": "Computer Science",
+  "field": "CS",
   "source": "Mann's picks — the order Stanford's own AI courses assume, not a department's requirements",
-  "blurb": "Three prerequisites, a two-course core, and the specializations that open up after it. Every step has lecture video online.",
+  "blurb": "Probability, linear algebra, machine learning, deep learning, vision, NLP, reinforcement learning.",
   "steps": [
     {
       "course": "stanford-cs109",

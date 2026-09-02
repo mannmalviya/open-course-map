@@ -1,0 +1,134 @@
+{
+  "lectures": [
+    {
+      "id": "TEEAz-Sn15c",
+      "title": "UMass CS685 (Advanced NLP) F20: course introduction",
+      "views": 10000
+    },
+    {
+      "id": "vUjHt2U0U-Q",
+      "title": "UMass CS685 (Advanced NLP) F20: Language modeling",
+      "views": 4200
+    },
+    {
+      "id": "IlLETMdhFzM",
+      "title": "UMass CS685 (Advanced NLP) F20: Neural language models",
+      "views": 3300
+    },
+    {
+      "id": "O_iQmzSmV_s",
+      "title": "UMass CS685 (Advanced NLP) F20:  Final projects",
+      "views": 1200
+    },
+    {
+      "id": "Pa4G9B0G7Yo",
+      "title": "UMass CS685 (Advanced NLP) F20: Backpropagation",
+      "views": 2200
+    },
+    {
+      "id": "pZt2TLSl7L4",
+      "title": "UMass CS685 (Advanced NLP) F20: Implementing a neural language model in PyTorch",
+      "views": 4700
+    },
+    {
+      "id": "3qdQAtfq1jU",
+      "title": "UMass CS685 (Advanced NLP) F20: Attention mechanisms",
+      "views": 3500
+    },
+    {
+      "id": "_gWDeWb0J9o",
+      "title": "UMass CS685 (Advanced NLP) F20: Transformers and sequence-to-sequence models",
+      "views": 3800
+    },
+    {
+      "id": "X5mLFg3xFSM",
+      "title": "UMass CS685 (Advanced NLP) F20: Transfer learning for NLP",
+      "views": 1900
+    },
+    {
+      "id": "DMvfdjkjki4",
+      "title": "UMass CS685 (Advanced NLP) F20: BERT",
+      "views": 2000
+    },
+    {
+      "id": "nfHBN2D47rc",
+      "title": "UMass CS685 (Advanced NLP) F20: Question answering",
+      "views": 1700
+    },
+    {
+      "id": "LfqzWrVkWak",
+      "title": "UMass CS685 (Advanced NLP) F20: Better BERTs",
+      "views": 1500
+    },
+    {
+      "id": "rP4svmd764s",
+      "title": "UMass CS685 (Advanced NLP) F20: Scaling up language modeling & GPT-3",
+      "views": 1100
+    },
+    {
+      "id": "E_zJKsNMAB0",
+      "title": "UMass CS685 (Advanced NLP) F20: Text generation decoding and evaluation",
+      "views": 1100
+    },
+    {
+      "id": "2wcrZs5PsZo",
+      "title": "UMass CS685 (Advanced NLP) F20: Paraphrase generation",
+      "views": 2200
+    },
+    {
+      "id": "ETz6liqzMXA",
+      "title": "UMass CS685 (Advanced NLP) F20: Crowdsourced text data collection",
+      "views": 585
+    },
+    {
+      "id": "Y1_7cLgnAps",
+      "title": "UMass CS685 (Advanced NLP) F20: Model distillation and security threats",
+      "views": 969
+    },
+    {
+      "id": "B7zw0kq6554",
+      "title": "UMass CS685 (Advanced NLP) F20: Retrieval-augmented language models",
+      "views": 1600
+    },
+    {
+      "id": "4oO3sSk1F1M",
+      "title": "UMass CS685 (Advanced NLP) F20: Implementing a Transformer",
+      "views": 2800
+    },
+    {
+      "id": "ovvHvTHCUow",
+      "title": "UMass CS685 (Advanced NLP) F20: vision + language",
+      "views": 717
+    },
+    {
+      "id": "vffSoLtRVwM",
+      "title": "UMass CS685 (Advanced NLP) F20: exam review",
+      "views": 852
+    },
+    {
+      "id": "run0nnEBVFU",
+      "title": "UMass CS685 (Advanced NLP) F20: Intermediate fine-tuning",
+      "views": 982
+    },
+    {
+      "id": "eOHTvpsuEL4",
+      "title": "UMass CS685 (Advanced NLP) F20: ethics in NLP",
+      "views": 584
+    },
+    {
+      "id": "y5ShdPnxjj0",
+      "title": "UMass CS685 (Advanced NLP) F20: probe tasks",
+      "views": 1000
+    },
+    {
+      "id": "fBn1Cx5x5Rc",
+      "title": "UMass CS685 (Advanced NLP) F20: semantic parsing",
+      "views": 728
+    },
+    {
+      "id": "LW1HLn7_PEs",
+      "title": "UMass CS685 (Advanced NLP) F20: commonsense reasoning (guest lecture by Lorraine Li)",
+      "views": 1300
+    }
+  ]
+}

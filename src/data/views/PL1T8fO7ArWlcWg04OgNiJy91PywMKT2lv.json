@@ -1,0 +1,139 @@
+{
+  "lectures": [
+    {
+      "id": "fGxWfEuUu0w",
+      "title": "Lecture 1: Deep Learning Fundamentals (Full Stack Deep Learning - Spring 2021)",
+      "views": 44000
+    },
+    {
+      "id": "MDABnmb17lQ",
+      "title": "Notebook: Coding a Neural Network (Full Stack Deep Learning - Spring 2021)",
+      "views": 15000
+    },
+    {
+      "id": "fkxD2A8GzYo",
+      "title": "Lab 1: Setup and Intro (Full Stack Deep Learning - Spring 2021)",
+      "views": 13000
+    },
+    {
+      "id": "G70sKcMz_JI",
+      "title": "Lab 2: CNNs and Synthetic Data - Full Stack Deep Learning - Spring 2021",
+      "views": 7600
+    },
+    {
+      "id": "hO3kOdShwsI",
+      "title": "Lecture 2A: Convolutional Neural Networks (Full Stack Deep Learning - Spring 2021)",
+      "views": 9800
+    },
+    {
+      "id": "rHGUVo6GjVA",
+      "title": "Lecture 2B: Computer Vision Applications (Full Stack Deep Learning - Spring 2021)",
+      "views": 8200
+    },
+    {
+      "id": "2b0TPDmzoaQ",
+      "title": "Lecture 3: Recurrent Neural Networks (Full Stack Deep Learning - Spring 2021)",
+      "views": 8800
+    },
+    {
+      "id": "AfAy_r8CP44",
+      "title": "Lab 3: RNNs (Full Stack Deep Learning - Spring 2021)",
+      "views": 4200
+    },
+    {
+      "id": "lOYT3-UbUvw",
+      "title": "Lecture 4: Transfer Learning and Transformers (Full Stack Deep Learning - Spring 2021)",
+      "views": 11000
+    },
+    {
+      "id": "BtBZ84PcTgs",
+      "title": "Lab 4: Transformers (Full Stack Deep Learning - Spring 2021)",
+      "views": 4300
+    },
+    {
+      "id": "pxisK6RMn1s",
+      "title": "Lecture 5: ML Projects (Full Stack Deep Learning - Spring 2021)",
+      "views": 12000
+    },
+    {
+      "id": "760Mc_b3_N0",
+      "title": "Lecture 6: Infrastructure & Tooling (Full Stack Deep Learning - Spring 2021)",
+      "views": 18000
+    },
+    {
+      "id": "8ylfWMYhLD4",
+      "title": "Lab 5: Experiment Management (Full Stack Deep Learning - Spring 2021)",
+      "views": 4100
+    },
+    {
+      "id": "f1JRFu7X-c8",
+      "title": "Lecture 7: Troubleshooting Deep Neural Networks (Full Stack Deep Learning - Spring 2021)",
+      "views": 10000
+    },
+    {
+      "id": "QlPiiyd8zQI",
+      "title": "Lecture 8: Data Management (Full Stack Deep Learning - Spring 2021)",
+      "views": 7800
+    },
+    {
+      "id": "AoYD4eB3Vo4",
+      "title": "Lecture 9: Ethics (Full Stack Deep Learning - Spring 2021)",
+      "views": 3500
+    },
+    {
+      "id": "iFvk9cGbIZ4",
+      "title": "Lab 6: Data Labeling (Full Stack Deep Learning - Spring 2021)",
+      "views": 4300
+    },
+    {
+      "id": "SQLm9U0L0zM",
+      "title": "Lab 7: Paragraph Recognition (Full Stack Deep Learning - Spring 2021)",
+      "views": 2400
+    },
+    {
+      "id": "K42wdqpZymw",
+      "title": "Lecture 10: ML Testing & Explainability (Full Stack Deep Learning - Spring 2021)",
+      "views": 7300
+    },
+    {
+      "id": "D3YeQcE9tSg",
+      "title": "Lab 8: Testing and Continuous Integration (Full Stack Deep Learning - Spring 2021)",
+      "views": 3100
+    },
+    {
+      "id": "NfnpPrW30Zo",
+      "title": "Lecture 11B: Monitoring ML Models (Full Stack Deep Learning - Spring 2021)",
+      "views": 5400
+    },
+    {
+      "id": "jFflwpx4iK0",
+      "title": "Lecture 11A: Deploying ML Models (Full Stack Deep Learning - Spring 2021)",
+      "views": 10000
+    },
+    {
+      "id": "APZ0ZUcmlsU",
+      "title": "Lecture 12: Research Directions (Full Stack Deep Learning - Spring 2021)",
+      "views": 3500
+    },
+    {
+      "id": "quHUi1ENImI",
+      "title": "Lab 9: Web Deployment (Full Stack Deep Learning - Spring 2021)",
+      "views": 4900
+    },
+    {
+      "id": "sTxL2lspnTU",
+      "title": "Panel Discussion: Do I need a PhD to work in ML? (Full Stack Deep Learning - Spring 2021)",
+      "views": 6600
+    },
+    {
+      "id": "8daKeuaWgjk",
+      "title": "Lecture 13: ML Teams (Full Stack Deep Learning - Spring 2021)",
+      "views": 5300
+    },
+    {
+      "id": "5LYD7YpfKlA",
+      "title": "Top 10 Final Projects (Full Stack Deep Learning - Spring 2021)",
+      "views": 10000
+    }
+  ]
+}

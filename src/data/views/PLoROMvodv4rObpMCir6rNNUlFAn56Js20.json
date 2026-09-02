@@ -1,0 +1,79 @@
+{
+  "lectures": [
+    {
+      "id": "tZ_Jrc_nRJY",
+      "title": "Lecture 1  –  NLU Course Overview | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 100000
+    },
+    {
+      "id": "IYMYI9AJpQs",
+      "title": "Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 35000
+    },
+    {
+      "id": "nH4rn3X8i0c",
+      "title": "Lecture 3  – Word Vectors 2 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 16000
+    },
+    {
+      "id": "pip8h9vjTHY",
+      "title": "Lecture 4  – Word Vectors 3 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 9100
+    },
+    {
+      "id": "O1Xh3H1uEYY",
+      "title": "Lecture 5 – Sentiment Analysis 1 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 30000
+    },
+    {
+      "id": "6-4pJt1M18s",
+      "title": "Lecture 6 – Sentiment Analysis 2 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 9800
+    },
+    {
+      "id": "pO3Jsr31s_Q",
+      "title": "Lecture 7 – Relation Extraction | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 24000
+    },
+    {
+      "id": "M_VPUF9ResU",
+      "title": "Lecture 8 – NLI 1 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 10000
+    },
+    {
+      "id": "JXtH_ABQFX0",
+      "title": "Lecture 9 – NLI 2 | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 5400
+    },
+    {
+      "id": "7b2_3dDTKMc",
+      "title": "Lecture 10 – Grounding | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 7600
+    },
+    {
+      "id": "C5bdflsg7rs",
+      "title": "Lecture 11 – Semantic Parsing | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 23000
+    },
+    {
+      "id": "3UGti9Ju5j8",
+      "title": "Lecture 12 – Evaluation Methods | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 4600
+    },
+    {
+      "id": "YygGzfkhtJc",
+      "title": "Lecture 13 – Evaluation Metrics | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 5300
+    },
+    {
+      "id": "lzBB7xoZ3Q8",
+      "title": "Lecture 14 – Contextual Vectors | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 8900
+    },
+    {
+      "id": "WXLb4h2A724",
+      "title": "Lecture 15 – Presenting Your Work | Stanford CS224U: Natural Language Understanding | Spring 2019",
+      "views": 4900
+    }
+  ]
+}

@@ -55,6 +55,7 @@ function loadMap(): CourseMap {
       source: file.source,
       field: file.field,
       logos: file.logos,
+      featured: file.featured,
     };
     for (const step of file.steps) {
       if (!merged.courses[step.course]) {
@@ -151,23 +152,49 @@ export function formatViews(n: number): string {
 // Node dimensions (course nodes are fixed-size; groups carry their own size)
 export const COURSE_W = 220;
 export const COURSE_H = 168;
+/** Title only — both the thumbnail and the details are collapsed */
 export const COURSE_H_COMPACT = 60;
+/** Level tag, title and the school/term footer, with the thumbnail dropped */
+export const COURSE_H_NO_THUMB = 108;
+/** Thumbnail and title, with the footer row dropped */
+export const COURSE_H_NO_DETAILS = 152;
 export const GHOST_W = 200;
 export const GHOST_H = 56;
 
-/** Compact mode: course cards collapse to title-only boxes — synced from App state. */
-let compactCourses = false;
+/*
+ * Two independent collapses, both synced from App state. Thumbnails are the
+ * expensive half of a card and the details the fiddly half, and people want
+ * them gone for different reasons — a dense map of titles, or a wall of
+ * pictures with no chrome — so neither switch implies the other.
+ */
+let thumbsHiddenFlag = false;
+let detailsHiddenFlag = false;
 
-export function setCompactCourses(v: boolean) {
-  compactCourses = v;
+export function setThumbsHidden(v: boolean) {
+  thumbsHiddenFlag = v;
 }
 
-export function isCompact(): boolean {
-  return compactCourses;
+export function setDetailsHidden(v: boolean) {
+  detailsHiddenFlag = v;
+}
+
+/** Course thumbnails and group collages are collapsed. */
+export function thumbsHidden(): boolean {
+  return thumbsHiddenFlag;
+}
+
+/** School, term and the undergrad/grad tag are collapsed. */
+export function detailsHidden(): boolean {
+  return detailsHiddenFlag;
+}
+
+export function courseHeight(): number {
+  if (thumbsHiddenFlag) return detailsHiddenFlag ? COURSE_H_COMPACT : COURSE_H_NO_THUMB;
+  return detailsHiddenFlag ? COURSE_H_NO_DETAILS : COURSE_H;
 }
 
 export function courseRect(c: Course): Rect {
-  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: compactCourses ? COURSE_H_COMPACT : COURSE_H };
+  return { x: c.pos.x, y: c.pos.y, w: COURSE_W, h: courseHeight() };
 }
 
 /** Pathway steps carry commentary, so they get a wider card than a bare reference. */
@@ -231,7 +258,7 @@ export function stepNoteLines(g: Ghost): string[] {
 
 /** Title baseline from the card's top: under the thumbnail, or near the top when collapsed. */
 export function stepTitleBase(): number {
-  return compactCourses ? 26 : STEP_THUMB_TOP + STEP_THUMB_H + STEP_TITLE_TOP;
+  return thumbsHiddenFlag ? 26 : STEP_THUMB_TOP + STEP_THUMB_H + STEP_TITLE_TOP;
 }
 
 function stepHeight(g: Ghost): number {
@@ -240,8 +267,9 @@ function stepHeight(g: Ghost): number {
     stepTitleBase() +
     (stepTitleLines(g).length - 1) * STEP_TITLE_LINE +
     (notes > 0 ? STEP_NOTE_TOP + (notes - 1) * STEP_NOTE_LINE : 0);
-  // Collapsed cards drop the thumbnail and the school with it, so no footer either
-  return compactCourses ? Math.max(COURSE_H_COMPACT, lastBaseline + 16) : lastBaseline + STEP_FOOTER;
+  // The footer is the school row, so it goes with the details, not the thumbnail
+  const bottom = lastBaseline + (detailsHiddenFlag ? 16 : STEP_FOOTER);
+  return thumbsHiddenFlag ? Math.max(COURSE_H_COMPACT, bottom) : bottom;
 }
 
 // Gap nodes are wider than ghosts: they carry a reason and a list of alternates
@@ -307,42 +335,50 @@ export function setHidePrereqs(v: boolean) {
   hidePrereqs = v;
 }
 
-/** Schools hidden by the settings filter — synced from App state before each render. */
-let hiddenSchools: ReadonlySet<string> = new Set();
+/**
+ * Schools the filter is narrowed to — synced from App state before each render.
+ * Empty means no narrowing, so the map shows everything.
+ */
+let selectedSchools: ReadonlySet<string> = new Set();
 
-export function setHiddenSchools(schools: ReadonlySet<string>) {
-  hiddenSchools = schools;
+export function setSelectedSchools(schools: ReadonlySet<string>) {
+  selectedSchools = schools;
 }
 
-/** Every university that appears in the data, alphabetical. */
-export function allSchools(): string[] {
-  const schools = new Set<string>();
-  for (const c of Object.values(map.courses)) if (c.university) schools.add(c.university);
-  return [...schools].sort();
+/** Course tally per university, ignoring the filter, most courses first. */
+function schoolTally(): [string, number][] {
+  const counts = new Map<string, number>();
+  for (const c of Object.values(map.courses)) {
+    if (c.university) counts.set(c.university, (counts.get(c.university) ?? 0) + 1);
+  }
+  return [...counts.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
 }
 
 /**
- * Universities the landing page name-drops, most courses first. Filtered schools
- * are left out — naming a school whose courses the map is currently hiding would
- * promise something the visitor can't see.
+ * The schools the filter offers: the ones with a mark of their own, which is the
+ * same set the landing page names. A school without a logo file is on the map but
+ * not in the filter — there are dozens of them, and a list that long is no filter.
  */
-export function schoolsByCourseCount(): string[] {
-  const counts = new Map<string, number>();
-  for (const c of Object.values(map.courses)) {
-    if (c.university && courseVisible(c)) {
-      counts.set(c.university, (counts.get(c.university) ?? 0) + 1);
-    }
-  }
-  return [...counts.entries()]
-    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
-    .map(([school]) => school);
+export function filterSchools(): { school: string; count: number }[] {
+  return schoolTally()
+    .filter(([school]) => wordmarkFor(school))
+    .map(([school, count]) => ({ school, count }));
 }
 
-/** Levels hidden by the settings filter — synced from App state before each render. */
-let hiddenLevels: ReadonlySet<string> = new Set();
+/**
+ * Universities the landing page name-drops, most courses first. The wall states
+ * which schools the map covers, which stays true whatever the visitor has picked,
+ * so unlike the map itself it does not answer to the filter.
+ */
+export function schoolsByCourseCount(): string[] {
+  return schoolTally().map(([school]) => school);
+}
 
-export function setHiddenLevels(levels: ReadonlySet<string>) {
-  hiddenLevels = levels;
+/** Levels the filter is narrowed to — empty means every level. */
+let selectedLevels: ReadonlySet<string> = new Set();
+
+export function setSelectedLevels(levels: ReadonlySet<string>) {
+  selectedLevels = levels;
 }
 
 /** Display names for the level filter and badges, in course order. */
@@ -355,11 +391,18 @@ export function levelLabel(level: Level): string {
   return LEVELS.find((l) => l.id === level)?.label ?? level;
 }
 
-/** Courses with no school or no level are never hidden — you can't filter on absent data. */
+/**
+ * Picking a school means asking for that school, so a course from anywhere else
+ * goes — including one whose school the filter never listed, and one carrying no
+ * school at all. Same for level. Pick nothing and nothing is narrowed, and since
+ * there are only two levels, picking both is picking nothing — otherwise ticking
+ * every box would quietly drop the courses that carry no level at all.
+ */
 function courseVisible(c: Course): boolean {
+  const levelNarrowed = selectedLevels.size > 0 && selectedLevels.size < LEVELS.length;
   return (
-    (!c.university || !hiddenSchools.has(c.university)) &&
-    (!c.level || !hiddenLevels.has(c.level))
+    (selectedSchools.size === 0 || (!!c.university && selectedSchools.has(c.university))) &&
+    (!levelNarrowed || (!!c.level && selectedLevels.has(c.level)))
   );
 }
 
@@ -379,7 +422,7 @@ export function totalCourseCount(groupId: string): number {
  */
 function groupFilteredOut(groupId: string): boolean {
   return (
-    (hiddenSchools.size > 0 || hiddenLevels.size > 0) &&
+    (selectedSchools.size > 0 || selectedLevels.size > 0) &&
     courseCount(groupId) === 0 &&
     totalCourseCount(groupId) > 0
   );
@@ -420,9 +463,13 @@ export function pathways(): Array<{ id: string; group: Group }> {
     .map((id) => ({ id, group: map.groups[id] }));
 }
 
-/** Steps on a pathway, counting gaps — what the landing card advertises. */
-export function pathwayStepCount(groupId: string): number {
-  return map.ghosts.filter((g) => g.inGroup === groupId).length + gapsIn(groupId).length;
+/**
+ * Courses on a pathway — what the landing card counts. Gaps are left out on
+ * purpose: a step nobody has put online is part of the sequence, but it is not
+ * a course you can go and watch, which is what the number is offering.
+ */
+export function pathwayCourseCount(groupId: string): number {
+  return map.ghosts.filter((g) => g.inGroup === groupId).length;
 }
 
 /** Schools appearing on a pathway, in step order, deduped. */
@@ -439,10 +486,13 @@ export function pathwaySchools(groupId: string): string[] {
 export function ghostsIn(groupId: string): Ghost[] {
   // On a pathway the ghosts *are* the content, so "hide prerequisites" must not empty the page
   if (hidePrereqs && !isPathway(groupId)) return [];
+  // Nor may the school filter: a pathway is a route someone laid out, and a route
+  // with its middle steps missing is broken rather than shorter
+  const pathway = isPathway(groupId);
   return map.ghosts.filter((g) => {
     if (g.inGroup !== groupId) return false;
     const course = map.courses[g.node];
-    if (course) return courseVisible(course);
+    if (course) return pathway || courseVisible(course);
     return map.groups[g.node] !== undefined && !groupFilteredOut(g.node);
   });
 }

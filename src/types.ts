@@ -69,15 +69,20 @@ export interface Group {
   blurb?: string;
   /** Where the ordering came from, e.g. "transcribed from MIT's 6-3 requirements" */
   source?: string;
-  /** Field this pathway is filed under on the landing page, e.g. "Physics" */
+  /** Section this pathway is listed under, e.g. "CS" — see SECTIONS in PathwayCards */
   field?: string;
   /**
-   * Marks on this pathway's landing card, as `university` keys. Set by hand:
-   * a sequence can borrow a course from anywhere, and the marks should say
-   * whose sequence it is rather than everyone who turns up in it. Left out,
-   * the card lists its steps' schools as names instead.
+   * Marks on this pathway's landing card, as `university` keys. An override:
+   * a sequence can borrow a course from anywhere, so set this where the marks
+   * should say whose sequence it is rather than everyone who turns up in it.
+   * Left out, the card marks the schools its own steps come from.
    */
   logos?: string[];
+  /**
+   * Picked by hand for the landing page's shortlist. The Pathways tab lists
+   * every pathway regardless; this only decides what the front page leads with.
+   */
+  featured?: boolean;
 }
 
 export interface Edge {
@@ -156,6 +161,8 @@ export interface PathwayFile {
   field: string;
   /** School marks for the landing card — see `logos` on Group */
   logos?: string[];
+  /** Show this one on the landing page's shortlist — see `featured` on Group */
+  featured?: boolean;
   /** Ordered for readability; the edges are what actually define the sequence */
   steps: Array<{ course: string; pos: XY; note?: string }>;
   gaps?: Array<Omit<Gap, 'inGroup'>>;

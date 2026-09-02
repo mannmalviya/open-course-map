@@ -1,0 +1,297 @@
+{
+  "courses": {
+    "cambridge-ghahramani": {
+      "title": "Probabilistic Modelling",
+      "university": "Cambridge",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Cambridge · Ghahramani · 2013",
+          "url": "https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2",
+          "date": "2013",
+          "youtubeId": "5KdWhDpeQvU",
+          "primary": true
+        }
+      ]
+    },
+    "hse-deepbayes": {
+      "title": "DeepBayes Summer School",
+      "university": "HSE Moscow",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "HSE Moscow · Deep|Bayes · 2019",
+          "url": "https://deepbayes.ru/",
+          "youtube": "https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW",
+          "date": "2019",
+          "youtubeId": "wA8UMzhGv7o",
+          "primary": true
+        },
+        {
+          "label": "HSE Moscow · Deep|Bayes · 2018",
+          "url": "https://deepbayes.ru/2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62",
+          "date": "2018",
+          "youtubeId": "h6ajHkgM3ZU"
+        }
+      ]
+    },
+    "sgp-graduate-school": {
+      "title": "SGP Geometry Processing",
+      "university": "Eurographics",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "SGP Graduate School · London · 2017",
+          "url": "http://geometry.cs.ucl.ac.uk/SGP2017/?p=gradschool",
+          "youtube": "https://www.youtube.com/playlist?list=PLOp-ngXvomHArqntgLVNzuJNdzNx3rDjZ",
+          "date": "2017",
+          "youtubeId": "COXAsO3iw8c",
+          "primary": true
+        },
+        {
+          "label": "SGP Graduate School · Paris · 2018",
+          "url": "https://sgp2018.sciencesconf.org/resource/page/id/7",
+          "youtube": "https://www.youtube.com/playlist?list=PLvcoRb-DvAmgpp8LYw7dUvLxh-1Vrrm-v",
+          "date": "2018",
+          "youtubeId": "IVoT6nReAco"
+        }
+      ]
+    },
+    "mlss-pittsburgh": {
+      "title": "MLSS Pittsburgh",
+      "university": "CMU",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MLSS · Pittsburgh · 2014",
+          "url": "http://www.mlss2014.com/",
+          "youtube": "https://www.youtube.com/playlist?list=PLZSO_6-bSqHQCIYxE3ycGLXHMjK3XV7Iz",
+          "date": "2014",
+          "youtubeId": "4myTpLua0EM",
+          "primary": true
+        }
+      ]
+    },
+    "mlss-tubingen": {
+      "title": "MLSS Tübingen",
+      "university": "MPI-IS",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "MLSS · MPI-IS Tübingen · 2013",
+          "url": "http://mlss.tuebingen.mpg.de/2013/2013/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E",
+          "date": "2013",
+          "youtubeId": "ZT8LszMo0D4",
+          "primary": true
+        },
+        {
+          "label": "MLSS · MPI-IS Tübingen · 2017",
+          "url": "http://mlss.tuebingen.mpg.de/2017/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9",
+          "date": "2017",
+          "youtubeId": "XLHB-Aktxw0"
+        }
+      ]
+    },
+    "simons-foundations-ml": {
+      "title": "Foundations of ML",
+      "university": "Simons Institute",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Simons Institute · 2017",
+          "url": "https://simons.berkeley.edu/workshops/abstracts/3748",
+          "youtube": "https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD",
+          "date": "2017",
+          "youtubeId": "f0qQsz4-o68",
+          "primary": true
+        }
+      ]
+    },
+    "ipam-dl-feature-learning": {
+      "title": "Deep & Feature Learning",
+      "university": "IPAM",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IPAM UCLA · 2012",
+          "url": "https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/",
+          "youtube": "https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA",
+          "date": "2012",
+          "youtubeId": "GJdWESd543Y",
+          "primary": true
+        }
+      ]
+    },
+    "msri-math-of-ml": {
+      "title": "Mathematics of ML",
+      "university": "MSRI",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MSRI · U Washington · 2019",
+          "url": "http://mathofml.cs.washington.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9",
+          "date": "2019",
+          "youtubeId": "3wbLr-NnIKI",
+          "primary": true
+        }
+      ]
+    },
+    "msr-geometry-dl": {
+      "title": "Geometry of Deep Learning",
+      "university": "Microsoft Research",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "MSR Redmond · 2019",
+          "url": "https://www.microsoft.com/en-us/research/event/ai-institute-2019",
+          "youtube": "https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d",
+          "date": "2019",
+          "youtubeId": "d9YJJH86ERw",
+          "primary": true
+        }
+      ]
+    },
+    "dlss-montreal": {
+      "title": "DL Summer School",
+      "university": "Montréal",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Université de Montréal · 2016",
+          "url": "https://sites.google.com/site/deeplearningsummerschool2016/home",
+          "youtube": "https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR",
+          "date": "2016",
+          "youtubeId": "xK-bzjIQkmM",
+          "primary": true
+        }
+      ]
+    },
+    "ias-theory-dl": {
+      "title": "Theory of Deep Learning",
+      "university": "IAS Princeton",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IAS Princeton · 2019",
+          "url": "https://www.math.ias.edu/wtdl",
+          "youtube": "https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5dqqg_S-rgJqSFeH4DQqFQ",
+          "date": "2019",
+          "youtubeId": "IXotICNx2qk",
+          "primary": true
+        }
+      ]
+    },
+    "ipam-new-dl": {
+      "title": "New Deep Learning",
+      "university": "IPAM",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IPAM UCLA · 2018",
+          "url": "https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/",
+          "youtube": "https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN",
+          "date": "2018",
+          "youtubeId": "NeqzL6jwgE0",
+          "primary": true
+        }
+      ]
+    },
+    "simons-dl-bootcamp": {
+      "title": "Deep Learning Boot Camp",
+      "university": "Simons Institute",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Simons Institute · 2019",
+          "url": "https://simons.berkeley.edu/workshops/schedule/10624",
+          "youtube": "https://www.youtube.com/playlist?list=PLgKuh-lKre12c2Il9mNX0Cmp9Z4oFNrQh",
+          "date": "2019",
+          "youtubeId": "Ntl_WNW8yGc",
+          "primary": true
+        }
+      ]
+    },
+    "simons-foundations-ds": {
+      "title": "Foundations of Data Sci",
+      "university": "Simons Institute",
+      "pos": {
+        "x": 430,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Simons Institute · 2018",
+          "url": "https://simons.berkeley.edu/workshops/abstracts/6680",
+          "youtube": "https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3",
+          "date": "2018",
+          "youtubeId": "9GMT3FnQTGM",
+          "primary": true
+        }
+      ]
+    },
+    "princeton-dl-theory-school": {
+      "title": "DL Theory Summer School",
+      "university": "Princeton",
+      "pos": {
+        "x": 780,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Princeton · 2021",
+          "url": "https://deep-learning-summer-school.princeton.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PL2mB9GGlueJj_FNjJ8RWgz4Nc_hCSXfMU",
+          "date": "2021",
+          "youtubeId": "PHcodnoOlgI",
+          "primary": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "lectures": [
+    {
+      "id": "Tk4ubu7BlSk",
+      "title": "(PP 1.1) Measure theory: Why measure theory - The Banach-Tarski Paradox",
+      "views": 225000
+    },
+    {
+      "id": "21a85f1YS5Q",
+      "title": "(PP 1.2) Measure theory: Sigma-algebras",
+      "views": 176000
+    },
+    {
+      "id": "xlfH6Rk2GCM",
+      "title": "(PP 1.3) Measure theory: Measures",
+      "views": 81000
+    },
+    {
+      "id": "TxBLRz-gNq4",
+      "title": "(PP 1.4) Measure theory: Examples of Measures",
+      "views": 60000
+    },
+    {
+      "id": "ILXe_NsvQ6Q",
+      "title": "(PP 1.5) Measure theory: Basic Properties of Measures",
+      "views": 53000
+    },
+    {
+      "id": "M4fAHWvwid8",
+      "title": "(PP 1.6) Measure theory: Basic Properties of Measures (continued)",
+      "views": 38000
+    },
+    {
+      "id": "t4cwYCVyQLM",
+      "title": "(PP 1.7) Measure theory: More Properties of Probability Measures",
+      "views": 33000
+    },
+    {
+      "id": "wV3JuVI2tLM",
+      "title": "(PP 1.8) Measure theory: CDFs and Borel Probability Measures",
+      "views": 41000
+    },
+    {
+      "id": "aJjB16jJQEQ",
+      "title": "(PP 1.R) References for Probability and Measure theory",
+      "views": 23000
+    },
+    {
+      "id": "upISxgopsFU",
+      "title": "(PP 1.S) Measure theory: Summary",
+      "views": 26000
+    },
+    {
+      "id": "5BWk5qe5EJ8",
+      "title": "(PP 2.1) Conditional Probability",
+      "views": 30000
+    },
+    {
+      "id": "KK9jvGl9FY0",
+      "title": "(PP 2.2) Independence",
+      "views": 23000
+    },
+    {
+      "id": "RMS-WglZP-c",
+      "title": "(PP 2.3) Independence (continued)",
+      "views": 17000
+    },
+    {
+      "id": "cM1BqBv11U8",
+      "title": "(PP 2.4) Bayes' rule and the Chain rule",
+      "views": 47000
+    },
+    {
+      "id": "YgVha7Vvfes",
+      "title": "(PP 2.5) Partition rule, conditional measure",
+      "views": 20000
+    },
+    {
+      "id": "V0KAb_VsLOc",
+      "title": "(PP 3.1) Random Variables - Definition and CDF",
+      "views": 29000
+    },
+    {
+      "id": "ZylsGiWH4Jk",
+      "title": "(PP 3.2) Types of Random Variables",
+      "views": 14000
+    },
+    {
+      "id": "zqCRz-WaKGs",
+      "title": "(PP 3.3) Discrete Random Variables",
+      "views": 14000
+    },
+    {
+      "id": "zap5cXlOWuA",
+      "title": "(PP 3.4) Random Variables with Densities",
+      "views": 10000
+    },
+    {
+      "id": "6MCCB6mj8qk",
+      "title": "(PP 4.1) Expectation for discrete random variables",
+      "views": 13000
+    },
+    {
+      "id": "t_ZlG_WDudk",
+      "title": "(PP 4.2) Expectation for random variables with densities",
+      "views": 8700
+    },
+    {
+      "id": "wHnE8VM1De8",
+      "title": "(PP 4.3) Expectation rule",
+      "views": 8200
+    },
+    {
+      "id": "PiXu8_4X5dE",
+      "title": "(PP 4.4) Properties of expectation",
+      "views": 12000
+    },
+    {
+      "id": "fB-K0iryW_k",
+      "title": "(PP 4.5) Mean, variance, and moments",
+      "views": 17000
+    },
+    {
+      "id": "CqYuEwwNUu8",
+      "title": "(PP 5.1) Multiple discrete random variables",
+      "views": 16000
+    },
+    {
+      "id": "UqQmbwBLhFE",
+      "title": "(PP 5.2) Marginals and conditionals",
+      "views": 12000
+    },
+    {
+      "id": "AR3SoXCvw8I",
+      "title": "(PP 5.3) Multiple random variables with densities",
+      "views": 9300
+    },
+    {
+      "id": "xx1UoU0qS7w",
+      "title": "(PP 5.4) Independence, Covariance, and Correlation",
+      "views": 23000
+    },
+    {
+      "id": "wadzsURQFT4",
+      "title": "(PP 5.5) Law of large numbers and Central limit theorem",
+      "views": 40000
+    },
+    {
+      "id": "yAzZpNVZ5fU",
+      "title": "Expectation of a geometric random variable",
+      "views": 21000
+    },
+    {
+      "id": "GC1Bi2JjJa0",
+      "title": "Expectation of a binomial random variable (method 1)",
+      "views": 7600
+    },
+    {
+      "id": "Eclb1TjujS4",
+      "title": "Expectation of a binomial random variable (method 2)",
+      "views": 3500
+    },
+    {
+      "id": "GQ3cuZmbeRg",
+      "title": "Expectation of a Poisson random variable",
+      "views": 32000
+    },
+    {
+      "id": "TC0ZAX3DA88",
+      "title": "(PP 6.1) Multivariate Gaussian - definition",
+      "views": 74000
+    },
+    {
+      "id": "j2RYo0-fMTM",
+      "title": "(PP 6.2) Multivariate Gaussian - examples and independence",
+      "views": 31000
+    },
+    {
+      "id": "TbAbwtnTbZM",
+      "title": "(PP 6.3) Gaussian coordinates does not imply (multivariate) Gaussian",
+      "views": 15000
+    },
+    {
+      "id": "juXo4Bl_h9M",
+      "title": "(PP 6.4) Density for a multivariate Gaussian - definition and intuition",
+      "views": 18000
+    },
+    {
+      "id": "jjsrhOpHalM",
+      "title": "(PP 6.5) Affine property, Constructing Gaussians, and Sphering",
+      "views": 14000
+    },
+    {
+      "id": "xz-F9gVj4HQ",
+      "title": "(PP 6.6) Geometric intuition for the multivariate Gaussian (part 1)",
+      "views": 12000
+    },
+    {
+      "id": "uPRatm70noI",
+      "title": "(PP 6.7) Geometric intuition for the multivariate Gaussian (part 2)",
+      "views": 10000
+    },
+    {
+      "id": "ycDSJkZ_h0I",
+      "title": "(PP 6.8) Marginal distributions of a Gaussian",
+      "views": 22000
+    },
+    {
+      "id": "G6_OdMXpiVY",
+      "title": "(PP 6.9) Conditional distributions of a Gaussian",
+      "views": 24000
+    },
+    {
+      "id": "H9e0OChp5MU",
+      "title": "(PP 6.10) Sum of independent Gaussians",
+      "views": 12000
+    }
+  ]
+}

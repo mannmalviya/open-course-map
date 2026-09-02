@@ -1,0 +1,134 @@
+{
+  "lectures": [
+    {
+      "id": "rE-hVtytT-I",
+      "title": "CVFX Lecture 1: Overview of Computer Vision and Visual Effects",
+      "views": 33000
+    },
+    {
+      "id": "KkufK8D4PwY",
+      "title": "CVFX Lecture 2: Bluescreen and Bayesian matting",
+      "views": 14000
+    },
+    {
+      "id": "Mvd93DdgqAY",
+      "title": "CVFX Lecture 3: Closed-form matting",
+      "views": 10000
+    },
+    {
+      "id": "5c6uE_CKl2I",
+      "title": "CVFX Lecture 4: Markov Random Field (MRF) and Random Walk Matting",
+      "views": 18000
+    },
+    {
+      "id": "lYQQ88nzxAM",
+      "title": "CVFX Lecture 5: Graph cut segmentation, video matting, and matting extensions",
+      "views": 16000
+    },
+    {
+      "id": "g7zFl8EnbzI",
+      "title": "CVFX Lecture 6: Multiresolution blending and Poisson image editing",
+      "views": 7800
+    },
+    {
+      "id": "Dxkt5d5ATAk",
+      "title": "CVFX Lecture 7: Photomontage and Image Inpainting",
+      "views": 3400
+    },
+    {
+      "id": "LbT86Zet2VQ",
+      "title": "CVFX Lecture 8: Image Retargeting and Recompositing",
+      "views": 3300
+    },
+    {
+      "id": "9-F5-gUIAWE",
+      "title": "CVFX Lecture 9: Feature Detectors",
+      "views": 21000
+    },
+    {
+      "id": "oFVexhcltzE",
+      "title": "CVFX Lecture 10:  Feature descriptors",
+      "views": 21000
+    },
+    {
+      "id": "JlXtqWiAtLo",
+      "title": "CVFX Lecture 11: Feature evaluation and use",
+      "views": 3600
+    },
+    {
+      "id": "8zSPmkPqwWs",
+      "title": "CVFX Lecture 12: Parametric Transformations and Scattered Data Interpolation",
+      "views": 5400
+    },
+    {
+      "id": "KoMTYnlNNnc",
+      "title": "CVFX Lecture 13: Optical flow",
+      "views": 73000
+    },
+    {
+      "id": "QzYn0OPO0Yw",
+      "title": "CVFX Lecture 14: Epipolar geometry",
+      "views": 51000
+    },
+    {
+      "id": "kxsvG4sSuvA",
+      "title": "CVFX Lecture 15: Stereo correspondence",
+      "views": 51000
+    },
+    {
+      "id": "oXMGuotW1rI",
+      "title": "CVFX Lecture 16: Video matching, morphing, and view synthesis",
+      "views": 5200
+    },
+    {
+      "id": "4-thTdR7Blg",
+      "title": "CVFX Lecture 17: Image formation and single-camera calibration",
+      "views": 71000
+    },
+    {
+      "id": "DDjfhYxqp3w",
+      "title": "CVFX Lecture 18: Stereo rig calibration and projective reconstruction",
+      "views": 29000
+    },
+    {
+      "id": "4cS8-b30X54",
+      "title": "CVFX Lecture 19: Euclidean reconstruction and bundle adjustment",
+      "views": 13000
+    },
+    {
+      "id": "32BxpZX3gDM",
+      "title": "CVFX Lecture 20: Motion capture setup and forward kinematics",
+      "views": 4900
+    },
+    {
+      "id": "KUCF4L6IVCw",
+      "title": "CVFX Lecture 21: Inverse kinematics and motion editing",
+      "views": 2400
+    },
+    {
+      "id": "pKivtslTXc8",
+      "title": "CVFX Lecture 22: Facial and markerless motion capture",
+      "views": 2600
+    },
+    {
+      "id": "1DFDkiepMtY",
+      "title": "CVFX Lecture 23: LiDAR and time-of-flight sensing",
+      "views": 22000
+    },
+    {
+      "id": "ZC7CIlAVkIA",
+      "title": "CVFX Lecture 24: Structured light scanning",
+      "views": 48000
+    },
+    {
+      "id": "2pbH6A6d_Ow",
+      "title": "CVFX Lecture 25: Multiview stereo",
+      "views": 12000
+    },
+    {
+      "id": "7b2OupI6gKw",
+      "title": "CVFX Lecture 26: 3D features and registration",
+      "views": 10000
+    }
+  ]
+}

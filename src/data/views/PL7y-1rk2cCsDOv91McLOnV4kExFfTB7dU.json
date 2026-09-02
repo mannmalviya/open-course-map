@@ -1,0 +1,139 @@
+{
+  "lectures": [
+    {
+      "id": "9hToSoZXM9s",
+      "title": "Lecture 1: Introduction",
+      "views": 44000
+    },
+    {
+      "id": "vjAW8UCWWhQ",
+      "title": "Lecture 2: Intro; Gradient descent",
+      "views": 9400
+    },
+    {
+      "id": "QSZgPk_rPu0",
+      "title": "Lecture 3: Convexity",
+      "views": 6500
+    },
+    {
+      "id": "E-8sO9PcQWY",
+      "title": "Lecture 4: More convexity; first-order methods",
+      "views": 2500
+    },
+    {
+      "id": "4vKbFEg70eM",
+      "title": "Lecture 5: Gradient descent revisited",
+      "views": 2700
+    },
+    {
+      "id": "jbdyR7ESOh4",
+      "title": "Lecture 6: Subgradient method",
+      "views": 3800
+    },
+    {
+      "id": "TDg_-7bZSac",
+      "title": "Lecture 7: Subgradient method continued",
+      "views": 1200
+    },
+    {
+      "id": "TF63UGDTjWE",
+      "title": "Lecture 8: Generalized gradient descent",
+      "views": 3700
+    },
+    {
+      "id": "PYHZaZvMrbA",
+      "title": "Lecture 9: Acceleration",
+      "views": 1000
+    },
+    {
+      "id": "By00gUNLY1w",
+      "title": "Lecture 10: Matrix differentials",
+      "views": 2700
+    },
+    {
+      "id": "cZ9_wTmmXpY",
+      "title": "Lecture 11: Matrix differentials; Newton's method",
+      "views": 1700
+    },
+    {
+      "id": "PhPr9jva18s",
+      "title": "Lecture 12: Newton's method",
+      "views": 1600
+    },
+    {
+      "id": "-5XBc4o1EYw",
+      "title": "Lecture 13: Linear programs",
+      "views": 1400
+    },
+    {
+      "id": "5MpGhW_mxJw",
+      "title": "Lecture 14: Linear programs",
+      "views": 966
+    },
+    {
+      "id": "YOzDhyGGV0g",
+      "title": "Lecture 15: Duality",
+      "views": 2100
+    },
+    {
+      "id": "mVduN0fNwgw",
+      "title": "Lecture 16: KKT conditions",
+      "views": 10000
+    },
+    {
+      "id": "gnIqJMt4XUA",
+      "title": "Lecture 17: Duality correspondences",
+      "views": 1100
+    },
+    {
+      "id": "9pMeDHAz5Pw",
+      "title": "Lecture 18: Uses of duality",
+      "views": 831
+    },
+    {
+      "id": "MSOudZJIBYE",
+      "title": "Lecture 19: ADMM, mirror descent",
+      "views": 3200
+    },
+    {
+      "id": "HgYEyT5_TrE",
+      "title": "Lecture 20: Quadratic programs, cone programs",
+      "views": 5400
+    },
+    {
+      "id": "RaEftgT4708",
+      "title": "Lecture 21: QP and cone program duality; support vector machines",
+      "views": 1000
+    },
+    {
+      "id": "OgZ7j7z4S14",
+      "title": "Lecture 22: SVM duality, interior point",
+      "views": 1200
+    },
+    {
+      "id": "wdHBUdTJQ1k",
+      "title": "Lecture 23: Interior point methods",
+      "views": 2200
+    },
+    {
+      "id": "Z2IePBtK0rg",
+      "title": "Lecture 24: Interior point methods",
+      "views": 2100
+    },
+    {
+      "id": "YZx2kKOLaFE",
+      "title": "Lecture 25: Coordinate descent",
+      "views": 1900
+    },
+    {
+      "id": "n0_lqcfRy8Y",
+      "title": "Lecture 26: Path Algorithms",
+      "views": 811
+    },
+    {
+      "id": "Sfp4ZeAUHXA",
+      "title": "Lecture 27: Dual Averaging",
+      "views": 2100
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "lectures": [
+    {
+      "id": "IXotICNx2qk",
+      "title": "Is Optimization the Right Language to Understand Deep Learning? - Sanjeev Arora",
+      "views": 14000
+    },
+    {
+      "id": "5jSC8bjo-dI",
+      "title": "Emergent linguistic structure in deep contextual neural word representations - Chris Manning",
+      "views": 4100
+    },
+    {
+      "id": "YY-OKDje5A4",
+      "title": "Explaining Landscape Connectivity of Low-cost Solutions for Multilayer Nets - Rong Ge",
+      "views": 1100
+    },
+    {
+      "id": "y4XxN3hKPDE",
+      "title": "Fixing GAN optimization through competitive gradient descent - Anima Anandkumar",
+      "views": 2200
+    },
+    {
+      "id": "gHBdXHylC1A",
+      "title": "Tightening information-theoretic generalization bounds with data-dependent estimate... - Daniel Roy",
+      "views": 1800
+    },
+    {
+      "id": "YdYXpaE3Tm0",
+      "title": "Spotlight Talks - Amir Asadi, Dimitris Kalimeris",
+      "views": 874
+    },
+    {
+      "id": "MrUqeSj9Pgk",
+      "title": "PAC-Bayesian approaches to understanding generalization in deep learning - Gintare Dziugaite",
+      "views": 3300
+    },
+    {
+      "id": "lO4HDchiegY",
+      "title": "Overcoming the Curse of Dimensionality and Mode Collapse - Ke Li",
+      "views": 4000
+    },
+    {
+      "id": "BwAVyB6z4ok",
+      "title": "Are All Features Created Equal? - Aleksander Madry",
+      "views": 1400
+    },
+    {
+      "id": "m17B-cXcZFI",
+      "title": "Energy-based Approaches to Representation Learning - Yann LeCun",
+      "views": 10000
+    },
+    {
+      "id": "Txxi7RpjD70",
+      "title": "On Large Deviation Principles for Large Neural Networks - Joan Bruna",
+      "views": 1500
+    },
+    {
+      "id": "HVnFKmPaU8c",
+      "title": "Neural Models for Speech and Language: Successes, Challenges, and the... - Michael Collins",
+      "views": 558
+    },
+    {
+      "id": "PNs8Y4pDBRE",
+      "title": "Spotlight Talks - Various",
+      "views": 550
+    },
+    {
+      "id": "HvEGJUwQEO8",
+      "title": "On the Connection between Neural Networks and Kernels: a Modern Perspective -Simon Du",
+      "views": 9600
+    },
+    {
+      "id": "5-Kqb80h9rk",
+      "title": "From Classical Statistics to Modern ML: the Lessons of Deep Learning - Mikhail Belkin",
+      "views": 7300
+    },
+    {
+      "id": "hV4M0FV6fN8",
+      "title": "Spotlight Talks - Various",
+      "views": 795
+    },
+    {
+      "id": "vQsuF21tGQk",
+      "title": "Towards a theoretical foundation of neural networks - Jason Lee",
+      "views": 4200
+    },
+    {
+      "id": "eJpKyto_6QI",
+      "title": "Panel Session - Various",
+      "views": 1100
+    },
+    {
+      "id": "yFXPU2lMNdk",
+      "title": "Learning Representations Using Causal Invariance - Leon Bottou",
+      "views": 6400
+    },
+    {
+      "id": "xGugj9QNJeY",
+      "title": "Understanding the inductive bias due to dropout - Raman Arora",
+      "views": 951
+    },
+    {
+      "id": "4FX9Cutkj2I",
+      "title": "Interpreting Deep Neural Networks - Bin Yu",
+      "views": 1300
+    },
+    {
+      "id": "ZjTMiYhW4XY",
+      "title": "Kernel and Rich Regimes in Deep Learning - Nati Srebro",
+      "views": 1300
+    },
+    {
+      "id": "vj0EBOfGgqc",
+      "title": "Spotlight Talks Pt1: Jiaoyang Huang, Arjun Nitin Bhagoji, Rosemary Ke",
+      "views": 682
+    },
+    {
+      "id": "j5JeDDdbWLM",
+      "title": "Spotlight Talks Pt2 - Sebastian Goldt, Akshay Rangamani, Omar Shehab, Or Sharir",
+      "views": 584
+    },
+    {
+      "id": "CWKesNvxMyM",
+      "title": "Provably Efficient Reinforcement Learning with Linear Function Approximation - Chi Jin",
+      "views": 1500
+    },
+    {
+      "id": "Uwlkiwjy-sg",
+      "title": "Reinforcement Learning, Deep Learning,and the Role of Policy Gradient Methods - Sham Kakade",
+      "views": 1900
+    },
+    {
+      "id": "-QF_jX8L0nw",
+      "title": "Statistical mechanics of deep learning - Surya Ganguli",
+      "views": 3900
+    },
+    {
+      "id": "USfNJNePDKQ",
+      "title": "Representational Power of Graph Neural Networks - Stefanie Jegelka",
+      "views": 22000
+    },
+    {
+      "id": "7ONa9kGp7XM",
+      "title": "Spotlight Talks Pt1 - Zhiyuan Li, John Zarka, Stanislav Fort",
+      "views": 1000
+    },
+    {
+      "id": "HAfQ-Q8pn0g",
+      "title": "Toward a Causal Analysis of Generalization in Deep Learning - Behnam Neyshabur",
+      "views": 2100
+    },
+    {
+      "id": "kTEwRK2awOk",
+      "title": "Spotlight Talks Pt2 - Zhifeng Kong, Daniel Paul Kunin, Omar Montasser",
+      "views": 490
+    },
+    {
+      "id": "QjxzY8W-caY",
+      "title": "Designing explicit regularizers for deep models? - Tengyu Ma",
+      "views": 902
+    }
+  ]
+}

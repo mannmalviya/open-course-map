@@ -1,0 +1,164 @@
+{
+  "lectures": [
+    {
+      "id": "pid0lUH467o",
+      "title": "undergraduate machine learning 1: Introduction to machine learning",
+      "views": 112000
+    },
+    {
+      "id": "ERtuBXpL1v4",
+      "title": "undergraduate machine learning 2: Introduction to machine learning 2",
+      "views": 28000
+    },
+    {
+      "id": "cM0f_03r_MY",
+      "title": "undergraduate machine learning 3: Basic probability",
+      "views": 47000
+    },
+    {
+      "id": "60fP4WJ4oxE",
+      "title": "undergraduate machine learning 4: Introduction to probability, linear algebra and pagerank",
+      "views": 37000
+    },
+    {
+      "id": "fXgYnCAcdTc",
+      "title": "undergraduate machine learning 5: Introduction to Bayes",
+      "views": 26000
+    },
+    {
+      "id": "KJMJl1SWLIo",
+      "title": "undergraduate machine learning 6: Bayes rule and Bayesian networks",
+      "views": 39000
+    },
+    {
+      "id": "Xhdpk9HZQuo",
+      "title": "undergraduate machine learning 8: Inference in Bayesian networks and dynamic programming",
+      "views": 33000
+    },
+    {
+      "id": "jY2E6ExLxaw",
+      "title": "undergraduate machine learning 9: Hidden Markov models - HMM",
+      "views": 170000
+    },
+    {
+      "id": "UHGT7GGd8Wo",
+      "title": "undergraduate machine learning 10: Expectation, probability and Bernoulli models",
+      "views": 21000
+    },
+    {
+      "id": "xoVM4BN6u0Y",
+      "title": "undergraduate machine learning 11: Maximum likelihood",
+      "views": 20000
+    },
+    {
+      "id": "7192wm3NWSY",
+      "title": "undergraduate machine learning 12: Bayesian learning",
+      "views": 28000
+    },
+    {
+      "id": "hhKFa12y0Iw",
+      "title": "undergraduate machine learning 13: Learning Bayesian networks",
+      "views": 17000
+    },
+    {
+      "id": "tCx4EheOt8I",
+      "title": "undergraduate machine learning 14: Linear algebra revision for machine learning and web search",
+      "views": 17000
+    },
+    {
+      "id": "daHVmoOrLrI",
+      "title": "undergraduate machine learning 15: Singular Value Decomposition - SVD",
+      "views": 18000
+    },
+    {
+      "id": "4wRWnsIcGf0",
+      "title": "undergraduate machine learning 16: Principal Component Analysis - PCA",
+      "views": 16000
+    },
+    {
+      "id": "SqA6TujbmWw",
+      "title": "undergraduate machine learning 18: Least squares and the multivariate Gaussian",
+      "views": 14000
+    },
+    {
+      "id": "XgP2hmf7X4U",
+      "title": "undergraduate machine learning 7: Bayesian networks, aka probabilistic graphical models",
+      "views": 23000
+    },
+    {
+      "id": "NsCuw7s0QT8",
+      "title": "undergraduate machine learning 17: Linear prediction",
+      "views": 11000
+    },
+    {
+      "id": "-ouQeu_ywfY",
+      "title": "undergraduate machine learning 20: Cross-validation, big data and regularization",
+      "views": 15000
+    },
+    {
+      "id": "PKXpaLUigA8",
+      "title": "undergraduate machine learning 21: L1 regularization and the lasso",
+      "views": 26000
+    },
+    {
+      "id": "CjYz7z0usMo",
+      "title": "undergraduate machine learning  22: Sparse models and variable selection",
+      "views": 16000
+    },
+    {
+      "id": "0jQo8lVRHRY",
+      "title": "undergraduate machine learning 23: Dirichlet and categorical distributions",
+      "views": 24000
+    },
+    {
+      "id": "oAihxFkRHu8",
+      "title": "undergraduate machine learning 24: Text classification with Naive Bayes",
+      "views": 12000
+    },
+    {
+      "id": "fzt6I7M3Gt0",
+      "title": "undergraduate machine learning 25: Twitter sentiment prediction with Naive Bayes",
+      "views": 9000
+    },
+    {
+      "id": "Dgn1ssi2p40",
+      "title": "undergraduate machine learning 26: Optimization",
+      "views": 14000
+    },
+    {
+      "id": "Zc7ouSD0DEQ",
+      "title": "undergraduate machine learning 27: Logistic regression",
+      "views": 10000
+    },
+    {
+      "id": "gqSuI9p089I",
+      "title": "undergraduate machine learning 28: Neural networks",
+      "views": 14000
+    },
+    {
+      "id": "CmYPTnkBr-4",
+      "title": "undergraduate machine learning 29: Neural nets and backpropagation",
+      "views": 11000
+    },
+    {
+      "id": "D5bWIFsIxC0",
+      "title": "undergraduate machine learning 30: Deep learning",
+      "views": 9800
+    },
+    {
+      "id": "pLzE2Oh9QDI",
+      "title": "undergraduate machine learning 31: Decision trees",
+      "views": 21000
+    },
+    {
+      "id": "NgYj_cSIJeA",
+      "title": "undergraduate machine learning 32: Random forests",
+      "views": 18000
+    },
+    {
+      "id": "aXqICfH4ZlA",
+      "title": "undergraduate machine learning 33: Random forests, face detection and Kinect",
+      "views": 10000
+    }
+  ]
+}

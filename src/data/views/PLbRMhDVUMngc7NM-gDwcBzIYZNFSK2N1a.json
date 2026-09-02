@@ -1,0 +1,309 @@
+{
+  "lectures": [
+    {
+      "id": "W3_yaf3HvHU",
+      "title": "NPTEL: Deep Learning",
+      "views": 112000
+    },
+    {
+      "id": "x0-1qC54F-k",
+      "title": "Lecture 01 : Introduction",
+      "views": 88000
+    },
+    {
+      "id": "11WBbnlMkwg",
+      "title": "Lecture 02 : Feature Descriptor - I",
+      "views": 64000
+    },
+    {
+      "id": "UlB8Gik60sY",
+      "title": "Lecture 03 : Feature Descriptor - II",
+      "views": 41000
+    },
+    {
+      "id": "8ee-d5XtKLI",
+      "title": "Lecture 04 : Bayesian Learning - I",
+      "views": 44000
+    },
+    {
+      "id": "rthuFS5LSOo",
+      "title": "Lecture 05 : Bayesian Learning - II",
+      "views": 32000
+    },
+    {
+      "id": "FLyEbVawmvU",
+      "title": "Lecture 06 : Discriminant Function - I",
+      "views": 38000
+    },
+    {
+      "id": "CEob4dAUvRE",
+      "title": "Lecture 07 : Discriminant Function - II",
+      "views": 21000
+    },
+    {
+      "id": "aaojOoW34qU",
+      "title": "Lecture 08 : Discriminant Function - III",
+      "views": 16000
+    },
+    {
+      "id": "HG5bxhz_N4Y",
+      "title": "Lecture 09 : Linear Classifier",
+      "views": 23000
+    },
+    {
+      "id": "Tu-VnntpDRo",
+      "title": "Lecture 10 : Linear Classifier - II",
+      "views": 15000
+    },
+    {
+      "id": "kcQ0RzLfB_0",
+      "title": "Lecture 11 : Support Vector Machine - I",
+      "views": 26000
+    },
+    {
+      "id": "250lg4576OQ",
+      "title": "Lecture 12 : Support Vector Machine - II",
+      "views": 16000
+    },
+    {
+      "id": "5G7-vm80Sus",
+      "title": "Lecture 13 : Linear Machine",
+      "views": 13000
+    },
+    {
+      "id": "kH6T_XL10-A",
+      "title": "Lecture 14 : Multiclass Support Vector Machine - I",
+      "views": 18000
+    },
+    {
+      "id": "6Hv93n_1RHY",
+      "title": "Lecture 15 : Multiclass Support Vector Machine -II",
+      "views": 11000
+    },
+    {
+      "id": "d2Or9enBzHM",
+      "title": "Lecture 16 : Optimization",
+      "views": 17000
+    },
+    {
+      "id": "VVg1YBosu5E",
+      "title": "Lecture 17 : Optimization Techniques in Machine Learning",
+      "views": 34000
+    },
+    {
+      "id": "BRpEHdniz2c",
+      "title": "Lecture 18 : Nonlinear Functions",
+      "views": 12000
+    },
+    {
+      "id": "QlhHqMnd9Wo",
+      "title": "Lecture 19 : Introduction to Neural Network",
+      "views": 27000
+    },
+    {
+      "id": "9-Zix81xwbo",
+      "title": "Lecture 20 : Neural Network -II",
+      "views": 17000
+    },
+    {
+      "id": "zCwEdKy2OJI",
+      "title": "Lecture 21 : Multilayer Perceptron",
+      "views": 28000
+    },
+    {
+      "id": "412SI_kvDyc",
+      "title": "Lecture 22 : Multilayer Perceptron - II",
+      "views": 15000
+    },
+    {
+      "id": "dLKqcDpuSp8",
+      "title": "Lecture 23 : Backpropagation Learning",
+      "views": 18000
+    },
+    {
+      "id": "CkiT0Muz62g",
+      "title": "Lecture 24 : Loss Function",
+      "views": 12000
+    },
+    {
+      "id": "8sOVD8NNg_U",
+      "title": "Lecture 25 : Backpropagation Learning - Example",
+      "views": 15000
+    },
+    {
+      "id": "qPQBBsr8EOU",
+      "title": "Lecture 26 : Backpropagation Learning- Example II",
+      "views": 12000
+    },
+    {
+      "id": "wKDRfaTSf8M",
+      "title": "Lecture 27 : Backpropagation Learning- Example III",
+      "views": 8800
+    },
+    {
+      "id": "r5dsCkyD1eU",
+      "title": "Lecture 28 : Autoencoder",
+      "views": 19000
+    },
+    {
+      "id": "ZUbW0dsLEB4",
+      "title": "Lecture 29 : Autoencoder Vs. PCA  I",
+      "views": 12000
+    },
+    {
+      "id": "MN1UEbbjuMc",
+      "title": "Lecture 30 : Autoencoder Vs. PCA  II",
+      "views": 9400
+    },
+    {
+      "id": "KEod3Dq5BX4",
+      "title": "Lecture 31 : Autoencoder Training",
+      "views": 12000
+    },
+    {
+      "id": "YGt2jOitv-c",
+      "title": "Lecture 32 : Autoencoder Variants I",
+      "views": 10000
+    },
+    {
+      "id": "w8xbd8XI7U8",
+      "title": "Lecture 33 : Autoencoder Variants II",
+      "views": 8300
+    },
+    {
+      "id": "rwENxNH0zdA",
+      "title": "Lecture 34 : Convolution",
+      "views": 12000
+    },
+    {
+      "id": "gChPGqWbMUQ",
+      "title": "Lecture 35 : Cross Correlation",
+      "views": 10000
+    },
+    {
+      "id": "ljCZM8mpj8I",
+      "title": "Lecture 36 : CNN Architecture",
+      "views": 15000
+    },
+    {
+      "id": "JKPtsgrufeU",
+      "title": "Lecture 37 : MLP versus CNN, Popular CNN Architecture: LeNet",
+      "views": 10000
+    },
+    {
+      "id": "3Jv2eoPHKZU",
+      "title": "Lecture 38 : Popular CNN Architecture: AlexNet",
+      "views": 8000
+    },
+    {
+      "id": "aJ9wUDBoLUs",
+      "title": "Lecture 39 : Popular CNN Architecture: VGG16, Transfer Learning",
+      "views": 13000
+    },
+    {
+      "id": "upMv7CpbCtE",
+      "title": "Lecture 40 : Vanishing and Exploding Gradient",
+      "views": 7700
+    },
+    {
+      "id": "zzqxwlNc558",
+      "title": "Lecture 41 : GoogleNet",
+      "views": 19000
+    },
+    {
+      "id": "zPUD7Hwa-8Y",
+      "title": "Lecture 42 : ResNet, Optimisers: Momentum Optimiser",
+      "views": 9100
+    },
+    {
+      "id": "tlazCd_5B20",
+      "title": "Lecture 43 : Optimisers: Momentum and Nesterov Accelerated Gradient (NAG) Optimiser",
+      "views": 9200
+    },
+    {
+      "id": "66KeqX53YKI",
+      "title": "Lecture 44 : Optimisers: Adagrad Optimiser",
+      "views": 7200
+    },
+    {
+      "id": "sX4wxS7kePM",
+      "title": "Lecture 45 : Optimisers: RMSProp, AdaDelta and Adam Optimiser",
+      "views": 9000
+    },
+    {
+      "id": "i-Ntc-noQ6c",
+      "title": "Lecture 46 : Normalization",
+      "views": 8000
+    },
+    {
+      "id": "YvvwGw_Muqw",
+      "title": "Lecture 47 : Batch Normalization-I",
+      "views": 8300
+    },
+    {
+      "id": "OaFD9ElAWTI",
+      "title": "Lecture 48 : Batch Normalization-II",
+      "views": 5400
+    },
+    {
+      "id": "ffQfk3uS9Os",
+      "title": "Lecture 49 : Layer, Instance, Group Normalization",
+      "views": 7500
+    },
+    {
+      "id": "-tBN63RFGwY",
+      "title": "Lecture 50 : Training Trick, Regularization,Early Stopping",
+      "views": 5500
+    },
+    {
+      "id": "kW8iUM1Y9uQ",
+      "title": "Lecture 51 : Face Recognition",
+      "views": 12000
+    },
+    {
+      "id": "pQYUGaFMsGU",
+      "title": "Lecture 52 : Deconvolution Layer",
+      "views": 8900
+    },
+    {
+      "id": "RV2HMPwVNTY",
+      "title": "Lecture 53 : Semantic Segmentation - I",
+      "views": 10000
+    },
+    {
+      "id": "F899mvG79O0",
+      "title": "Lecture 54 : Semantic Segmentation - II",
+      "views": 6200
+    },
+    {
+      "id": "DkX3y4Mnzr8",
+      "title": "Lecture 55 : Semantic Segmentation - III",
+      "views": 5300
+    },
+    {
+      "id": "t8f2Esh13Ck",
+      "title": "Lecture 56: Image Denoising",
+      "views": 11000
+    },
+    {
+      "id": "d1wSQroJ6V4",
+      "title": "Lecture 57 : Variational Autoencoder",
+      "views": 8200
+    },
+    {
+      "id": "_2wZBYPWs_g",
+      "title": "Lecture 58 : Variational Autoencoder - II",
+      "views": 5800
+    },
+    {
+      "id": "lHOxOiDEGS0",
+      "title": "Lecture 59 : Variational Autoencoder - III",
+      "views": 5100
+    },
+    {
+      "id": "1WaRDrfMhmw",
+      "title": "Lecture 60 : Generative Adversarial Network",
+      "views": 7700
+    }
+  ]
+}

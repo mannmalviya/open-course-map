@@ -1,0 +1,149 @@
+{
+  "lectures": [
+    {
+      "id": "UhDlL-tLT2U",
+      "title": "DIP Lecture 1: Digital Image Modalities and Processing",
+      "views": 219000
+    },
+    {
+      "id": "eK4ZAsKgCg4",
+      "title": "DIP Lecture 2: The human visual system, perception, and color",
+      "views": 63000
+    },
+    {
+      "id": "22bXc700PsY",
+      "title": "DIP Lecture 3: Image acquisition and sensing",
+      "views": 50000
+    },
+    {
+      "id": "qKWPBzRD-U0",
+      "title": "DIP Lecture 4: Histograms and point operations",
+      "views": 55000
+    },
+    {
+      "id": "Gu9mSHwI3ec",
+      "title": "DIP Lecture 5: Geometric operations",
+      "views": 51000
+    },
+    {
+      "id": "q9AqlQ274ss",
+      "title": "DIP Lecture 6: Spatial filters",
+      "views": 40000
+    },
+    {
+      "id": "NbQY1x8H6QQ",
+      "title": "DIP Lecture 7: The 2D Discrete Fourier Transform",
+      "views": 65000
+    },
+    {
+      "id": "tmERrPh1E4c",
+      "title": "DIP Lecture 8: Frequency domain filtering; sampling and aliasing",
+      "views": 33000
+    },
+    {
+      "id": "7o5kEVWVGjU",
+      "title": "DIP Lecture 9: Unitary image transforms",
+      "views": 19000
+    },
+    {
+      "id": "APBXfqVccS0",
+      "title": "DIP Lecture 10: Edge detection",
+      "views": 28000
+    },
+    {
+      "id": "_con6DnhkaA",
+      "title": "DIP Lecture 11: Edge linking and line detection",
+      "views": 24000
+    },
+    {
+      "id": "ojapO75FV38",
+      "title": "DIP Lecture 12: Thresholding",
+      "views": 38000
+    },
+    {
+      "id": "ZF-3aORwEc0",
+      "title": "DIP Lecture 12a: Image Segmentation",
+      "views": 39000
+    },
+    {
+      "id": "RJEMDkhVgqQ",
+      "title": "DIP Lecture 12b: Snakes, active contours, and level sets",
+      "views": 39000
+    },
+    {
+      "id": "IcBzsP-fvPo",
+      "title": "DIP Lecture 13: Morphological image processing",
+      "views": 152000
+    },
+    {
+      "id": "_kwZj-EB1OU",
+      "title": "DIP Lecture 13a: Region description and filtering",
+      "views": 6900
+    },
+    {
+      "id": "ddXvs1Wp95A",
+      "title": "DIP Lecture 14: Object and feature detection",
+      "views": 30000
+    },
+    {
+      "id": "EiD0PuL2yhk",
+      "title": "DIP Lecture 15: Lossless image coding",
+      "views": 11000
+    },
+    {
+      "id": "wyb5S8QsCSA",
+      "title": "DIP Lecture 16: Lossy image compression",
+      "views": 8400
+    },
+    {
+      "id": "GE3_4acUrO4",
+      "title": "DIP Lecture 17: Image restoration and the Wiener filter",
+      "views": 31000
+    },
+    {
+      "id": "ZgcD4C-4u0Q",
+      "title": "DIP Lecture 18: Reconstruction from parallel projections and the Radon transform",
+      "views": 93000
+    },
+    {
+      "id": "ETlgxFcxelw",
+      "title": "DIP Lecture 19: Fan-beam reconstruction",
+      "views": 24000
+    },
+    {
+      "id": "UJtV3DdjCVY",
+      "title": "DIP Lecture 20: Dithering and halftoning",
+      "views": 30000
+    },
+    {
+      "id": "O2RwWHWHQlM",
+      "title": "DIP Lecture 21: Digital watermarking",
+      "views": 21000
+    },
+    {
+      "id": "UcTJDamstdk",
+      "title": "DIP Lecture 22: Image blending",
+      "views": 19000
+    },
+    {
+      "id": "XTRO6yQOvJc",
+      "title": "DIP Lecture 23: Photomontage and inpainting",
+      "views": 6700
+    },
+    {
+      "id": "w8pjvtnjRPs",
+      "title": "DIP Lecture 24: Image retargeting",
+      "views": 9500
+    },
+    {
+      "id": "z0FUg_RQJ04",
+      "title": "DIP Lecture 24a: Digital Image Forensics",
+      "views": 6100
+    },
+    {
+      "id": "53kx_czs7Es",
+      "title": "DIP Lecture 25: Active shape models",
+      "views": 29000
+    }
+  ]
+}

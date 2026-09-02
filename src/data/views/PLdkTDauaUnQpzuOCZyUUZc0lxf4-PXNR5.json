@@ -1,0 +1,209 @@
+{
+  "lectures": [
+    {
+      "id": "4_jiFQXPAsw",
+      "title": "1.1 Optimization Methods - Motivation and Historical Perspective",
+      "views": 40000
+    },
+    {
+      "id": "r1YOoZKX5Ts",
+      "title": "1.2 Optimization Methods - Course Organization",
+      "views": 10000
+    },
+    {
+      "id": "C7hI-_fDFqc",
+      "title": "1.3 Optimization Methods - Notation and Analysis Refresher",
+      "views": 10000
+    },
+    {
+      "id": "3VTUPnQTGcA",
+      "title": "1.4 Optimization Methods - Convexity",
+      "views": 9300
+    },
+    {
+      "id": "K9_bRv2Lw9A",
+      "title": "1.5 Optimization Methods - Gradient Descent",
+      "views": 7900
+    },
+    {
+      "id": "5WMiEYIeF8s",
+      "title": "2.1 Optimization Methods - Linear Algebra Recap",
+      "views": 6100
+    },
+    {
+      "id": "AcbmYqt8y4s",
+      "title": "2.2 Optimization Methods - Newton's Method",
+      "views": 5200
+    },
+    {
+      "id": "kLnw8Pj6WSU",
+      "title": "2.3 Optimization Methods - Model Fitting as Optimization",
+      "views": 3800
+    },
+    {
+      "id": "sEU0qi0Q_HI",
+      "title": "3.1 Optimization Methods - Some Notions of Topology",
+      "views": 2600
+    },
+    {
+      "id": "NgXSNVxNuiE",
+      "title": "3.2 Optimization Methods - Inequality Constraints",
+      "views": 2400
+    },
+    {
+      "id": "O0IfGAdRr7w",
+      "title": "3.3 Optimization Methods - The Interior Point Method",
+      "views": 8200
+    },
+    {
+      "id": "JKCG9QMkn58",
+      "title": "3.4 Optimization Methods - Linear Programming",
+      "views": 2500
+    },
+    {
+      "id": "QgRpwr_0Yt0",
+      "title": "3.5 Optimization Methods - Soft Equality Constraints",
+      "views": 1700
+    },
+    {
+      "id": "RTMckOx4XgI",
+      "title": "4.1 Optimization Methods - Some More Linear Algebra",
+      "views": 1600
+    },
+    {
+      "id": "Zxu9Gic0F88",
+      "title": "4.2 Optimization Methods - Equality Constraints",
+      "views": 1500
+    },
+    {
+      "id": "volRgLrUQa8",
+      "title": "4.3 Optimization Methods - Constraint Elimination",
+      "views": 1800
+    },
+    {
+      "id": "n0JO6KojcGY",
+      "title": "4.4 Optimization Methods - Lagrange Multipliers",
+      "views": 1900
+    },
+    {
+      "id": "obqAUmHmxWk",
+      "title": "5.1 Optimization Methods - Lagrangians and Linear Programming",
+      "views": 1600
+    },
+    {
+      "id": "CKPNoWtj9xU",
+      "title": "5.2 Optimization Methods - Mechanical Truss Design",
+      "views": 1800
+    },
+    {
+      "id": "-QSGN5DqjJw",
+      "title": "5.3 Optimization Methods - Stock Market Investments",
+      "views": 1400
+    },
+    {
+      "id": "XDCI9GFZ_Lc",
+      "title": "5.4 Optimization Methods - Model Predictive Control",
+      "views": 3700
+    },
+    {
+      "id": "YQ7RIHMWA88",
+      "title": "6.1 Optimization Method - Automatic Differentiation",
+      "views": 3900
+    },
+    {
+      "id": "oTwt38TSyE8",
+      "title": "6.2 Optimization Methods - Space Mission Planning",
+      "views": 1100
+    },
+    {
+      "id": "o-haHQWlaPs",
+      "title": "6.3 Optimization Methods - Artificial Neural Networks",
+      "views": 5100
+    },
+    {
+      "id": "lx2s5x0_7Gg",
+      "title": "7.1 Optimization Methods - Vector Spaces",
+      "views": 1600
+    },
+    {
+      "id": "ukoAswQmGq0",
+      "title": "7.2 Optimization Methods - Norms and Banach Spaces",
+      "views": 1200
+    },
+    {
+      "id": "bOKW5Xj7-No",
+      "title": "7.3 Optimization Methods - Hilbert Spaces and the Projection Theorem",
+      "views": 2000
+    },
+    {
+      "id": "tMlKZZf2Kac",
+      "title": "7.4 Optimization Methods - Projection Applications",
+      "views": 1500
+    },
+    {
+      "id": "GmY3LUL6GkY",
+      "title": "8.1 Optimization Methods - Lagrangian Duality",
+      "views": 3800
+    },
+    {
+      "id": "SdQREWTUO30",
+      "title": "8.2 Optimization Methods - Karush-Kuhn-Tucker Conditions",
+      "views": 1600
+    },
+    {
+      "id": "4auMazU_XNM",
+      "title": "8.3 Optimization Methods - Primal-Dual Methods",
+      "views": 2700
+    },
+    {
+      "id": "f8p_KWTA2iY",
+      "title": "9.1 Optimization Methods - Linear Classification",
+      "views": 1200
+    },
+    {
+      "id": "DptRbduHKUw",
+      "title": "9.2 Optimization Methods - Nonlinear Classification with Kernels",
+      "views": 967
+    },
+    {
+      "id": "PBuLWYRP65Q",
+      "title": "9.3 Optimization Methods - Reproducing Kernel Hilbert Spaces",
+      "views": 2600
+    },
+    {
+      "id": "rnVJMjMr9GQ",
+      "title": "10.1 Optimization Methods - Conic Optimization",
+      "views": 12000
+    },
+    {
+      "id": "lxOwG5NE3dg",
+      "title": "10.2 Optimization Methods - Commonly Used Cones",
+      "views": 2900
+    },
+    {
+      "id": "Y6UyXl7fNB4",
+      "title": "10.3 Optimization Methods - Solving Conic Problems",
+      "views": 1900
+    },
+    {
+      "id": "jBYg7YoaJjo",
+      "title": "11.1 Optimization Methods - Non-Convex Continuous Optimization",
+      "views": 3000
+    },
+    {
+      "id": "xEQaDiAHDWk",
+      "title": "11.2 Optimization Methods - Mixed-Integer Optimization",
+      "views": 1600
+    },
+    {
+      "id": "-CEm_ZJfRKM",
+      "title": "11.3 Optimization Methods - Stochastic Optimization",
+      "views": 2300
+    },
+    {
+      "id": "0u-Y1C1TWLs",
+      "title": "11.4 Optimization Methods - Recap and Outlook",
+      "views": 1300
+    }
+  ]
+}

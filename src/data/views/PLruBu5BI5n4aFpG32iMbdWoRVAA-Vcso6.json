@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "id": "BCiZc0n6COY",
+      "title": "Lecture 1: Introduction to Information Theory",
+      "views": 401000
+    },
+    {
+      "id": "y5VdtQSqiAI",
+      "title": "Lecture 2: Entropy and Data Compression (I): Introduction to Compression, Inf.Theory and Entropy",
+      "views": 106000
+    },
+    {
+      "id": "0SxJl5G2bp0",
+      "title": "Lecture 3: Entropy and Data Compression (II): Shannon's Source Coding Theorem, The Bent Coin Lottery",
+      "views": 65000
+    },
+    {
+      "id": "eHGqNvkL4n4",
+      "title": "Lecture 4: Entropy and Data Compression (III): Shannon's Source Coding Theorem, Symbol Codes",
+      "views": 48000
+    },
+    {
+      "id": "cJ_rhZ9DP9k",
+      "title": "Lecture 5: Entropy and Data Compression (IV): Shannon's Source Coding Theorem, Symbol Codes",
+      "views": 39000
+    },
+    {
+      "id": "9w4LnXIip5A",
+      "title": "Lecture 6: Noisy Channel Coding (I): Inference and Information Measures for Noisy Channels",
+      "views": 33000
+    },
+    {
+      "id": "vVAsh5DAe10",
+      "title": "Lecture 7: Noisy Channel Coding (II): The Capacity of a Noisy Channel",
+      "views": 30000
+    },
+    {
+      "id": "KSV8KnF38bs",
+      "title": "Lecture 8: Noisy Channel Coding (III): The Noisy-Channel Coding Theorem",
+      "views": 27000
+    },
+    {
+      "id": "HrRNqb5C-b0",
+      "title": "Lecture 9: A Noisy Channel Coding Gem, And An Introduction To Bayesian Inference (I)",
+      "views": 18000
+    },
+    {
+      "id": "mDVE0M-xQlc",
+      "title": "Lecture 10: An Introduction To Bayesian Inference (II): Inference Of Parameters And Models",
+      "views": 23000
+    },
+    {
+      "id": "XJGfXuFQVNE",
+      "title": "Lecture 11: Approximating Probability Distributions (I):  Clustering As An Example Inference Problem",
+      "views": 17000
+    },
+    {
+      "id": "sN_0iGWcyLI",
+      "title": "Lecture 12: Approximating Probability Distributions (II): Monte Carlo Methods (I)",
+      "views": 25000
+    },
+    {
+      "id": "Qr6tg9oLGTA",
+      "title": "Lecture 13: Approximating Probability Distributions (III): Monte Carlo Methods (II): Slice Sampling",
+      "views": 16000
+    },
+    {
+      "id": "rkV6Wu30x4g",
+      "title": "Lecture 14: Approximating Probability Distributions (IV): Variational Methods",
+      "views": 20000
+    },
+    {
+      "id": "Z1pcTxvCOgw",
+      "title": "Lecture 15: Data Modelling With Neural Networks (I): Feedforward Networks: The Capacity Of A Neuron",
+      "views": 17000
+    },
+    {
+      "id": "OvMGPHpa_tM",
+      "title": "Lecture 16: Data Modelling With Neural Networks (II): Content-Addressable Memories And State",
+      "views": 12000
+    }
+  ]
+}

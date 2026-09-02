@@ -1,0 +1,54 @@
+{
+  "lectures": [
+    {
+      "id": "aircAruvnKk",
+      "title": "But what is a neural network? | Deep learning chapter 1",
+      "views": 23000000
+    },
+    {
+      "id": "IHZwWFHWa-w",
+      "title": "Gradient descent, how neural networks learn | Deep Learning Chapter 2",
+      "views": 9400000
+    },
+    {
+      "id": "Ilg3gGewQ5U",
+      "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+      "views": 6100000
+    },
+    {
+      "id": "tIeHLnjs5U8",
+      "title": "Backpropagation calculus | Deep Learning Chapter 4",
+      "views": 3800000
+    },
+    {
+      "id": "LPZh9BOjkQs",
+      "title": "Large Language Models explained briefly",
+      "views": 7100000
+    },
+    {
+      "id": "wjZofJX0v4M",
+      "title": "Transformers, the tech behind LLMs | Deep Learning Chapter 5",
+      "views": 10000000
+    },
+    {
+      "id": "eMlx5fFNoYc",
+      "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
+      "views": 4400000
+    },
+    {
+      "id": "9-Jl0dxWQs8",
+      "title": "How might LLMs store facts | Deep Learning Chapter 7",
+      "views": 2100000
+    },
+    {
+      "id": "GlYgs6v2YfU",
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+      "views": 620000
+    },
+    {
+      "id": "iv-5mZ_9CPY",
+      "title": "But how do AI images and videos actually work? | Guest video by Welch Labs",
+      "views": 2000000
+    }
+  ]
+}

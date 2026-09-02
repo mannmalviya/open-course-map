@@ -1,0 +1,99 @@
+{
+  "lectures": [
+    {
+      "id": "8jXIAWg_yHU",
+      "title": "The Ancient Secrets of Computer Vision - 01 - Introduction",
+      "views": 60000
+    },
+    {
+      "id": "-nt80JUNwlw",
+      "title": "The Ancient Secrets of Computer Vision - 02 - Human Vision",
+      "views": 42000
+    },
+    {
+      "id": "hpqrDUuk7HY",
+      "title": "The Ancient Secrets of Computer Vision - 03 - Image Basics",
+      "views": 25000
+    },
+    {
+      "id": "5xdbJ7z4Nrc",
+      "title": "The Ancient Secrets of Computer Vision - 04 - Resizing, Filtering, and Convolutions",
+      "views": 17000
+    },
+    {
+      "id": "z5WSV6CXsxs",
+      "title": "The Ancient Secrets of Computer Vision - 05 - Edges and Features",
+      "views": 20000
+    },
+    {
+      "id": "bn4KHa_zWuQ",
+      "title": "The Ancient Secrets of Computer Vision - 06 - Features, Matching, and RANSAC",
+      "views": 13000
+    },
+    {
+      "id": "taty6lPVcmA",
+      "title": "The Ancient Secrets of Computer Vision - 07 - Matching, RANSAC, SIFT, and HOG",
+      "views": 15000
+    },
+    {
+      "id": "a-v5_8VGV0A",
+      "title": "The Ancient Secrets of Computer Vision - 08 - Optical Flow",
+      "views": 17000
+    },
+    {
+      "id": "AA8FEwutsVk",
+      "title": "The Ancient Secrets of Computer Vision - 09 - 3D, Depth Perception, and Stereo",
+      "views": 10000
+    },
+    {
+      "id": "AIL5PuvRAPI",
+      "title": "The Ancient Secrets of Computer Vision - 10 - Machine Learning for Computer Vision",
+      "views": 7100
+    },
+    {
+      "id": "3fCrfabOm8U",
+      "title": "The Ancient Secrets of Computer Vision - 11 - More Machine Learning for Computer Vision",
+      "views": 4600
+    },
+    {
+      "id": "fXuIpJ-2MR4",
+      "title": "The Ancient Secrets of Computer Vision - 12 - Neural Networks",
+      "views": 5000
+    },
+    {
+      "id": "RnD0OFbZGbA",
+      "title": "The Ancient Secrets of Computer Vision - 13 - Convolutional Neural Networks",
+      "views": 4400
+    },
+    {
+      "id": "-XK_uMVD2CY",
+      "title": "The Ancient Secrets of Computer Vision - 14 - Network Architectures",
+      "views": 4800
+    },
+    {
+      "id": "2irYRgCFC1I",
+      "title": "The Ancient Secrets of Computer Vision - 16 - Object Detection",
+      "views": 7500
+    },
+    {
+      "id": "s989zzFkaFo",
+      "title": "The Ancient Secrets of Computer Vision - 18 - Detection and Instance Segmentation",
+      "views": 9700
+    },
+    {
+      "id": "EbUqT_TfCTM",
+      "title": "The Ancient Secrets of Computer Vision - 19 - Vision and Language",
+      "views": 5400
+    },
+    {
+      "id": "erVD9DMik_Q",
+      "title": "The Ancient Secrets of Computer Vision - 20 - Generative Adversarial Networks",
+      "views": 4500
+    },
+    {
+      "id": "FvzNeh4Mq1o",
+      "title": "The Flamingos - I Only Have Eyes For You",
+      "views": 22000000
+    }
+  ]
+}

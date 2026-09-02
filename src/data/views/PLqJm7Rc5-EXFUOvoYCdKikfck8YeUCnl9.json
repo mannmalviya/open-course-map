@@ -1,0 +1,154 @@
+{
+  "lectures": [
+    {
+      "id": "XLHB-Aktxw0",
+      "title": "What is Machine Learning - Bernhard Schölkopf - MLSS 2017",
+      "views": 13000
+    },
+    {
+      "id": "aBQOXAvS8k0",
+      "title": "Learning Digital Humans by Capturing Real Ones - Michael Black - MLSS 2017",
+      "views": 1800
+    },
+    {
+      "id": "oP0aDb1mAmU",
+      "title": "Implicit Generative Models - Ilya Tolstikhin - MLSS 2017",
+      "views": 2000
+    },
+    {
+      "id": "zlfmUsc9jeo",
+      "title": "Reinforcement Learning - Jan Peters - MLSS 2017",
+      "views": 2200
+    },
+    {
+      "id": "H0hGn78SL2E",
+      "title": "Marrying Graphical Models & Deep Learning - Max Welling - MLSS 2017",
+      "views": 5900
+    },
+    {
+      "id": "s4BtL6Q-Yx8",
+      "title": "Robot Learning - Stefan Schaal - MLSS 2017",
+      "views": 1300
+    },
+    {
+      "id": "d0NgtSrGN50",
+      "title": "Distributed Architectures Part 1 - Michael Jordan - MLSS 2017",
+      "views": 1600
+    },
+    {
+      "id": "ls2rqe4dXwo",
+      "title": "Distributed Architectures Part 2 - Michael Jordan - MLSS 2017",
+      "views": 499
+    },
+    {
+      "id": "HYbcA7nrPZE",
+      "title": "Distributed Architectures Part 3 - Michael Jordan - MLSS 2017",
+      "views": 384
+    },
+    {
+      "id": "5zLnfsbKQ9k",
+      "title": "Kernel Methods Part 1 - Bharath Sriperumbudur - MLSS 2017",
+      "views": 2000
+    },
+    {
+      "id": "kJNmOzM-woQ",
+      "title": "Kernel Methods Part 2 - Bharath Sriperumbudur - MLSS 2017",
+      "views": 766
+    },
+    {
+      "id": "t469ia0AgJs",
+      "title": "Kernel Methods Part 3 - Bharath Sriperumbudur - MLSS 2017",
+      "views": 396
+    },
+    {
+      "id": "11BZR9vrTrA",
+      "title": "New Trends in Machine Learning - Olivier Bousquet - MLSS 2017",
+      "views": 1000
+    },
+    {
+      "id": "umA8QzY5C54",
+      "title": "Submodularity - Stefanie Jegelka - MLSS 2017",
+      "views": 1200
+    },
+    {
+      "id": "XugKv3lxQac",
+      "title": "Optimization Part 1 - Suvrit Sra - MLSS 2017",
+      "views": 3900
+    },
+    {
+      "id": "1ddBQWqX6Ro",
+      "title": "Optimization Part 2 - Suvrit Sra - MLSS 2017",
+      "views": 1300
+    },
+    {
+      "id": "VxiWu1W356c",
+      "title": "Optimization Part 3 - Suvrit Sra - MLSS 2017",
+      "views": 971
+    },
+    {
+      "id": "TFlV57P8JKo",
+      "title": "Deep Learning Part 1 - Ruslan Salakhutdinov - MLSS 2017",
+      "views": 1800
+    },
+    {
+      "id": "vzMs64t21PQ",
+      "title": "Deep Learning Part 2 - Ruslan Salakhutdinov - MLSS 2017",
+      "views": 771
+    },
+    {
+      "id": "6tJLpI0nB20",
+      "title": "Network Analysis Part 1 - Jure Lescovec - MLSS 2017",
+      "views": 1300
+    },
+    {
+      "id": "AcezqQLXk-U",
+      "title": "Network Analysis Part 2 - Jure Lescovec - MLSS 2017",
+      "views": 415
+    },
+    {
+      "id": "lF7_XcJrKl0",
+      "title": "Network Analysis Part 3 - Jure Lescovec Stanford - MLSS 2017",
+      "views": 436
+    },
+    {
+      "id": "eZR_x9bKIcQ",
+      "title": "Bayesian Inference Part 1 - Zoubin Ghahramani - MLSS 2017",
+      "views": 4400
+    },
+    {
+      "id": "0Zn1x3WTDBU",
+      "title": "Bayesian Inference Part 2 - Zoubin Ghahramani - MLSS 2017",
+      "views": 1900
+    },
+    {
+      "id": "oYs0r90Mx0k",
+      "title": "Bayesian Inference Part 3 - Zoubin Ghahramani - MLSS 2017",
+      "views": 1100
+    },
+    {
+      "id": "PazAnVWEq-0",
+      "title": "Understanding of Machine Learning Part 1 - Shai Ben David - MLSS 2017",
+      "views": 3200
+    },
+    {
+      "id": "-Ypw18j7LIs",
+      "title": "Understanding of Machine Learning Part 2 - Shai Ben David - MLSS 2017",
+      "views": 698
+    },
+    {
+      "id": "_Q9gXuM7vbc",
+      "title": "Understanding of Machine Learning Part 3 - Shai Ben David - MLSS 2017",
+      "views": 552
+    },
+    {
+      "id": "sidT9vPYEjU",
+      "title": "Deep Reinforcement Learning Part 1 - Volodymyr Mnih - MLSS 2017",
+      "views": 1900
+    },
+    {
+      "id": "a2pfzt523Hk",
+      "title": "Deep Reinforcement Learning Part 2 - Volodymyr Mnih - MLSS 2017",
+      "views": 1000
+    }
+  ]
+}

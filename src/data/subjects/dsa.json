@@ -221,6 +221,25 @@
           "primary": true
         }
       ]
+    },
+    "mit-6854": {
+      "title": "6.854 Advanced Algorithms",
+      "university": "MIT",
+      "level": "grad",
+      "pos": {
+        "x": 1040,
+        "y": 60
+      },
+      "versions": [
+        {
+          "label": "MIT 6.854 · Moitra · 2016",
+          "url": "http://people.csail.mit.edu/moitra/854.html",
+          "youtube": "https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c",
+          "date": "Spring 2016",
+          "youtubeId": "hM547xRIdzc",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [
@@ -240,7 +259,13 @@
       "from": "stanford-alg1",
       "to": "stanford-alg2"
     },
-    { "from": "ucsc-cse101", "to": "ucsc-cse201" },
-    { "from": "ucsc-cse201", "to": "ucsc-cse202" }
+    {
+      "from": "ucsc-cse101",
+      "to": "ucsc-cse201"
+    },
+    {
+      "from": "ucsc-cse201",
+      "to": "ucsc-cse202"
+    }
   ]
 }

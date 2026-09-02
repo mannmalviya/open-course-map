@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "id": "9GMT3FnQTGM",
+      "title": "Intro and Foundations of Data Science I",
+      "views": 7700
+    },
+    {
+      "id": "Hu9l2F3dyWU",
+      "title": "Foundations of Data Science II",
+      "views": 1500
+    },
+    {
+      "id": "nM-6o8bgHRQ",
+      "title": "Sketching for Linear Algebra: Basics of Dimensionality Reduction and CountSketch I",
+      "views": 4000
+    },
+    {
+      "id": "RPlDIU_022U",
+      "title": "Sketching for Linear Algebra: Basics of Dimensionality Reduction and CountSketch II",
+      "views": 1500
+    },
+    {
+      "id": "KTjcZOPtMtA",
+      "title": "Sketching for Linear Algebra III: Randomized Hadamard, Kernel Methods",
+      "views": 1300
+    },
+    {
+      "id": "zZbHVaw_W9A",
+      "title": "First-Order Stochastic Optimization",
+      "views": 6300
+    },
+    {
+      "id": "HwBZUpBo6l8",
+      "title": "Sampling for Linear Algebra, Statistics, and Optimization I",
+      "views": 1700
+    },
+    {
+      "id": "ywcMl362CWs",
+      "title": "Sampling for Linear Algebra, Statistics, and Optimization II",
+      "views": 505
+    },
+    {
+      "id": "OoBzgCtyX-0",
+      "title": "Stochastic Second Order Optimization Methods I",
+      "views": 2200
+    },
+    {
+      "id": "SuqEx_wPPwI",
+      "title": "Stochastic Second Order Optimization Methods II",
+      "views": 1000
+    },
+    {
+      "id": "9S4KXkyb3WE",
+      "title": "Statistical Inference I",
+      "views": 12000
+    },
+    {
+      "id": "C4PyNySNCPw",
+      "title": "Statistical Inference II",
+      "views": 3900
+    },
+    {
+      "id": "UHvT1MxFuvo",
+      "title": "High Dimensional Geometry and Concentration I",
+      "views": 4500
+    },
+    {
+      "id": "5YI6wKw2Jdo",
+      "title": "High Dimensional Geometry and Concentration II",
+      "views": 1500
+    },
+    {
+      "id": "kOUDbhycAl0",
+      "title": "Algorithmic High Dimensional Robust Statistics I",
+      "views": 2400
+    },
+    {
+      "id": "mWfEXgmMxSc",
+      "title": "Algorithmic High Dimensional Robust Statistics II",
+      "views": 1000
+    },
+    {
+      "id": "IgyifV7dsxY",
+      "title": "Nearest Neighbor Methods I",
+      "views": 2200
+    },
+    {
+      "id": "99STqyJOXmA",
+      "title": "Nearest Neighbor Methods II",
+      "views": 946
+    },
+    {
+      "id": "P2ZJObpSGeQ",
+      "title": "Data Streams I",
+      "views": 1500
+    },
+    {
+      "id": "7frYDjTEQpI",
+      "title": "Data Streams II",
+      "views": 597
+    }
+  ]
+}

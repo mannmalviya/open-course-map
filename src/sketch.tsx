@@ -162,6 +162,12 @@ export function SketchTag({ seedKey, className, children }: SketchTagProps) {
       roughness: 0.55,
       bowing: 0.8,
       strokeWidth: 1,
+      // A pill is four subpaths, and rough.js roughens each one on its own: the
+      // default second pass and free endpoints leave the arcs forking off the
+      // straights at every join, which at 20px tall reads as fuzz, not as a pen
+      disableMultiStroke: true,
+      preserveVertices: true,
+      maxRandomnessOffset: 1,
     });
     return gen.toPaths(drawable);
   }, [size.w, size.h, seedKey]);

@@ -28,12 +28,12 @@
     {
       "id": "3FVlVP5MKV4",
       "title": "3B. DNA 1 : Genome Sequencing, Polymorphisms, Populations, Statistics, Pharmacogenomics...",
-      "views": 862
+      "views": 863
     },
     {
       "id": "G4skPcnqWZ4",
       "title": "4A. DNA 2: Dynamic Programming, Blast, Multi-alignment, Hidden Markov Models",
-      "views": 953
+      "views": 955
     },
     {
       "id": "VVCE-6kmyBI",
@@ -48,7 +48,7 @@
     {
       "id": "l1hzzufdfCo",
       "title": "5C. RNA 1: Microarrays, Library Sequencing and Quantitation Concepts",
-      "views": 440
+      "views": 441
     },
     {
       "id": "axiNLT3tkqg",
@@ -58,12 +58,12 @@
     {
       "id": "u3YMRDjX5Po",
       "title": "6B. RNA 2: Clustering by Gene or Condition and Other Regulon Data Sources Nucleic Acid ...",
-      "views": 371
+      "views": 373
     },
     {
       "id": "2xONWF0XzOI",
       "title": "7A. Protein 1: 3D Structural Genomics, Homology, Catalytic and Regulatory Dynamics, Fun...",
-      "views": 941
+      "views": 942
     },
     {
       "id": "a5dXNyO3k0g",
@@ -73,7 +73,7 @@
     {
       "id": "g4Ype5QTf4s",
       "title": "8A. Protein 2: Mass Spectrometry, Post-synthetic Modifications, Quantitation of Protein...",
-      "views": 542
+      "views": 544
     },
     {
       "id": "b11xP6rhn_I",
@@ -83,12 +83,12 @@
     {
       "id": "aMfIs9Qmm9Q",
       "title": "9A. Networks 1: Systems Biology, Metabolic Kinetic & Flux Balance Optimization Methods",
-      "views": 909
+      "views": 911
     },
     {
       "id": "dzGar1Jnf90",
       "title": "9B. Networks 1: Systems Biology, Metabolic Kinetic & Flux Balance Optimization Methods",
-      "views": 673
+      "views": 675
     },
     {
       "id": "Qa7Xnn7ixpk",
@@ -103,7 +103,7 @@
     {
       "id": "0XjWRilFPQY",
       "title": "11A. Networks 3: The Future of Computational Biology: Cellular, Developmental, Social, E...",
-      "views": 677
+      "views": 678
     }
   ]
 }

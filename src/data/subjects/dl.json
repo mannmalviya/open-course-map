@@ -10,7 +10,7 @@
       },
       "versions": [
         {
-          "label": "Stanford CS230 \u00b7 2025",
+          "label": "Stanford CS230 · 2025",
           "url": "https://cs230.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rNRRGdS0rBbXOUGA0wjdh1X",
           "date": "Autumn 2025",
@@ -18,7 +18,7 @@
           "primary": true
         },
         {
-          "label": "Stanford CS230 \u00b7 Ng, Katanforoosh \u00b7 2018",
+          "label": "Stanford CS230 · Ng, Katanforoosh · 2018",
           "url": "https://cs230.stanford.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb",
           "date": "Autumn 2018",
@@ -36,10 +36,10 @@
       },
       "versions": [
         {
-          "label": "MIT 6.S191 \u00b7 Amini, Soleimany",
+          "label": "MIT 6.S191 · Amini, Soleimany",
           "url": "https://introtodeeplearning.com/",
           "youtube": "https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI",
-          "date": "2018\u20132025",
+          "date": "2018–2025",
           "youtubeId": "II4giR4vOOo",
           "primary": true
         }
@@ -55,7 +55,7 @@
       },
       "versions": [
         {
-          "label": "MIT 6.7960 \u00b7 Fall 2024",
+          "label": "MIT 6.7960 · Fall 2024",
           "url": "https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8",
           "date": "Fall 2024",
@@ -74,7 +74,7 @@
       },
       "versions": [
         {
-          "label": "MIT 15.773 \u00b7 Spring 2024",
+          "label": "MIT 15.773 · Spring 2024",
           "url": "https://ocw.mit.edu/courses/15-773-hands-on-deep-learning-spring-2024/",
           "youtube": "https://www.youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp",
           "date": "Spring 2024",
@@ -93,7 +93,7 @@
       },
       "versions": [
         {
-          "label": "MIT 6.S192 \u00b7 Jahanian",
+          "label": "MIT 6.S192 · Jahanian",
           "url": "https://ali-design.github.io/deepcreativity/",
           "youtube": "https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH",
           "youtubeId": "MABLFo7IV3I",
@@ -111,20 +111,20 @@
       },
       "versions": [
         {
-          "label": "Deep Learning Lecture Series \u00b7 2021",
+          "label": "Deep Learning Lecture Series · 2021",
           "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm",
           "date": "2021",
           "youtubeId": "TCCjZe0y4Qc",
           "primary": true
         },
         {
-          "label": "Deep Learning Lecture Series \u00b7 2020",
+          "label": "Deep Learning Lecture Series · 2020",
           "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF",
           "date": "2020",
           "youtubeId": "7R52wiUgxZI"
         },
         {
-          "label": "Deep Learning Course \u00b7 2018",
+          "label": "Deep Learning Course · 2018",
           "youtube": "https://www.youtube.com/playlist?list=PLqYmG7hTraZCkftCvihsG2eCTH2OyGScc",
           "date": "2018",
           "youtubeId": "iOh7QUZGyiU"
@@ -141,7 +141,7 @@
       },
       "versions": [
         {
-          "label": "Berkeley CS 182 \u00b7 Levine \u00b7 Spring 2021",
+          "label": "Berkeley CS 182 · Levine · Spring 2021",
           "url": "https://cs182sp21.github.io/",
           "youtube": "https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A",
           "date": "Spring 2021",
@@ -160,7 +160,7 @@
       },
       "versions": [
         {
-          "label": "NYU \u00b7 LeCun, Canziani \u00b7 Spring 2020",
+          "label": "NYU · LeCun, Canziani · Spring 2020",
           "url": "https://atcold.github.io/NYU-DLSP20/",
           "youtube": "https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v",
           "date": "Spring 2020",
@@ -179,7 +179,7 @@
       },
       "versions": [
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2026",
+          "label": "CMU 11-785 · Raj · Spring 2026",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPwarejN0RmVerKwkwgyvh3r",
           "date": "Spring 2026",
@@ -187,39 +187,341 @@
           "primary": true
         },
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Fall 2025",
+          "label": "CMU 11-785 · Raj · Fall 2025",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPxpDVLFdFwXzAS2TH-f-QX8",
           "date": "Fall 2025",
           "youtubeId": "w8h_AWHTcK4"
         },
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2025",
+          "label": "CMU 11-785 · Raj · Spring 2025",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPylfHM6O3cBkRGdSW3m6n1C",
           "date": "Spring 2025",
           "youtubeId": "NXYrIEP1LRs"
         },
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2024",
+          "label": "CMU 11-785 · Raj · Spring 2024",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPxUJzAW0KxNNjGiK_hISFas",
           "date": "Spring 2024",
           "youtubeId": "ylRKoyTqwOc"
         },
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Spring 2020",
+          "label": "CMU 11-785 · Raj · Spring 2020",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe",
           "date": "Spring 2020",
           "youtubeId": "0Oqpax2Q2hc"
         },
         {
-          "label": "CMU 11-785 \u00b7 Raj \u00b7 Fall 2019",
+          "label": "CMU 11-785 · Raj · Fall 2019",
           "url": "https://deeplearning.cs.cmu.edu/",
           "youtube": "https://www.youtube.com/playlist?list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj",
           "date": "Fall 2019",
           "youtubeId": "LmIjgmijyiI"
+        }
+      ]
+    },
+    "toronto-nn": {
+      "title": "Neural Networks for ML",
+      "university": "Toronto",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Toronto · Hinton · 2012",
+          "url": "https://www.cs.toronto.edu/~hinton/coursera_lectures.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9",
+          "date": "2012",
+          "youtubeId": "cbeTc-Urqak",
+          "primary": true
+        }
+      ]
+    },
+    "sherbrooke-nn": {
+      "title": "Neural Networks",
+      "university": "Sherbrooke",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Sherbrooke · Larochelle · 2016",
+          "url": "http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html",
+          "youtube": "https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH",
+          "date": "2016",
+          "youtubeId": "SGZ6BttHMPw",
+          "primary": true
+        }
+      ]
+    },
+    "oxford-dl": {
+      "title": "Deep Learning at Oxford",
+      "university": "Oxford",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Oxford · de Freitas · 2015",
+          "url": "http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/",
+          "youtube": "https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu",
+          "date": "2015",
+          "youtubeId": "dV80NAlEins",
+          "primary": true
+        }
+      ]
+    },
+    "berkeley-cs294-158": {
+      "title": "Deep Unsupervised Learning",
+      "university": "UC Berkeley",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Berkeley CS294-158 · Abbeel · 2020",
+          "url": "https://sites.google.com/view/berkeley-cs294-158-sp20",
+          "youtube": "https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP",
+          "date": "Spring 2020",
+          "youtubeId": "V9Roouqfu-M",
+          "primary": true
+        }
+      ]
+    },
+    "iitm-cs7015": {
+      "title": "CS7015 Deep Learning",
+      "university": "IIT Madras",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "IIT Madras CS7015 · Khapra · 2018",
+          "url": "https://www.cse.iitm.ac.in/~miteshk/CS7015.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT",
+          "date": "2018",
+          "youtubeId": "aPfkYu_qiF4",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-dl": {
+      "title": "Deep Learning",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Geiger · 2020–21",
+          "url": "https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/teaching/lecture-deep-learning/",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD",
+          "date": "Winter 2020–21",
+          "youtubeId": "BHBAnUAdeyE",
+          "primary": true
+        }
+      ]
+    },
+    "berkeley-stat157": {
+      "title": "STAT-157 Deep Learning",
+      "university": "UC Berkeley",
+      "level": "undergrad",
+      "pos": {
+        "x": 1130,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "Berkeley STAT-157 · Smola · 2019",
+          "url": "http://courses.d2l.ai/berkeley-stat-157/index.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW",
+          "date": "Spring 2019",
+          "youtubeId": "Va8WWRfw7Og",
+          "primary": true
+        }
+      ]
+    },
+    "iitkgp-dl": {
+      "title": "NPTEL Deep Learning",
+      "university": "IIT Kharagpur",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "IIT Kharagpur · Biswas · 2019",
+          "url": "https://www.youtube.com/playlist?list=PLbRMhDVUMngc7NM-gDwcBzIYZNFSK2N1a",
+          "youtube": "https://www.youtube.com/playlist?list=PLbRMhDVUMngc7NM-gDwcBzIYZNFSK2N1a",
+          "date": "2019",
+          "youtubeId": "W3_yaf3HvHU",
+          "primary": true
+        }
+      ]
+    },
+    "uva-gedl": {
+      "title": "Group Equivariant DL",
+      "university": "UvA",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 720
+      },
+      "versions": [
+        {
+          "label": "UvA · Bekkers · 2022",
+          "url": "https://uvagedl.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PL8FnQMH2k7jzPrxqdYufoiYVHim8PyZWd",
+          "date": "2022",
+          "youtubeId": "z2OEyUgSH2c",
+          "primary": true
+        }
+      ]
+    },
+    "fsdl": {
+      "title": "Full Stack Deep Learning",
+      "university": "UC Berkeley",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Berkeley · Abbeel, Karayev · 2021",
+          "url": "https://fullstackdeeplearning.com/spring2021",
+          "youtube": "https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv",
+          "date": "Spring 2021",
+          "youtubeId": "fGxWfEuUu0w",
+          "primary": true
+        }
+      ]
+    },
+    "eth-riai": {
+      "title": "Reliable & Interpretable",
+      "university": "ETH Zürich",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "ETH Zürich · Vechev · 2020",
+          "url": "https://www.sri.inf.ethz.ch/teaching/riai2020",
+          "youtube": "https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y",
+          "date": "Fall 2020",
+          "youtubeId": "nTWXiV6Ic1M",
+          "primary": true
+        }
+      ]
+    },
+    "dlbook-lectures": {
+      "title": "Deep Learning Book",
+      "pos": {
+        "x": 780,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Goodfellow, Bengio, Courville · 2017",
+          "url": "https://www.deeplearningbook.org/lecture_slides.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b",
+          "date": "2017",
+          "youtubeId": "vi7lACKOUao",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10707": {
+      "title": "10-707 Deep Learning",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "CMU 10-707 · Salakhutdinov · 2017",
+          "url": "https://deeplearning-cmu-10707.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa",
+          "date": "Fall 2017",
+          "youtubeId": "fDlOQrLX8Hs",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-stats385": {
+      "title": "STATS385 Theories of DL",
+      "university": "Stanford",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Stanford STATS385 · 2017",
+          "url": "https://stats385.github.io/",
+          "youtube": "https://www.youtube.com/playlist?list=PLwUqqMt5en7fFLwSDa9V3JIkDam-WWgqy",
+          "date": "Fall 2017",
+          "youtubeId": "LwHhMu_7ZB4",
+          "primary": true
+        }
+      ]
+    },
+    "waterloo-stat946": {
+      "title": "STAT-946 Deep Learning",
+      "university": "Waterloo",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 1020
+      },
+      "versions": [
+        {
+          "label": "Waterloo STAT-946 · Ghodsi · 2015",
+          "url": "https://uwaterloo.ca/data-analytics/deep-learning",
+          "youtube": "https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE",
+          "date": "Fall 2015",
+          "youtubeId": "fyAZszlPphs",
+          "primary": true
+        }
+      ]
+    },
+    "wisc-stat453": {
+      "title": "STAT453 Deep Learning",
+      "university": "UW-Madison",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 1320
+      },
+      "versions": [
+        {
+          "label": "UW-Madison STAT453 · Raschka · 2021",
+          "url": "http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021",
+          "youtube": "https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51",
+          "date": "Spring 2021",
+          "youtubeId": "1nqCZqDYPp0",
+          "primary": true
         }
       ]
     }

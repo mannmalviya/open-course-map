@@ -44,6 +44,139 @@
           "primary": true
         }
       ]
+    },
+    "freiburg-slam": {
+      "title": "SLAM & Mobile Robotics",
+      "university": "Freiburg",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Freiburg · Stachniss · 2014",
+          "url": "http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/",
+          "youtube": "https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_",
+          "date": "2014",
+          "youtubeId": "U6vr3iNrwRA",
+          "primary": true
+        }
+      ]
+    },
+    "northwestern-modern-robotics": {
+      "title": "Modern Robotics",
+      "university": "Northwestern",
+      "level": "undergrad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Northwestern · Lynch · 2018",
+          "url": "http://hades.mech.northwestern.edu/index.php/Modern_Robotics",
+          "youtube": "https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx",
+          "date": "2018",
+          "youtubeId": "jVu-Hijns70",
+          "primary": true
+        }
+      ]
+    },
+    "bonn-photogrammetry": {
+      "title": "Photogrammetry I & II",
+      "university": "Bonn",
+      "level": "undergrad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Bonn · Stachniss · 2016",
+          "url": "https://www.ipb.uni-bonn.de/photogrammetry-i-ii/",
+          "youtube": "https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1",
+          "date": "2016",
+          "youtubeId": "_mOG_lpPnpY",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-self-driving": {
+      "title": "Self-Driving Cars",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Geiger · 2021",
+          "url": "https://uni-tuebingen.de/de/123611",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr",
+          "date": "Winter 2021",
+          "youtubeId": "_q4WUxgwDeg",
+          "primary": true
+        }
+      ]
+    },
+    "tum-flying-robots": {
+      "title": "Autonomous Flying Robots",
+      "university": "TUM",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "TUM · Sturm · 2014",
+          "url": "https://jsturm.de/wp/teaching/autonavx-slides/",
+          "youtube": "https://www.youtube.com/playlist?list=PLTBdjV_4f-EKBCUs1HmMtsnXv4JUoFrzg",
+          "date": "2014",
+          "youtubeId": "YT8pnN8lwxA",
+          "primary": true
+        }
+      ]
+    },
+    "tuberlin-event-vision": {
+      "title": "Event-based Robot Vision",
+      "university": "TU Berlin",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "TU Berlin · Gallego",
+          "url": "https://sites.google.com/view/guillermogallego/teaching/event-based-robot-vision",
+          "youtube": "https://www.youtube.com/playlist?list=PL03Gm3nZjVgUFYUh3v5x8jVonjrGfcal8",
+          "date": "2020–",
+          "youtubeId": "cXSdPdhH4RI",
+          "primary": true
+        }
+      ]
+    },
+    "bonn-state-estimation": {
+      "title": "Sensors & State Estimation",
+      "university": "Bonn",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Bonn · Stachniss · 2020",
+          "url": "https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6",
+          "youtube": "https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6",
+          "date": "Spring 2020",
+          "youtubeId": "mQvKhmWagB4",
+          "primary": true
+        }
+      ]
     }
   },
   "edges": [

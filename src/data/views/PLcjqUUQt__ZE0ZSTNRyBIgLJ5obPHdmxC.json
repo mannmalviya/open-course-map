@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "1alsEu7Ghhs",
+      "title": "Lecture 30: Unconstrained Optimization 1",
+      "views": 13000
+    },
+    {
+      "id": "iPuMrI8wAl4",
+      "title": "Lecture 31: Unconstrained Optimization 2",
+      "views": 2900
+    },
+    {
+      "id": "ArqDkIQLqEw",
+      "title": "Lecture 32: Unconstrained Optimization 3",
+      "views": 2100
+    },
+    {
+      "id": "wRHvs7Plnb8",
+      "title": "Lecture 33(A): Global Optimization",
+      "views": 4000
+    },
+    {
+      "id": "o9K-Vgz1aRc",
+      "title": "Lecture 33(B): Characterization of differentiable concave functions.",
+      "views": 1800
+    },
+    {
+      "id": "Zly5elxZ9w8",
+      "title": "Lecture 33(C): Concave functions and global optimization",
+      "views": 2300
+    },
+    {
+      "id": "aKV35NPQUDs",
+      "title": "Lecture 34: Geometry of Constrained Optimization: Focus on Gradients",
+      "views": 2900
+    },
+    {
+      "id": "myyw2_QMts8",
+      "title": "Lecture 35: Geometry of Constrained Optimization: Multiple and nonlinear constraints",
+      "views": 2000
+    },
+    {
+      "id": "0RUamFRX-s4",
+      "title": "Lecture 36(A): Solution Function and Value Function",
+      "views": 2300
+    },
+    {
+      "id": "aLSxRjAM5Is",
+      "title": "Lecture 36(B): Solution Function and Value Function",
+      "views": 1300
+    },
+    {
+      "id": "Fdh8SXDjrro",
+      "title": "Lecture 37(A): The Implicit Function Theorem: How the solution changes when parameters change.",
+      "views": 6400
+    },
+    {
+      "id": "5sE9Is3U270",
+      "title": "Lecture 37(B): The Implicit Function Theorem",
+      "views": 3500
+    },
+    {
+      "id": "mSZMLDv10l0",
+      "title": "Lecture 37(C): The Implicit Function Theorem",
+      "views": 17000
+    },
+    {
+      "id": "2pdj1Ytkhd0",
+      "title": "Lecture 37(D): The Implicit Function Theorem",
+      "views": 2800
+    },
+    {
+      "id": "DiRwRERgglw",
+      "title": "Lecture 38(A): The Envelope Theorem: How the Optimal Value Changes",
+      "views": 14000
+    },
+    {
+      "id": "FX7kcDvEsJk",
+      "title": "Lecture 38(B): The Envelope Theorem for Constrained Optimization",
+      "views": 4400
+    },
+    {
+      "id": "ZK-O536qmEE",
+      "title": "Lecture 39(A): The Envelope Theorem and Shadow Values",
+      "views": 2100
+    },
+    {
+      "id": "V6Rziu74uhA",
+      "title": "Lecture 39(B): The Envelope Theorem: Hotelling's Lemma",
+      "views": 7800
+    },
+    {
+      "id": "9tUj530Mw_Q",
+      "title": "Lecture 39(C): The Envelope Theorem: Shephard's Lemma",
+      "views": 14000
+    },
+    {
+      "id": "HIm3Z0L90Co",
+      "title": "Lecture 40(A): Kuhn-Tucker Conditions: Conceptual and geometric insight",
+      "views": 70000
+    },
+    {
+      "id": "2syXAny8PfE",
+      "title": "Lecture 40(B): The Kuhn-Tucker Conditions and Theorem",
+      "views": 23000
+    },
+    {
+      "id": "natJ8yyIvQg",
+      "title": "Lecture 40(C): The Kuhn-Tucker Conditions: An Example",
+      "views": 12000
+    },
+    {
+      "id": "6bAgYT7XojY",
+      "title": "Lecture 40(D): The Kuhn-Tucker Conditions: Two examples",
+      "views": 7200
+    },
+    {
+      "id": "Sz0cbggoluY",
+      "title": "Lecture 40(E): The Kuhn-Tucker Conditions: A Corner (Boundary) Solution",
+      "views": 6400
+    }
+  ]
+}

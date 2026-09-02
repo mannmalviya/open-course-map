@@ -1,0 +1,99 @@
+{
+  "lectures": [
+    {
+      "id": "xK-bzjIQkmM",
+      "title": "Recurrent Neural Networks Yoshua Bengio",
+      "views": 18000
+    },
+    {
+      "id": "10j_G2X45zA",
+      "title": "Theoretical neuroscience and deep learning theory  Surya Ganguli",
+      "views": 5400
+    },
+    {
+      "id": "sps5FYMBLng",
+      "title": "Reasoning Attention and Memory Sumit Chopra",
+      "views": 1600
+    },
+    {
+      "id": "Wm5jnAzKaQo",
+      "title": "Neural Networks Hugo Larochelle",
+      "views": 2500
+    },
+    {
+      "id": "BqPUB5NQEqI",
+      "title": "Large Scale Deep Learning with TensorFlow Jeff Dean",
+      "views": 2300
+    },
+    {
+      "id": "RChcaWuQ5aQ",
+      "title": "Introduction to Torch Alex Wiltschko",
+      "views": 529
+    },
+    {
+      "id": "YGPJJExYUR0",
+      "title": "Machine Learning Doina Precup",
+      "views": 1400
+    },
+    {
+      "id": "14CxYfO1TkY",
+      "title": "Learning to See Antonio Torralba",
+      "views": 1700
+    },
+    {
+      "id": "cbKlqXwzXCM",
+      "title": "Learning Deep Generative Models Ruslan Salakhutdinov",
+      "views": 4400
+    },
+    {
+      "id": "XGl8YVuX6Yo",
+      "title": "Introduction to Theano   Pascal Lamblin",
+      "views": 353
+    },
+    {
+      "id": "O_1Z63EDMvQ",
+      "title": "Introduction to Reinforcement Learning Joelle Pineau",
+      "views": 3300
+    },
+    {
+      "id": "HBM98vsyVPc",
+      "title": "GPU programming for Deep Learning Ryan Olson",
+      "views": 540
+    },
+    {
+      "id": "FD1Cwp91Nmk",
+      "title": "Deep Reinforcement Learning Pieter Abbeel",
+      "views": 1900
+    },
+    {
+      "id": "K_zKimkoVk8",
+      "title": "Deep Natural Language Understanding Kyunghyun Cho",
+      "views": 2900
+    },
+    {
+      "id": "2qvx1ED8ZO0",
+      "title": "Convolutional Neural Networks and Computer Vision   Rob Fergus",
+      "views": 895
+    },
+    {
+      "id": "iQNaAoXfKZ4",
+      "title": "Building Machines that Imagine and Reason Principles and Applications of Deep Generative Models Shak",
+      "views": 2200
+    },
+    {
+      "id": "4deLk3Eu05E",
+      "title": "Beyond Seq2Seq with Augmented RNNs Edward Grefenstette",
+      "views": 1500
+    },
+    {
+      "id": "t_h25QoTi8c",
+      "title": "Beyond inspiration Five lessons from biology on building intelligent machines Bruno Olshausen",
+      "views": 496
+    },
+    {
+      "id": "68rm_QWAcdw",
+      "title": "Large Scale Deep Learning with TensorFlow Jeff Dean continued",
+      "views": 521
+    }
+  ]
+}

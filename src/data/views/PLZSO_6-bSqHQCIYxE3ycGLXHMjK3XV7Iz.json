@@ -1,0 +1,239 @@
+{
+  "lectures": [
+    {
+      "id": "4myTpLua0EM",
+      "title": "Welcome to MLSS 2014",
+      "views": 31000
+    },
+    {
+      "id": "bLhq63ygoU8",
+      "title": "Xavier Amatriain Lecture 1+2",
+      "views": 40000
+    },
+    {
+      "id": "m9OBcqAcr_w",
+      "title": "Deepak Agarwal Lecture 1",
+      "views": 14000
+    },
+    {
+      "id": "4HfGREbk1ek",
+      "title": "Deepak Agarwal Lecture 2",
+      "views": 4100
+    },
+    {
+      "id": "SCVMv6CrUxU",
+      "title": "Deepak Agarwal Lecture 3",
+      "views": 2400
+    },
+    {
+      "id": "LvcoPy0QUuw",
+      "title": "Deepak Agarwal Lecture 4",
+      "views": 2300
+    },
+    {
+      "id": "sSm_T7i97uk",
+      "title": "Deepak Agarwal Lecture 5",
+      "views": 1700
+    },
+    {
+      "id": "NB5NHWzTRSY",
+      "title": "Anima Anandkumar Lecture 1+2",
+      "views": 9800
+    },
+    {
+      "id": "PBQq33krUqc",
+      "title": "Anima Anandkumar Lecture 3+4",
+      "views": 2500
+    },
+    {
+      "id": "v3YAP7XJqAs",
+      "title": "Anima Anandkumar Lecture 5",
+      "views": 1700
+    },
+    {
+      "id": "egHhDSTXy88",
+      "title": "Dan Feldman Lecture 1",
+      "views": 3900
+    },
+    {
+      "id": "0XxX8SyE7yI",
+      "title": "Dan Feldman Lecture 2+3",
+      "views": 1900
+    },
+    {
+      "id": "PGfWeG-na2g",
+      "title": "Dan Feldman Lecture 4",
+      "views": 860
+    },
+    {
+      "id": "PECQuDH73KY",
+      "title": "Nando de Freitas Lecture 1",
+      "views": 7400
+    },
+    {
+      "id": "HUmEbUkeQHg",
+      "title": "Nando de Freitas Lecture 2",
+      "views": 8400
+    },
+    {
+      "id": "LHUVbcdestA",
+      "title": "Nando de Freitas Lecture 3",
+      "views": 1900
+    },
+    {
+      "id": "IJAHqA2iy2s",
+      "title": "Nando de Freitas Lecture 4",
+      "views": 1500
+    },
+    {
+      "id": "UqZQD6pC0Cs",
+      "title": "Zico Kolter Lecture 1+2",
+      "views": 3200
+    },
+    {
+      "id": "s-PIbqfcRx0",
+      "title": "Zico Kolter Lecture 3",
+      "views": 1200
+    },
+    {
+      "id": "PL_AY_Ws4XQ",
+      "title": "Zico Kolter Lecture 4+5",
+      "views": 841
+    },
+    {
+      "id": "IxflKHX7aes",
+      "title": "Quoc Le Lecture 1",
+      "views": 27000
+    },
+    {
+      "id": "0EM1v6jDD_E",
+      "title": "Quoc Le Lecture 2+3",
+      "views": 7700
+    },
+    {
+      "id": "6yHO8pi0GZ8",
+      "title": "Quoc Le Lecture 4+5",
+      "views": 6600
+    },
+    {
+      "id": "SJgh4Mzqv-U",
+      "title": "Mu Li Lecture 1",
+      "views": 6000
+    },
+    {
+      "id": "k8xZ4VKNkOQ",
+      "title": "Mu Li Lecture 2",
+      "views": 1400
+    },
+    {
+      "id": "BNavYwq5dfA",
+      "title": "Mu Li Lecture 3",
+      "views": 960
+    },
+    {
+      "id": "FezuxZEBWd0",
+      "title": "Mu Li Lecture 4",
+      "views": 670
+    },
+    {
+      "id": "oPWHiLswN_8",
+      "title": "Mu Li Lecture 5",
+      "views": 708
+    },
+    {
+      "id": "psFnHkIjHA0",
+      "title": "Tom Mitchell Lecture 1",
+      "views": 15000
+    },
+    {
+      "id": "JNNpJ7HAKtk",
+      "title": "Tom Mitchell Lecture 2",
+      "views": 1600
+    },
+    {
+      "id": "Kb2UKme4D0I",
+      "title": "Tom Mitchell Lecture 3+4",
+      "views": 1000
+    },
+    {
+      "id": "WsjXxZR-pAI",
+      "title": "Muthu Muthukrishnan Lecture 1",
+      "views": 4200
+    },
+    {
+      "id": "ege3twFSLW4",
+      "title": "Muthu Muthukrishnan Lecture 2+3",
+      "views": 1000
+    },
+    {
+      "id": "T45imZTqAMQ",
+      "title": "Alex Smola Lecture 1",
+      "views": 5400
+    },
+    {
+      "id": "ojnB8fiAYXk",
+      "title": "Alex Smola Lecture 2",
+      "views": 1500
+    },
+    {
+      "id": "_jI_urbPH6w",
+      "title": "Alex Smola Lecture 3",
+      "views": 1000
+    },
+    {
+      "id": "KienIfoeOPs",
+      "title": "Alex Smola Lecture 4",
+      "views": 786
+    },
+    {
+      "id": "xQKAEx2tFYg",
+      "title": "Alex Smola Lecture 5",
+      "views": 704
+    },
+    {
+      "id": "b26KqHqET64",
+      "title": "Markus Weimer Lecture 1",
+      "views": 1000
+    },
+    {
+      "id": "IuemtqQnfOY",
+      "title": "Markus Weimer Lecture 2",
+      "views": 365
+    },
+    {
+      "id": "5uaMYVOg3lo",
+      "title": "Markus Weimer Lecture 3",
+      "views": 270
+    },
+    {
+      "id": "Zf2h-Di5yx8",
+      "title": "Markus Weimer Lecture 4",
+      "views": 358
+    },
+    {
+      "id": "4lN4RZBmovI",
+      "title": "Andrew Wilson Lecture 1+2",
+      "views": 1300
+    },
+    {
+      "id": "mRToFXlNBpQ",
+      "title": "Xavier Amatriain Lecture 3+4",
+      "views": 11000
+    },
+    {
+      "id": "IkZsDuAVa1s",
+      "title": "Andrew Wilson Lecture 3+4",
+      "views": 963
+    },
+    {
+      "id": "CLdQOCQ7cNo",
+      "title": "Markus Weimer Lecture 5",
+      "views": 600
+    },
+    {
+      "id": "hkbH72EumAc",
+      "title": "Dan Feldman Lecture 5",
+      "views": 1000
+    }
+  ]
+}

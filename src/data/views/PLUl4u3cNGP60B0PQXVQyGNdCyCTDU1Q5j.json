@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "vof7x8r_ZUA",
+      "title": "1. What Makes Healthcare Unique?",
+      "views": 124000
+    },
+    {
+      "id": "DS97JV_o0Fs",
+      "title": "2. Overview of Clinical Care",
+      "views": 23000
+    },
+    {
+      "id": "0UFwGJe6ubg",
+      "title": "3. Deep Dive Into Clinical Data",
+      "views": 22000
+    },
+    {
+      "id": "_shuV1tJbTU",
+      "title": "4. Risk Stratification, Part 1",
+      "views": 18000
+    },
+    {
+      "id": "wqI_z1yumzY",
+      "title": "5. Risk Stratification, Part 2",
+      "views": 10000
+    },
+    {
+      "id": "lLhfDSOwWtU",
+      "title": "6. Physiological Time-Series",
+      "views": 10000
+    },
+    {
+      "id": "IiD3YZkkCmE",
+      "title": "7. Natural Language Processing (NLP), Part 1",
+      "views": 38000
+    },
+    {
+      "id": "lkO2ocJBsmI",
+      "title": "8. Natural Language Processing (NLP), Part 2",
+      "views": 12000
+    },
+    {
+      "id": "ZQu2B3GyI_k",
+      "title": "9. Translating Technology Into the Clinic",
+      "views": 4600
+    },
+    {
+      "id": "MoEaRpLNo9A",
+      "title": "10. Application of Machine Learning to Cardiac Imaging",
+      "views": 19000
+    },
+    {
+      "id": "VuKOW8d4KHw",
+      "title": "11. Differential Diagnosis",
+      "views": 16000
+    },
+    {
+      "id": "PKCMH5KOcxQ",
+      "title": "12. Machine Learning for Pathology",
+      "views": 18000
+    },
+    {
+      "id": "2ZXYM1h9pgY",
+      "title": "13. Machine Learning for Mammography",
+      "views": 10000
+    },
+    {
+      "id": "gRkUhg9Wb-I",
+      "title": "14. Causal Inference, Part 1",
+      "views": 189000
+    },
+    {
+      "id": "g5v-NvNoJQQ",
+      "title": "15. Causal Inference, Part 2",
+      "views": 40000
+    },
+    {
+      "id": "YZ5pOgY5hEE",
+      "title": "16. Reinforcement Learning, Part 1",
+      "views": 16000
+    },
+    {
+      "id": "zdotUAxiPGM",
+      "title": "17. Reinforcement Learning, Part 2",
+      "views": 5900
+    },
+    {
+      "id": "yYWyLZrdRRI",
+      "title": "18. Disease Progression Modeling and Subtyping, Part 1",
+      "views": 6500
+    },
+    {
+      "id": "aJqgO8e37_g",
+      "title": "19. Disease Progression Modeling and Subtyping, Part 2",
+      "views": 3900
+    },
+    {
+      "id": "kZrb6ZIwJqg",
+      "title": "20. Precision Medicine",
+      "views": 19000
+    },
+    {
+      "id": "Td01vFP3uJo",
+      "title": "21. Automating Clinical Work Flows",
+      "views": 3800
+    },
+    {
+      "id": "k95abdkdCPk",
+      "title": "22. Regulation of Machine Learning / Artificial Intelligence in the US",
+      "views": 18000
+    },
+    {
+      "id": "zYgkr0KfWM0",
+      "title": "23. Fairness",
+      "views": 6600
+    },
+    {
+      "id": "MdUnh4PaGKw",
+      "title": "24. Robustness to Dataset Shift",
+      "views": 16000
+    },
+    {
+      "id": "wDLzLN1tArA",
+      "title": "25. Interpretability",
+      "views": 6700
+    }
+  ]
+}

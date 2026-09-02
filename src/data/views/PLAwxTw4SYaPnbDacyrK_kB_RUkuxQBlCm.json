@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "2S4nn7S8Hk4",
+      "title": "Taking over for Aaron",
+      "views": 101000
+    },
+    {
+      "id": "kVq190SBoI8",
+      "title": "Difference between CV and CP",
+      "views": 30000
+    },
+    {
+      "id": "o3-FpwvVQpU",
+      "title": "Intro",
+      "views": 23000
+    },
+    {
+      "id": "wthBcVFouzY",
+      "title": "What is Computer Vision",
+      "views": 24000
+    },
+    {
+      "id": "gTJRPsk6gGs",
+      "title": "Why Study Computer Vision",
+      "views": 21000
+    },
+    {
+      "id": "OH7t7txuGgc",
+      "title": "OCR and Face Recognition",
+      "views": 22000
+    },
+    {
+      "id": "UuAQsSu6HUw",
+      "title": "Object Recognition",
+      "views": 19000
+    },
+    {
+      "id": "uPWqukuZGtQ",
+      "title": "Special Effects and 3D Modeling",
+      "views": 16000
+    },
+    {
+      "id": "xHGIw0XdDf8",
+      "title": "Smart Cars",
+      "views": 15000
+    },
+    {
+      "id": "VNyQIi9uKY0",
+      "title": "Sports",
+      "views": 14000
+    },
+    {
+      "id": "gloYc4agNqE",
+      "title": "Vision Based Interaction",
+      "views": 14000
+    },
+    {
+      "id": "o1gietL0WoM",
+      "title": "Security and Medical Imaging",
+      "views": 13000
+    },
+    {
+      "id": "8kiz9mgi1So",
+      "title": "Why is This Hard",
+      "views": 15000
+    },
+    {
+      "id": "HE-DHz7eQPI",
+      "title": "Vision is NOT Image Processing",
+      "views": 16000
+    },
+    {
+      "id": "6sxrxYj3kvg",
+      "title": "Course Overview",
+      "views": 14000
+    },
+    {
+      "id": "AuA0h9xEoL0",
+      "title": "Topic Outline",
+      "views": 13000
+    },
+    {
+      "id": "4b24grA-wEI",
+      "title": "Course Details",
+      "views": 12000
+    },
+    {
+      "id": "5xuo76q5cW8",
+      "title": "Software",
+      "views": 12000
+    },
+    {
+      "id": "AsmXzI9nhUY",
+      "title": "Matlab",
+      "views": 11000
+    },
+    {
+      "id": "3em1bV1So8Q",
+      "title": "Octave",
+      "views": 9900
+    },
+    {
+      "id": "-siTlfyT4N0",
+      "title": "End",
+      "views": 9300
+    },
+    {
+      "id": "7LBy6w0pAyI",
+      "title": "Intro",
+      "views": 12000
+    },
+    {
+      "id": "x1zhWArrkko",
+      "title": "Images as Functions Part 1",
+      "views": 14000
+    },
+    {
+      "id": "edOZEXduamc",
+      "title": "Images as Functions Part 2",
+      "views": 13000
+    },
+    {
+      "id": "4wrIhgfrmis",
+      "title": "The Real Phyllis",
+      "views": 11000
+    },
+    {
+      "id": "bxJ90SHXfh0",
+      "title": "Digital Images",
+      "views": 11000
+    },
+    {
+      "id": "2F_mXscxGvo",
+      "title": "Matlab Images are Matrices",
+      "views": 11000
+    },
+    {
+      "id": "xBylPVLpBCU",
+      "title": "Load and Display an Image",
+      "views": 12000
+    },
+    {
+      "id": "3g7zhfbduFs",
+      "title": "Inspect Image Values",
+      "views": 10000
+    },
+    {
+      "id": "0TYu9dv7uDA",
+      "title": "Crop an Image",
+      "views": 9600
+    },
+    {
+      "id": "dqTtAcljH_8",
+      "title": "Color Planes",
+      "views": 10000
+    },
+    {
+      "id": "yRQB5ShXKUI",
+      "title": "Add 2 Images Demo",
+      "views": 9700
+    },
+    {
+      "id": "iHMBln9kdQQ",
+      "title": "Multiply by a Scalar Demo",
+      "views": 10000
+    },
+    {
+      "id": "1gKjdy7QjeE",
+      "title": "Common Types of Noise",
+      "views": 9900
+    },
+    {
+      "id": "hG-kqDgzThk",
+      "title": "Image Difference Demo",
+      "views": 8800
+    },
+    {
+      "id": "G6Pq1KP7GE8",
+      "title": "Generate Gaussian Noise",
+      "views": 9600
+    },
+    {
+      "id": "wQYyElVi3K4",
+      "title": "Effect of Sigma on Gaussian Noise",
+      "views": 8800
+    },
+    {
+      "id": "5I9nhRoakSw",
+      "title": "Displaying Images in Matlab",
+      "views": 7800
+    },
+    {
+      "id": "FBpDuN5Im3k",
+      "title": "End",
+      "views": 6300
+    },
+    {
+      "id": "cIe_oN3unwY",
+      "title": "Intro",
+      "views": 7900
+    },
+    {
+      "id": "-kyCVtmxJA4",
+      "title": "Gaussian Noise",
+      "views": 8900
+    },
+    {
+      "id": "jt0QQzrBljU",
+      "title": "Averaging Assumptions",
+      "views": 8100
+    },
+    {
+      "id": "mvAmv6avMtQ",
+      "title": "Weighted Moving Average",
+      "views": 8300
+    },
+    {
+      "id": "tWSV6qOBwHU",
+      "title": "Moving Average In 2D",
+      "views": 8000
+    },
+    {
+      "id": "7B3ZkwBLJaY",
+      "title": "Correlation Filtering",
+      "views": 8600
+    },
+    {
+      "id": "nZPkCM_YgPc",
+      "title": "Averaging Filter",
+      "views": 7900
+    },
+    {
+      "id": "37hwKLc_geQ",
+      "title": "Gaussian Filter",
+      "views": 8700
+    },
+    {
+      "id": "XqYfeBNoqbs",
+      "title": "Variance or Standard Deviation",
+      "views": 7900
+    },
+    {
+      "id": "hEPocDH8FSk",
+      "title": "Matlab",
+      "views": 7200
+    },
+    {
+      "id": "JZ6PVM0h6kg",
+      "title": "Keeping the Two Gaussians Straight",
+      "views": 6900
+    },
+    {
+      "id": "iMNxPD9XI4s",
+      "title": "End",
+      "views": 5500
+    },
+    {
+      "id": "QF2EZBfzzl8",
+      "title": "Intro",
+      "views": 7600
+    },
+    {
+      "id": "9QrzdIVVrC4",
+      "title": "Impulse Function and Response",
+      "views": 7400
+    },
+    {
+      "id": "YKJP8Gls1N0",
+      "title": "Filtering an Impulse Signal",
+      "views": 7100
+    },
+    {
+      "id": "vsp_t_6PjxU",
+      "title": "Correlation vs Convolution",
+      "views": 8500
+    },
+    {
+      "id": "KGe6fjRAnSg",
+      "title": "Properties of Convolution",
+      "views": 6900
+    },
+    {
+      "id": "z10itX6CSPk",
+      "title": "Computational Complexity and Separability",
+      "views": 6100
+    },
+    {
+      "id": "9gBYU_BB__c",
+      "title": "Boundary Issues",
+      "views": 5800
+    },
+    {
+      "id": "Gqcru5HXmpU",
+      "title": "Methods",
+      "views": 5700
+    },
+    {
+      "id": "OfAB7K8CRDQ",
+      "title": "Practicing with Linear Filters",
+      "views": 5600
+    },
+    {
+      "id": "UcWsq9MtWxU",
+      "title": "Unsharp Mask",
+      "views": 5400
+    },
+    {
+      "id": "ey0Zg62W2QE",
+      "title": "Different Kinds of Noise",
+      "views": 5100
+    },
+    {
+      "id": "wjhZ0eZmKA4",
+      "title": "Median Filter",
+      "views": 5300
+    },
+    {
+      "id": "sLT_mqssKR4",
+      "title": "End",
+      "views": 4400
+    },
+    {
+      "id": "ty27o7P_3ok",
+      "title": "Intro",
+      "views": 5700
+    },
+    {
+      "id": "OAEgNllbZ1w",
+      "title": "1D Correlation",
+      "views": 5400
+    },
+    {
+      "id": "8YKMdH0Y094",
+      "title": "Matlab Cross Correlation Doc",
+      "views": 4700
+    },
+    {
+      "id": "yDDhcJuSQw0",
+      "title": "Template Matching",
+      "views": 5400
+    },
+    {
+      "id": "LocLcCKn8iY",
+      "title": "Template Matching Example",
+      "views": 4800
+    },
+    {
+      "id": "iysIPPdpKO4",
+      "title": "Non Identical Template Matching",
+      "views": 4800
+    },
+    {
+      "id": "3-sId_vkHNU",
+      "title": "End",
+      "views": 4300
+    },
+    {
+      "id": "hsXEDbd6xww",
+      "title": "Intro",
+      "views": 5400
+    },
+    {
+      "id": "vcJqFy9aNyc",
+      "title": "Reduced Images",
+      "views": 5100
+    },
+    {
+      "id": "2GQK4swCMyU",
+      "title": "Edges",
+      "views": 5800
+    },
+    {
+      "id": "474xjfw_Bac",
+      "title": "Edge Detection",
+      "views": 6200
+    },
+    {
+      "id": "0Nz3hVTQySE",
+      "title": "Derivatives and Edges",
+      "views": 6100
+    },
+    {
+      "id": "2eesjYCm0dM",
+      "title": "What is a Gradient",
+      "views": 6400
+    },
+    {
+      "id": "kx3nEEj-x6I",
+      "title": "Finite Differences",
+      "views": 5500
+    },
+    {
+      "id": "OXtlhUBJmDc",
+      "title": "Partial Derivatives of an Image",
+      "views": 5600
+    },
+    {
+      "id": "JRXEkQ_DPpI",
+      "title": "The Discrete Gradient_1",
+      "views": 5500
+    },
+    {
+      "id": "OqpL6EEVyZs",
+      "title": "Sobel Operator",
+      "views": 5800
+    },
+    {
+      "id": "gZFO78aRfC8",
+      "title": "Well Known Gradients",
+      "views": 5000
+    },
+    {
+      "id": "LkkHdb7fgIQ",
+      "title": "But in the Real World",
+      "views": 5200
+    },
+    {
+      "id": "W9Yq7uoRfPU",
+      "title": "End",
+      "views": 3900
+    },
+    {
+      "id": "bZL8FTODfwY",
+      "title": "Intro",
+      "views": 4700
+    },
+    {
+      "id": "DhPrkpFPDaQ",
+      "title": "Derivative of Gaussian Filter 2D",
+      "views": 5300
+    },
+    {
+      "id": "3PmrM5zrguw",
+      "title": "Effect of Sigma on Derivatives",
+      "views": 4800
+    },
+    {
+      "id": "npQzcJ7JQ1o",
+      "title": "Canny Edge Operator",
+      "views": 5400
+    },
+    {
+      "id": "CLmtC0H8Fvk",
+      "title": "Canny Edge Detector",
+      "views": 5300
+    },
+    {
+      "id": "tm0HExegee4",
+      "title": "For Your Eyes Only Demo",
+      "views": 4300
+    },
+    {
+      "id": "gzM5EU9a6Ys",
+      "title": "Canny Results",
+      "views": 4400
+    },
+    {
+      "id": "uzdn6F_04o0",
+      "title": "Single 2D Edge Detection Filter",
+      "views": 4400
+    },
+    {
+      "id": "41TTXif2ls0",
+      "title": "Edge Demo",
+      "views": 4000
+    },
+    {
+      "id": "utZhPbg0o_c",
+      "title": "End",
+      "views": 3300
+    },
+    {
+      "id": "MqooDwXjleA",
+      "title": "Intro",
+      "views": 4700
+    },
+    {
+      "id": "wmqD_Jvi5bI",
+      "title": "Parametric Model",
+      "views": 4500
+    },
+    {
+      "id": "fwQ9OgL1TxA",
+      "title": "Line Fitting",
+      "views": 4400
+    },
+    {
+      "id": "YfWOrXvEv-M",
+      "title": "Voting",
+      "views": 4500
+    },
+    {
+      "id": "MA1f9FsrCco",
+      "title": "Hough Space",
+      "views": 5200
+    },
+    {
+      "id": "wh_at1O_WFI",
+      "title": "Polar Representation for Lines",
+      "views": 12000
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "XFKBNJ14UmY",
+      "title": "Lecture 1: Introduction",
+      "views": 42000
+    },
+    {
+      "id": "KKR0_ZJJ0-o",
+      "title": "Lecture 2: Convexity I: sets and functions",
+      "views": 12000
+    },
+    {
+      "id": "Gij3dlqLUN8",
+      "title": "Lecture 3: Convexity II: Optimization basics",
+      "views": 8700
+    },
+    {
+      "id": "pfxVy4EUqzE",
+      "title": "Lecture 4: Canonical problem forms",
+      "views": 6000
+    },
+    {
+      "id": "sLMJal3KwPs",
+      "title": "Lecture 5: Gradient descent",
+      "views": 7300
+    },
+    {
+      "id": "58pUZYUvpdQ",
+      "title": "Lecture 6: Gradient descent (continued); Subgradients",
+      "views": 5200
+    },
+    {
+      "id": "n_6MxWriulk",
+      "title": "Lecture 7: Subgradients (continued); Subgradient method",
+      "views": 4000
+    },
+    {
+      "id": "h7dniG0c2ng",
+      "title": "Lecture 8: Subgradient method (continued); Proximal gradient descent and acceleration",
+      "views": 4400
+    },
+    {
+      "id": "h4UxpEfLJKE",
+      "title": "Lecture 9: Proximal gradient descent and acceleration (continued)",
+      "views": 3100
+    },
+    {
+      "id": "OQncSb3PIWA",
+      "title": "Lecture 10: Duality in linear programs",
+      "views": 4600
+    },
+    {
+      "id": "LBHKx8PmcnQ",
+      "title": "Lecture 11:Duality in general programs",
+      "views": 3200
+    },
+    {
+      "id": "V6sL3uXNZ3g",
+      "title": "Lecture 12: KKT conditions",
+      "views": 5000
+    },
+    {
+      "id": "AST64aGULkk",
+      "title": "Lecture 13: Duality uses and correspondences",
+      "views": 2900
+    },
+    {
+      "id": "1B918uZBOss",
+      "title": "Lecture 14: Newton's method",
+      "views": 2800
+    },
+    {
+      "id": "_DD17Mj5Y6Y",
+      "title": "Lecture 15: Barrier method",
+      "views": 2300
+    },
+    {
+      "id": "MwOjRfU2aU8",
+      "title": "Lecture 16: Duality revisited",
+      "views": 1500
+    },
+    {
+      "id": "haktqAajo70",
+      "title": "Lecture 17: Primal-dual interior point methods",
+      "views": 3000
+    },
+    {
+      "id": "2eSrCuyPscg",
+      "title": "Lecture 18: Quasi-Newton methods",
+      "views": 12000
+    },
+    {
+      "id": "dFqMgOO6DT0",
+      "title": "Lecture 19: Proximal Newton method",
+      "views": 1500
+    },
+    {
+      "id": "OsnQ_QC4Fjc",
+      "title": "Lecture 20: Dual methods",
+      "views": 2800
+    },
+    {
+      "id": "1tyl_F8j3wA",
+      "title": "Lecture 21:  Alternating direction method of multipliers (ADMM)",
+      "views": 16000
+    },
+    {
+      "id": "6u0XyY3aeBo",
+      "title": "Lecture 22: Frank-Wolfe method",
+      "views": 10000
+    },
+    {
+      "id": "bFAzf36qqT0",
+      "title": "Lecture 23: Coordinate descent",
+      "views": 6300
+    },
+    {
+      "id": "RQmFpY9W40c",
+      "title": "Lecture 24: Mixed integer programming I",
+      "views": 2200
+    },
+    {
+      "id": "E9VP8sfGiIc",
+      "title": "Lecture 25: Mixed integer programming II",
+      "views": 1500
+    }
+  ]
+}

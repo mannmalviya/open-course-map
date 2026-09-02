@@ -1,0 +1,279 @@
+{
+  "lectures": [
+    {
+      "id": "dkT8yuI2d50",
+      "title": "Lecture 1:  Introduction; numerics; error analysis (part I)",
+      "views": 110000
+    },
+    {
+      "id": "VNJ4lV9VBn4",
+      "title": "Lecture 1:  Introduction; numerics; error analysis (part II)",
+      "views": 23000
+    },
+    {
+      "id": "RoZUtMX_Dro",
+      "title": "Lecture 2:  Linear systems and LU (Part I)",
+      "views": 13000
+    },
+    {
+      "id": "BSrRrjr6t_g",
+      "title": "Lecture 2: Linear systems and LU (Part II)",
+      "views": 6300
+    },
+    {
+      "id": "wjbrY6zHmMA",
+      "title": "Lecture 3:  More LU; conditioning and sensitivity (part I)",
+      "views": 4900
+    },
+    {
+      "id": "D5ABGSplM8c",
+      "title": "Lecture 3:  More LU; conditioning and sensitivity (part II)",
+      "views": 4000
+    },
+    {
+      "id": "zmYL0TcCDX8",
+      "title": "Lecture 3:  More LU; conditioning and sensitivity (part III)",
+      "views": 3200
+    },
+    {
+      "id": "u997zdUBhOk",
+      "title": "Lecture 4:  Designing linear systems; special structure (part I)",
+      "views": 2500
+    },
+    {
+      "id": "AoJyGlkir_g",
+      "title": "Lecture 4:  Designing linear systems; special structure (part II)",
+      "views": 1800
+    },
+    {
+      "id": "cYnReH77iE4",
+      "title": "Lecture 4:  Designing linear systems; special structure (part III)",
+      "views": 1500
+    },
+    {
+      "id": "196XDyE0k4s",
+      "title": "Lecture 5: Column spaces and QR (part I)",
+      "views": 1700
+    },
+    {
+      "id": "Kb3NNk2ikSs",
+      "title": "Lecture 5: Column spaces and QR (part II)",
+      "views": 1300
+    },
+    {
+      "id": "8HDdjMiTTXM",
+      "title": "Lecture 5: Column spaces and QR (part III)",
+      "views": 878
+    },
+    {
+      "id": "A4SONBLJTUU",
+      "title": "Lecture 6:  Eigenproblems: How they arise, properties (part I)",
+      "views": 2000
+    },
+    {
+      "id": "VavA0DOy_Vc",
+      "title": "Lecture 6:  Eigenproblems: How they arise, properties (part II)",
+      "views": 1000
+    },
+    {
+      "id": "x0uF2g-pErM",
+      "title": "Lecture 6:  Eigenproblems: How they arise, properties (part III)",
+      "views": 781
+    },
+    {
+      "id": "g3-oinWys8I",
+      "title": "Lecture 7:  Eigenproblems II: Algorithms (part I)",
+      "views": 1300
+    },
+    {
+      "id": "38nH_btB1aI",
+      "title": "Lecture 7:  Eigenproblems II: Algorithms (part II)",
+      "views": 1000
+    },
+    {
+      "id": "3gFb_UnhaAY",
+      "title": "Lecture 7:  Eigenproblems II: Algorithms (part III)",
+      "views": 754
+    },
+    {
+      "id": "2OnCA4P7M8k",
+      "title": "Lecture 8:  Eigenproblems III (QR iteration, conditioning); singular value decomposition (part I)",
+      "views": 2600
+    },
+    {
+      "id": "f3Z3jDOCfP4",
+      "title": "Lecture 8:  Eigenproblems III (QR iteration, conditioning); singular value decomposition (part II)",
+      "views": 1000
+    },
+    {
+      "id": "6WgGnHtns2w",
+      "title": "Lecture 8:  Eigenproblems III (QR iteration, conditioning); singular value decomposition (part III)",
+      "views": 823
+    },
+    {
+      "id": "XmWt5XQQu74",
+      "title": "Lecture 9: Nonlinear equations and convergence analysis (part I)",
+      "views": 1800
+    },
+    {
+      "id": "JO6hUjfkqaw",
+      "title": "Lecture 9: Nonlinear equations and convergence analysis (part II)",
+      "views": 1600
+    },
+    {
+      "id": "3O7DMazZ8BQ",
+      "title": "Lecture 9: Nonlinear equations and convergence analysis (part III)",
+      "views": 982
+    },
+    {
+      "id": "YVMlIt6FsGM",
+      "title": "Lecture 10:  Systems of equations; optimization in one variable (part I)",
+      "views": 1100
+    },
+    {
+      "id": "0_X7MjK_srw",
+      "title": "Lecture 10:  Systems of equations; optimization in one variable (part II)",
+      "views": 906
+    },
+    {
+      "id": "sQS4bKRc4-U",
+      "title": "Lecture 10:  Systems of equations; optimization in one variable (part III)",
+      "views": 693
+    },
+    {
+      "id": "hdE3Yuf0gJ0",
+      "title": "Lecture 12: Optimization: Multiple variables, constraints (part I)",
+      "views": 1300
+    },
+    {
+      "id": "bAHEgvxgmqk",
+      "title": "Lecture 12: Optimization: Multiple variables, constraints (part II)",
+      "views": 1300
+    },
+    {
+      "id": "yynQwafbeEU",
+      "title": "Lecture 12: Optimization: Multiple variables, constraints (part III)",
+      "views": 679
+    },
+    {
+      "id": "sNn7jj6wiPc",
+      "title": "Lecture 13:  Conjugate gradients I: Gradient descent, setup (part I)",
+      "views": 2700
+    },
+    {
+      "id": "OV4oZXVAIgI",
+      "title": "Lecture 13:  Conjugate gradients I: Gradient descent, setup (part II)",
+      "views": 1100
+    },
+    {
+      "id": "qJwD2mFrEYM",
+      "title": "Lecture 13:  Conjugate gradients I: Gradient descent, setup (part III)",
+      "views": 969
+    },
+    {
+      "id": "DuVT5Y3yYHQ",
+      "title": "Lecture 14:  Conjugate gradients II: Formulation, preconditioning, and variants (part I)",
+      "views": 1600
+    },
+    {
+      "id": "15Kx0O-efII",
+      "title": "Lecture 14:  Conjugate gradients II: Formulation, preconditioning, and variants (part II)",
+      "views": 935
+    },
+    {
+      "id": "FCsNCkiPtNI",
+      "title": "Lecture 14:  Conjugate gradients II: Formulation, preconditioning, and variants (part III)",
+      "views": 646
+    },
+    {
+      "id": "Y6RFE9KgjM8",
+      "title": "Lecture 15:  Interpolation (part I)",
+      "views": 1900
+    },
+    {
+      "id": "H9kkH1WPnNo",
+      "title": "Lecture 15:  Interpolation (part II)",
+      "views": 906
+    },
+    {
+      "id": "oiFrtsp9LNo",
+      "title": "Lecture 15:  Interpolation (part III)",
+      "views": 719
+    },
+    {
+      "id": "PeKVxX4FiB0",
+      "title": "Lecture 16: Numerical integration and differentiation (part I)",
+      "views": 1700
+    },
+    {
+      "id": "8lcCVrW-uME",
+      "title": "Lecture 16:  Numerical integration and differentiation (part II)",
+      "views": 842
+    },
+    {
+      "id": "f0EFUW6mI1E",
+      "title": "Lecture 16:  Numerical integration and differentiation (part III)",
+      "views": 655
+    },
+    {
+      "id": "PIXSwAPV-gQ",
+      "title": "Lecture 17:  Initial value problems and basics of ODE (part I)",
+      "views": 1100
+    },
+    {
+      "id": "sIogR1KdmfA",
+      "title": "Lecture 17:  Initial value problems and basics of ODE (part II)",
+      "views": 601
+    },
+    {
+      "id": "VrFohZFmSYw",
+      "title": "Lecture 17:  Initial value problems and basics of ODE (part III)",
+      "views": 465
+    },
+    {
+      "id": "_g7r_UBbZms",
+      "title": "Lecture 18:  Time-stepping strategies (part I)",
+      "views": 695
+    },
+    {
+      "id": "2fxplxPRq0k",
+      "title": "Lecture 18:  Time-stepping strategies (part II)",
+      "views": 470
+    },
+    {
+      "id": "hJSMrESpNr4",
+      "title": "Lecture 18:  Time-stepping strategies (part III)",
+      "views": 412
+    },
+    {
+      "id": "f9krSyhvr5s",
+      "title": "Lecture 19:  PDE I: Examples/theory, derivative operators (part I)",
+      "views": 1200
+    },
+    {
+      "id": "uTz3NUxQhLg",
+      "title": "Lecture 19:  PDE I: Examples/theory, derivative operators (part II)",
+      "views": 698
+    },
+    {
+      "id": "1hHEG9msgqQ",
+      "title": "Lecture 19:  PDE I: Examples/theory, derivative operators (part III)",
+      "views": 650
+    },
+    {
+      "id": "2SsPYbxqnO8",
+      "title": "Lecture 20:  PDE II: Basic solution techniques (part I)",
+      "views": 988
+    },
+    {
+      "id": "LUAOuiXTLUQ",
+      "title": "Lecture 20:  PDE II: Basic solution techniques (part II)",
+      "views": 894
+    },
+    {
+      "id": "wFGUYwf_0n8",
+      "title": "Lecture 20:  PDE II: Basic solution techniques (part III)",
+      "views": 750
+    }
+  ]
+}

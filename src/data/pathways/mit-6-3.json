@@ -1,9 +1,9 @@
 {
-  "title": "MIT 6-3 Computer Science",
+  "title": "MIT's CS Curriculum",
   "kind": "official",
-  "field": "Computer Science",
+  "field": "CS",
   "source": "Transcribed from MIT's 6-3 degree requirements",
-  "blurb": "MIT's computer science major, as MIT sequences it. Several required courses have never been put online — those are marked, not hidden.",
+  "blurb": "Python, calculus, discrete math, algorithms, computation theory, computer architecture.",
   "steps": [
     {
       "course": "mit-intro-python",

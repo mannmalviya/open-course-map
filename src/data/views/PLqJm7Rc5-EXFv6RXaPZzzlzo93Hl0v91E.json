@@ -1,0 +1,159 @@
+{
+  "lectures": [
+    {
+      "id": "ZT8LszMo0D4",
+      "title": "What is Machine Learning? - Bernhard Schölkopf - MLSS 2013 Tübingen",
+      "views": 17000
+    },
+    {
+      "id": "ju1Grt2hdko",
+      "title": "Graphical Models 1 - Christopher Bishop - MLSS 2013 Tübingen",
+      "views": 80000
+    },
+    {
+      "id": "c0AWH5UFyOk",
+      "title": "Graphical Models 2 - Christopher Bishop - MLSS 2013 Tübingen",
+      "views": 41000
+    },
+    {
+      "id": "QJSEQeH40hM",
+      "title": "Graphical Models 3 - Christopher Bishop - MLSS 2013 Tübingen",
+      "views": 24000
+    },
+    {
+      "id": "mgBrXnjF8R4",
+      "title": "Bayesian Inference 1 - Zoubin Ghahramani - MLSS 2013 Tübingen",
+      "views": 29000
+    },
+    {
+      "id": "yQW8c3Dh26k",
+      "title": "Bayesian Inference 2 - Zoubin Ghahramani - MLSS 2013 Tübingen",
+      "views": 10000
+    },
+    {
+      "id": "eZWxFL5_d5s",
+      "title": "Bayesian Inference 3 - Zoubin Ghahramani - MLSS 2013 Tübingen",
+      "views": 6900
+    },
+    {
+      "id": "V6keJrQifcI",
+      "title": "Optimization 1 - Stephen Wright - MLSS 2013 Tübingen",
+      "views": 5100
+    },
+    {
+      "id": "cnA23FU9v4c",
+      "title": "Optimization 2 - Stephen Wright - MLSS 2013 Tübingen",
+      "views": 1600
+    },
+    {
+      "id": "3BPsw5GUlps",
+      "title": "Optimization 3 - Stephen Wright - MLSS 2013 Tübingen",
+      "views": 1400
+    },
+    {
+      "id": "uzWgB1VO9xQ",
+      "title": "Kernels - Bernhard Schölkopf - MLSS 2013 Tübingen",
+      "views": 4100
+    },
+    {
+      "id": "KsbftkwZTq4",
+      "title": "Causality 1 - Bernhard Schölkopf and Dominik Janzing - MLSS 2013 Tübingen",
+      "views": 5800
+    },
+    {
+      "id": "Y5M6qwbidu0",
+      "title": "Causality 2 - Bernhard Schölkopf and Dominik Janzing - MLSS 2013 Tübingen",
+      "views": 1700
+    },
+    {
+      "id": "cXzGpiUcvRI",
+      "title": "Multilayer Networks 1 - Léon Bottou - MLSS 2013 Tübingen",
+      "views": 1700
+    },
+    {
+      "id": "4-hTxJAwr8U",
+      "title": "Multilayer Networks 2 - Léon Bottou - MLSS 2013 Tübingen",
+      "views": 761
+    },
+    {
+      "id": "adXwym8Lakg",
+      "title": "Multilayer Networks 3 - Léon Bottou - MLSS 2013 Tübingen",
+      "views": 649
+    },
+    {
+      "id": "inDU7daFEFA",
+      "title": "Sparse Models - Matthias Seeger - MLSS 2013 Tübingen",
+      "views": 1500
+    },
+    {
+      "id": "50Vgw11qn0o",
+      "title": "Gaussian Processes 1 - Philipp Hennig - MLSS 2013 Tübingen",
+      "views": 19000
+    },
+    {
+      "id": "TR0LCVslIIM",
+      "title": "Gaussian Processes 2 - PhilippHennig - MLSS 2013 Tübingen",
+      "views": 4500
+    },
+    {
+      "id": "KRLW5abMV6s",
+      "title": "Gaussian Processes 3 - Philipp Hennig - MLSS 2013 Tübingen",
+      "views": 3000
+    },
+    {
+      "id": "cDIMpatyEp0",
+      "title": "Structured Output Prediction 1 - Thomas Hofmann - MLSS 2013 Tübingen",
+      "views": 4800
+    },
+    {
+      "id": "NG035rgrF88",
+      "title": "Structured Output Prediction 2 - Thomas Hofmann - MLSS 2013 Tübingen",
+      "views": 982
+    },
+    {
+      "id": "SpETLDWLsFY",
+      "title": "Learning Theory 1 - Ingo Steinwart - MLSS 2013 Tübingen",
+      "views": 1800
+    },
+    {
+      "id": "eJdNSh_PN1U",
+      "title": "Learning Theory 2 - Ingo Steinwart - MLSS 2013 Tübingen",
+      "views": 888
+    },
+    {
+      "id": "dNeW5zoNJ7g",
+      "title": "Bayesian Nonparametrics 1 - Yee Whye Teh - MLSS 2013 Tübingen",
+      "views": 25000
+    },
+    {
+      "id": "7sy_MCbqtco",
+      "title": "Bayesian Nonparametrics 2 - Yee Whye Teh - MLSS 2013 Tübingen",
+      "views": 8000
+    },
+    {
+      "id": "kqEWDdTB_3Q",
+      "title": "Bayesian Nonparametrics 3 - Yee Whye Teh - MLSS 2013 Tübingen",
+      "views": 4500
+    },
+    {
+      "id": "5rev-zVx1Ps",
+      "title": "Bandits, Active Learning, Bayesian RL and Global Optimization - Marc Toussaint - MLSS 2013 Tübingen",
+      "views": 7100
+    },
+    {
+      "id": "Id1iOqeJaZY",
+      "title": "Machine Learning for Computational Biology - Karsten Borgwardt - MLSS 2013 Tübingen",
+      "views": 4500
+    },
+    {
+      "id": "hDxTrUjf3G4",
+      "title": "Robotics 2 - Stefan Schaal - MLSS 2013 Tübingen",
+      "views": 1400
+    },
+    {
+      "id": "uy8DauNHWlc",
+      "title": "Robotics 1 - Stefan Schaal - MLSS 2013 Tübingen",
+      "views": 4600
+    }
+  ]
+}

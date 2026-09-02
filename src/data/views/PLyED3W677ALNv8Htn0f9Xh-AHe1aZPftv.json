@@ -1,0 +1,334 @@
+{
+  "lectures": [
+    {
+      "id": "rbY-JRQEDUU",
+      "title": "EGGN 510 - Lecture 02-1 Digital Image Fundamentals",
+      "views": 19000
+    },
+    {
+      "id": "jMYomURbcYs",
+      "title": "EENG 510 - Lecture 02-2 Digital Image Fundamentals",
+      "views": 4800
+    },
+    {
+      "id": "xjl3qmGM8mY",
+      "title": "EGGN 510 - Lecture 02-3 Matlab Image Processing Toolbox",
+      "views": 7100
+    },
+    {
+      "id": "f1g3rzzs_XA",
+      "title": "EENG 510 - Lecture 03-1 Spatial Resolution",
+      "views": 18000
+    },
+    {
+      "id": "TP8ymEuW8G4",
+      "title": "EGGN 510 - Lecture 03-2 Spatial Resolution",
+      "views": 3600
+    },
+    {
+      "id": "vpadM2e0Ug0",
+      "title": "EENG 510 - Lecture 04-1 Spatial Transformations",
+      "views": 5400
+    },
+    {
+      "id": "-vpJ_juSX7Q",
+      "title": "EGGN 510 - Lecture 04-2 Spatial Transformations",
+      "views": 4300
+    },
+    {
+      "id": "vEi9zXEOuRk",
+      "title": "EENG 510 - Lecture 05-1 Intensity Transformations",
+      "views": 9300
+    },
+    {
+      "id": "ffAuNAI1m9w",
+      "title": "EENG 510 - Lecture 05-2 Intensity Transformations",
+      "views": 5000
+    },
+    {
+      "id": "WhjIC2gOquw",
+      "title": "EGGN 510 - Lecture 05-3 Intensity Transformations",
+      "views": 2600
+    },
+    {
+      "id": "ASLBL0qP4qA",
+      "title": "EENG 510 - Lecture 06-1 OpenCV",
+      "views": 2700
+    },
+    {
+      "id": "mW1-36oaIIQ",
+      "title": "EENG 510 - Lecture 07-1 Spatial Filters",
+      "views": 16000
+    },
+    {
+      "id": "QIR84DsCV44",
+      "title": "EENG 510 - Lecture 07-2 Spatial Filters",
+      "views": 6500
+    },
+    {
+      "id": "zTvNwNo5Bq4",
+      "title": "EENG 510 - Lecture 07-3 Spatial Filters",
+      "views": 3800
+    },
+    {
+      "id": "ggjfsE5sYOY",
+      "title": "EGGN 510 - Lecture 07-4 Spatial Filters",
+      "views": 3500
+    },
+    {
+      "id": "1lRkHFBMBbo",
+      "title": "EGGN 510 - Lecture 08-1 Fourier Transforms",
+      "views": 8000
+    },
+    {
+      "id": "rXXQQJ0GPTE",
+      "title": "EGGN 510 - Lecture 08-2 Fourier Transforms",
+      "views": 11000
+    },
+    {
+      "id": "qd9mjCdBvxY",
+      "title": "EGGN 510 - Lecture 08-3 Fourier Transforms",
+      "views": 5400
+    },
+    {
+      "id": "jedlJFKybak",
+      "title": "EGGN 510 - Lecture 08-4 Fourier Transforms",
+      "views": 10000
+    },
+    {
+      "id": "02c6ohQV2TA",
+      "title": "EGGN 510 - Lecture 09-1 Frequency Domain Filters",
+      "views": 10000
+    },
+    {
+      "id": "ytW8RnH3Pow",
+      "title": "EENG 510 - Lecture 09-2 Frequency Domain Filters",
+      "views": 10000
+    },
+    {
+      "id": "t7JI2w5COls",
+      "title": "EGGN 510 - Lecture 09-3 Frequency Domain Filters",
+      "views": 4700
+    },
+    {
+      "id": "gmi4ah7YAi0",
+      "title": "EGGN 510 - Lecture 10-1 Morphological Processing",
+      "views": 29000
+    },
+    {
+      "id": "VvyPb8AtcaM",
+      "title": "EENG 510 - Lecture 10-2 Morphological Processing",
+      "views": 13000
+    },
+    {
+      "id": "iUWo1yBnb4Q",
+      "title": "EEGN 510 - Lecture 10-3 Morphological Processing",
+      "views": 11000
+    },
+    {
+      "id": "TtcrRTOCXg8",
+      "title": "EGGN 510 - Lecture 10-4 Morphological Processing",
+      "views": 4300
+    },
+    {
+      "id": "6a0YjlErTFQ",
+      "title": "EENG 510 - Lecture 11-1 Region Descriptors",
+      "views": 4600
+    },
+    {
+      "id": "9g9QvY7iGt8",
+      "title": "EGGN 510 - Lecture 12-1 Morphological Algorithms",
+      "views": 4100
+    },
+    {
+      "id": "IK-HShxV1ow",
+      "title": "EGGN 510 - Lecture 12-2 Morphological Algorithms",
+      "views": 2500
+    },
+    {
+      "id": "H5akAE59eno",
+      "title": "EGGN 510 - Lecture 13-1 Edge Detection",
+      "views": 3200
+    },
+    {
+      "id": "Kr3ZtnTs_D8",
+      "title": "EENG 510 - Lecture 13-2 Edge Detection",
+      "views": 2900
+    },
+    {
+      "id": "ZqKqgDdC7Hk",
+      "title": "EGGN 510 - Lecture 13-3 Edge Detection",
+      "views": 1600
+    },
+    {
+      "id": "YqjVsSHP0tk",
+      "title": "EENG 510 - Lecture 14-1 Boundary Finding",
+      "views": 3900
+    },
+    {
+      "id": "t6IlH2n31Hg",
+      "title": "EENG 510 - Lecture 14-2 Boundary Finding",
+      "views": 1700
+    },
+    {
+      "id": "3rKX7HV0cyg",
+      "title": "EENG 510 - Lecture 14-3 Boundary Finding",
+      "views": 1600
+    },
+    {
+      "id": "xkzJncW7rv0",
+      "title": "EENG 510 - Lecture 14-4 Boundary Finding",
+      "views": 1400
+    },
+    {
+      "id": "dzrwOSX7Oc0",
+      "title": "EGGN 510 - Lecture 14-5 Boundary Finding",
+      "views": 849
+    },
+    {
+      "id": "lbagfPhojcA",
+      "title": "EENG 510 - Lecture 15-1 Thresholding",
+      "views": 23000
+    },
+    {
+      "id": "SIteDyvavq8",
+      "title": "EENG 510 - Lecture 17-1 Representation",
+      "views": 13000
+    },
+    {
+      "id": "PH9auG73S7w",
+      "title": "EENG 510 - Lecture 17-2 Representation",
+      "views": 1900
+    },
+    {
+      "id": "U5PaQmzDe5E",
+      "title": "EENG 510 - Lecture 17-3 Representation",
+      "views": 1400
+    },
+    {
+      "id": "mVD7VEUsolY",
+      "title": "EENG 510 - Lecture 18-1 Principal comp analysis",
+      "views": 1800
+    },
+    {
+      "id": "8R8aTYzKjIo",
+      "title": "EENG 510 - Lecture 18-2 Principal comp analysis",
+      "views": 1200
+    },
+    {
+      "id": "SmAgzCnetW4",
+      "title": "EENG 510 - Lecture 18-3 Principal comp analysis",
+      "views": 1100
+    },
+    {
+      "id": "fKYHbf7k11A",
+      "title": "EENG 510 - Lecture 18-4 Principal comp analysis",
+      "views": 998
+    },
+    {
+      "id": "pBumf0QdUgo",
+      "title": "EENG 510 - Lecture 19-1 Color",
+      "views": 1700
+    },
+    {
+      "id": "8UC5HrSjMZ0",
+      "title": "EENG 510 - Lecture 19-2 Color",
+      "views": 1400
+    },
+    {
+      "id": "h6FjZ2FmqLM",
+      "title": "EENG 510 - Lecture 19-3 Color",
+      "views": 1100
+    },
+    {
+      "id": "GaORk-iOCN8",
+      "title": "EENG 510 - Lecture 20-1 Pattern Recognition",
+      "views": 2100
+    },
+    {
+      "id": "7ZwtyBitAR4",
+      "title": "EENG 510 - Lecture 20-2 Pattern Recognition",
+      "views": 1400
+    },
+    {
+      "id": "nhimzT3JEL8",
+      "title": "EENG 510 - Lecture 20-3 Pattern Recognition",
+      "views": 1500
+    },
+    {
+      "id": "N9jcwJCgeVQ",
+      "title": "EENG 510 - Lecture 21-1 Image Restoration",
+      "views": 5500
+    },
+    {
+      "id": "WcRbuc77Z14",
+      "title": "EENG 510 - Lecture 21-2 Image Restoration",
+      "views": 2400
+    },
+    {
+      "id": "P7PHgZlcxd4",
+      "title": "EENG 510 - Lecture 21-3 Image Restoration",
+      "views": 7500
+    },
+    {
+      "id": "5--UFa6AyBI",
+      "title": "EENG 510 - Lecture 22-1 Deconvolution",
+      "views": 23000
+    },
+    {
+      "id": "4QYIVlJR4jQ",
+      "title": "EENG 510 - Lecture 22-2 Deconvolution",
+      "views": 2300
+    },
+    {
+      "id": "bk_VV_E4m-Y",
+      "title": "EENG 510 - Lecture 23-1 Multiresolution Processing",
+      "views": 5300
+    },
+    {
+      "id": "xl5m5DXeFQk",
+      "title": "EENG 510 - Lecture 23-2 Multiresolution Processing",
+      "views": 2000
+    },
+    {
+      "id": "l2tFLPwsqgY",
+      "title": "EENG 510 - Lecture 25-1 Compression-Lossless",
+      "views": 3500
+    },
+    {
+      "id": "RjKLvQdppKQ",
+      "title": "EENG 510 - Lecture 25-2 Compression-Lossless",
+      "views": 2200
+    },
+    {
+      "id": "oLAz9Iin7VA",
+      "title": "EENG 510 - Lecture 25-3 Compression-Lossless",
+      "views": 2000
+    },
+    {
+      "id": "SDw2NbBHHGg",
+      "title": "EENG 510 - Lecture 25-4 Compression-Lossless",
+      "views": 1500
+    },
+    {
+      "id": "mT5Qln4TB7w",
+      "title": "EENG 510 - Lecture 26-1 Compression-Lossy",
+      "views": 1500
+    },
+    {
+      "id": "mNvwVrIX684",
+      "title": "EENG 510 - Lecture 26-2 Compression-Lossy",
+      "views": 1200
+    },
+    {
+      "id": "JzetGWUfi-A",
+      "title": "EENG 510 - Lecture 26-3 Compression-Lossy",
+      "views": 1200
+    },
+    {
+      "id": "_nXR8meFZjU",
+      "title": "EENG 510 - Lecture 26-4 Compression-Lossy",
+      "views": 1000
+    }
+  ]
+}

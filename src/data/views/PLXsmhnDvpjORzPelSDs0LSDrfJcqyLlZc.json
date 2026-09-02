@@ -1,0 +1,294 @@
+{
+  "lectures": [
+    {
+      "id": "ee-HYD6kKqM",
+      "title": "1.1 Introduction to Optimization and to Me",
+      "views": 53000
+    },
+    {
+      "id": "QcZJBkL7rhk",
+      "title": "1.2 What these Lectures do and do not cover",
+      "views": 12000
+    },
+    {
+      "id": "p7BZKqXL0ak",
+      "title": "1.3 Some First Examples",
+      "views": 10000
+    },
+    {
+      "id": "FTzZff0uq9U",
+      "title": "1.4. Basics of linear algebra and calculus we need",
+      "views": 14000
+    },
+    {
+      "id": "hNRtGmrgr2g",
+      "title": "2.1 Convex Sets: Definitions",
+      "views": 16000
+    },
+    {
+      "id": "7JHr0eL7YCY",
+      "title": "2.2 Convex Sets -- Examples",
+      "views": 8400
+    },
+    {
+      "id": "FNiJJL-1xVw",
+      "title": "2.3 Convex Functions",
+      "views": 7500
+    },
+    {
+      "id": "2c5UyW9M4g0",
+      "title": "2.4 Equivalence of Convex Function Definitions",
+      "views": 7000
+    },
+    {
+      "id": "oS4kCcFOJGg",
+      "title": "2.5 Optimality Conditions for Convex Optimization",
+      "views": 10000
+    },
+    {
+      "id": "mg0l36wI_Ek",
+      "title": "2.6 Optimality Conditions and Projection",
+      "views": 5800
+    },
+    {
+      "id": "ejIgu3UZM9c",
+      "title": "3.1 Intro to Gradient and Subgradient Descent",
+      "views": 13000
+    },
+    {
+      "id": "Clw24Fajnqg",
+      "title": "3.2 Smooth and Strongly Convex Functions",
+      "views": 16000
+    },
+    {
+      "id": "BQyHULGB4fY",
+      "title": "3.3 Properties of Smooth and Strongly Convex Functions",
+      "views": 8200
+    },
+    {
+      "id": "R8kL8CKyz5I",
+      "title": "3.4 Convergence Rates",
+      "views": 9600
+    },
+    {
+      "id": "DL6i8BIZt0A",
+      "title": "4.1 Oracle Lower Bounds",
+      "views": 3700
+    },
+    {
+      "id": "D1TseaVu9Nc",
+      "title": "4.2 Accelerated Gradient Descent",
+      "views": 5900
+    },
+    {
+      "id": "m73Fy_rHV0A",
+      "title": "5.1 Proximal and Projected Gradient Descent",
+      "views": 24000
+    },
+    {
+      "id": "ifK85fCxtcA",
+      "title": "5.2 Proximal Gradient -- Basic Properties",
+      "views": 7100
+    },
+    {
+      "id": "zWgzHQR8dh4",
+      "title": "5.3 Prox Gradient -- Rates of Convergence",
+      "views": 3100
+    },
+    {
+      "id": "JRerBpNggN0",
+      "title": "5.4 ISTA and FISTA",
+      "views": 10000
+    },
+    {
+      "id": "m_SJafYedbQ",
+      "title": "5.5 Mirror Descent Part 1",
+      "views": 8400
+    },
+    {
+      "id": "DTvDRHWWWGc",
+      "title": "5.6 Mirror Descent Part 2",
+      "views": 3400
+    },
+    {
+      "id": "UtoI5zsB3ZQ",
+      "title": "5.7 Mirror Descent Part 3",
+      "views": 3500
+    },
+    {
+      "id": "Up-Ks0P5AoY",
+      "title": "5.8 Mirror Descent Part 4a",
+      "views": 2900
+    },
+    {
+      "id": "ArTZybO1CGc",
+      "title": "5.9 Mirror Descent Part 4b",
+      "views": 2700
+    },
+    {
+      "id": "wV3k4o92V1c",
+      "title": "5.10 Mirror Descent Part 5",
+      "views": 2300
+    },
+    {
+      "id": "BGDCqAvLoHw",
+      "title": "5.11 Mirror Descent Part 6",
+      "views": 2200
+    },
+    {
+      "id": "tIywqa-OgoI",
+      "title": "5.12 Frank Wolfe",
+      "views": 12000
+    },
+    {
+      "id": "Z_FW352X2IA",
+      "title": "6.1 Stochastic Gradient Descent - Intro",
+      "views": 3800
+    },
+    {
+      "id": "9mUYxyTYaX4",
+      "title": "6.2 SGD Part 2",
+      "views": 2600
+    },
+    {
+      "id": "fU7UFzKF4xg",
+      "title": "6.3 SGD Part 3",
+      "views": 1700
+    },
+    {
+      "id": "hwm2mr8PBhs",
+      "title": "6.4 SGD and SVRG",
+      "views": 3700
+    },
+    {
+      "id": "dhVRKzybsck",
+      "title": "6.5 SGD Part 5",
+      "views": 1200
+    },
+    {
+      "id": "NanGIMVYH7c",
+      "title": "7.1 Newton's Method - A First View",
+      "views": 3600
+    },
+    {
+      "id": "NIyIJYmCTcc",
+      "title": "7.2 Newton's Method and Affine Transformations",
+      "views": 2300
+    },
+    {
+      "id": "Bh3UWxsEoTc",
+      "title": "7.3 Newton's Method -- Convergence Result",
+      "views": 2100
+    },
+    {
+      "id": "ZPb7HXtIqDE",
+      "title": "7.4 Newton's Method -- Proof",
+      "views": 1900
+    },
+    {
+      "id": "UvGQRAA8Yms",
+      "title": "8.1 Quasi Newton Methods Part I",
+      "views": 16000
+    },
+    {
+      "id": "QGFct_3HMzk",
+      "title": "8.2 Quasi Newton and BFGS",
+      "views": 24000
+    },
+    {
+      "id": "q4iXHLM72FY",
+      "title": "9.1 Interior Point Methods - Part I",
+      "views": 3600
+    },
+    {
+      "id": "lQpOXOTKTw8",
+      "title": "9.2 Interior Point Methods - Part II",
+      "views": 1400
+    },
+    {
+      "id": "U0cUcsGCS1A",
+      "title": "9.3 Interior Point Methods - Part III",
+      "views": 961
+    },
+    {
+      "id": "3pmAJOitNU4",
+      "title": "9.4 Interior Point Methods - Part IV",
+      "views": 966
+    },
+    {
+      "id": "CwDcth9J_7U",
+      "title": "10.1 Fenchel Dual Part I",
+      "views": 5200
+    },
+    {
+      "id": "-4ux8xo9QWw",
+      "title": "10.2 Fenchel Dual Part II",
+      "views": 2200
+    },
+    {
+      "id": "Re8OZk7jO_0",
+      "title": "10.3 Fenchel Dual Part IIΙ",
+      "views": 1700
+    },
+    {
+      "id": "Rvx2vcJ1jXA",
+      "title": "10.4 Fenchel Dual Part IV",
+      "views": 1700
+    },
+    {
+      "id": "q4Eig1U72Ww",
+      "title": "11.1 Dual Decomposition",
+      "views": 2700
+    },
+    {
+      "id": "pL_t2X72vek",
+      "title": "11.2 Proximal Point and Augmented Lagrangian",
+      "views": 2400
+    },
+    {
+      "id": "dWCT8PnVA5Y",
+      "title": "11.3 Interpretations of PPA and ALM",
+      "views": 1400
+    },
+    {
+      "id": "i5fs8caiTLU",
+      "title": "11.4 Convergence of Prox Point Algorithm",
+      "views": 1100
+    },
+    {
+      "id": "iEl-tS4CZWM",
+      "title": "11.5 Proximal Gradient in the Dual",
+      "views": 1100
+    },
+    {
+      "id": "lks7kCNQNlg",
+      "title": "11.6 Some Examples",
+      "views": 665
+    },
+    {
+      "id": "VsAUznfNe1o",
+      "title": "12.1 Monotone Operators",
+      "views": 3000
+    },
+    {
+      "id": "fn3uFc41R60",
+      "title": "12.2 Operator Splitting -- Douglas Rachford",
+      "views": 2800
+    },
+    {
+      "id": "255Ey2vkOg4",
+      "title": "12.3 DR Examples Part I",
+      "views": 1000
+    },
+    {
+      "id": "n6zYFWoY8Uc",
+      "title": "12.4 DR Examples Part II",
+      "views": 695
+    },
+    {
+      "id": "GVGxveZTgjw",
+      "title": "12.5 ADMM -- DR in the Dual",
+      "views": 2000
+    }
+  ]
+}

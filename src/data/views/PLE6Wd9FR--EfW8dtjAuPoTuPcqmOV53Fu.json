@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "id": "dV80NAlEins",
+      "title": "Deep Learning Lecture 16: Reinforcement learning and neuro-dynamic programming",
+      "views": 122000
+    },
+    {
+      "id": "kUiR0RLmGCo",
+      "title": "Deep Learning Lecture 15: Deep Reinforcement Learning - Policy search",
+      "views": 55000
+    },
+    {
+      "id": "P78QYjWh5sM",
+      "title": "Deep Learning Lecture 14: Karol Gregor on Variational Autoencoders and Image Generation",
+      "views": 49000
+    },
+    {
+      "id": "-yX1SYeDHbg",
+      "title": "Deep Learning Lecture 13: Alex Graves on Hallucination with RNNs",
+      "views": 52000
+    },
+    {
+      "id": "DHspIG64CVM",
+      "title": "Deep Learning Lecture 2: linear models",
+      "views": 98000
+    },
+    {
+      "id": "kPrHqQzCkg0",
+      "title": "Deep Learning Lecture 3: Maximum likelihood and information",
+      "views": 79000
+    },
+    {
+      "id": "VR0W_PNwLGw",
+      "title": "Deep Learning Lecture 4: Regularization, model complexity and data complexity (part 1)",
+      "views": 47000
+    },
+    {
+      "id": "qz9bKfOqd0Y",
+      "title": "Deep Learning Lecture 5: Regularization, model complexity and data complexity (part 2)",
+      "views": 35000
+    },
+    {
+      "id": "0qUAb94CpOw",
+      "title": "Deep Learning Lecture 6: Optimization",
+      "views": 47000
+    },
+    {
+      "id": "-YRB0eFxeQA",
+      "title": "Deep Learning Lecture 8: Modular back-propagation, logistic regression and Torch",
+      "views": 39000
+    },
+    {
+      "id": "FYgsztDxSvE",
+      "title": "Deep learning Lecture 7: Logistic regression, a Torch approach",
+      "views": 38000
+    },
+    {
+      "id": "NUKp0c4xb8w",
+      "title": "Deep Learning Lecture 9: Neural networks and modular design in Torch",
+      "views": 44000
+    },
+    {
+      "id": "bEUX_56Lojc",
+      "title": "Deep Learning Lecture 10: Convolutional Neural Networks",
+      "views": 154000
+    },
+    {
+      "id": "56TYLaQN4N8",
+      "title": "Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs",
+      "views": 128000
+    },
+    {
+      "id": "jCGplSKrl2Y",
+      "title": "Deep Learning Lecture 11: Max-margin learning, transfer and memory networks",
+      "views": 30000
+    },
+    {
+      "id": "PlhFWT7vAEw",
+      "title": "Deep Learning Lecture 1: Introduction",
+      "views": 350000
+    }
+  ]
+}

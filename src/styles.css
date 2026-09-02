@@ -66,6 +66,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
 html,
 body,
 #root,
@@ -127,15 +132,34 @@ body {
 }
 
 /* Collage thumbnails sit muted in the sketch look; hover restores their color */
-.collage-img {
+.collage-cell {
   filter: grayscale(0.75);
   opacity: 0.9;
   transition: filter 0.3s ease, opacity 0.3s ease;
 }
 
-.group-node:hover .collage-img {
+.group-node:hover .collage-cell {
   filter: none;
   opacity: 1;
+}
+
+/* A landing tile swaps one thumbnail at a time. The incoming image fades up
+   over the outgoing one, which is still drawn underneath, so the cell reads as
+   a crossfade instead of a flash of the card behind it. */
+@keyframes collage-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.collage-in {
+  animation: collage-in 700ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .collage-in {
+    animation: none;
+  }
 }
 
 /* Ghost references highlight on hover — the accent flows into the sketch via --ghost-ink */
@@ -437,6 +461,37 @@ body {
 .settings-row input:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
+}
+
+/* How many courses a school would leave you with, pushed to the row's far edge */
+.settings-count {
+  margin-left: auto;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+}
+
+/* Only drawn while something is picked, so it is always a way back to the whole map */
+.settings-clear {
+  margin-top: 8px;
+  padding: 6px 8px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--accent);
+  background: none;
+  border: 0;
+  border-radius: 7px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.settings-clear:hover {
+  background: var(--hover-bg);
+}
+
+/* A narrowed map looks like an empty one, so the funnel says it was your doing */
+.settings-button.filtering {
+  color: var(--accent);
 }
 
 /* On/off view options read better as switches than as ticks */
@@ -1147,51 +1202,30 @@ body {
   cursor: pointer;
 }
 
-/* Set apart by rules rather than a badge — a sticker would cheapen the claim */
-.landing-free {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 18px;
-  margin-top: 30px;
-  font-family: var(--hand-font);
-  font-size: 20px;
-  color: var(--ink);
-}
-
-.landing-free::before,
-.landing-free::after {
-  content: '';
-  width: 72px;
-  height: 1px;
-  background: var(--rule);
-}
-
-.landing-free::before {
-  background: linear-gradient(to right, transparent, var(--rule));
-}
-
-.landing-free::after {
-  background: linear-gradient(to left, transparent, var(--rule));
-}
-
+/* Took over the gap the "Always free" line used to hold under the button */
 .landing-stats {
-  margin-top: 10px;
+  margin-top: 30px;
   font-size: 13px;
   color: var(--muted);
 }
 
 /* The subject boxes, lifted out of the map — one tile each so they can wrap */
+/* Flex, not grid, so a short last row sits centred instead of hanging left.
+   The tiles are SVGs, so they must keep a set width and a free height —
+   letting flex stretch them blows up the drawing inside. */
 .landing-band {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
   gap: 24px 40px;
   margin-top: 40px;
 }
 
 .subject-tile {
   display: block;
-  width: 100%;
+  flex: 0 1 calc((100% - 80px) / 3);
+  min-width: 260px;
   height: auto;
   overflow: visible;
 }
@@ -1355,16 +1389,43 @@ body {
   color: var(--muted);
 }
 
-.pathways-inner .pathway-cards {
+.pathways-inner .pathway-sections {
   margin-top: 20px;
 }
 
+/* Sections are headed, so the gap between them has to beat the gap between
+   the cards inside one — otherwise a heading reads as belonging to the row
+   above it rather than the row below */
+.pathway-section + .pathway-section {
+  margin-top: 44px;
+}
+
+/* The section names are written in the hand, a size down from the page's own
+   headings: they label a shelf rather than open a part of the page */
+.pathway-section-title {
+  font-family: var(--hand-font);
+  font-size: 20px;
+  font-weight: 400;
+  color: var(--ink);
+  text-align: left;
+}
+
+/* A card is a fixed size, not a share of the row: auto-fill keeps the tracks
+   whether or not a section has cards for them, and the 300px ceiling stops a
+   lone pathway — or a short last row — from stretching across the page */
 .pathway-cards {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(260px, 300px));
   gap: 22px;
-  margin-top: 28px;
+  margin-top: 14px;
   text-align: left;
+}
+
+/* The shortlist has no heading to sit under and the page around it is centred,
+   so it centres too rather than hugging the left edge of a mostly empty row */
+.pathway-cards-featured {
+  justify-content: center;
+  margin-top: 28px;
 }
 
 /* The drawn frame wanders outside the box, so cards need room not to collide */
@@ -1404,34 +1465,6 @@ body {
   cursor: pointer;
 }
 
-/* Kind and field share one line, but they are not equals: the field is what
-   you scan the list by, so it is written in the hand and the kind is the aside */
-.pathway-tags {
-  display: flex;
-  align-items: baseline;
-  gap: 10px;
-}
-
-/* The word is written, not set: the hand font in its own case, so the tag reads
-   as a note left on the card rather than a status chip from a UI kit */
-.pathway-kind {
-  padding: 2px 10px 3px;
-  font-family: var(--hand-font);
-  font-size: 12px;
-  color: var(--muted);
-}
-
-/* Curated is opinion, so it wears the accent; official stays deliberately plain */
-.pathway-kind.kind-curated {
-  color: var(--accent);
-}
-
-.pathway-field {
-  font-family: var(--hand-font);
-  font-size: 16px;
-  color: var(--ink);
-}
-
 .pathway-title {
   font-family: var(--hand-font);
   font-size: 21px;
@@ -1444,44 +1477,63 @@ body {
   color: var(--ink);
 }
 
+/* The footer of the card: who taught it on the left, how much of it there is
+   on the right, pushed to the two corners */
 .pathway-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
   margin-top: auto;
   padding-top: 8px;
   font-size: 11px;
   color: var(--muted);
 }
 
-/* Marks sit in the meta line where the school names would have been, so they
-   read at the weight of the text beside them — wordmarks, for the same reason
-   the logo wall uses them: a square mark this small is a grey blob, and here
-   it is the only thing naming the school. They stay monochrome even on hover,
-   unlike the wall: at this size a brand colour is noise, and it would fight
-   the accent tint the card takes when you point at it. */
+.pathway-count {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Marks sit at the weight of the count across from them — wordmarks, for the
+   same reason the logo wall uses them: a square mark this small is a grey blob,
+   and here it is the only thing naming the school. Unlike the wall they are in
+   their own colours from the start, not on hover: a card names two or three
+   schools rather than twenty, so there is no row to even out. */
 .pathway-logos {
-  display: inline-flex;
+  display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 10px;
-  margin-left: 9px;
-  vertical-align: -3px;
+  min-width: 0;
 }
 
 .pathway-logo {
   height: 13px;
   width: auto;
   max-width: 84px;
-  opacity: 0.5;
-  filter: brightness(0);
-  transition: opacity 0.2s ease;
 }
 
-:root[data-theme='dark'] .pathway-logo {
-  opacity: 0.6;
-  filter: brightness(0) invert(1);
+/* The lifts the logo wall works out for its hovered marks, owed here for the
+   same reason: a mark drawn for paper in navy or near-black sinks into a dark
+   card. brightness() scales the channels rather than mixing in white, so the
+   colour brightens instead of fading. */
+:root[data-theme='dark'] .pathway-logo[src*='yale'],
+:root[data-theme='dark'] .pathway-logo[src*='uc-berkeley'],
+:root[data-theme='dark'] .pathway-logo[src*='santa-cruz'],
+:root[data-theme='dark'] .pathway-logo[src*='harvard'] {
+  filter: brightness(1.7);
 }
 
-.pathway-card:hover .pathway-logo,
-.pathway-card:focus-within .pathway-logo {
-  opacity: 0.9;
+:root[data-theme='dark'] .pathway-logo[src*='nyu'] {
+  filter: brightness(1.4);
+}
+
+/* ETH's wordmark is a single near-black shape that no lift rescues — the
+   brand's own reversed version is white, so invert to that. */
+:root[data-theme='dark'] .pathway-logo[src*='eth-zurich'] {
+  filter: invert(1);
 }
 
 /* Breadcrumb wordmark doubles as the way back to the landing */

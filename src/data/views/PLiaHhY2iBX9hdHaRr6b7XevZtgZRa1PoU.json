@@ -1,0 +1,39 @@
+{
+  "lectures": [
+    {
+      "id": "bxe2T-V8XRs",
+      "title": "Neural Networks Demystified [Part 1: Data and Architecture]",
+      "views": 831000
+    },
+    {
+      "id": "UJwK6jAStmg",
+      "title": "Neural Networks Demystified [Part 2: Forward Propagation]",
+      "views": 555000
+    },
+    {
+      "id": "5u0jaA3qAGk",
+      "title": "Neural Networks Demystified [Part 3: Gradient Descent]",
+      "views": 420000
+    },
+    {
+      "id": "GlcnxUlrtek",
+      "title": "Neural Networks Demystified [Part 4: Backpropagation]",
+      "views": 505000
+    },
+    {
+      "id": "pHMzNW8Agq4",
+      "title": "Neural Networks Demystified [Part 5: Numerical Gradient Checking]",
+      "views": 190000
+    },
+    {
+      "id": "9KM9Td6RVgQ",
+      "title": "Neural Networks Demystified [Part 6: Training]",
+      "views": 161000
+    },
+    {
+      "id": "S4ZUwgesjS8",
+      "title": "Neural Networks Demystified [Part 7: Overfitting, Testing, and Regularization]",
+      "views": 153000
+    }
+  ]
+}

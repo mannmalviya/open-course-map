@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "Va8WWRfw7Og",
+      "title": "L1/1 Logistics",
+      "views": 57000
+    },
+    {
+      "id": "p9tpTt6ZsLI",
+      "title": "L1/2 Deep Learning Overview",
+      "views": 15000
+    },
+    {
+      "id": "qouBvNDOi9o",
+      "title": "L1/3 Software",
+      "views": 10000
+    },
+    {
+      "id": "dtX8iQGQQkI",
+      "title": "L1/4 Linear Algebra",
+      "views": 11000
+    },
+    {
+      "id": "22_SnBBCYk4",
+      "title": "L1/5 Linear Algebra in Jupyter",
+      "views": 7800
+    },
+    {
+      "id": "N17ovGpUz3M",
+      "title": "L2/1 NDArrays",
+      "views": 5400
+    },
+    {
+      "id": "f_gP3KaeJV8",
+      "title": "L2/2 AWS EC2 Instances",
+      "views": 3800
+    },
+    {
+      "id": "clWLNb3-rps",
+      "title": "L2/3 Basic Probability",
+      "views": 5100
+    },
+    {
+      "id": "bVLXubD9wcI",
+      "title": "L2/4 Basic Probability Jupyter",
+      "views": 4300
+    },
+    {
+      "id": "rPcQcHZhWeE",
+      "title": "L2/5 Naive Bayes",
+      "views": 4200
+    },
+    {
+      "id": "OCyc0bCRVgE",
+      "title": "L2/6 Naive Bayes Jupyter",
+      "views": 5700
+    },
+    {
+      "id": "3XhUrZuxjMk",
+      "title": "L2/7 Sampling",
+      "views": 2900
+    },
+    {
+      "id": "zP9S8fqR6Eg",
+      "title": "L2/8 Sampling in Jupyter",
+      "views": 3800
+    },
+    {
+      "id": "50PMYG_l0Us",
+      "title": "L3/1 Setting up a GPU instance on AWS",
+      "views": 25000
+    },
+    {
+      "id": "RP0JScZG6gA",
+      "title": "L3/2 Automatic Differentiation",
+      "views": 6500
+    },
+    {
+      "id": "A4EwUUPc0fk",
+      "title": "L4/1 Linear Models",
+      "views": 2700
+    },
+    {
+      "id": "AKmrGw5rV8o",
+      "title": "L4/2 Very Basic Optimization",
+      "views": 2200
+    },
+    {
+      "id": "qDYZwfdJuwA",
+      "title": "L4/3 Linear Regression in Python",
+      "views": 2600
+    },
+    {
+      "id": "mijDNlie6ZE",
+      "title": "L4/4 Linear Regression in Gluon",
+      "views": 1400
+    },
+    {
+      "id": "a5Xqpuc_Rrc",
+      "title": "L5/1 Homework and Project Logistics",
+      "views": 1400
+    },
+    {
+      "id": "yH_xwGnW-ig",
+      "title": "L5/2 Maximum Likelihood and Maximum a Posteriori",
+      "views": 17000
+    },
+    {
+      "id": "oqeZRCpG15Q",
+      "title": "L5/3 Loss Functions",
+      "views": 2200
+    },
+    {
+      "id": "jhJwNpidiqM",
+      "title": "L5/4 Logistic Regression",
+      "views": 3400
+    },
+    {
+      "id": "VAU8yAhqJvg",
+      "title": "L5/5 Logistic Regression in Jupyter",
+      "views": 1300
+    },
+    {
+      "id": "Ggh3JPGQoxw",
+      "title": "L5/6 Information Theory",
+      "views": 2100
+    },
+    {
+      "id": "A6ZY1SXv0RY",
+      "title": "L5/7 Information Theory Recap",
+      "views": 1000
+    },
+    {
+      "id": "1e_EiTjypHU",
+      "title": "L5/8 Softmax Classification in Python",
+      "views": 5600
+    },
+    {
+      "id": "ox4pE1SJEt8",
+      "title": "L5/8b Softmax Classification in Python (Gluon version)",
+      "views": 968
+    },
+    {
+      "id": "taUP7hiEe6w",
+      "title": "L6/1 Perceptron Algorithm",
+      "views": 2400
+    },
+    {
+      "id": "sdW0MAPpkwQ",
+      "title": "L6/2 Multilayer Perceptron",
+      "views": 2000
+    },
+    {
+      "id": "HoUxqM98iPE",
+      "title": "L6/3 Perceptron in Jupyter",
+      "views": 2300
+    },
+    {
+      "id": "XCkzfOVoREI",
+      "title": "L7/1 Model Evaluation, Overfitting and Underfitting",
+      "views": 1700
+    },
+    {
+      "id": "byDDJ2aX5lw",
+      "title": "L7/2 Squared L2 Regularization",
+      "views": 1400
+    },
+    {
+      "id": "qD5RUHO84dU",
+      "title": "L7/3 Squared L2 Regularization in Jupyter",
+      "views": 1000
+    },
+    {
+      "id": "NhgkLXpZYj4",
+      "title": "L7/4 Dropout",
+      "views": 1400
+    },
+    {
+      "id": "p6s46XrHCFQ",
+      "title": "L7/5 Dropout in Jupyter",
+      "views": 1100
+    },
+    {
+      "id": "OWQNTURBdxw",
+      "title": "L8/1 Gradient Exploding and Vanishing",
+      "views": 2100
+    },
+    {
+      "id": "m1gt7nxbB2k",
+      "title": "L8/2 Stabilize Training - Weight Initialization",
+      "views": 1500
+    },
+    {
+      "id": "MbEUS06C0Eo",
+      "title": "L8/3 Stabilize Training - Activations",
+      "views": 841
+    },
+    {
+      "id": "Ed4Sk77qRgs",
+      "title": "L8/4 Numerical Stability Notebook",
+      "views": 961
+    },
+    {
+      "id": "IaVOBkCvSmo",
+      "title": "L8/5 Deep Learning Hardware",
+      "views": 1200
+    },
+    {
+      "id": "Fdgpe8StGb8",
+      "title": "L8/6 Advanced Deep Learning Hardware",
+      "views": 1100
+    },
+    {
+      "id": "0OgTLPsFOVY",
+      "title": "L9/1 Empirical and Expected Risk",
+      "views": 4500
+    },
+    {
+      "id": "xIHjPByUFCI",
+      "title": "L9/2 Covariate Shift",
+      "views": 3200
+    },
+    {
+      "id": "T0N0kVmJijY",
+      "title": "L9/3 Covariate Shift and Bias",
+      "views": 3900
+    },
+    {
+      "id": "385NBdgHv-E",
+      "title": "L9/4 Logistic Regression",
+      "views": 1100
+    },
+    {
+      "id": "24YZ_62Jn-o",
+      "title": "L9/5 Covariate Shift Correction",
+      "views": 2200
+    },
+    {
+      "id": "mMrrFxfmqgQ",
+      "title": "L9/7 Adversarial Data",
+      "views": 922
+    },
+    {
+      "id": "gX6YjBaARsA",
+      "title": "L9/8 Nonstationary Environment",
+      "views": 1000
+    },
+    {
+      "id": "nAqQF-jU_YM",
+      "title": "L9/6 Label Shift",
+      "views": 2000
+    },
+    {
+      "id": "gFKlojqWdlA",
+      "title": "L10/1 Deep Learning Frameworks, Gluon",
+      "views": 1400
+    },
+    {
+      "id": "fbWkfe5GN8s",
+      "title": "L10/2 Blocks and Layers",
+      "views": 907
+    },
+    {
+      "id": "Yyhai9sRng4",
+      "title": "L10/3 Managing Parameters",
+      "views": 603
+    },
+    {
+      "id": "ep2WpuYQxEs",
+      "title": "L10/4 Save and Load",
+      "views": 538
+    },
+    {
+      "id": "ECUuQMK7E64",
+      "title": "L10/5 Using GPUs",
+      "views": 780
+    },
+    {
+      "id": "cNbRPvyugDE",
+      "title": "L10/6 Customized Layers",
+      "views": 550
+    },
+    {
+      "id": "BwsduQg5HiM",
+      "title": "L10/7 Deferred Initialization",
+      "views": 536
+    },
+    {
+      "id": "o8jZHKviVAg",
+      "title": "L11/1 Logistics",
+      "views": 1100
+    },
+    {
+      "id": "Nf1BlOR8kVY",
+      "title": "L12/5 VGG",
+      "views": 13000
+    },
+    {
+      "id": "ssyW3VF263g",
+      "title": "L11/2 Convolutions",
+      "views": 2600
+    },
+    {
+      "id": "XXiEr5M2LTg",
+      "title": "L11/3 Convolutions in Python",
+      "views": 1900
+    },
+    {
+      "id": "L24TH84fJPE",
+      "title": "L11/4 Padding and Stride",
+      "views": 2300
+    },
+    {
+      "id": "Za6lkNg1_xY",
+      "title": "L11/5 Padding and Stride in Python",
+      "views": 2100
+    },
+    {
+      "id": "sJkeB1KWVLM",
+      "title": "L11/6 Channels",
+      "views": 977
+    },
+    {
+      "id": "f3MYMcFYVkc",
+      "title": "L11/7 Channels in Python",
+      "views": 742
+    },
+    {
+      "id": "9cUzow1nnN0",
+      "title": "L11/8 Pooling",
+      "views": 1000
+    },
+    {
+      "id": "_kf64He8Npc",
+      "title": "L11/9 Pooling in Python",
+      "views": 1700
+    },
+    {
+      "id": "m3BrTjo2zUA",
+      "title": "L12/1 LeNet",
+      "views": 19000
+    },
+    {
+      "id": "L40sFs_-W_o",
+      "title": "L12/2 LeNet in Python",
+      "views": 2600
+    },
+    {
+      "id": "OAW1e0WPmkM",
+      "title": "L12/3 AlexNet",
+      "views": 3300
+    },
+    {
+      "id": "0Up4L6A97Gw",
+      "title": "L12/4 AlexNet in Python",
+      "views": 7800
+    },
+    {
+      "id": "gZvukUGKr2k",
+      "title": "L12/6 VGG in Python",
+      "views": 1700
+    },
+    {
+      "id": "bBwEnMGcOiA",
+      "title": "L12/7 Network in Network (NiN)",
+      "views": 3800
+    },
+    {
+      "id": "hV_a6jJIDLE",
+      "title": "L12/8 Network in Network (NiN) in Python",
+      "views": 950
+    },
+    {
+      "id": "jikAvn68mYY",
+      "title": "L13/1 Inception (GoogLeNet)",
+      "views": 8400
+    },
+    {
+      "id": "OikGdX8eB_o",
+      "title": "L13/2 Inception in Python",
+      "views": 1100
+    },
+    {
+      "id": "xSic5Pst7AI",
+      "title": "L13/3 Batch Normalization",
+      "views": 1700
+    },
+    {
+      "id": "I316iG-3yZs",
+      "title": "L13/4 Batch Normalization in Python",
+      "views": 2200
+    },
+    {
+      "id": "lugkZaFj4x8",
+      "title": "L13/5 ResNet (Residual Networks)",
+      "views": 23000
+    },
+    {
+      "id": "yYCR7lvpCMQ",
+      "title": "L13/6 ResNet in Python",
+      "views": 2000
+    },
+    {
+      "id": "xTZOyd3qNGE",
+      "title": "L13/7 Beyound ResNet",
+      "views": 1800
+    },
+    {
+      "id": "b91B89tRepA",
+      "title": "L13/8 DenseNet in Python",
+      "views": 4300
+    },
+    {
+      "id": "CsQQM9PaRWg",
+      "title": "L14/1 Midterm Logistics",
+      "views": 676
+    },
+    {
+      "id": "TCoklVdJ6WA",
+      "title": "L14/2 Hybridization (Just in Time Compilation)",
+      "views": 736
+    },
+    {
+      "id": "XLw1mmugcEQ",
+      "title": "L14/3 Hybridization in Python",
+      "views": 662
+    },
+    {
+      "id": "1GkJMDKdTcE",
+      "title": "L14/6 Multi-GPU Training in Python",
+      "views": 5200
+    },
+    {
+      "id": "fagsHGq8DBg",
+      "title": "L14/7 Multi-Machine Training",
+      "views": 634
+    },
+    {
+      "id": "d-rCZCHXNBo",
+      "title": "L15/1 Image Augmentation",
+      "views": 1000
+    },
+    {
+      "id": "MhZ0MXhNNBY",
+      "title": "L15/2 Fine Tuning",
+      "views": 814
+    },
+    {
+      "id": "bzdQ1zC7PTM",
+      "title": "L15/3 Fine Tuning in Python",
+      "views": 723
+    },
+    {
+      "id": "cJzjj4cdhq0",
+      "title": "L15/4 Style Transfer",
+      "views": 850
+    },
+    {
+      "id": "9Hc4A2M35SI",
+      "title": "L15/5 Style Transfer in Python",
+      "views": 774
+    },
+    {
+      "id": "LXxg0AjD3ig",
+      "title": "L16/1 Object Detection",
+      "views": 2200
+    },
+    {
+      "id": "_EphrR1vyt0",
+      "title": "L16/2 Bounding and Anchor Boxes",
+      "views": 18000
+    },
+    {
+      "id": "X_dTy0NAsIA",
+      "title": "L16/3 Object Detection Dataset",
+      "views": 1300
+    },
+    {
+      "id": "P1lbqM4an4Y",
+      "title": "L16/4 Region-based CNNs",
+      "views": 1700
+    },
+    {
+      "id": "mpfZFyisKGA",
+      "title": "L16/5 SSD and YOLO",
+      "views": 12000
+    },
+    {
+      "id": "QxfF_NrltxY",
+      "title": "L16/6 Bag of Tricks for CNN Training",
+      "views": 1600
+    },
+    {
+      "id": "9AJtUCFFxPk",
+      "title": "L16/7 SSD in Python",
+      "views": 2600
+    },
+    {
+      "id": "3lDQuGrMmZI",
+      "title": "L18/1 Dependent Random Variables",
+      "views": 1400
+    }
+  ]
+}

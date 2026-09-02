@@ -3,47 +3,47 @@
     {
       "id": "BWvjy0a1Ffg",
       "title": "Lecture 1: Introduction to Real Numbers",
-      "views": 265000
+      "views": 269000
     },
     {
       "id": "6i6sV8WIzLc",
       "title": "Lecture 2: Introduction to Real Numbers (cont.)",
-      "views": 34000
+      "views": 35000
     },
     {
       "id": "QJ96fO8Eef4",
       "title": "Lecture 3: How to Write a Proof; Archimedean Property",
-      "views": 19000
+      "views": 20000
     },
     {
       "id": "PzeCGelnheE",
       "title": "Lecture 4: Sequences; Convergence",
-      "views": 13000
+      "views": 14000
     },
     {
       "id": "EjXtpzysDL4",
       "title": "Lecture 5: Monotone Convergence Theorem",
-      "views": 8300
+      "views": 8500
     },
     {
       "id": "WCCpss6udNs",
       "title": "Lecture 6: Cauchy Convergence Theorem",
-      "views": 6400
+      "views": 6600
     },
     {
       "id": "qeDewaJ4n24",
       "title": "Lecture 7: Bolzano–Weierstrass Theorem; Cauchy Sequences; Series",
-      "views": 6200
+      "views": 6400
     },
     {
       "id": "lEMeyFq4-zQ",
       "title": "Lecture 8: Convergence Tests for Series; Power Series",
-      "views": 4300
+      "views": 4400
     },
     {
       "id": "MjRb8R33Ucc",
       "title": "Lecture 9: Limsup and Liminf; Power Series; Continuous Functions; Exponential Function",
-      "views": 4100
+      "views": 4200
     },
     {
       "id": "1qHVpGA_qfs",
@@ -58,7 +58,7 @@
     {
       "id": "r_AGxxITsbQ",
       "title": "Review for 18.100B Real Analysis Midterm",
-      "views": 2500
+      "views": 2600
     },
     {
       "id": "VZnB3dGdHP4",
@@ -68,12 +68,12 @@
     {
       "id": "og-zyMIa5Dc",
       "title": "Lecture 13: Open and Closed Sets; Coverings; Compactness",
-      "views": 3100
+      "views": 3200
     },
     {
       "id": "eGKpOd_0oSY",
       "title": "Lecture 14: Sequential Compactness; Bolzano–Weierstrass Theorem in a Metric Space",
-      "views": 2300
+      "views": 2400
     },
     {
       "id": "UP--RL-YKhE",
@@ -83,7 +83,7 @@
     {
       "id": "v9lcA7lwLlo",
       "title": "Lecture 16: Rolle’s Theorem; Mean Theorem; L’Hôpital’s Rule; Taylor Expansion",
-      "views": 2900
+      "views": 3000
     },
     {
       "id": "yG4bJnFT5-o",
@@ -93,17 +93,17 @@
     {
       "id": "9rG-bs0TFQ8",
       "title": "Lecture 18: Integrable Functions",
-      "views": 3600
+      "views": 3700
     },
     {
       "id": "_tZ102Wi0hE",
       "title": "Lecture 19: Fundamental Theorem of Calculus",
-      "views": 2600
+      "views": 2700
     },
     {
       "id": "ISVOH18BIHM",
       "title": "Lecture 20: Pointwise Convergence; Uniform Convergence",
-      "views": 2200
+      "views": 2300
     },
     {
       "id": "_4m8hYQ3cR0",
@@ -113,17 +113,17 @@
     {
       "id": "EDUMN4s44YU",
       "title": "Lecture 22: Differentiating and Integrating Power Series; Ordinary Differential Equations (ODEs)",
-      "views": 2200
+      "views": 2300
     },
     {
       "id": "fsbVJxOhRcU",
       "title": "Lecture 23: Existence & Uniqueness for ODEs: Picard–Lindelöf Theorem",
-      "views": 5100
+      "views": 5200
     },
     {
       "id": "75PZmUc0TK0",
       "title": "Review for the 18.100B Real Analysis Final Exam",
-      "views": 6800
+      "views": 6900
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "lectures": [
+    {
+      "id": "COXAsO3iw8c",
+      "title": "Fabrication",
+      "views": 1700
+    },
+    {
+      "id": "TslsukBEm-8",
+      "title": "Directional Fields",
+      "views": 1700
+    },
+    {
+      "id": "PWlo7PvtQVw",
+      "title": "Surface Reconstruction",
+      "views": 19000
+    },
+    {
+      "id": "pgomVDoEMrc",
+      "title": "Machine Learning Meets Geometry",
+      "views": 6900
+    },
+    {
+      "id": "oAxe7DdlXwg",
+      "title": "Shape Correspondence and Functional Maps",
+      "views": 7500
+    },
+    {
+      "id": "hsYRSUW-FGA",
+      "title": "Hands-on LibiGL Tutorial",
+      "views": 9700
+    },
+    {
+      "id": "g0nY5VM1PSU",
+      "title": "Conformal Geometry Processing",
+      "views": 12000
+    }
+  ]
+}

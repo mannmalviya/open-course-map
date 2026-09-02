@@ -1,0 +1,419 @@
+{
+  "lectures": [
+    {
+      "id": "CfzO4IEMVUk",
+      "title": "1.1 - Intro and Outline of A Brief Introduction to Causal Inference",
+      "views": 101000
+    },
+    {
+      "id": "zeuW1Z2EtLs",
+      "title": "1.2 - Motivating Example: Simpson’s Paradox",
+      "views": 46000
+    },
+    {
+      "id": "DFPm_a-_uJM",
+      "title": "1.3 - Correlation Does Not Imply Causation and Why",
+      "views": 37000
+    },
+    {
+      "id": "gGaWU8XEoGk",
+      "title": "1.4 - What Does Imply Causation? Randomized Control Trials",
+      "views": 30000
+    },
+    {
+      "id": "MrZDBsS7hG4",
+      "title": "1.5 - Causation in Observational Studies",
+      "views": 30000
+    },
+    {
+      "id": "xj-tzrm5Src",
+      "title": "1.6 - Course Information (Introduction to Causal Inference)",
+      "views": 22000
+    },
+    {
+      "id": "q8x9aetyok0",
+      "title": "2.1 - What are Potential Outcomes?",
+      "views": 32000
+    },
+    {
+      "id": "RGvI0uVMgtw",
+      "title": "2.2 - The Fundamental Problem of Causal Inference",
+      "views": 25000
+    },
+    {
+      "id": "Gmw_H7Sad20",
+      "title": "2.3 - Association is Not Causation and Why",
+      "views": 20000
+    },
+    {
+      "id": "eg-bFhNKbnY",
+      "title": "2.4 - Ignorability / Exchangeability",
+      "views": 23000
+    },
+    {
+      "id": "40jjX5RVi7k",
+      "title": "2.5 - Identifiability and Randomized Controls Trials",
+      "views": 18000
+    },
+    {
+      "id": "FFjL5Hkeap4",
+      "title": "2.6 - Conditional Exchangeability and the Adjustment Formula",
+      "views": 18000
+    },
+    {
+      "id": "4xc8VkrF98w",
+      "title": "2.7 - Positivity/Overlap and Extrapolation",
+      "views": 16000
+    },
+    {
+      "id": "3t4HPI8Gmto",
+      "title": "2.8 - No Interference and Consistency",
+      "views": 12000
+    },
+    {
+      "id": "yDtpMJGcNbU",
+      "title": "2.9 - Tying It All Together",
+      "views": 10000
+    },
+    {
+      "id": "aeOp8LJuzDw",
+      "title": "2.10 - Estimands, Estimates, and the Identification-Estimation Flowchart",
+      "views": 12000
+    },
+    {
+      "id": "IRV0OeV8H0g",
+      "title": "2.11 - A Complete Example with Estimation",
+      "views": 14000
+    },
+    {
+      "id": "Go4EkHN_PcA",
+      "title": "3.1 - Graphical Models (Intro and Outline)",
+      "views": 14000
+    },
+    {
+      "id": "BY2DfBrOi-Q",
+      "title": "3.2 - Graph Terminology",
+      "views": 11000
+    },
+    {
+      "id": "M3CTjtN4LqM",
+      "title": "3.3 - Bayesian Networks",
+      "views": 18000
+    },
+    {
+      "id": "vjvP9oRgZyM",
+      "title": "3.4 - Causal Graphs",
+      "views": 11000
+    },
+    {
+      "id": "FU3tpumBYgU",
+      "title": "3.5 - Graphical Building Blocks",
+      "views": 10000
+    },
+    {
+      "id": "Q9CAtMpuWCA",
+      "title": "3.6 - Chains and Forks",
+      "views": 11000
+    },
+    {
+      "id": "5xIujBzwi7E",
+      "title": "3.7 - Immoralities",
+      "views": 11000
+    },
+    {
+      "id": "yIwTzdwVz0Q",
+      "title": "3.8 - Blocked Paths and d-separation",
+      "views": 23000
+    },
+    {
+      "id": "6QLEyK5SPDM",
+      "title": "3.9 - The Flow of Association and Causation in Graphs",
+      "views": 9500
+    },
+    {
+      "id": "dB8r4Afmobo",
+      "title": "4.1 - The Identification Estimation Flowchart and Lecture Intro/Outline",
+      "views": 12000
+    },
+    {
+      "id": "U8t2PsN4hIc",
+      "title": "4.2 - Intervening, the do-operator, and Identifiability",
+      "views": 14000
+    },
+    {
+      "id": "avu20ZscuQQ",
+      "title": "4.3 - Causal Mechanisms and the Modularity Assumption",
+      "views": 12000
+    },
+    {
+      "id": "_gcmY5ukbWM",
+      "title": "4.4 - The Truncated Factorization",
+      "views": 10000
+    },
+    {
+      "id": "oa3el0sWREo",
+      "title": "4.5 - Another Perspective on “Association is not Causation”",
+      "views": 8900
+    },
+    {
+      "id": "U1S8Rq8IcrY",
+      "title": "4.6 - The Backdoor Adjustment",
+      "views": 27000
+    },
+    {
+      "id": "dQeRqb0N6gs",
+      "title": "4.7 - Structural Causal Models SCMs",
+      "views": 16000
+    },
+    {
+      "id": "f-7AgoMlrnE",
+      "title": "4.8 - Interventions and Modularity in SCMs",
+      "views": 8000
+    },
+    {
+      "id": "2woFOEp8ksU",
+      "title": "4.9 - M-Bias and Conditioning on Descendants of Treatment",
+      "views": 8800
+    },
+    {
+      "id": "fCOH980snx8",
+      "title": "4.10 - A Complete Graphical Example with Estimation",
+      "views": 7800
+    },
+    {
+      "id": "z91LnTDyhtI",
+      "title": "5.1 - Randomized Experiments and Identification (Intro and Outline)",
+      "views": 8500
+    },
+    {
+      "id": "kgbRoHfb6SI",
+      "title": "5.2 - The Magic of Randomized Experiments",
+      "views": 7600
+    },
+    {
+      "id": "-kWocwaXqlk",
+      "title": "5.3 - The Frontdoor Adjustment",
+      "views": 15000
+    },
+    {
+      "id": "M-mF6bXlxHI",
+      "title": "5.4 - Pearl’s do-calculus",
+      "views": 24000
+    },
+    {
+      "id": "QdAJEbW7CpI",
+      "title": "5.5 - Determining Identifiability from the Graph",
+      "views": 7600
+    },
+    {
+      "id": "YzcOYU-s2t4",
+      "title": "6.1 - CATE Preliminaries and Outline",
+      "views": 8600
+    },
+    {
+      "id": "-0-RYxQ0zqM",
+      "title": "6.2 - Conditional Outcome Modeling",
+      "views": 7200
+    },
+    {
+      "id": "88WHWv5QSWs",
+      "title": "6.3 - TARNet and X-Learner",
+      "views": 7600
+    },
+    {
+      "id": "YQDMlNIQSA8",
+      "title": "6.4 - Propensity Scores and Inverse Probability Weighting (IPW)",
+      "views": 39000
+    },
+    {
+      "id": "zQk13PVYMUs",
+      "title": "6.5 - Doubly Robust Methods, Matching, Double Machine Learning, and Causal Trees",
+      "views": 20000
+    },
+    {
+      "id": "IXNMYqUsBBQ",
+      "title": "7.1 - Unobserved Confounding, Bounds Intro, and Lecture Outline",
+      "views": 6300
+    },
+    {
+      "id": "B9IBd21CnS8",
+      "title": "7.2 - No-Assumptions Bound and Observational-Counterfactual Decomposition",
+      "views": 4100
+    },
+    {
+      "id": "cFrgcw4RGLM",
+      "title": "7.3 - Monotone Treatment Response and Monotone Treatment Selection",
+      "views": 3400
+    },
+    {
+      "id": "RfnT8bOdqfE",
+      "title": "7.4 - Optimal Treatment Selection",
+      "views": 3000
+    },
+    {
+      "id": "MEqcel5PO4M",
+      "title": "7.5 - Sensitivity Analysis Basics",
+      "views": 4800
+    },
+    {
+      "id": "_-mfyjAVQ9o",
+      "title": "7.6 - More Flexible Sensitivity Analysis",
+      "views": 2900
+    },
+    {
+      "id": "Mco16tUSA-U",
+      "title": "8.1 - Instrumental Variables, Motivation, Definition, and Outline",
+      "views": 5200
+    },
+    {
+      "id": "yegXaz-ZhBY",
+      "title": "8.2 - No Nonparametric Identification of the ATE with Instruments",
+      "views": 3100
+    },
+    {
+      "id": "JPDDVd9CSKY",
+      "title": "8.3 - Identification in Linear Setting",
+      "views": 3100
+    },
+    {
+      "id": "jQIVjA6uBcU",
+      "title": "8.4 - Nonparametric Identification of the Local ATE (LATE)",
+      "views": 4800
+    },
+    {
+      "id": "0k9gqb8WwnQ",
+      "title": "8.5 - Instrumental Variables in More General Settings",
+      "views": 2100
+    },
+    {
+      "id": "tT8xLRS_cRQ",
+      "title": "9.1 - Difference-in-Differences Motivation and Preliminaries",
+      "views": 4500
+    },
+    {
+      "id": "tqnhW1tanAQ",
+      "title": "9.2 - Difference-in-Differences Overview",
+      "views": 6700
+    },
+    {
+      "id": "tsYZcpuQYnE",
+      "title": "9.3 - Difference-in-Differences Assumptions and Proof",
+      "views": 6700
+    },
+    {
+      "id": "JNQy9v_nVxc",
+      "title": "9.4 - Problems with Difference-in-Differences",
+      "views": 2600
+    },
+    {
+      "id": "lVE-4deFe7c",
+      "title": "10.1 - Causal Discovery Motivation and Outline",
+      "views": 6000
+    },
+    {
+      "id": "frC8xsl9h7s",
+      "title": "10.2 - Assumptions for Independence-Based Causal Discovery",
+      "views": 5800
+    },
+    {
+      "id": "nnjKCtdORwY",
+      "title": "10.3 - Markov Equivalence and Graphical Criterion",
+      "views": 7700
+    },
+    {
+      "id": "o2A61bJ0UCw",
+      "title": "10.4 - The PC Algorithm for Causal Discovery",
+      "views": 21000
+    },
+    {
+      "id": "HvNVGAJcz9s",
+      "title": "10.5 - Impossibility Results for Independence-Based and Nonparametric Causal Discovery",
+      "views": 3300
+    },
+    {
+      "id": "VZz8xB-QrFQ",
+      "title": "10.6 - Linear Non-Gaussian Setting for Causal Discovery",
+      "views": 3700
+    },
+    {
+      "id": "B6cCqUJgpms",
+      "title": "10.7 - Nonlinear Additive Noise Setting for Causal Discovery",
+      "views": 2800
+    },
+    {
+      "id": "de2ODel8F1k",
+      "title": "11.1 - Causal Discovery from Interventions - Motivation and Outline",
+      "views": 3400
+    },
+    {
+      "id": "g6ukGZTiWfg",
+      "title": "11.2 - Causal Discovery from Interventions in Two-Variable Setting",
+      "views": 2600
+    },
+    {
+      "id": "d5MPCRnYncQ",
+      "title": "11.3 - Worst Case for Interventional Causal Discovery and Three-Variable Setting",
+      "views": 1900
+    },
+    {
+      "id": "yX2ONvUFVy0",
+      "title": "11.4 - Number of Interventions to Identify Causal Graphs",
+      "views": 2000
+    },
+    {
+      "id": "HXpiCa0Snh8",
+      "title": "11.5 - Multi-Node Interventions for Causal Discovery",
+      "views": 1400
+    },
+    {
+      "id": "yUCZZBF5jII",
+      "title": "11.6 - Parametric Interventions for Causal Discovery",
+      "views": 1700
+    },
+    {
+      "id": "NeHPjOX8SNM",
+      "title": "11.7 - Interventional Markov Equivalence",
+      "views": 1800
+    },
+    {
+      "id": "uX-vPQkEfLI",
+      "title": "11.8 - Causal Discovery from Interventions in Other Settings",
+      "views": 1300
+    },
+    {
+      "id": "JNq4oCV9C5k",
+      "title": "12.1 - Transfer Learning, Domain Generalization, and Covariate Shift",
+      "views": 5800
+    },
+    {
+      "id": "c6smaJFUsfY",
+      "title": "12.2 - Causal Insights for Transfer Learning",
+      "views": 3300
+    },
+    {
+      "id": "GRx7ubCUEeQ",
+      "title": "12.3 - Transportability of Causal Effects Across Populations",
+      "views": 3100
+    },
+    {
+      "id": "rKZJ0TJWvTk",
+      "title": "Yoshua Bengio Guest Talk - Towards Causal Representation Learning",
+      "views": 35000
+    },
+    {
+      "id": "f8PEpthLlN4",
+      "title": "14.1 - Counterfactuals",
+      "views": 13000
+    },
+    {
+      "id": "wuYda40rqgo",
+      "title": "14.2 - Computing Counterfactuals",
+      "views": 8000
+    },
+    {
+      "id": "cxHNZW-y2yM",
+      "title": "14.3 - Mediation",
+      "views": 6600
+    }
+  ]
+}

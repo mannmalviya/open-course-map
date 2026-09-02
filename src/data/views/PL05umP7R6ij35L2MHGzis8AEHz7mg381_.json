@@ -1,0 +1,234 @@
+{
+  "lectures": [
+    {
+      "id": "YW1cIaOBkI8",
+      "title": "Computer Vision - Lecture 1.1 (Introduction: Organization)",
+      "views": 59000
+    },
+    {
+      "id": "mQgjfvjjW3Q",
+      "title": "Computer Vision - Lecture 1.2 (Introduction: Introduction)",
+      "views": 33000
+    },
+    {
+      "id": "hCewSTTOt_4",
+      "title": "Computer Vision - Lecture 1.3 (Introduction: History of Computer Vision)",
+      "views": 25000
+    },
+    {
+      "id": "D4wpa-prk4I",
+      "title": "Computer Vision - Lecture 2.1 (Image Formation: Primitives and Transformations)",
+      "views": 43000
+    },
+    {
+      "id": "NIaICLR7D0Q",
+      "title": "Computer Vision - Lecture 2.2 (Image Formation: Geometric Image Formation)",
+      "views": 23000
+    },
+    {
+      "id": "NEPRihfI8-c",
+      "title": "Computer Vision - Lecture 2.3 (Image Formation: Photometric Image Formation)",
+      "views": 16000
+    },
+    {
+      "id": "bVSV3XZ1Jrs",
+      "title": "Computer Vision - Lecture 2.4 (Image Formation: Image Sensing Pipeline)",
+      "views": 12000
+    },
+    {
+      "id": "nrIHi1-a85s",
+      "title": "Computer Vision - Lecture 3.1 (Structure-from-Motion: Preliminaries)",
+      "views": 20000
+    },
+    {
+      "id": "nwTVNpF8SMg",
+      "title": "Computer Vision - Lecture 3.2 (Structure-from-Motion: Two-frame Structure-from-Motion)",
+      "views": 17000
+    },
+    {
+      "id": "Ti9uotyHOKM",
+      "title": "Computer Vision - Lecture 3.3 (Structure-from-Motion: Factorization)",
+      "views": 10000
+    },
+    {
+      "id": "MyrVDUnaqUs",
+      "title": "Computer Vision - Lecture 3.4 (Structure-from-Motion: Bundle Adjustment)",
+      "views": 19000
+    },
+    {
+      "id": "6hr6xpOU-uw",
+      "title": "Computer Vision - Lecture 4.1 (Stereo Reconstruction: Preliminaries)",
+      "views": 13000
+    },
+    {
+      "id": "EVzEJQl8WFk",
+      "title": "Computer Vision - Lecture 4.2 (Stereo Reconstruction: Block Matching)",
+      "views": 12000
+    },
+    {
+      "id": "vLgsiIXNf0I",
+      "title": "Computer Vision - Lecture 4.3 (Stereo Reconstruction: Siamese Networks)",
+      "views": 6200
+    },
+    {
+      "id": "gqz6R1qChVQ",
+      "title": "Computer Vision - Lecture 4.4 (Stereo Reconstruction: Spatial Regularization)",
+      "views": 5200
+    },
+    {
+      "id": "9vrmwZ9Pl4o",
+      "title": "Computer Vision - Lecture 4.5 (Stereo Reconstruction: End-to-End Learning)",
+      "views": 5700
+    },
+    {
+      "id": "hi_6hwIW7nE",
+      "title": "Computer Vision - Lecture 5.1 (Probabilistic Graphical Models: Structured Prediction)",
+      "views": 7200
+    },
+    {
+      "id": "O0EZ1W8nRTo",
+      "title": "Computer Vision - Lecture 5.2 (Probabilistic Graphical Models: Markov Random Fields)",
+      "views": 12000
+    },
+    {
+      "id": "6ci8jDarG-s",
+      "title": "Computer Vision - Lecture 5.3 (Probabilistic Graphical Models: Factor Graphs)",
+      "views": 4700
+    },
+    {
+      "id": "cJlAzzXZPFw",
+      "title": "Computer Vision - Lecture 5.4 (Probabilistic Graphical Models: Belief Propagation)",
+      "views": 5400
+    },
+    {
+      "id": "6yIA4BwKN88",
+      "title": "Computer Vision - Lecture 5.5 (Probabilistic Graphical Models: Examples)",
+      "views": 3600
+    },
+    {
+      "id": "VV9Eg--iEk8",
+      "title": "Computer Vision - Lecture 6.1 (Applications of Graphical Models: Stereo Reconstruction)",
+      "views": 4600
+    },
+    {
+      "id": "fW8WHFf9qoc",
+      "title": "Computer Vision - Lecture 6.2 (Applications of Graphical Models: Multi-View Reconstruction)",
+      "views": 3900
+    },
+    {
+      "id": "1GkKEKBN9vo",
+      "title": "Computer Vision - Lecture 6.3 (Applications of Graphical Models: Optical Flow)",
+      "views": 5600
+    },
+    {
+      "id": "9Ke0nmtpnfI",
+      "title": "Computer Vision - Lecture 7.1 (Learning in Graphical Models: Conditional Random Fields)",
+      "views": 4700
+    },
+    {
+      "id": "1HXeJLNaPyA",
+      "title": "Computer Vision - Lecture 7.2 (Learning in Graphical Models: Parameter Estimation)",
+      "views": 2900
+    },
+    {
+      "id": "NMGBTVSyZfs",
+      "title": "Computer Vision - Lecture 7.3 (Learning in Graphical Models: Deep Structured Models)",
+      "views": 2600
+    },
+    {
+      "id": "YQ5QOiyoF9U",
+      "title": "Computer Vision - Lecture 8.1 (Shape-from-X: Shape-from-Shading)",
+      "views": 7600
+    },
+    {
+      "id": "J0k47CtLwTI",
+      "title": "Computer Vision - Lecture 8.2 (Shape-from-X: Photometric Stereo)",
+      "views": 5000
+    },
+    {
+      "id": "5o--byukZtw",
+      "title": "Computer Vision - Lecture 8.3 (Shape-from-X: Shape-from-X)",
+      "views": 3600
+    },
+    {
+      "id": "B2BTSKcYqtQ",
+      "title": "Computer Vision - Lecture 8.4 (Shape-from-X: Volumetric Fusion)",
+      "views": 5700
+    },
+    {
+      "id": "r6n3tZJoTdI",
+      "title": "Computer Vision - Lecture 9.1 (Coordinate-based Networks: Implicit Neural Representations)",
+      "views": 9500
+    },
+    {
+      "id": "3e64ILZBJUs",
+      "title": "Computer Vision - Lecture 9.2 (Coordinate-based Networks: Differentiable Volumetric Rendering)",
+      "views": 5400
+    },
+    {
+      "id": "5RD3octCnwk",
+      "title": "Computer Vision - Lecture 9.3 (Coordinate-based Networks: Neural Radiance Fields)",
+      "views": 4500
+    },
+    {
+      "id": "X9I7IQ8Wp5A",
+      "title": "Computer Vision - Lecture 9.4 (Coordinate-based Networks: Generative Radiance Fields)",
+      "views": 3600
+    },
+    {
+      "id": "n79Z6Zj1vqs",
+      "title": "Computer Vision - Lecture 10.1 (Recognition: Image Classification)",
+      "views": 5000
+    },
+    {
+      "id": "NhSujgDL918",
+      "title": "Computer Vision - Lecture 10.2 (Recognition: Semantic Segmentation)",
+      "views": 3400
+    },
+    {
+      "id": "bXSvNCS56Uk",
+      "title": "Computer Vision - Lecture 10.3 (Recognition: Object Detection and Segmentation)",
+      "views": 5800
+    },
+    {
+      "id": "j97fdXLKlQ8",
+      "title": "Computer Vision - Lecture 11.1 (Self-Supervised Learning: Preliminaries)",
+      "views": 4400
+    },
+    {
+      "id": "utmRR6dKOOg",
+      "title": "Computer Vision - Lecture 11.2 (Self-Supervised Learning: Task-specific Models)",
+      "views": 3200
+    },
+    {
+      "id": "fscXVkTJjFg",
+      "title": "Computer Vision - Lecture 11.3 (Self-Supervised Learning: Pretext Tasks)",
+      "views": 4000
+    },
+    {
+      "id": "jlIjeZMf_HU",
+      "title": "Computer Vision - Lecture 11.4 (Self-Supervised Learning: Contrastive Learning)",
+      "views": 5600
+    },
+    {
+      "id": "RSUy80gWM74",
+      "title": "Computer Vision - Lecture 12.1 (Diverse Topics in Computer Vision: Input Optimization)",
+      "views": 3700
+    },
+    {
+      "id": "8eoY3nmFpRQ",
+      "title": "Computer Vision - Lecture 12.2 (Diverse Topics in Computer Vision: Compositional Models)",
+      "views": 3100
+    },
+    {
+      "id": "xLQUusO567Y",
+      "title": "Computer Vision - Lecture 12.3 (Diverse Topics in Computer Vision: Human Body Models)",
+      "views": 3800
+    },
+    {
+      "id": "fYS2ASWMJKk",
+      "title": "Computer Vision - Lecture 12.4 (Diverse Topics in Computer Vision: Deepfakes)",
+      "views": 3900
+    }
+  ]
+}

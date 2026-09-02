@@ -1,0 +1,504 @@
+{
+  "lectures": [
+    {
+      "id": "yDLKJtOVx5c",
+      "title": "(ML 1.1) Machine learning - overview and applications",
+      "views": 390000
+    },
+    {
+      "id": "WpxK__SK2a0",
+      "title": "(ML 1.2) What is supervised learning?",
+      "views": 107000
+    },
+    {
+      "id": "lANt56UOaSk",
+      "title": "(ML 1.3) What is unsupervised learning?",
+      "views": 81000
+    },
+    {
+      "id": "pytUuJPOnVI",
+      "title": "(ML 1.4) Variations on supervised and unsupervised",
+      "views": 50000
+    },
+    {
+      "id": "oTtow2Ui8vg",
+      "title": "(ML 1.5) Generative vs discriminative models",
+      "views": 92000
+    },
+    {
+      "id": "4ObVzTuFivY",
+      "title": "(ML 1.6) k-Nearest Neighbor classification algorithm",
+      "views": 238000
+    },
+    {
+      "id": "p17C9q2M00Q",
+      "title": "(ML 2.1) Classification trees (CART)",
+      "views": 146000
+    },
+    {
+      "id": "zvUOpbgtW3c",
+      "title": "(ML 2.2) Regression trees (CART)",
+      "views": 112000
+    },
+    {
+      "id": "_RxqyvRK0Rw",
+      "title": "(ML 2.3) Growing a regression tree (CART)",
+      "views": 61000
+    },
+    {
+      "id": "S51plSJBC2g",
+      "title": "(ML 2.4) Growing a classification tree (CART)",
+      "views": 37000
+    },
+    {
+      "id": "UMtBWQ2m04g",
+      "title": "(ML 2.5) Generalizations for trees (CART)",
+      "views": 35000
+    },
+    {
+      "id": "5Lu1eTiX7qM",
+      "title": "(ML 2.6) Bootstrap aggregation (Bagging)",
+      "views": 68000
+    },
+    {
+      "id": "JM4Y0B6Ho90",
+      "title": "(ML 2.7) Bagging for classification",
+      "views": 30000
+    },
+    {
+      "id": "o7iDkcpOr_g",
+      "title": "(ML 2.8) Random forests",
+      "views": 75000
+    },
+    {
+      "id": "KYRAO8f5rXA",
+      "title": "(ML 3.1) Decision theory (Basic Framework)",
+      "views": 56000
+    },
+    {
+      "id": "NC_cTB1PHyQ",
+      "title": "(ML 3.2) Minimizing conditional expected loss",
+      "views": 25000
+    },
+    {
+      "id": "--nMFiqwoZA",
+      "title": "(ML 3.3) Choosing f to minimize expected loss",
+      "views": 19000
+    },
+    {
+      "id": "AihhnWyl-J0",
+      "title": "(ML 3.4) Square loss",
+      "views": 17000
+    },
+    {
+      "id": "frbX2JH-_Aw",
+      "title": "(ML 3.5) The Big Picture (part 1)",
+      "views": 19000
+    },
+    {
+      "id": "Ih4R42qPRWo",
+      "title": "(ML 3.6) The Big Picture (part 2)",
+      "views": 12000
+    },
+    {
+      "id": "VP3DxMxXw3Q",
+      "title": "(ML 3.7) The Big Picture (part 3)",
+      "views": 11000
+    },
+    {
+      "id": "aHwsEXCk4HA",
+      "title": "(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1)",
+      "views": 212000
+    },
+    {
+      "id": "2vkm5ZIRsJU",
+      "title": "(ML 4.2) Maximum Likelihood Estimation (MLE) (part 2)",
+      "views": 56000
+    },
+    {
+      "id": "XtUNwVrWnPM",
+      "title": "(ML 4.3) MLE for univariate Gaussian mean",
+      "views": 44000
+    },
+    {
+      "id": "Ux77m6ujZCc",
+      "title": "(ML 4.4) MLE for a PMF on a finite set (part 1)",
+      "views": 25000
+    },
+    {
+      "id": "Ynn-m1eb5iU",
+      "title": "(ML 4.5) MLE for a PMF on a finite set (part 2)",
+      "views": 14000
+    },
+    {
+      "id": "_aNk4QKi2_o",
+      "title": "(ML 5.1) Exponential families (part 1)",
+      "views": 45000
+    },
+    {
+      "id": "Jc-gVN8tQC8",
+      "title": "(ML 5.2) Exponential families (part 2)",
+      "views": 17000
+    },
+    {
+      "id": "LcbwmT1OAKo",
+      "title": "(ML 5.3) MLE for an exponential family (part 1)",
+      "views": 24000
+    },
+    {
+      "id": "7EyKEtN-PJA",
+      "title": "(ML 5.4) MLE for an exponential family (part 2)",
+      "views": 13000
+    },
+    {
+      "id": "kkhdIriddSI",
+      "title": "(ML 6.1) Maximum a posteriori (MAP) estimation",
+      "views": 190000
+    },
+    {
+      "id": "KogqeZ_88-g",
+      "title": "(ML 6.2) MAP for univariate Gaussian mean",
+      "views": 43000
+    },
+    {
+      "id": "SFQK57G5VF8",
+      "title": "(ML 6.3) Interpretation of MAP as convex combination",
+      "views": 14000
+    },
+    {
+      "id": "0LQmZXCWMFI",
+      "title": "(ML 7.1) Bayesian inference - A simple example",
+      "views": 130000
+    },
+    {
+      "id": "hMerhyG1JFs",
+      "title": "(ML 7.2) Aspects of Bayesian inference",
+      "views": 22000
+    },
+    {
+      "id": "VBOt7EoPL9M",
+      "title": "(ML 7.3) Proportionality",
+      "views": 10000
+    },
+    {
+      "id": "zXNB2vzKKIQ",
+      "title": "(ML 7.4) Conjugate priors",
+      "views": 21000
+    },
+    {
+      "id": "qpNAXnmy0GU",
+      "title": "(ML 7.5) Beta-Bernoulli model (part 1)",
+      "views": 28000
+    },
+    {
+      "id": "Rk6wMLuiNqI",
+      "title": "(ML 7.6) Beta-Bernoulli model (part 2)",
+      "views": 12000
+    },
+    {
+      "id": "nfBNOWv1pgE",
+      "title": "(ML 7.7.A1) Dirichlet distribution",
+      "views": 105000
+    },
+    {
+      "id": "emnfq4txDuI",
+      "title": "(ML 7.7.A2) Expectation of a Dirichlet random variable",
+      "views": 16000
+    },
+    {
+      "id": "UDVNyAp3T38",
+      "title": "(ML 7.7) Dirichlet-Categorical model (part 1)",
+      "views": 24000
+    },
+    {
+      "id": "igyptP5KMew",
+      "title": "(ML 7.8) Dirichlet-Categorical model (part 2)",
+      "views": 9100
+    },
+    {
+      "id": "SD-b50m1Zqo",
+      "title": "(ML 7.9) Posterior distribution for univariate Gaussian (part 1)",
+      "views": 19000
+    },
+    {
+      "id": "4aZrH1NoQ8o",
+      "title": "(ML 7.10) Posterior distribution for univariate Gaussian (part 2)",
+      "views": 11000
+    },
+    {
+      "id": "8yvBqhm92xA",
+      "title": "(ML 8.1) Naive Bayes classification",
+      "views": 77000
+    },
+    {
+      "id": "qX7n53NWYI4",
+      "title": "(ML 8.2) More about Naive Bayes",
+      "views": 15000
+    },
+    {
+      "id": "CW9YGii1nSA",
+      "title": "(ML 8.3) Bayesian Naive Bayes (part 1)",
+      "views": 15000
+    },
+    {
+      "id": "p96ojC75p5M",
+      "title": "(ML 8.4) Bayesian Naive Bayes (part 2)",
+      "views": 9200
+    },
+    {
+      "id": "LEFt2WzBUD4",
+      "title": "(ML 8.5) Bayesian Naive Bayes (part 3)",
+      "views": 6800
+    },
+    {
+      "id": "dBUeoruhYTk",
+      "title": "(ML 8.6) Bayesian Naive Bayes (part 4)",
+      "views": 6400
+    },
+    {
+      "id": "rVviNyIR-fI",
+      "title": "(ML 9.1) Linear regression - Nonlinearity via basis functions",
+      "views": 34000
+    },
+    {
+      "id": "kdAGH6mtNAM",
+      "title": "(ML 9.2) Linear regression - Definition & Motivation",
+      "views": 14000
+    },
+    {
+      "id": "15rYk2izYlY",
+      "title": "(ML 9.3) Choosing f under linear regression",
+      "views": 9600
+    },
+    {
+      "id": "ulZW99jsMXY",
+      "title": "(ML 9.4) MLE for linear regression (part 1)",
+      "views": 48000
+    },
+    {
+      "id": "n5QZL1B8FaE",
+      "title": "(ML 9.5) MLE for linear regression (part 2)",
+      "views": 18000
+    },
+    {
+      "id": "3djOlw_iVbg",
+      "title": "(ML 9.6) MLE for linear regression (part 3)",
+      "views": 12000
+    },
+    {
+      "id": "HJSNb4GyiE8",
+      "title": "(ML 9.7) Basis functions MLE",
+      "views": 10000
+    },
+    {
+      "id": "dtkGq9tdYcI",
+      "title": "(ML 10.1) Bayesian Linear Regression",
+      "views": 91000
+    },
+    {
+      "id": "nrd4AnDLR3U",
+      "title": "(ML 10.2) Posterior for linear regression (part 1)",
+      "views": 47000
+    },
+    {
+      "id": "qz2U8coNwV4",
+      "title": "(ML 10.3) Posterior for linear regression (part 2)",
+      "views": 25000
+    },
+    {
+      "id": "xyuSiKXttxw",
+      "title": "(ML 10.4) Predictive distribution for linear regression (part 1)",
+      "views": 24000
+    },
+    {
+      "id": "vTcsacTqlfQ",
+      "title": "(ML 10.5) Predictive distribution for linear regression (part 2)",
+      "views": 14000
+    },
+    {
+      "id": "LCISTY9S6SQ",
+      "title": "(ML 10.6) Predictive distribution for linear regression (part 3)",
+      "views": 12000
+    },
+    {
+      "id": "g5BjTQghNf8",
+      "title": "(ML 10.7) Predictive distribution for linear regression (part 4)",
+      "views": 10000
+    },
+    {
+      "id": "6GhSiM0frIk",
+      "title": "(ML 11.1) Estimators",
+      "views": 86000
+    },
+    {
+      "id": "5SPm4TmYTX0",
+      "title": "(ML 11.2) Decision theory terminology in different contexts",
+      "views": 9100
+    },
+    {
+      "id": "b1GxZdFN6cY",
+      "title": "(ML 11.3) Frequentist risk, Bayesian expected loss, and Bayes risk",
+      "views": 33000
+    },
+    {
+      "id": "WdnP1gmb8Hw",
+      "title": "(ML 11.4) Choosing a decision rule - Bayesian and frequentist",
+      "views": 10000
+    },
+    {
+      "id": "C3nIFH649wY",
+      "title": "(ML 11.5) Bias-Variance decomposition",
+      "views": 51000
+    },
+    {
+      "id": "Ow7xMTF2BfQ",
+      "title": "(ML 11.6) Inadmissibility",
+      "views": 6900
+    },
+    {
+      "id": "6-3x_b6Im9M",
+      "title": "(ML 11.7) A fun exercise on inadmissibility",
+      "views": 4000
+    },
+    {
+      "id": "y9lueF5-nEg",
+      "title": "(ML 11.8) Bayesian decision theory",
+      "views": 39000
+    },
+    {
+      "id": "rW0B8o7JtFk",
+      "title": "(ML 12.1) Model selection - introduction and examples",
+      "views": 21000
+    },
+    {
+      "id": "W0NLs-A6hhQ",
+      "title": "(ML 12.2) Bias-variance in model selection",
+      "views": 24000
+    },
+    {
+      "id": "cK08YC5aj3U",
+      "title": "(ML 12.3) Model complexity parameters",
+      "views": 6600
+    },
+    {
+      "id": "1CFof6hU3cI",
+      "title": "(ML 12.4) Bayesian model selection",
+      "views": 26000
+    },
+    {
+      "id": "m5StqDv-YlM",
+      "title": "(ML 12.5) Cross-validation (part 1)",
+      "views": 32000
+    },
+    {
+      "id": "OcJwdF8zBjM",
+      "title": "(ML 12.6) Cross-validation (part 2)",
+      "views": 14000
+    },
+    {
+      "id": "mvbBycl8BNM",
+      "title": "(ML 12.7) Cross-validation (part 3)",
+      "views": 8500
+    },
+    {
+      "id": "jkhyJ9R_UTY",
+      "title": "(ML 12.8) Other approaches to model selection",
+      "views": 25000
+    },
+    {
+      "id": "3XysEf3IQN4",
+      "title": "(ML 13.1) Directed graphical models - introductory examples (part 1)",
+      "views": 27000
+    },
+    {
+      "id": "A7Ypw5d9580",
+      "title": "(ML 13.2) Directed graphical models - introductory examples (part 2)",
+      "views": 12000
+    },
+    {
+      "id": "do8_7bW__3k",
+      "title": "(ML 13.3) Directed graphical models - formalism (part 1)",
+      "views": 12000
+    },
+    {
+      "id": "GDQYVbu1CDw",
+      "title": "(ML 13.4) Directed graphical models - formalism (part 2)",
+      "views": 9700
+    },
+    {
+      "id": "2jB5x_q3oX0",
+      "title": "(ML 13.5) Generative process specification",
+      "views": 9300
+    },
+    {
+      "id": "X2sjH7tGI4s",
+      "title": "(ML 13.6) Graphical model for Bayesian linear regression",
+      "views": 14000
+    },
+    {
+      "id": "w6siVHrf2Ho",
+      "title": "(ML 13.7) Graphical model for Bayesian Naive Bayes",
+      "views": 9700
+    },
+    {
+      "id": "2RQQTEy1ugs",
+      "title": "(ML 13.8) Conditional independence in graphical models - basic examples (part 1)",
+      "views": 38000
+    },
+    {
+      "id": "_3kZBBS2_dQ",
+      "title": "(ML 13.9) Conditional independence in graphical models - basic examples (part 2)",
+      "views": 18000
+    },
+    {
+      "id": "IjoWqnH6HmU",
+      "title": "(ML 13.10) D-separation (part 1)",
+      "views": 32000
+    },
+    {
+      "id": "zJIK5uOyJi0",
+      "title": "(ML 13.11) D-separation (part 2)",
+      "views": 16000
+    },
+    {
+      "id": "aA-gTNxy1rw",
+      "title": "(ML 13.12) How to use D-separation - illustrative examples (part 1)",
+      "views": 41000
+    },
+    {
+      "id": "8PfJHrydxV0",
+      "title": "(ML 13.13) How to use D-separation - illustrative examples (part 2)",
+      "views": 16000
+    },
+    {
+      "id": "7KGdE2AK_MQ",
+      "title": "(ML 14.1) Markov models - motivating examples",
+      "views": 120000
+    },
+    {
+      "id": "WUjt98HcHlk",
+      "title": "(ML 14.2) Markov chains (discrete-time) (part 1)",
+      "views": 87000
+    },
+    {
+      "id": "j6OUj9tleVM",
+      "title": "(ML 14.3) Markov chains (discrete-time) (part 2)",
+      "views": 39000
+    },
+    {
+      "id": "TPRoLreU9lA",
+      "title": "(ML 14.4) Hidden Markov models (HMMs) (part 1)",
+      "views": 274000
+    },
+    {
+      "id": "M_IIW0VYMEA",
+      "title": "(ML 14.5) Hidden Markov models (HMMs) (part 2)",
+      "views": 104000
+    },
+    {
+      "id": "7zDARfKVm7s",
+      "title": "(ML 14.6) Forward-Backward algorithm for HMMs",
+      "views": 183000
+    }
+  ]
+}

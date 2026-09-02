@@ -70,6 +70,44 @@
           "primary": true
         }
       ]
+    },
+    "rpi-eng-probability": {
+      "title": "Engineering Probability",
+      "university": "RPI",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "RPI · Radke · 2018",
+          "url": "https://www.youtube.com/playlist?list=PLuh62Q4Sv7BU1dN2G6ncyiMbML7OXh_Jx",
+          "youtube": "https://www.youtube.com/playlist?list=PLuh62Q4Sv7BU1dN2G6ncyiMbML7OXh_Jx",
+          "date": "2018",
+          "youtubeId": "sa_ibR7Cqug",
+          "primary": true
+        }
+      ]
+    },
+    "tubingen-neuro-stats": {
+      "title": "Statistics for Neuro",
+      "university": "Tübingen",
+      "level": "grad",
+      "pos": {
+        "x": 350,
+        "y": 360
+      },
+      "versions": [
+        {
+          "label": "Tübingen · Berens · 2020",
+          "url": "https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT",
+          "youtube": "https://www.youtube.com/playlist?list=PL05umP7R6ij0Gw5SLIrOA1dMYScCx4oXT",
+          "date": "2020",
+          "youtubeId": "Pmi_wSqIqDs",
+          "primary": true
+        }
+      ]
     }
   }
 }

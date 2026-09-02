@@ -59,6 +59,13 @@
           "youtubeId": "rmVRLeJRkl4"
         },
         {
+          "label": "Stanford CS224N · Manning · Winter 2021",
+          "url": "https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
+          "date": "Winter 2021",
+          "youtubeId": "rmVRLeJRkl4"
+        },
+        {
           "label": "Stanford CS224N · Winter 2019",
           "url": "https://web.stanford.edu/class/cs224n/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z",
@@ -101,6 +108,139 @@
           "youtube": "https://www.youtube.com/playlist?list=PLQrCiUDqDLG0lQX54o9jB4phJ-SLI6ZBQ",
           "date": "Fall 2020",
           "youtubeId": "DuYkqCQEbpo",
+          "primary": true
+        }
+      ]
+    },
+    "stanford-cs224u": {
+      "title": "CS224U Lang Understanding",
+      "university": "Stanford",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS224U · MacCartney, Potts · 2019",
+          "url": "https://web.stanford.edu/class/cs224u",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20",
+          "date": "Spring 2019",
+          "youtubeId": "tZ_Jrc_nRJY",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-11747": {
+      "title": "11-747 Neural Nets for NLP",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "CMU 11-747 · Neubig · 2021",
+          "url": "http://www.phontron.com/class/nn4nlp2021",
+          "youtube": "https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV",
+          "date": "2021",
+          "youtubeId": "vnx6M7N-ggs",
+          "primary": true
+        }
+      ]
+    },
+    "oxford-deepmind-nlp": {
+      "title": "Oxford DL for NLP",
+      "university": "Oxford",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Oxford · DeepMind · 2017",
+          "url": "http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/",
+          "youtube": "https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm",
+          "date": "2017",
+          "youtubeId": "RP3tZFcC2e8",
+          "primary": true
+        }
+      ]
+    },
+    "maryland-cmsc723": {
+      "title": "Computational Linguistics",
+      "university": "Maryland",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Maryland CMSC 723 · Boyd-Graber",
+          "url": "http://users.umiacs.umd.edu/~jbg/teaching/CMSC_723/",
+          "youtube": "https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i",
+          "date": "2013–2018",
+          "youtubeId": "fdAC4ALCCLA",
+          "primary": true
+        }
+      ]
+    },
+    "umass-cs685": {
+      "title": "CS685 Advanced NLP",
+      "university": "UMass Amherst",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UMass CS685 · Iyyer · 2020",
+          "url": "https://people.cs.umass.edu/~miyyer/cs685",
+          "youtube": "https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL",
+          "date": "Fall 2020",
+          "youtubeId": "TEEAz-Sn15c",
+          "primary": true
+        }
+      ]
+    },
+    "nyu-dl4nlp": {
+      "title": "NYU DL for NLP",
+      "university": "NYU",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "NYU · Cho · 2018",
+          "url": "https://drive.google.com/drive/folders/1ykXBtophaY_65VHK_8yDzZQJwfJDD5Ve",
+          "youtube": "https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf",
+          "date": "Fall 2018",
+          "youtubeId": "vtYaPESzZj4",
+          "primary": true
+        }
+      ]
+    },
+    "nus-dl4nlp": {
+      "title": "NUS DL for NLP",
+      "university": "NUS",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "NUS · Kan · 2018",
+          "url": "https://www.comp.nus.edu.sg/~kanmy/courses/6101_1810/",
+          "youtube": "https://www.youtube.com/playlist?list=PLllwxvcS7ca5eD44KTCiT7Rmu_hFAafXB",
+          "date": "2018",
+          "youtubeId": "-MEt9Y4idpU",
           "primary": true
         }
       ]

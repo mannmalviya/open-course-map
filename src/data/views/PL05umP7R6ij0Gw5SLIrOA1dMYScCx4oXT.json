@@ -1,0 +1,84 @@
+{
+  "lectures": [
+    {
+      "id": "Pmi_wSqIqDs",
+      "title": "01 Introduction",
+      "views": 12000
+    },
+    {
+      "id": "3R1FDNvY7RY",
+      "title": "02 Basic Concepts",
+      "views": 4200
+    },
+    {
+      "id": "jheXMDSniPg",
+      "title": "03 Summary Statistics",
+      "views": 2300
+    },
+    {
+      "id": "eVXlsPg8Huc",
+      "title": "04 Probability and Distributions",
+      "views": 2100
+    },
+    {
+      "id": "98gd--JgCa0",
+      "title": "05 The normal distribution",
+      "views": 1400
+    },
+    {
+      "id": "3Ldxuq_4BTY",
+      "title": "06 Statistical Inference",
+      "views": 2400
+    },
+    {
+      "id": "MaOAe_lgU5o",
+      "title": "07 Confidence Intervals",
+      "views": 1400
+    },
+    {
+      "id": "UI78YImE4D8",
+      "title": "08 Two sample t test",
+      "views": 1200
+    },
+    {
+      "id": "KzOXx7stzW4",
+      "title": "09 Wilcoxon",
+      "views": 750
+    },
+    {
+      "id": "L2K7ow8mVis",
+      "title": "10 Tests for paired samples",
+      "views": 618
+    },
+    {
+      "id": "Zs4s-XV8AMg",
+      "title": "12 ANOVA",
+      "views": 1400
+    },
+    {
+      "id": "0JQDRpleyMI",
+      "title": "13 Post hoc testing",
+      "views": 618
+    },
+    {
+      "id": "Alkr0fL-xL4",
+      "title": "14 Correlation coefficient",
+      "views": 821
+    },
+    {
+      "id": "jP1lztujT0o",
+      "title": "15 Linear Regression",
+      "views": 1000
+    },
+    {
+      "id": "w8-L5GJr1oo",
+      "title": "16 Analyzing dichtotomous data I",
+      "views": 724
+    },
+    {
+      "id": "BT4evf-uAd8",
+      "title": "17 Analyzing dichtotomous data II",
+      "views": 497
+    }
+  ]
+}

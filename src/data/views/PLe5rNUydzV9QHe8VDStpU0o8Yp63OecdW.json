@@ -1,0 +1,154 @@
+{
+  "lectures": [
+    {
+      "id": "wA8UMzhGv7o",
+      "title": "[DeepBayes2019]: Day 1, Opening remarks",
+      "views": 15000
+    },
+    {
+      "id": "SPgRVzfnESQ",
+      "title": "[DeepBayes2019]: Day 1, Lecture 1. Introduction to Bayesian methods",
+      "views": 13000
+    },
+    {
+      "id": "YvM1IRKBVgk",
+      "title": "[DeepBayes2019]: Day 1, Practical session 2. Bayesian reasoning",
+      "views": 5300
+    },
+    {
+      "id": "xH1mBw3tb_c",
+      "title": "[DeepBayes2019]: Day 1, Lecture 3. Variational inference",
+      "views": 14000
+    },
+    {
+      "id": "Iflv4beOu3Q",
+      "title": "[DeepBayes2019]: Day 1, Lecture 4. Latent variable models and EM-algorithm",
+      "views": 5700
+    },
+    {
+      "id": "CRXrDO0vFls",
+      "title": "[DeepBayes2019]: Day 1, practical session 5. Approximate Bayesian inference",
+      "views": 2700
+    },
+    {
+      "id": "tjT4Wf86FMM",
+      "title": "[DeepBayes2019]: Day 2, Lecture 1. Stochastic variational inference and variational autoencoders",
+      "views": 7800
+    },
+    {
+      "id": "3MhSNduBwMw",
+      "title": "[DeepBayes2019]: Day 2, practical session 2. Variational autoencoders",
+      "views": 2100
+    },
+    {
+      "id": "UF4gYuJWGko",
+      "title": "[DeepBayes2019]: Day 2, Lecture 3. Discrete variable models",
+      "views": 1600
+    },
+    {
+      "id": "8_AXApe382s",
+      "title": "[DeepBayes2019]: Day 2, practical session 4. Discrete variable models",
+      "views": 681
+    },
+    {
+      "id": "8dvbY7yCa6Y",
+      "title": "[DeepBayes2019]: Day 2, Keynote Lecture 5. Fair machine learning",
+      "views": 1000
+    },
+    {
+      "id": "T4UuL7U5asA",
+      "title": "[DeepBayes2019]: Day 3, Lecture 1. Generative adversarial networks",
+      "views": 1400
+    },
+    {
+      "id": "bFIufyOxVwU",
+      "title": "[DeepBayes2019]: Day 3, Practical session 2. Generative adversarial networks",
+      "views": 558
+    },
+    {
+      "id": "v4gp1dMvWJo",
+      "title": "[DeepBayes2019]: Day 3, Lecture 3. Normalizing flows",
+      "views": 4900
+    },
+    {
+      "id": "xQP6t-a6er0",
+      "title": "[DeepBayes2019]: Day 3, Practical session 4. Normalizing flows",
+      "views": 856
+    },
+    {
+      "id": "x-fJAtMijME",
+      "title": "[DeepBayes2019]: Day 4, Lecture 1. Gaussian processes and Bayesian optimization",
+      "views": 3900
+    },
+    {
+      "id": "yjBMRpF7iKE",
+      "title": "[DeepBayes2019]: Day 4, Practical session 2. Gaussian processes and Bayesian optimization",
+      "views": 1600
+    },
+    {
+      "id": "750fRY9-uq8",
+      "title": "[DeepBayes2019]: Day 4, Keynote Lecture 3. Deep Gaussian processes",
+      "views": 5300
+    },
+    {
+      "id": "CxdUIhzmy1A",
+      "title": "[DeepBayes2019]: Day 4, Keynote Lecture 4. Adaptive skip-gram model",
+      "views": 743
+    },
+    {
+      "id": "rLxNZ4gyqx8",
+      "title": "[DeepBayes2019]: Day 4, Practical session 5. Adaptive skip-gram model",
+      "views": 341
+    },
+    {
+      "id": "X8vYS0oLgL4",
+      "title": "[DeepBayes2019]: Day 5, Sponsor talk",
+      "views": 472
+    },
+    {
+      "id": "Q_Bi2H9NKzc",
+      "title": "[DeepBayes2019]: Day 5, Lecture 1. Markov Chain Monte Carlo",
+      "views": 2100
+    },
+    {
+      "id": "B9KhzxuP8ek",
+      "title": "[DeepBayes2019]: Day 5, Practical session 2. Markov Chain Monte Carlo",
+      "views": 665
+    },
+    {
+      "id": "3-KzIjoFJy4",
+      "title": "[DeepBayes2019]: Day 5, Lecture 3. Langevin dynamics for sampling and global optimization",
+      "views": 18000
+    },
+    {
+      "id": "LIfel_gR1vI",
+      "title": "[DeepBayes2019]: Day 5, Lecture 4. Variational inference with implicit and semi-implicit models",
+      "views": 1600
+    },
+    {
+      "id": "DFdqafS4iN4",
+      "title": "[DeepBayes2019]: Day 6, Lecture 1. Bayesian neural networks",
+      "views": 7800
+    },
+    {
+      "id": "GnnO4CKY_jI",
+      "title": "[DeepBayes2019]: Day 6, Practical session 2. Sparsification of deep neural networks",
+      "views": 642
+    },
+    {
+      "id": "P4WUl7TDdLo",
+      "title": "[DeepBayes2019]: Day 6, Keynote Lecture 3. Uncertainty estimation in supervised learning",
+      "views": 4900
+    },
+    {
+      "id": "37wntPh_24Y",
+      "title": "[DeepBayes2019]: Day 6, Lecture 4. Loss surfaces",
+      "views": 754
+    },
+    {
+      "id": "noH_4TcI1JQ",
+      "title": "[DeepBayes2019]: Day 6, Closing remarks",
+      "views": 337
+    }
+  ]
+}

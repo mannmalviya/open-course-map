@@ -1,0 +1,199 @@
+{
+  "lectures": [
+    {
+      "id": "cXSdPdhH4RI",
+      "title": "Intro to the course Event-based Robot Vision (2020.04.21) at TU Berlin",
+      "views": 4200
+    },
+    {
+      "id": "MPWBkq6M17k",
+      "title": "How to acquire visual information?",
+      "views": 2200
+    },
+    {
+      "id": "2tLGNFlS7bM",
+      "title": "Frame- vs Event-based cameras - the curious case of the spinning dot",
+      "views": 3400
+    },
+    {
+      "id": "lQCPCNDo22s",
+      "title": "Event cameras: Bio-inspired motivation - the visual pathways",
+      "views": 1800
+    },
+    {
+      "id": "sz0Ongbh8bU",
+      "title": "Event cameras: Sampling in time vs in range",
+      "views": 1800
+    },
+    {
+      "id": "B5Wp2G0r6hU",
+      "title": "Event cameras: High Dynamic Range (HDR)",
+      "views": 2000
+    },
+    {
+      "id": "jxcG3jboXto",
+      "title": "Event camera companies and devices (2020.04.27)",
+      "views": 1600
+    },
+    {
+      "id": "0DKatczR6jE",
+      "title": "Event-based cameras: Advantages, Disadvantages and Challenges",
+      "views": 2000
+    },
+    {
+      "id": "EoEx6K0BkAI",
+      "title": "Three main event camera designs",
+      "views": 2200
+    },
+    {
+      "id": "CysnFwFetpM",
+      "title": "Color event cameras",
+      "views": 1500
+    },
+    {
+      "id": "btWzsTmuwbU",
+      "title": "Event-based Data Representation",
+      "views": 2400
+    },
+    {
+      "id": "-t0Wl57fYvU",
+      "title": "Methods of Event Processing",
+      "views": 2200
+    },
+    {
+      "id": "gx6bnjPRVJ8",
+      "title": "Event Generation Models",
+      "views": 1700
+    },
+    {
+      "id": "wnAztT9kEaQ",
+      "title": "Image Reconstruction from events - Direct Integration",
+      "views": 1200
+    },
+    {
+      "id": "1HnRXD4bMkk",
+      "title": "Image Reconstruction - Timeline",
+      "views": 961
+    },
+    {
+      "id": "DV_PYRGDT1E",
+      "title": "Image Reconstruction Methods 2011-2014",
+      "views": 966
+    },
+    {
+      "id": "KhqQWCkW20I",
+      "title": "Image Reconstruction Methods 2016-2017",
+      "views": 805
+    },
+    {
+      "id": "TvnJlHKRZJ8",
+      "title": "Image Reconstruction Methods 2018 - 2020.05",
+      "views": 837
+    },
+    {
+      "id": "Ptptz3th4VM",
+      "title": "Image Reconstruction - Discussion",
+      "views": 812
+    },
+    {
+      "id": "dcTLhPbhrcI",
+      "title": "Image reconstruction - Case Study BMVC 2014",
+      "views": 1300
+    },
+    {
+      "id": "TmVT2qh7Zzg",
+      "title": "Tracking blobs of events. Ingredients of the per-event processing paradigm",
+      "views": 1100
+    },
+    {
+      "id": "CijdnYnZaI0",
+      "title": "Tracking user-defined shapes with point sets",
+      "views": 764
+    },
+    {
+      "id": "XAS-31R5q3I",
+      "title": "Feature Detection and Tracking with a DAVIS",
+      "views": 1200
+    },
+    {
+      "id": "b0cioGpukNM",
+      "title": "Tracking motion-compensated event features",
+      "views": 835
+    },
+    {
+      "id": "D8QkySQZMic",
+      "title": "Data Association and EKLT tracker",
+      "views": 780
+    },
+    {
+      "id": "r24zASmDsMY",
+      "title": "Comparison of five event-based feature trackers",
+      "views": 642
+    },
+    {
+      "id": "6rgam4X4i3k",
+      "title": "Introduction to optical flow",
+      "views": 1800
+    },
+    {
+      "id": "muCjq6YNjoY",
+      "title": "Optical Flow: Frame-based vs Event-based",
+      "views": 1000
+    },
+    {
+      "id": "_24__c7N1YE",
+      "title": "Event-based Optical Flow: model-based methods",
+      "views": 2100
+    },
+    {
+      "id": "KyHYJMU8Y7o",
+      "title": "Event-based Optical Flow: learning-based methods and comparison",
+      "views": 1100
+    },
+    {
+      "id": "_ksxzPwhE_Y",
+      "title": "Exercise 3: setting up the event visualizer (dvs_displayer)",
+      "views": 1100
+    },
+    {
+      "id": "BNwFeG4CSE4",
+      "title": "Exercise 4: event integrator (ordinary or \"direct\" integrator)",
+      "views": 1100
+    },
+    {
+      "id": "4u-I9LNW4gw",
+      "title": "Exercise 4: event integrator (\"leaky\" integrator)",
+      "views": 1200
+    },
+    {
+      "id": "gXZNpP5Fz2w",
+      "title": "Exercise 5: result of spatial convolutions on synthetic event data",
+      "views": 647
+    },
+    {
+      "id": "ZR9KKXeUKkw",
+      "title": "Exercise 5: result of spatial convolutions on real event data (slider_depth sequence)",
+      "views": 452
+    },
+    {
+      "id": "wZYJ4589LNc",
+      "title": "Exercise 5: result of spatial convolutions on real event data (bicycle sequence)",
+      "views": 532
+    },
+    {
+      "id": "bPsMyLcc_0M",
+      "title": "Exercise 6: global optical flow estimation using contrast maximization on slider_far sequence",
+      "views": 1500
+    },
+    {
+      "id": "vk84RHCsG6g",
+      "title": "Exercise 7: panoramic image reconstruction with a rotating event camera (i.e., Mosaicing)",
+      "views": 629
+    },
+    {
+      "id": "yihfRjuU2Qs",
+      "title": "Exercise 7: panoramic image reconstruction with a rotating event camera (Mosaicing)",
+      "views": 970
+    }
+  ]
+}

@@ -18,7 +18,7 @@
       },
       "versions": [
         {
-          "label": "Stanford EE364A \u00b7 Boyd \u00b7 2023",
+          "label": "Stanford EE364A · Boyd · 2023",
           "url": "https://web.stanford.edu/class/ee364a/",
           "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h",
           "date": "2023",
@@ -26,7 +26,7 @@
           "primary": true
         },
         {
-          "label": "Stanford EE364A \u00b7 Boyd \u00b7 2008",
+          "label": "Stanford EE364A · Boyd · 2008",
           "url": "https://web.stanford.edu/class/ee364a/",
           "youtube": "https://www.youtube.com/playlist?list=PL3940DD956CDF0622",
           "date": "2008",
@@ -52,11 +52,208 @@
       },
       "versions": [
         {
-          "label": "Stanford EE364B \u00b7 Boyd \u00b7 2008",
+          "label": "Stanford EE364B · Boyd · 2008",
           "url": "https://web.stanford.edu/class/ee364b/",
           "youtube": "https://www.youtube.com/playlist?list=PLKqPM_AcQY4w6C4PudrDqRLK-i3uYu1oO",
           "date": "2008",
           "youtubeId": "U3lJAObbMFI",
+          "primary": true
+        }
+      ]
+    },
+    "iisc-numerical-opt": {
+      "title": "Numerical Optimization",
+      "university": "IISc",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "IISc · Shevade · 2015",
+          "url": "https://www.youtube.com/playlist?list=PL6EA0722B99332589",
+          "youtube": "https://www.youtube.com/playlist?list=PL6EA0722B99332589",
+          "date": "2015",
+          "youtubeId": "biwjg9tpOvM",
+          "primary": true
+        }
+      ]
+    },
+    "cmu-10725": {
+      "title": "10-725 Convex Optimization",
+      "university": "CMU",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "CMU 10-725 · Tibshirani, Peña · 2016",
+          "url": "https://www.stat.cmu.edu/~ryantibs/convexopt-F16",
+          "youtube": "https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC",
+          "date": "Fall 2016",
+          "youtubeId": "XFKBNJ14UmY",
+          "primary": true
+        },
+        {
+          "label": "CMU 10-725 · Gordon, Tibshirani · 2012",
+          "url": "https://www.cs.cmu.edu/~ggordon/10725-F12/",
+          "youtube": "https://www.youtube.com/playlist?list=PL7y-1rk2cCsDOv91McLOnV4kExFfTB7dU",
+          "date": "Fall 2012",
+          "youtubeId": "9hToSoZXM9s"
+        }
+      ]
+    },
+    "uclouvain-nesterov": {
+      "title": "Modern Algorithmic Optim.",
+      "university": "UCLouvain",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UCLouvain · Nesterov · 2018",
+          "url": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf",
+          "youtube": "https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf",
+          "date": "2018",
+          "youtubeId": "0gbp_9VQE54",
+          "primary": true
+        }
+      ]
+    },
+    "utaustin-combinatorial": {
+      "title": "Combinatorial Optimization",
+      "university": "UT Austin",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UT Austin · Caramanis · 2020",
+          "url": "https://caramanis.github.io/teaching/",
+          "youtube": "https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL",
+          "date": "Fall 2020",
+          "youtubeId": "G27vjNQUoh4",
+          "primary": true
+        }
+      ]
+    },
+    "utaustin-cvxopt2": {
+      "title": "UT Convex Optimization II",
+      "university": "UT Austin",
+      "level": "grad",
+      "pos": {
+        "x": 80,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "UT Austin · Caramanis · 2020",
+          "url": "http://users.ece.utexas.edu/~cmcaram/constantine_caramanis/Announcements.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc",
+          "date": "Spring 2020",
+          "youtubeId": "ee-HYD6kKqM",
+          "primary": true
+        }
+      ]
+    },
+    "iitk-foundations-opt": {
+      "title": "Foundations of Optim.",
+      "university": "IIT Kanpur",
+      "level": "grad",
+      "pos": {
+        "x": 430,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IIT Kanpur · Dutta · 2014",
+          "url": "https://nptel.ac.in/courses/111/104/111104071",
+          "youtube": "https://www.youtube.com/playlist?list=PLbMVogVj5nJRRbofh3Qm3P6_NVyevDGD_",
+          "date": "2014",
+          "youtubeId": "D9dePGFZgSQ",
+          "primary": true
+        }
+      ]
+    },
+    "kit-opt-methods": {
+      "title": "Optimization for ML & Eng",
+      "university": "KIT",
+      "level": "grad",
+      "pos": {
+        "x": 780,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "KIT · Pfrommer, Beyerer",
+          "url": "https://ies.iar.kit.edu/lehre_1487.php",
+          "youtube": "https://www.youtube.com/playlist?list=PLdkTDauaUnQpzuOCZyUUZc0lxf4-PXNR5",
+          "date": "2020",
+          "youtubeId": "4_jiFQXPAsw",
+          "primary": true
+        }
+      ]
+    },
+    "iitk-convex-opt": {
+      "title": "NPTEL Convex Optimization",
+      "university": "IIT Kanpur",
+      "level": "grad",
+      "pos": {
+        "x": 1130,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "IIT Kanpur · Dutta · 2013",
+          "url": "https://nptel.ac.in/courses/111/104/111104068",
+          "youtube": "https://www.youtube.com/playlist?list=PLbMVogVj5nJQHFqfiSdgaLCCWvDcm1W4l",
+          "date": "2013",
+          "youtubeId": "KpLtYc0uW1c",
+          "primary": true
+        }
+      ]
+    },
+    "technion-intro-opt": {
+      "title": "Intro to Optimization",
+      "university": "Technion",
+      "level": "grad",
+      "pos": {
+        "x": 1480,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Technion · Zibulevsky · 2009",
+          "url": "https://sites.google.com/site/michaelzibulevsky/optimization-course",
+          "youtube": "https://www.youtube.com/playlist?list=PLDFB2EEF4DDAFE30B",
+          "date": "2009",
+          "youtubeId": "kylzCoLwbvI",
+          "primary": true
+        }
+      ]
+    },
+    "arizona-optimization": {
+      "title": "Optimization",
+      "university": "Arizona",
+      "level": "grad",
+      "pos": {
+        "x": 1830,
+        "y": 420
+      },
+      "versions": [
+        {
+          "label": "Arizona · Walker",
+          "url": "http://www.u.arizona.edu/~mwalker/MathCamp2020/MathCamp2020LectureNotes.htm",
+          "youtube": "https://www.youtube.com/playlist?list=PLcjqUUQt__ZE0ZSTNRyBIgLJ5obPHdmxC",
+          "date": "2019–",
+          "youtubeId": "1alsEu7Ghhs",
           "primary": true
         }
       ]

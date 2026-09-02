@@ -14,26 +14,18 @@ const TITLE_ROOM = 38;
 /** Rough strokes wander past the rect; the viewBox is padded so they don't clip. */
 const SLOP = 6;
 
-/**
- * Schools that close the logo wall, in this order, whatever their course count —
- * and whatever the school filter says, so one that starts hidden still gets its mark up.
- */
-const WALL_TAIL = ['UC Santa Cruz'];
-
 /** The root map's subjects — the same boxes the map draws, one per tile. */
 function subjects() {
-  return childGroups('root').filter((id) => id !== PATHWAYS_GROUP);
+  // Pathways get their own section below, and Unsorted is a holding pen rather
+  // than a subject — it stays on the map, but not on the front page
+  return childGroups('root').filter((id) => id !== PATHWAYS_GROUP && id !== 'unsorted');
 }
 
 export function Landing({ background, onOpen }: LandingProps) {
   const courseCount = Object.keys(map.courses).length;
   // The wall is universities in their own marks, so a school with no logo file
   // (fast.ai, which is not a university anyway) sits this one out
-  const ranked = schoolsByCourseCount().filter((school) => wordmarkFor(school));
-  const schools = [
-    ...ranked.filter((school) => !WALL_TAIL.includes(school)),
-    ...WALL_TAIL.filter((school) => wordmarkFor(school)),
-  ];
+  const schools = schoolsByCourseCount().filter((school) => wordmarkFor(school));
 
   return (
     <main className="landing">
@@ -58,8 +50,6 @@ export function Landing({ background, onOpen }: LandingProps) {
           </SketchBox>
         </div>
 
-        {/* The whole point of the project, stated once and set apart */}
-        <p className="landing-free">Always free</p>
         <p className="landing-stats">
           {courseCount} courses · {schools.length} universities · every lecture on YouTube
         </p>
@@ -79,7 +69,7 @@ export function Landing({ background, onOpen }: LandingProps) {
               >
                 {/* Each tile draws its group at the origin, wherever the map keeps it */}
                 <g transform={`translate(${-(group.pos?.x ?? 0)} ${-(group.pos?.y ?? 0)})`}>
-                  <GroupNode id={id} group={group} onOpen={onOpen} />
+                  <GroupNode id={id} group={group} onOpen={onOpen} rotate />
                 </g>
               </svg>
             );
@@ -88,11 +78,10 @@ export function Landing({ background, onOpen }: LandingProps) {
 
         <h2>Or follow a pathway</h2>
         <p className="landing-sub">
-          A pathway is a route through the map, in order. Official ones are transcribed from
-          a department's own requirements; curated ones are one person's picks.
+          A pathway is a route through the map, in order.
         </p>
 
-        <PathwayCards onOpen={onOpen} />
+        <PathwayCards onOpen={onOpen} featured />
 
         <div className="logo-wall">
           <SketchRule seedKey="rule:wall" />

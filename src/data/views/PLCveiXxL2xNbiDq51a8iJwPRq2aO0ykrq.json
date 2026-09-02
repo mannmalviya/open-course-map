@@ -1,0 +1,69 @@
+{
+  "lectures": [
+    {
+      "id": "YCy7dbGMNGo",
+      "title": "Introduction to Reinforcement Learning (Lecture 01 - Introduction)",
+      "views": 3700
+    },
+    {
+      "id": "dTQQfzb1u1c",
+      "title": "Introduction to Reinforcement Learning (Lecture 02 - Structural Properties of MDPs) (Part 1 )",
+      "views": 957
+    },
+    {
+      "id": "55QWmRRxmr0",
+      "title": "Introduction to Reinforcement Learning (Lecture 02 - Structural Properties of MDPs) (Part 2)",
+      "views": 569
+    },
+    {
+      "id": "48obQlO___o",
+      "title": "Introduction to Reinforcement Leaarning (Lecture 03 - Planning with a Known Model)",
+      "views": 523
+    },
+    {
+      "id": "sxzpL2Oj4xg",
+      "title": "Introduction to Reinforcement Learning (Lecture 04 - Learning from a Stream of Data) (Part 1)",
+      "views": 560
+    },
+    {
+      "id": "Pm6MWLCuKak",
+      "title": "Introduction to Reinforcement Learning (Lecture 04 - Learning from a Stream of Data) (Part 2)",
+      "views": 398
+    },
+    {
+      "id": "DqIZXXAN0uM",
+      "title": "Introduction to Reinforcement Learning (Lecture 05 - Value Function Approximation) (Part 1)",
+      "views": 530
+    },
+    {
+      "id": "XMFdH9QkjUk",
+      "title": "Introduction to Reinforcement Learning (Lecture 05 - Value Function Approximation) (Part 2)",
+      "views": 462
+    },
+    {
+      "id": "N-DYfUR88Bc",
+      "title": "Introduction to Reinforcement Learning (Lecture 05 - Value Function Approximation) (Part 3)",
+      "views": 468
+    },
+    {
+      "id": "FpjyEKY_93I",
+      "title": "Introduction to Reinforcement Learning (Lecture 05 - Value Function Approximation) (Part 4)",
+      "views": 301
+    },
+    {
+      "id": "hrEf95LujHM",
+      "title": "Introduction to Reinforcement Learning (Lecture 06 - Policy Search Methods) (Part 1)",
+      "views": 378
+    },
+    {
+      "id": "r7bCdPlAT-Q",
+      "title": "Introduction to Reinforcement Learning (Lecture 06 - Policy Search Methods) (Part 2)",
+      "views": 304
+    },
+    {
+      "id": "CNrZfcz_mKU",
+      "title": "Introduction to Reinforcement Learning (Lecture 07 - Model-based RL & Decision-Aware Model Learning)",
+      "views": 416
+    }
+  ]
+}

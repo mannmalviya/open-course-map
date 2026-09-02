@@ -1,0 +1,209 @@
+{
+  "lectures": [
+    {
+      "id": "biwjg9tpOvM",
+      "title": "Mod-01 Lec-01 Introduction",
+      "views": 83000
+    },
+    {
+      "id": "jZ-Z1prwdoA",
+      "title": "Mod-02 Lec-02 Mathematical Background",
+      "views": 20000
+    },
+    {
+      "id": "55wN7ajTyIE",
+      "title": "Mod-02 Lec-03 Mathematical Background (contd)",
+      "views": 14000
+    },
+    {
+      "id": "tnOOiSjTI8I",
+      "title": "Mod-03 Lec-04 One Dimensional Optimization - Optimality Conditions",
+      "views": 17000
+    },
+    {
+      "id": "_pD36N9gnNI",
+      "title": "Mod-03 Lec-05 One Dimensional Optimization (contd)",
+      "views": 12000
+    },
+    {
+      "id": "u5a7K0duEKk",
+      "title": "Mod-04 Lec-06 Convex Sets",
+      "views": 18000
+    },
+    {
+      "id": "ag4OdO6q5uc",
+      "title": "Mod-04 Lec-07 Convex Sets (contd)",
+      "views": 9500
+    },
+    {
+      "id": "fbRi8z-o9jE",
+      "title": "Mod-05 Lec-08 Convex Functions",
+      "views": 13000
+    },
+    {
+      "id": "aJWBwHKVRvQ",
+      "title": "Mod-05 Lec-09 Convex Functions (contd)",
+      "views": 8200
+    },
+    {
+      "id": "9Y1DyScRH4U",
+      "title": "Mod-06 Lec-10 Multi Dimensional Optimization - Optimality Conditions, Conceptual Algorithm",
+      "views": 12000
+    },
+    {
+      "id": "8tqaXIM6kEE",
+      "title": "Mod-06 Lec-11 Line Search Techniques",
+      "views": 30000
+    },
+    {
+      "id": "0UIt48Dt-5c",
+      "title": "Mod-06 Lec-12 Global Convergence Theorem",
+      "views": 12000
+    },
+    {
+      "id": "V64HwFDLnoc",
+      "title": "Mod-06 Lec-13 Steepest Descent Method",
+      "views": 59000
+    },
+    {
+      "id": "QnLvBNp8gkg",
+      "title": "Mod-06 Lec-14 Classical Newton Method",
+      "views": 11000
+    },
+    {
+      "id": "Xxi8Cro-ssQ",
+      "title": "Mod-06 Lec-15 Trust Region and Quasi-Newton Methods",
+      "views": 16000
+    },
+    {
+      "id": "H6CCJ5c3WQw",
+      "title": "Mod-06 Lec-16 Quasi-Newton Methods - Rank One Correction, DFP Method",
+      "views": 15000
+    },
+    {
+      "id": "XpPvsMhxwSM",
+      "title": "Mod-06 Lec-17 Quasi-Newton Methods - Rank One Correction, DFP Method",
+      "views": 8700
+    },
+    {
+      "id": "ih6z8Gi1MlY",
+      "title": "Mod-06 Lec-18 Conjugate Directions",
+      "views": 11000
+    },
+    {
+      "id": "pjcq2y1cA-4",
+      "title": "Mod-06 Lec-19 Quasi-Newton Methods - Rank One Correction, DFP Method",
+      "views": 6800
+    },
+    {
+      "id": "Cn6nicxxOhY",
+      "title": "Mod-07 Lec-20 Constrained Optimization - Local and Global Solutions, Conceptual Algorithm",
+      "views": 10000
+    },
+    {
+      "id": "niohGO560Zw",
+      "title": "Mod-07 Lec-21 Feasible and Descent Directions",
+      "views": 14000
+    },
+    {
+      "id": "WnTQTSvpmOs",
+      "title": "Mod-07 Lec-22 First Order KKT Conditions",
+      "views": 12000
+    },
+    {
+      "id": "iePvYbZJm8E",
+      "title": "Mod-07 Lec-23 Constraint Qualifications",
+      "views": 8900
+    },
+    {
+      "id": "qALRTlKJheQ",
+      "title": "Mod-07 Lec-24 Convex Programming Problem",
+      "views": 7000
+    },
+    {
+      "id": "K-_-eGcAJGc",
+      "title": "Mod-07 Lec-25 Second Order KKT Conditions",
+      "views": 6800
+    },
+    {
+      "id": "jBUfYN5plOY",
+      "title": "Mod-07 Lec-26 Second Order KKT Conditions (contd)",
+      "views": 4900
+    },
+    {
+      "id": "x4CJe-OWVds",
+      "title": "Mod-08 Lec-27 Weak and Strong Duality",
+      "views": 7900
+    },
+    {
+      "id": "fI_i3QCMZ74",
+      "title": "Mod-08 Lec-28 Geometric Interpretation",
+      "views": 4300
+    },
+    {
+      "id": "-Ow9_rFcGv8",
+      "title": "Mod-08 Lec-29 Lagrangian Saddle Point and Wolfe Dual",
+      "views": 6700
+    },
+    {
+      "id": "DLF1p_XcPh0",
+      "title": "Mod-09 Lec-30 Linear Programming Problem",
+      "views": 4400
+    },
+    {
+      "id": "SU8Hk79d4VI",
+      "title": "Mod-09 Lec-31 Geometric Solution",
+      "views": 3700
+    },
+    {
+      "id": "ioqp6ZSSxvs",
+      "title": "Mod-09 Lec-32 Basic Feasible Solution",
+      "views": 8500
+    },
+    {
+      "id": "tUd0PFgb218",
+      "title": "Mod-09 Lec-33 Optimality Conditions and Simplex Tableau",
+      "views": 4400
+    },
+    {
+      "id": "ExLO-_btIGM",
+      "title": "Mod-09 Lec-34 Simplex Algorithm and Two-Phase Method",
+      "views": 7300
+    },
+    {
+      "id": "qAIpx8vKqPw",
+      "title": "Mod-09 Lec-35 Duality in Linear Programming",
+      "views": 4300
+    },
+    {
+      "id": "ZU1kpRE84U0",
+      "title": "Mod-09 Lec-36 Interior Point Methods - Affine Scaling Method",
+      "views": 8600
+    },
+    {
+      "id": "LWXXhBIlj0o",
+      "title": "Mod-09 Lec-37 Karmarkar's Method",
+      "views": 25000
+    },
+    {
+      "id": "f1jZr5qZpR0",
+      "title": "Mod-10 Lec-38 Lagrange Methods, Active Set Method",
+      "views": 15000
+    },
+    {
+      "id": "HLq151AhMMY",
+      "title": "Mod-10 Lec-39 Active Set Method (contd)",
+      "views": 14000
+    },
+    {
+      "id": "icKd4QLNdsE",
+      "title": "Mod-10 Lec-40 Barrier and Penalty Methods, Augmented Lagrangian Method and Cutting Plane Method",
+      "views": 16000
+    },
+    {
+      "id": "Hj0lq_cMjFc",
+      "title": "Mod-10 Lec-41 Summary",
+      "views": 2100
+    }
+  ]
+}

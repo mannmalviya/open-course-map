@@ -1,0 +1,114 @@
+{
+  "lectures": [
+    {
+      "id": "sa_ibR7Cqug",
+      "title": "Engineering Probability Lecture 1: Experiments, Sample Spaces, and Events",
+      "views": 19000
+    },
+    {
+      "id": "JgP5Ri2SCBc",
+      "title": "Engineering Probability Lecture 2: Axioms of probability and counting methods",
+      "views": 5600
+    },
+    {
+      "id": "B5etzYAkhAk",
+      "title": "Engineering Probability Lecture 3: Conditional probability",
+      "views": 4200
+    },
+    {
+      "id": "bEhcRDUNR9M",
+      "title": "Engineering Probability Lecture 4: Independent events and Bernoulli trials",
+      "views": 3900
+    },
+    {
+      "id": "kKfxzJ4X84Y",
+      "title": "Engineering Probability Lecture 5: Discrete random variables",
+      "views": 3400
+    },
+    {
+      "id": "P7yzmS9528g",
+      "title": "Engineering Probability Lecture 6: Expected value and moments",
+      "views": 2700
+    },
+    {
+      "id": "FLw3-IEVKnA",
+      "title": "Engineering Probability Lecture 7: Conditional probability mass functions",
+      "views": 2500
+    },
+    {
+      "id": "FNTvbci9-88",
+      "title": "Engineering Probability Lecture 8: Cumulative distribution functions (CDFs)",
+      "views": 2000
+    },
+    {
+      "id": "TCyMVBCABlk",
+      "title": "Engineering Probability Lecture 9: Probability density functions and continuous random variables",
+      "views": 2100
+    },
+    {
+      "id": "5px8epZGlxE",
+      "title": "Engineering Probability Lecture 10: The Gaussian random variable and Q function",
+      "views": 4000
+    },
+    {
+      "id": "bxfEAjWc39E",
+      "title": "Engineering Probability Lecture 11: Expected value for continuous random variables",
+      "views": 1700
+    },
+    {
+      "id": "5lzCItzFfWk",
+      "title": "Engineering Probability Lecture 12: Functions of a random variable; inequalities",
+      "views": 1800
+    },
+    {
+      "id": "9WC7NIvwIqQ",
+      "title": "Engineering Probability Lecture 13: Two random variables (discrete)",
+      "views": 1900
+    },
+    {
+      "id": "YmMM8Ndktyo",
+      "title": "Engineering Probability Lecture 14: Two random variables (continuous); independence",
+      "views": 1600
+    },
+    {
+      "id": "RipNLdFjfQA",
+      "title": "Engineering Probability Lecture 15: Joint expectations; correlation and covariance",
+      "views": 1700
+    },
+    {
+      "id": "07lm--98yzg",
+      "title": "Engineering Probability Lecture 16: Conditional PDFs; Bayesian and maximum likelihood estimation",
+      "views": 1800
+    },
+    {
+      "id": "ON8bmU11jv0",
+      "title": "Engineering Probability Lecture 17: Conditional expectations",
+      "views": 1300
+    },
+    {
+      "id": "Y3fSBNOCOm0",
+      "title": "Engineering Probability Lecture 18: Sums of random variables and laws of large numbers",
+      "views": 1500
+    },
+    {
+      "id": "dix2-gLC6qA",
+      "title": "Engineering Probability Lecture 19: The Central Limit Theorem",
+      "views": 1800
+    },
+    {
+      "id": "7jdBmZ3d2L8",
+      "title": "Engineering Probability Lecture 20: MAP, ML, and MMSE estimation",
+      "views": 3100
+    },
+    {
+      "id": "vZVsI-UWOgs",
+      "title": "Engineering Probability Lecture 21: Hypothesis testing",
+      "views": 1200
+    },
+    {
+      "id": "pQWlThv0cFY",
+      "title": "Engineering Probability Lecture 22: Testing the fit of a distribution; generating random samples",
+      "views": 1100
+    }
+  ]
+}

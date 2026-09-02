@@ -1,0 +1,79 @@
+{
+  "lectures": [
+    {
+      "id": "RP3tZFcC2e8",
+      "title": "Lecture 1a - Introduction [Phil Blunsom]",
+      "views": 27000
+    },
+    {
+      "id": "DcVWSOesJho",
+      "title": "Lecture 1b  - Deep Neural Networks [Wang Ling]",
+      "views": 12000
+    },
+    {
+      "id": "DzaV6_D_dL4",
+      "title": "Lecture 2a - Word Level Semantics [Ed Grefenstette]",
+      "views": 9300
+    },
+    {
+      "id": "lbPMsUS9R8I",
+      "title": "Lecture 2b - Overview of the Practicals [Chris Dyer]",
+      "views": 3400
+    },
+    {
+      "id": "nfyE8oF23yQ",
+      "title": "Lecture 3 - Language Modelling and RNNs Part 1 [Phil Blunsom]",
+      "views": 6700
+    },
+    {
+      "id": "eDUaRvMDs-s",
+      "title": "Lecture 4 - Language Modelling and RNNs Part 2 [Phil Blunsom]",
+      "views": 3900
+    },
+    {
+      "id": "0qG7gjTNhwM",
+      "title": "Lecture 5 - Text Classification [Karl Moritz Hermann]",
+      "views": 4600
+    },
+    {
+      "id": "BCVR9nwjAHs",
+      "title": "Lecture 6 - Deep NLP on Nvidia GPUs [Jeremy Appleyard]",
+      "views": 3200
+    },
+    {
+      "id": "DVSvz2eaZns",
+      "title": "Lecture 7 - Conditional Language Models [Chris Dyer]",
+      "views": 3700
+    },
+    {
+      "id": "ah7_mfl7LD0",
+      "title": "Lecture 8 - Generating Language with Attention [Chris Dyer]",
+      "views": 12000
+    },
+    {
+      "id": "HyUtT_z-cms",
+      "title": "Lecture 9 - Speech Recognition (ASR) [Andrew Senior]",
+      "views": 54000
+    },
+    {
+      "id": "1Mb-KHQNdcM",
+      "title": "Lecture 10 - Text to Speech (TTS) [Andrew Senior]",
+      "views": 8200
+    },
+    {
+      "id": "OKb03CSMJaw",
+      "title": "Lecture 11 - Question Answering [Karl Moritz Hermann]",
+      "views": 4300
+    },
+    {
+      "id": "grGL6ht5Zzc",
+      "title": "Lecture 12 - Memory [Ed Grefenstette]",
+      "views": 2100
+    },
+    {
+      "id": "yMj9jqe-Hn0",
+      "title": "Lecture 13 - Linguistic Knowledge in Neural Networks",
+      "views": 3000
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "lectures": [
+    {
+      "id": "xoxz-OmcL1Q",
+      "title": "CS885 Lecture 1a: Course Introduction",
+      "views": 36000
+    },
+    {
+      "id": "yOWBb0mqENw",
+      "title": "CS885 Lecture 1b: Markov Processes",
+      "views": 13000
+    },
+    {
+      "id": "SWYceQpEVKM",
+      "title": "CS885 Lecture 2a: Markov Decision Processes",
+      "views": 13000
+    },
+    {
+      "id": "H4e6Q1n_nLo",
+      "title": "CS885 Lecture 2b: Value Iteration",
+      "views": 11000
+    },
+    {
+      "id": "mjyrRG7RD84",
+      "title": "CS885 Lecture 3a: Policy Iteration",
+      "views": 8300
+    },
+    {
+      "id": "t8eBqkuyUJE",
+      "title": "CS885 Lecture 3b: Introduction to RL",
+      "views": 8900
+    },
+    {
+      "id": "M_IUPkVIBrg",
+      "title": "CS885 Lecture 4a: Deep Neural Networks",
+      "views": 4500
+    },
+    {
+      "id": "KPmR0NZgK1I",
+      "title": "CS885 Lecture 4b: Deep Q-Networks",
+      "views": 6000
+    },
+    {
+      "id": "YKD4hkCErT0",
+      "title": "CS885 Lecture 5: Conversational Agents (Nabiha Asghar)",
+      "views": 3200
+    },
+    {
+      "id": "q8bbAZ1CeWo",
+      "title": "CS885 Lecture 6a: OpenAI Environments (Mike Rudd)",
+      "views": 2500
+    },
+    {
+      "id": "_oXuUckDF6s",
+      "title": "CS885 Lecture 6b: DQN and TensorFlow (Timmy Tse)",
+      "views": 2500
+    },
+    {
+      "id": "uoBii3rmyNk",
+      "title": "CS885 Lecture 7a: Policy Gradient",
+      "views": 9700
+    },
+    {
+      "id": "5Ke-d1Itk3k",
+      "title": "CS885 Lecture 7b: Actor Critic",
+      "views": 13000
+    },
+    {
+      "id": "Qy-vum3GH-s",
+      "title": "CS885 Lecture 8a: Multi-armed bandits",
+      "views": 26000
+    },
+    {
+      "id": "jlcbEZTgisQ",
+      "title": "CS885 Lecture 8b: Bayesian and Contextual Bandits",
+      "views": 15000
+    },
+    {
+      "id": "p8V2IFLLxxA",
+      "title": "CS885 Lecture 9: Model-based RL",
+      "views": 9200
+    },
+    {
+      "id": "ar9RLwgUvVQ",
+      "title": "CS885 Lecture 10: Bayesian RL",
+      "views": 9600
+    },
+    {
+      "id": "kfc0GQSnSRk",
+      "title": "CS885 Lecture 11a: Hidden Markov Models",
+      "views": 6200
+    },
+    {
+      "id": "1eWjhiIMXfw",
+      "title": "CS885 Lecture 11b: Partially Observable RL",
+      "views": 7300
+    },
+    {
+      "id": "aQUNYgwwq1A",
+      "title": "CS885 Lecture 12: Deep Recurrent Q-Networks",
+      "views": 4500
+    },
+    {
+      "id": "qeFR7ex2u9A",
+      "title": "CS885 Lecture 13a: Playing FPS Games with Deep RL (presenter: Mark Iwanchyshyn)",
+      "views": 1000
+    },
+    {
+      "id": "jACXY_LLCsk",
+      "title": "CS885 Lecture 13b: Lifelong Learning in Minecraft (Presenter: Yetian Wang)",
+      "views": 907
+    },
+    {
+      "id": "s-Wq-RU78wM",
+      "title": "CS885 Lecture 13c: Adversarial Search",
+      "views": 4700
+    },
+    {
+      "id": "cAnD_n0bT0s",
+      "title": "CS885 Lecture 14a: Mastering the Game of Go (Presenter: Henry Chen)",
+      "views": 1000
+    },
+    {
+      "id": "ioaFpI91NWk",
+      "title": "CS885 Lecture 14b: Mastering Chess and Shogi (Presenter: Kira Selby)",
+      "views": 1200
+    },
+    {
+      "id": "qaOKZkeutqE",
+      "title": "CS885 Lecture 14c: Trust Region Methods",
+      "views": 25000
+    },
+    {
+      "id": "jcF-HaBz0Vw",
+      "title": "CS885 Lecture 15a: Trust Region Policy Optimization (Presenter: Shivam Kalra)",
+      "views": 7600
+    },
+    {
+      "id": "wM-Sh-0GbR4",
+      "title": "CS885 Lecture 15b: Proximal Policy Optimization (Presenter: Ruifan Yu)",
+      "views": 12000
+    },
+    {
+      "id": "1nuTmzqKQyE",
+      "title": "CS885 Lecture 15c: Semi-Markov Decision Processes",
+      "views": 10000
+    },
+    {
+      "id": "xVkh5-aIvpg",
+      "title": "CS885 Lecture 16a: The Option-Critic Architecture (Presenter: Zebin Kang)",
+      "views": 2400
+    },
+    {
+      "id": "DLVjU75x0WQ",
+      "title": "CS885 Lecture 16b: FeUdal Networks for Hierarchical RL (Presenter: Rene Bidart)",
+      "views": 3100
+    },
+    {
+      "id": "7Pk99Sx63RQ",
+      "title": "CS885 Lecture 17a: Target-Driven Visual Navigation (Presenter: James Cagalawan)",
+      "views": 1100
+    },
+    {
+      "id": "ul-k_t3cShg",
+      "title": "CS885 Lecture 17b: Control of a Quadrotor (Presenter Nicole McNabb)",
+      "views": 845
+    },
+    {
+      "id": "kkC1xpdUSTQ",
+      "title": "CS885 Lecture17c: Inverse Reinforcement Learning",
+      "views": 10000
+    },
+    {
+      "id": "tMVJroLo5W8",
+      "title": "CS885 Lecture 18a: Safe multi-agent RL for autonomous driving (Presenter: Ashish Gaurav)",
+      "views": 2600
+    },
+    {
+      "id": "AA9ucOyDCjE",
+      "title": "CS885 Lecture 19a: End-to-end LSTM based dialog control (Presenter: Hamidreza Shahidi)",
+      "views": 1000
+    },
+    {
+      "id": "W-jIHegH_4k",
+      "title": "CS885 Lecture 19b: Learning cooperative visual dialog agents (Presenter: Nalin Chhibber)",
+      "views": 539
+    },
+    {
+      "id": "Ry1IIjLnumI",
+      "title": "CS885 Lecture 19c: Memory Augmented Networks",
+      "views": 4200
+    },
+    {
+      "id": "4JWh2kQiFRo",
+      "title": "CS885 Lecture 20a: Neural map: structured memory for deep RL (Presenter: Andreas Stöckel)",
+      "views": 953
+    },
+    {
+      "id": "dHyhVAgUUns",
+      "title": "CS885 Lecture 20b: Memory augmented control networks (Presenter: Aravind Balakrishnan)",
+      "views": 1200
+    },
+    {
+      "id": "qrufIjk8G3c",
+      "title": "CS885 Lecture 18b: Learning Driving Styles for Autonomous Vehicles (Presenter: Marko Ilievski)",
+      "views": 1300
+    }
+  ]
+}

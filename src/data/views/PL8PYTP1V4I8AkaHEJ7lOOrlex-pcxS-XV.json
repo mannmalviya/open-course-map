@@ -1,0 +1,119 @@
+{
+  "lectures": [
+    {
+      "id": "vnx6M7N-ggs",
+      "title": "CMU Neural Nets for NLP 2021 (1): Introduction",
+      "views": 17000
+    },
+    {
+      "id": "ld5qts6LRj4",
+      "title": "CMU Neural Nets for NLP 2021 (2): Language Modeling, Efficiency/Training Tricks",
+      "views": 4900
+    },
+    {
+      "id": "krnzWH68lEE",
+      "title": "CMU Neural Nets for NLP 2021 (3): Building A Neural Network Toolkit for NLP, minnn",
+      "views": 2700
+    },
+    {
+      "id": "ZrDST4HfgAc",
+      "title": "CMU Neural Nets for NLP 2021 (4): Efficiency Tricks for Neural Nets",
+      "views": 2200
+    },
+    {
+      "id": "5124LKzDaxo",
+      "title": "CMU Neural Nets for NLP 2021 (5): Recurrent Neural Networks",
+      "views": 2300
+    },
+    {
+      "id": "3LdDiRM9xE8",
+      "title": "CMU Neural Nets for NLP 2021 (6): Conditioned Generation",
+      "views": 2000
+    },
+    {
+      "id": "VvKRZXvDzM4",
+      "title": "CMU Neural Nets for NLP 2021 (7): Attention",
+      "views": 2700
+    },
+    {
+      "id": "A7o1zJ1eY9o",
+      "title": "CMU Neural Nets for NLP 2021 (8): Distributional Semantics and Word Vectors",
+      "views": 1800
+    },
+    {
+      "id": "0UNNRxhnjHg",
+      "title": "CMU Neural Nets for NLP 2021 (9): Sentence and Contextual Word Representations",
+      "views": 1500
+    },
+    {
+      "id": "SId98zY-D9Y",
+      "title": "CMU Neural Nets for NLP 2021 (11): Structured Prediction with Local Independence Assumptions",
+      "views": 1300
+    },
+    {
+      "id": "KRQHdwpfj-4",
+      "title": "CMU Neural Nets for NLP 2021 (10): Debugging Neural Nets (for NLP)",
+      "views": 1100
+    },
+    {
+      "id": "DmDY5jfp8Qg",
+      "title": "CMU Neural Nets for NLP 2021 (12): Model Interpretation",
+      "views": 1100
+    },
+    {
+      "id": "XPDnfjrI6wY",
+      "title": "CMU Neural Nets for NLP 2021 (13): Generating Trees and Graphs",
+      "views": 1100
+    },
+    {
+      "id": "3YCb-F4pS4E",
+      "title": "CMU Neural Nets for NLP 2021 (14): Margin-based and Reinforcement Learning for Structured Prediction",
+      "views": 1000
+    },
+    {
+      "id": "0aet0r-DT_E",
+      "title": "CMU Neural Nets for NLP 2021 (15): Sequence-to-sequence Pre-training",
+      "views": 2700
+    },
+    {
+      "id": "x2pQYCdJkOc",
+      "title": "CMU Neural Nets for NLP 2021 (16): Machine Reading w/ Neural Nets",
+      "views": 926
+    },
+    {
+      "id": "1JGFTpm1rdQ",
+      "title": "CMU Neural Nets for NLP 2021 (17): Neural Nets + Knowledge Bases",
+      "views": 1100
+    },
+    {
+      "id": "Gl6CPW6l6dA",
+      "title": "CMU Neural Nets for NLP 2021 (18): Advanced Search Algorithms",
+      "views": 1000
+    },
+    {
+      "id": "C_S9gSm8NeY",
+      "title": "CMU Neural Nets for NLP 2021 (19): Adversarial Methods",
+      "views": 1000
+    },
+    {
+      "id": "Z5knlb6MMOI",
+      "title": "CMU Neural Nets for NLP 2021 (20): Models w/ Latent Random Variables",
+      "views": 961
+    },
+    {
+      "id": "YUxHFYUyvmw",
+      "title": "CMU Neural Nets for NLP 2021 (21): Multilingual Learning",
+      "views": 829
+    },
+    {
+      "id": "fOlEKESnDv4",
+      "title": "CMU Neural Nets for NLP 2021 (22): Bias in NLP",
+      "views": 913
+    },
+    {
+      "id": "e1CSUzP3XWs",
+      "title": "CMU Neural Nets for NLP 2021 (23): Document-level Models",
+      "views": 1500
+    }
+  ]
+}

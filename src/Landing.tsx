@@ -16,7 +16,9 @@ const SLOP = 6;
 
 /** The root map's subjects — the same boxes the map draws, one per tile. */
 function subjects() {
-  return childGroups('root').filter((id) => id !== PATHWAYS_GROUP);
+  // Pathways get their own section below, and Unsorted is a holding pen rather
+  // than a subject — it stays on the map, but not on the front page
+  return childGroups('root').filter((id) => id !== PATHWAYS_GROUP && id !== 'unsorted');
 }
 
 export function Landing({ background, onOpen }: LandingProps) {

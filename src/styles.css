@@ -66,6 +66,11 @@
   box-sizing: border-box;
 }
 
+::selection {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
 html,
 body,
 #root,
@@ -1205,16 +1210,18 @@ body {
 }
 
 /* The subject boxes, lifted out of the map — one tile each so they can wrap */
+/* Flex, not grid, so a short last row sits centred instead of hanging left */
 .landing-band {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   gap: 24px 40px;
   margin-top: 40px;
 }
 
 .subject-tile {
   display: block;
-  width: 100%;
+  flex: 0 1 300px;
   height: auto;
   overflow: visible;
 }

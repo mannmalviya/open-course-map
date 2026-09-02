@@ -1210,18 +1210,22 @@ body {
 }
 
 /* The subject boxes, lifted out of the map — one tile each so they can wrap */
-/* Flex, not grid, so a short last row sits centred instead of hanging left */
+/* Flex, not grid, so a short last row sits centred instead of hanging left.
+   The tiles are SVGs, so they must keep a set width and a free height —
+   letting flex stretch them blows up the drawing inside. */
 .landing-band {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
   gap: 24px 40px;
   margin-top: 40px;
 }
 
 .subject-tile {
   display: block;
-  flex: 0 1 300px;
+  flex: 0 1 calc((100% - 80px) / 3);
+  min-width: 260px;
   height: auto;
   overflow: visible;
 }

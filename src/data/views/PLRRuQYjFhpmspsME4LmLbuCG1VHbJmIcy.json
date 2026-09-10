@@ -1,0 +1,149 @@
+{
+  "lectures": [
+    {
+      "id": "WJ0BAlaXFUc",
+      "title": "Lecture #1 - Introduction",
+      "views": 3300
+    },
+    {
+      "id": "nD6PUe3d6ec",
+      "title": "Lecture #2 - Scatter-to-Gather Transformation",
+      "views": 881
+    },
+    {
+      "id": "awcTLCJbNNs",
+      "title": "Lecture #3 - Thread Coarsening and Register Tiling",
+      "views": 761
+    },
+    {
+      "id": "Jomj8_6GOZc",
+      "title": "Lecture #5 - Input Binning (Spatial Sorting)",
+      "views": 226
+    },
+    {
+      "id": "nzsvDVrbxUA",
+      "title": "Lecture #6 - Input Binning (Part 2)",
+      "views": 119
+    },
+    {
+      "id": "ah2KQR_lDTQ",
+      "title": "Lecture #7 Graph Representation and Breadth-First Search (BFS)",
+      "views": 213
+    },
+    {
+      "id": "h56C4L78HrM",
+      "title": "Lecture #7.2 - Breadth First Search continued (Other formulations of Parallel Graph Traversal)",
+      "views": 107
+    },
+    {
+      "id": "1zAZY_gnHPQ",
+      "title": "Lecture #8 Privatization and Queue-based Parallel BFS Algorithms",
+      "views": 209
+    },
+    {
+      "id": "v1a9X8asidc",
+      "title": "Lecture #8.2 Privatization and Queue-Based BFS Algorithms (continued)",
+      "views": 74
+    },
+    {
+      "id": "quLDt39KQ5Y",
+      "title": "Lecture #9 - Graph Analytics - Triangle Counting",
+      "views": 579
+    },
+    {
+      "id": "Wiy4gTSAIHw",
+      "title": "Lecture #10 Graph Analytics - Neighbor List Intersection",
+      "views": 113
+    },
+    {
+      "id": "R8BcmZT7DAw",
+      "title": "Lecture #10.2 Graph Analytics - Truss Decomposition",
+      "views": 336
+    },
+    {
+      "id": "AjU0kY-l7uA",
+      "title": "Lecture #11 Dynamic Parallelism - Iterative Refinement Algorithms",
+      "views": 117
+    },
+    {
+      "id": "ozGwdLViotU",
+      "title": "Lecture #12 Dynamic Parallelism - Iterative Refinement Algorithms",
+      "views": 116
+    },
+    {
+      "id": "-hhpQ_18NgM",
+      "title": "Lecture #21.2",
+      "views": 509
+    },
+    {
+      "id": "vf9PLwwAqCU",
+      "title": "Lecture #21.1",
+      "views": 263
+    },
+    {
+      "id": "jNAwJZP1xoE",
+      "title": "Lecture #20.2",
+      "views": 74
+    },
+    {
+      "id": "ncaltL1rHYc",
+      "title": "Lecture #20.1",
+      "views": 106
+    },
+    {
+      "id": "sHAVtEvKcS8",
+      "title": "Lecture #19.2",
+      "views": 71
+    },
+    {
+      "id": "1YkJsL8DGA4",
+      "title": "Lecture #19.1",
+      "views": 123
+    },
+    {
+      "id": "evDnfb0wd2o",
+      "title": "Lecture #18.2",
+      "views": 59
+    },
+    {
+      "id": "8XDE-_mHvtM",
+      "title": "Lecture #18.1",
+      "views": 81
+    },
+    {
+      "id": "ZZr99eDxl5I",
+      "title": "Project Video #2",
+      "views": 95
+    },
+    {
+      "id": "xNafEMiHOCw",
+      "title": "Project Video #1",
+      "views": 104
+    },
+    {
+      "id": "rH9yFUK7tps",
+      "title": "Lecture #17.2",
+      "views": 51
+    },
+    {
+      "id": "KyLt6_yeUeQ",
+      "title": "Lecture #17.1",
+      "views": 110
+    },
+    {
+      "id": "jsNlJ5Il588",
+      "title": "Lecture #12 2",
+      "views": 39
+    },
+    {
+      "id": "4ItOCi0C1sk",
+      "title": "Lecture #9.2",
+      "views": 40
+    },
+    {
+      "id": "RsJobEJVdbk",
+      "title": "Lecture #4 - Joint Register and Shared Memory Tiling",
+      "views": 365
+    }
+  ]
+}

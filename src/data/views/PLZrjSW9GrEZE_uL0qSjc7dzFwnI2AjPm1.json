@@ -1,0 +1,59 @@
+{
+  "lectures": [
+    {
+      "id": "lEFNMkzm2Wg",
+      "title": "Chapter 11 - Prefix Sum Scan - Part 1",
+      "views": 375
+    },
+    {
+      "id": "fCpljjFZ3b4",
+      "title": "Chapter 11 - Prefix Sum Scan - Part 2",
+      "views": 121
+    },
+    {
+      "id": "iLue90SVm6w",
+      "title": "Supplementary Lecture - Filter",
+      "views": 77
+    },
+    {
+      "id": "6id5Y8YwsrM",
+      "title": "Chapter 12 - Merge",
+      "views": 76
+    },
+    {
+      "id": "MfYqFYCwdwY",
+      "title": "Chapter 13 - Sorting",
+      "views": 30
+    },
+    {
+      "id": "kat6En1aTUA",
+      "title": "Chapter 14 - Sparse Matrix Computation - Part 1",
+      "views": 129
+    },
+    {
+      "id": "I7_6n5YBRMc",
+      "title": "Chapter 14 - Sparse Matrix Computation - Part 2",
+      "views": 131
+    },
+    {
+      "id": "FrM5B8MtOkk",
+      "title": "Chapter 15 - Graph Traversal - Part 1",
+      "views": 102
+    },
+    {
+      "id": "-1cW6by_C2g",
+      "title": "Chapter 15 - Graph Traversal - Part 2",
+      "views": 66
+    },
+    {
+      "id": "Mo6Tc_5nAzA",
+      "title": "Supplementary Lecture - Advanced Optimizations for Matrix Multiplication",
+      "views": 94
+    },
+    {
+      "id": "y-2gcNIsMss",
+      "title": "Chapter 19 - Parallel Programming and Computational Thinking",
+      "views": 85
+    }
+  ]
+}

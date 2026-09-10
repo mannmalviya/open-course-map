@@ -1,0 +1,124 @@
+{
+  "lectures": [
+    {
+      "id": "x_hJq5JjBQE",
+      "title": "Lecture 01 - Introduction",
+      "views": 5300
+    },
+    {
+      "id": "ct5Y3kTiTYU",
+      "title": "Lecture 02 - Data Parallel Programming",
+      "views": 2000
+    },
+    {
+      "id": "npxfEBQTOl0",
+      "title": "Lecture 03 - Multidimensional Grids and Data",
+      "views": 1600
+    },
+    {
+      "id": "u-pFKH8hFdY",
+      "title": "Lecture 04 - GPU Architecture",
+      "views": 1600
+    },
+    {
+      "id": "X643zClQ7oI",
+      "title": "Lecture 05 - Memory and Tiling",
+      "views": 1800
+    },
+    {
+      "id": "XzNQLfpO618",
+      "title": "Lecture 06 - Performance Considerations",
+      "views": 1200
+    },
+    {
+      "id": "vcp2iFzHmfw",
+      "title": "Lecture 07 - Profiling",
+      "views": 678
+    },
+    {
+      "id": "mVGY1i8iYxs",
+      "title": "Lecture 08 - Convolution",
+      "views": 1000
+    },
+    {
+      "id": "c3-A0EBZXi8",
+      "title": "Lecture 09 - Stencil",
+      "views": 960
+    },
+    {
+      "id": "-xXUbb5xZeA",
+      "title": "Lecture 10 - Reduction",
+      "views": 867
+    },
+    {
+      "id": "p14HMMkDMDc",
+      "title": "Lecture 11 - Scan (Kogge-Stone)",
+      "views": 1400
+    },
+    {
+      "id": "1G4jfLcnI2w",
+      "title": "Lecture 12 - Scan (Brent-Kung)",
+      "views": 3700
+    },
+    {
+      "id": "VXv-9miExOU",
+      "title": "Lecture 13 - Histogram",
+      "views": 617
+    },
+    {
+      "id": "xp6x8PnA0j8",
+      "title": "Lecture 14 - Merge",
+      "views": 532
+    },
+    {
+      "id": "0sesdLcKwyY",
+      "title": "Lecture 15 - Sort",
+      "views": 593
+    },
+    {
+      "id": "SRgFScHYTy4",
+      "title": "Lecture 16 - Sparse Matrix Computation (COO and CSR)",
+      "views": 4100
+    },
+    {
+      "id": "P9uMIdj2Je8",
+      "title": "Lecture 17 - Sparse Matrix Computation (ELL and JDS)",
+      "views": 1000
+    },
+    {
+      "id": "SCZIc_ly5gU",
+      "title": "Lecture 18 - Graph Processing",
+      "views": 766
+    },
+    {
+      "id": "eXFuOEBhdDs",
+      "title": "Lecture 19 - Graph Processing (Part 2)",
+      "views": 491
+    },
+    {
+      "id": "YOEtjVJc7o0",
+      "title": "Lecture 20 - Intra Warp Synchronization",
+      "views": 513
+    },
+    {
+      "id": "qJn5S4z0lP8",
+      "title": "Lecture 21 - Pinned Memory and Streams",
+      "views": 805
+    },
+    {
+      "id": "NP0F4R_TVUU",
+      "title": "Lecture 22 - Dynamic Parallelism",
+      "views": 700
+    },
+    {
+      "id": "qrxhHo9re4A",
+      "title": "Lecture 23 - Potpourri",
+      "views": 696
+    },
+    {
+      "id": "26ybk03Gp50",
+      "title": "Supplementary Lecture - Advanced Optimizations for Matrix Multiplication",
+      "views": 194
+    }
+  ]
+}

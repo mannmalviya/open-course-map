@@ -1,0 +1,129 @@
+{
+  "lectures": [
+    {
+      "id": "kwtn2NtFIuA",
+      "title": "Lecture #1 - Introduction",
+      "views": 9700
+    },
+    {
+      "id": "CEXQNRINjYE",
+      "title": "Lecture #2 - Introduction Continued",
+      "views": 2900
+    },
+    {
+      "id": "6fO0jy24aEM",
+      "title": "Lecture #3 - Kernel Based - Data Parallel Execution Model",
+      "views": 2400
+    },
+    {
+      "id": "eqtNXQgKUiA",
+      "title": "Lecture #4 - Thread Scheduling & Control Branch Divergence",
+      "views": 1800
+    },
+    {
+      "id": "kdeZsZK5KX0",
+      "title": "Lecture #5 - Locality and Tiled Matrix Multiplication",
+      "views": 2400
+    },
+    {
+      "id": "0J8T1rigA_E",
+      "title": "Lecture #6 - DRAM Bandwidth",
+      "views": 1700
+    },
+    {
+      "id": "Bk8y1iIHZgQ",
+      "title": "Lecture #7 - Convolution, Constant Memory and Constant Caching",
+      "views": 1100
+    },
+    {
+      "id": "ysBrzOTMZlQ",
+      "title": "Lecture #8 - Tiled Convolution Analysis",
+      "views": 2500
+    },
+    {
+      "id": "vYHrJXj_Pmk",
+      "title": "Lecture #9 - Tiled Convolution Analysis & Feed-Forward Networks Gradient-Based  Training",
+      "views": 833
+    },
+    {
+      "id": "Njq7l4phgec",
+      "title": "Lecture #10",
+      "views": 549
+    },
+    {
+      "id": "cNZZ2NTPQKs",
+      "title": "Lecture #11",
+      "views": 436
+    },
+    {
+      "id": "6Dl-e3otpqs",
+      "title": "Lecture #12",
+      "views": 428
+    },
+    {
+      "id": "RVSuFJKkGwk",
+      "title": "Lecture #13",
+      "views": 504
+    },
+    {
+      "id": "G70EANnHYXA",
+      "title": "Lecture #14",
+      "views": 592
+    },
+    {
+      "id": "gW_59sVLxLE",
+      "title": "Lecture #15",
+      "views": 431
+    },
+    {
+      "id": "EsoVTqRYvXw",
+      "title": "Lecture #16",
+      "views": 473
+    },
+    {
+      "id": "AiYcJRpXFNY",
+      "title": "Lecture #17",
+      "views": 413
+    },
+    {
+      "id": "xVQvcZPa4gc",
+      "title": "Lecture #18",
+      "views": 406
+    },
+    {
+      "id": "wqdbMLRA-to",
+      "title": "Lecture #19",
+      "views": 433
+    },
+    {
+      "id": "woV4ru4c6sQ",
+      "title": "Lecture #21",
+      "views": 454
+    },
+    {
+      "id": "2aPb_iDfbX4",
+      "title": "Lecture #22",
+      "views": 421
+    },
+    {
+      "id": "R-lNlKC5Ss0",
+      "title": "Lecture #23",
+      "views": 425
+    },
+    {
+      "id": "gKsUCi7uuWM",
+      "title": "Lecture #25",
+      "views": 381
+    },
+    {
+      "id": "XTorUZCuvd8",
+      "title": "Lecture #26",
+      "views": 328
+    },
+    {
+      "id": "PhJ3ANPrLSs",
+      "title": "Lecture #27",
+      "views": 366
+    }
+  ]
+}

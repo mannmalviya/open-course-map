@@ -19,31 +19,12 @@
         }
       ]
     },
-    "stanford-cs149": {
-      "title": "CS149 Parallel Computing",
-      "university": "Stanford",
-      "level": "undergrad",
-      "pos": {
-        "x": 430,
-        "y": 120
-      },
-      "versions": [
-        {
-          "label": "Stanford CS149 \u00b7 Fatahalian, Olukotun \u00b7 2023",
-          "url": "https://cs149.stanford.edu/",
-          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp",
-          "date": "Fall 2023",
-          "youtubeId": "V1tINV2-9p4",
-          "primary": true
-        }
-      ]
-    },
     "mit-6172": {
       "title": "6.172 Performance Engineering",
       "university": "MIT",
       "level": "undergrad",
       "pos": {
-        "x": 780,
+        "x": 430,
         "y": 120
       },
       "versions": [

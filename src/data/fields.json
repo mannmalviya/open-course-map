@@ -499,6 +499,18 @@
         "h": 160
       }
     },
+    "parallel-computing": {
+      "title": "Parallel & GPU Computing",
+      "parent": "cs",
+      "pos": {
+        "x": 1130,
+        "y": 80
+      },
+      "size": {
+        "w": 250,
+        "h": 160
+      }
+    },
     "astrophysics": {
       "title": "Astrophysics & Cosmology",
       "parent": "physics",
@@ -892,6 +904,10 @@
     {
       "from": "mit-1802",
       "to": "mit-561"
+    },
+    {
+      "from": "uiuc-ece408",
+      "to": "uiuc-ece508"
     }
   ],
   "ghosts": [

@@ -1,0 +1,108 @@
+{
+  "courses": {
+    "stanford-cs149": {
+      "title": "CS149 Parallel Computing",
+      "university": "Stanford",
+      "level": "undergrad",
+      "pos": {
+        "x": 80,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "Stanford CS149 \u00b7 Fatahalian, Olukotun \u00b7 2023",
+          "url": "https://cs149.stanford.edu/",
+          "youtube": "https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp",
+          "date": "Fall 2023",
+          "youtubeId": "V1tINV2-9p4",
+          "primary": true
+        }
+      ]
+    },
+    "aub-cmps224": {
+      "title": "CMPS 224 GPU Computing",
+      "university": "AUB",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Programming Massively Parallel Processors",
+          "authors": "Kirk, Hwu & El Hajj",
+          "cover": "pmpp"
+        }
+      ],
+      "pos": {
+        "x": 430,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "AUB CMPS 297S/396AA \u00b7 El Hajj \u00b7 Spring 2021",
+          "url": "https://ielhajj.github.io/courses.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLZrjSW9GrEZE07f8gLECc0tfJwNDm75RW",
+          "date": "Spring 2021",
+          "youtubeId": "x_hJq5JjBQE",
+          "primary": true
+        },
+        {
+          "label": "AUB CMPS 224/324 \u00b7 El Hajj \u00b7 Spring 2026 (partial)",
+          "url": "https://ielhajj.github.io/courses.html",
+          "youtube": "https://www.youtube.com/playlist?list=PLZrjSW9GrEZE_uL0qSjc7dzFwnI2AjPm1",
+          "date": "Spring 2026",
+          "youtubeId": "lEFNMkzm2Wg"
+        }
+      ]
+    },
+    "uiuc-ece408": {
+      "title": "ECE408 Applied Parallel Programming",
+      "university": "UIUC",
+      "level": "undergrad",
+      "textbooks": [
+        {
+          "title": "Programming Massively Parallel Processors",
+          "authors": "Kirk, Hwu & El Hajj",
+          "cover": "pmpp"
+        }
+      ],
+      "pos": {
+        "x": 780,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UIUC ECE408/CS483 \u00b7 Hwu \u00b7 Spring 2018",
+          "url": "https://courses.grainger.illinois.edu/ece408/sp2018/",
+          "youtube": "https://www.youtube.com/playlist?list=PLRRuQYjFhpmvu5ODQoY2l7D0ADgWEcYAX",
+          "date": "Spring 2018",
+          "youtubeId": "kwtn2NtFIuA",
+          "primary": true
+        }
+      ]
+    },
+    "uiuc-ece508": {
+      "title": "ECE508 Manycore Parallel Algorithms",
+      "university": "UIUC",
+      "level": "grad",
+      "textbooks": [
+        {
+          "title": "Programming Massively Parallel Processors",
+          "authors": "Kirk, Hwu & El Hajj",
+          "cover": "pmpp"
+        }
+      ],
+      "pos": {
+        "x": 1130,
+        "y": 120
+      },
+      "versions": [
+        {
+          "label": "UIUC ECE508/CS508 \u00b7 Hwu \u00b7 Spring 2019",
+          "url": "https://courses.grainger.illinois.edu/ece508/sp2019/",
+          "youtube": "https://www.youtube.com/playlist?list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy",
+          "date": "Spring 2019",
+          "youtubeId": "WJ0BAlaXFUc",
+          "primary": true
+        }
+      ]
+    }
+  }
+}
